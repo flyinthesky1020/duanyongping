@@ -1,0 +1,71 @@
+{
+  "name": "UTSI",
+  "ticker": "UTSI",
+  "market": "US",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 0,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "2f489c28-a3bf-4721-8970-82d1c1556490",
+      "stock": "UT斯达康",
+      "ticker": "UTSI",
+      "market": "US",
+      "date": "2011-08-31",
+      "sentiment": "bearish",
+      "summary": "看空公司生存能力",
+      "quote": "很难想象这家公司最后能活下来[挣扎]。收起@老农鲁庶：我对UTSI的分析",
+      "source_file": "2011-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/20368400"
+    },
+    {
+      "id": "b80b7a73-6035-4ba6-8c9e-5a34123032d4",
+      "stock": "UTSI",
+      "ticker": "UTSI",
+      "market": "US",
+      "date": "2025-02-11",
+      "sentiment": "bearish",
+      "summary": "商业模式烂应过滤",
+      "quote": "商业模式那么烂的公司，应该直接过滤掉。",
+      "source_file": "2025-02_batch003",
+      "source_type": "xueqiu",
+      "chunk_index": 3,
+      "url": "https://xueqiu.com/1247347556/323098076"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "2f489c28-a3bf-4721-8970-82d1c1556490",
+      "stock": "UT斯达康",
+      "ticker": "UTSI",
+      "market": "US",
+      "date": "2011-08-31",
+      "sentiment": "bearish",
+      "summary": "看空公司生存能力",
+      "quote": "很难想象这家公司最后能活下来[挣扎]。收起@老农鲁庶：我对UTSI的分析",
+      "source_file": "2011-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/20368400"
+    },
+    {
+      "id": "b80b7a73-6035-4ba6-8c9e-5a34123032d4",
+      "stock": "UTSI",
+      "ticker": "UTSI",
+      "market": "US",
+      "date": "2025-02-11",
+      "sentiment": "bearish",
+      "summary": "商业模式烂应过滤",
+      "quote": "商业模式那么烂的公司，应该直接过滤掉。",
+      "source_file": "2025-02_batch003",
+      "source_type": "xueqiu",
+      "chunk_index": 3,
+      "url": "https://xueqiu.com/1247347556/323098076"
+    }
+  ]
+}

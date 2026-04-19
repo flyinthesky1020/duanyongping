@@ -1,0 +1,43 @@
+{
+  "name": "雪佛龙",
+  "ticker": "CVX",
+  "market": "US",
+  "philosophies": [
+    "circle_of_competence"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 1,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "88ee06f8-1cbf-4b47-b9b4-f7c9be0c87c9",
+      "stock": "雪佛龙",
+      "ticker": "CVX",
+      "market": "US",
+      "date": "2024-02-24",
+      "sentiment": "bullish",
+      "summary": "石油公司有价值",
+      "quote": "从占有资源的角度看，这两家公司似乎确实是蛮有价值的",
+      "source_file": "2024-02_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/278732825"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "88ee06f8-1cbf-4b47-b9b4-f7c9be0c87c9",
+      "stock": "雪佛龙",
+      "ticker": "CVX",
+      "market": "US",
+      "date": "2024-02-24",
+      "sentiment": "bullish",
+      "summary": "石油公司有价值",
+      "quote": "从占有资源的角度看，这两家公司似乎确实是蛮有价值的",
+      "source_file": "2024-02_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/278732825"
+    }
+  ]
+}

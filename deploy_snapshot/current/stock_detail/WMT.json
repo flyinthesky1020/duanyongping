@@ -1,0 +1,71 @@
+{
+  "name": "Walmart",
+  "ticker": "WMT",
+  "market": "US",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 0,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "44599926-55ec-4439-86b9-8237f8059797",
+      "stock": "Walmart",
+      "ticker": "WMT",
+      "market": "US",
+      "date": "2011-10-20",
+      "sentiment": "bearish",
+      "summary": "不看好沃尔玛电商",
+      "quote": "沃尔玛做电商象当年的康赔做直销。电商营业额还不到2%。",
+      "source_file": "2011-10_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/20429584"
+    },
+    {
+      "id": "54dc8235-8100-43c0-8ccf-60399fdc7678",
+      "stock": "沃尔玛",
+      "ticker": "WMT",
+      "market": "US",
+      "date": "2011-12-29",
+      "sentiment": "bearish",
+      "summary": "沃尔玛难有作为",
+      "quote": "印象中amzn的模式不错，但wmt恐怕很难再有更大作为了。",
+      "source_file": "2011-12_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/20629953"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "44599926-55ec-4439-86b9-8237f8059797",
+      "stock": "Walmart",
+      "ticker": "WMT",
+      "market": "US",
+      "date": "2011-10-20",
+      "sentiment": "bearish",
+      "summary": "不看好沃尔玛电商",
+      "quote": "沃尔玛做电商象当年的康赔做直销。电商营业额还不到2%。",
+      "source_file": "2011-10_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/20429584"
+    },
+    {
+      "id": "54dc8235-8100-43c0-8ccf-60399fdc7678",
+      "stock": "沃尔玛",
+      "ticker": "WMT",
+      "market": "US",
+      "date": "2011-12-29",
+      "sentiment": "bearish",
+      "summary": "沃尔玛难有作为",
+      "quote": "印象中amzn的模式不错，但wmt恐怕很难再有更大作为了。",
+      "source_file": "2011-12_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/20629953"
+    }
+  ]
+}

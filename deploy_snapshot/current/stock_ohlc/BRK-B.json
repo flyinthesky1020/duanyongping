@@ -1,0 +1,9 @@
+{
+  "ticker": "BRK-B",
+  "market": "US",
+  "start": "2025-10-21",
+  "end": "2026-04-19",
+  "bars": [],
+  "generated_at": "2026-04-19T07:43:24.269440+00:00",
+  "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+}

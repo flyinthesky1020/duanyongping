@@ -1,0 +1,73 @@
+{
+  "name": "伯克希尔哈撒韦",
+  "ticker": "BRK",
+  "market": "US",
+  "philosophies": [
+    "cash_flow",
+    "corporate_culture",
+    "stop_doing"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 2,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "9639551a-d20e-447a-b47c-8f6c97a8cc12",
+      "stock": "伯克希尔哈撒韦",
+      "ticker": "BRK",
+      "market": "US",
+      "date": "2023-01-06",
+      "sentiment": "bullish",
+      "summary": "看好BRK打败通胀",
+      "quote": "我个人认为BRK大概率可以打败通胀，大于51%的",
+      "source_file": "2023-01_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": "https://xueqiu.com/1247347556/239366785"
+    },
+    {
+      "id": "14da6701-9a95-4d6c-b8cf-793d21a037c7",
+      "stock": "伯克希尔",
+      "ticker": "BRK",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好BRK未来利润",
+      "quote": "Brk",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276840293"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "9639551a-d20e-447a-b47c-8f6c97a8cc12",
+      "stock": "伯克希尔哈撒韦",
+      "ticker": "BRK",
+      "market": "US",
+      "date": "2023-01-06",
+      "sentiment": "bullish",
+      "summary": "看好BRK打败通胀",
+      "quote": "我个人认为BRK大概率可以打败通胀，大于51%的",
+      "source_file": "2023-01_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": "https://xueqiu.com/1247347556/239366785"
+    },
+    {
+      "id": "14da6701-9a95-4d6c-b8cf-793d21a037c7",
+      "stock": "伯克希尔",
+      "ticker": "BRK",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好BRK未来利润",
+      "quote": "Brk",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276840293"
+    }
+  ]
+}

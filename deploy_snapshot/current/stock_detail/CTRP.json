@@ -1,0 +1,44 @@
+{
+  "name": "携程",
+  "ticker": "CTRP",
+  "market": "US",
+  "philosophies": [
+    "circle_of_competence",
+    "stop_doing"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "82afd16a-b881-4074-ba50-3a9861c3202d",
+      "stock": "携程",
+      "ticker": "CTRP",
+      "market": "US",
+      "date": "2011-12-08",
+      "sentiment": "bearish",
+      "summary": "35元非价值投资",
+      "quote": "价值投资者不会35买，知道区别了？@携程(CTRP)",
+      "source_file": "2011-12_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/20560849"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "82afd16a-b881-4074-ba50-3a9861c3202d",
+      "stock": "携程",
+      "ticker": "CTRP",
+      "market": "US",
+      "date": "2011-12-08",
+      "sentiment": "bearish",
+      "summary": "35元非价值投资",
+      "quote": "价值投资者不会35买，知道区别了？@携程(CTRP)",
+      "source_file": "2011-12_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/20560849"
+    }
+  ]
+}

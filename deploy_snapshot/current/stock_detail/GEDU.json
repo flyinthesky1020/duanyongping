@@ -1,0 +1,43 @@
+{
+  "name": "环球天下",
+  "ticker": "GEDU",
+  "market": "US",
+  "philosophies": [
+    "circle_of_competence"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "b98055a3-4836-474b-b7cb-d4276189e435",
+      "stock": "环球天下",
+      "ticker": "GEDU",
+      "market": "US",
+      "date": "2011-12-12",
+      "sentiment": "bearish",
+      "summary": "建议别碰环球天下",
+      "quote": "如果收购方是巴菲特那我就跳进去了。当你还需要到处问的时候，说明心理没底，那就别碰的好。",
+      "source_file": "2011-12_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/20578535"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "b98055a3-4836-474b-b7cb-d4276189e435",
+      "stock": "环球天下",
+      "ticker": "GEDU",
+      "market": "US",
+      "date": "2011-12-12",
+      "sentiment": "bearish",
+      "summary": "建议别碰环球天下",
+      "quote": "如果收购方是巴菲特那我就跳进去了。当你还需要到处问的时候，说明心理没底，那就别碰的好。",
+      "source_file": "2011-12_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/20578535"
+    }
+  ]
+}

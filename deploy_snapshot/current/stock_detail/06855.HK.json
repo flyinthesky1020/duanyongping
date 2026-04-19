@@ -1,0 +1,44 @@
+{
+  "name": "亚盛医药-B",
+  "ticker": "06855.HK",
+  "market": "HK",
+  "philosophies": [
+    "business_model",
+    "stop_doing"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "44a4a3e8-a3cc-44f8-82d3-aec331103a07",
+      "stock": "亚盛医药-B",
+      "ticker": "06855.HK",
+      "market": "HK",
+      "date": "2025-09-29",
+      "sentiment": "bearish",
+      "summary": "难投资不宜重仓",
+      "quote": "不过，有些公司如果只有一两个大家翘首以盼的产品，黄了确实会不好看的。这类公司很难投资，至少很难重仓。",
+      "source_file": "2025-09_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/354859490"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "44a4a3e8-a3cc-44f8-82d3-aec331103a07",
+      "stock": "亚盛医药-B",
+      "ticker": "06855.HK",
+      "market": "HK",
+      "date": "2025-09-29",
+      "sentiment": "bearish",
+      "summary": "难投资不宜重仓",
+      "quote": "不过，有些公司如果只有一两个大家翘首以盼的产品，黄了确实会不好看的。这类公司很难投资，至少很难重仓。",
+      "source_file": "2025-09_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/354859490"
+    }
+  ]
+}

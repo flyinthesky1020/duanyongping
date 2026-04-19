@@ -1,0 +1,76 @@
+{
+  "name": "Zoom",
+  "ticker": "ZM",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture",
+    "long_termism",
+    "patience",
+    "stop_doing"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 1,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "4f97fdd3-eded-44b3-9b8c-551fb99f242a",
+      "stock": "Zoom",
+      "ticker": "ZM",
+      "market": "US",
+      "date": "2021-04-28",
+      "sentiment": "bullish",
+      "summary": "依然是很好的公司",
+      "quote": "我依然认为顺丰和Zoom都是很好的公司，但商业模式都不是最好的那种。",
+      "source_file": "2021-04_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/176761624"
+    },
+    {
+      "id": "e983930b-1e51-419b-8a36-8f7b5b9dd240",
+      "stock": "Zoom",
+      "ticker": "ZM",
+      "market": "US",
+      "date": "2023-01-13",
+      "sentiment": "bearish",
+      "summary": "Zoom商业模式差/难投资",
+      "quote": "他们都是很难的生意。商业模式不好的生意也是生意。在有个好领导的时期，有时候苦生意也能做得还不错，但对投资而言比较难。",
+      "source_file": "2023-01_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/240010825"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "4f97fdd3-eded-44b3-9b8c-551fb99f242a",
+      "stock": "Zoom",
+      "ticker": "ZM",
+      "market": "US",
+      "date": "2021-04-28",
+      "sentiment": "bullish",
+      "summary": "依然是很好的公司",
+      "quote": "我依然认为顺丰和Zoom都是很好的公司，但商业模式都不是最好的那种。",
+      "source_file": "2021-04_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/176761624"
+    },
+    {
+      "id": "e983930b-1e51-419b-8a36-8f7b5b9dd240",
+      "stock": "Zoom",
+      "ticker": "ZM",
+      "market": "US",
+      "date": "2023-01-13",
+      "sentiment": "bearish",
+      "summary": "Zoom商业模式差/难投资",
+      "quote": "他们都是很难的生意。商业模式不好的生意也是生意。在有个好领导的时期，有时候苦生意也能做得还不错，但对投资而言比较难。",
+      "source_file": "2023-01_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/240010825"
+    }
+  ]
+}

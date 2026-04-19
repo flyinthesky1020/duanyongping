@@ -1,0 +1,46 @@
+{
+  "name": "UHAL",
+  "ticker": "UHAL",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture",
+    "stop_doing"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "5f43ac33-4082-4bce-8df6-642cd290c59f",
+      "stock": "UHAL",
+      "ticker": "UHAL",
+      "market": "US",
+      "date": "2020-10-25",
+      "sentiment": "bearish",
+      "summary": "UHAL属烟蒂股不再买入",
+      "quote": "我的过滤器里有商业模式和企业文化两项，过不去的我就大概看不到了。Uhal某种角度属于烟蒂。",
+      "source_file": "2020-10_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/161631023"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "5f43ac33-4082-4bce-8df6-642cd290c59f",
+      "stock": "UHAL",
+      "ticker": "UHAL",
+      "market": "US",
+      "date": "2020-10-25",
+      "sentiment": "bearish",
+      "summary": "UHAL属烟蒂股不再买入",
+      "quote": "我的过滤器里有商业模式和企业文化两项，过不去的我就大概看不到了。Uhal某种角度属于烟蒂。",
+      "source_file": "2020-10_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/161631023"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "影石创新",
+  "ticker": "688775.SH",
+  "market": "CN_A",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "d1c5350b-a2ea-4238-9ca1-eb077166d751",
+      "stock": "影石创新",
+      "ticker": "688775.SH",
+      "market": "CN_A",
+      "date": "2025-11-16",
+      "sentiment": "bearish",
+      "summary": "商业模式难匹敌苹果",
+      "quote": "他们的商业模式看上去很难匹敌苹果的。",
+      "source_file": "2025-11_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/361850895"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "d1c5350b-a2ea-4238-9ca1-eb077166d751",
+      "stock": "影石创新",
+      "ticker": "688775.SH",
+      "market": "CN_A",
+      "date": "2025-11-16",
+      "sentiment": "bearish",
+      "summary": "商业模式难匹敌苹果",
+      "quote": "他们的商业模式看上去很难匹敌苹果的。",
+      "source_file": "2025-11_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/361850895"
+    }
+  ]
+}

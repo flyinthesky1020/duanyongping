@@ -1,0 +1,69 @@
+{
+  "name": "极兔速递",
+  "ticker": "1519.HK",
+  "market": "HK",
+  "philosophies": [],
+  "opinion_count": 2,
+  "bullish_count": 0,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "c3a3ce73-0309-48b7-b88e-605bc2216b87",
+      "stock": "极兔速递",
+      "ticker": "1519.HK",
+      "market": "HK",
+      "date": "2024-10-16",
+      "sentiment": "bearish",
+      "summary": "苦生意",
+      "quote": "回复@杨丙田-老杨: 苦生意。//@杨丙田-老杨:回复@大道无形我有型:大道您好，想请教您一下，极兔速递您怎么看？",
+      "source_file": "2024-10_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": "https://xueqiu.com/1247347556/308336713"
+    },
+    {
+      "id": "50c05dc4-d1c0-4d11-8a8a-de926dc3cfd0",
+      "stock": "极兔速递",
+      "ticker": "1519.HK",
+      "market": "HK",
+      "date": "2024-10-20",
+      "sentiment": "bearish",
+      "summary": "苦生意",
+      "quote": "大道您好，想请教您一下，极兔速递您怎么看？我最近一直在研究，请您指教 段总：苦生意。",
+      "source_file": "2024-10_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/308861669"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "c3a3ce73-0309-48b7-b88e-605bc2216b87",
+      "stock": "极兔速递",
+      "ticker": "1519.HK",
+      "market": "HK",
+      "date": "2024-10-16",
+      "sentiment": "bearish",
+      "summary": "苦生意",
+      "quote": "回复@杨丙田-老杨: 苦生意。//@杨丙田-老杨:回复@大道无形我有型:大道您好，想请教您一下，极兔速递您怎么看？",
+      "source_file": "2024-10_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": "https://xueqiu.com/1247347556/308336713"
+    },
+    {
+      "id": "50c05dc4-d1c0-4d11-8a8a-de926dc3cfd0",
+      "stock": "极兔速递",
+      "ticker": "1519.HK",
+      "market": "HK",
+      "date": "2024-10-20",
+      "sentiment": "bearish",
+      "summary": "苦生意",
+      "quote": "大道您好，想请教您一下，极兔速递您怎么看？我最近一直在研究，请您指教 段总：苦生意。",
+      "source_file": "2024-10_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/308861669"
+    }
+  ]
+}

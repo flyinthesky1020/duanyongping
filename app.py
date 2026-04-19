@@ -14,6 +14,14 @@ app = Flask(__name__)
 BASE = Path(__file__).parent
 INDEX_DIR = BASE / "cache" / "index"
 CACHE_DIR = BASE / "cache"
+SNAPSHOT_DIR = CACHE_DIR / "snapshots"
+SNAPSHOT_STOCK_DETAIL_DIR = SNAPSHOT_DIR / "stock_detail"
+SNAPSHOT_STOCK_OHLC_DIR = SNAPSHOT_DIR / "stock_ohlc"
+TIMELINE_SNAPSHOT_PATH = INDEX_DIR / "timeline.json"
+DEPLOY_SNAPSHOT_DIR = BASE / "deploy_snapshot" / "current"
+DEPLOY_INDEX_DIR = DEPLOY_SNAPSHOT_DIR / "index"
+DEPLOY_STOCK_DETAIL_DIR = DEPLOY_SNAPSHOT_DIR / "stock_detail"
+DEPLOY_STOCK_OHLC_DIR = DEPLOY_SNAPSHOT_DIR / "stock_ohlc"
 STOCK_ALIASES = {
     "9992.HK": "09992.HK",
 }
@@ -48,6 +56,36 @@ def _stocks_summary(stocks_data: dict) -> dict:
 
 def _canonical_ticker(ticker: str) -> str:
     return STOCK_ALIASES.get(ticker, ticker)
+
+
+def _snapshot_name(ticker: str) -> str:
+    return _canonical_ticker(ticker).replace("/", "_")
+
+
+def _snapshot_path(snapshot_dir: Path, ticker: str) -> Path:
+    return snapshot_dir / f"{_snapshot_name(ticker)}.json"
+
+
+def _load_snapshot(snapshot_dir: Path, ticker: str):
+    return _load_json(_snapshot_path(snapshot_dir, ticker))
+
+
+def _has_deploy_snapshot() -> bool:
+    return DEPLOY_SNAPSHOT_DIR.exists()
+
+
+def _filter_bars_by_range(bars: list[dict], start: str = "", end: str = "") -> list[dict]:
+    if not start and not end:
+        return bars
+    filtered = []
+    for bar in bars:
+        bar_date = bar.get("date", "")
+        if start and bar_date < start:
+            continue
+        if end and bar_date > end:
+            continue
+        filtered.append(bar)
+    return filtered
 
 
 def _load_raw_stock_opinions(ticker: str) -> list[dict]:
@@ -319,7 +357,7 @@ def index():
 
 @app.route("/api/philosophies")
 def get_philosophies():
-    data = _load_json(INDEX_DIR / "philosophies.json")
+    data = _load_json(DEPLOY_INDEX_DIR / "philosophies.json") or _load_json(INDEX_DIR / "philosophies.json")
     if data is None:
         return jsonify({"error": "Index not built. Run pipeline/build_index.py first."}), 503
     return jsonify(data)
@@ -327,7 +365,7 @@ def get_philosophies():
 
 @app.route("/api/stocks")
 def get_stocks_summary():
-    data = _load_json(INDEX_DIR / "stocks.json")
+    data = _load_json(DEPLOY_INDEX_DIR / "stocks.json") or _load_json(INDEX_DIR / "stocks.json")
     if data is None:
         return jsonify({"error": "Index not built. Run pipeline/build_index.py first."}), 503
     return jsonify(_stocks_summary(data))
@@ -335,7 +373,13 @@ def get_stocks_summary():
 
 @app.route("/api/stocks/<path:ticker>")
 def get_stock_detail(ticker):
-    data = _load_json(INDEX_DIR / "stocks.json")
+    snapshot = (
+        _load_snapshot(DEPLOY_STOCK_DETAIL_DIR, ticker)
+        or _load_snapshot(SNAPSHOT_STOCK_DETAIL_DIR, ticker)
+    )
+    if snapshot is not None:
+        return jsonify(snapshot)
+    data = _load_json(DEPLOY_INDEX_DIR / "stocks.json") or _load_json(INDEX_DIR / "stocks.json")
     if data is None:
         return jsonify({"error": "Index not built"}), 503
     merged = _merge_stock_group(_find_stock_group(data, ticker), ticker)
@@ -346,7 +390,7 @@ def get_stock_detail(ticker):
 
 @app.route("/api/wordcloud")
 def get_wordcloud():
-    data = _load_json(INDEX_DIR / "wordcloud.json")
+    data = _load_json(DEPLOY_INDEX_DIR / "wordcloud.json") or _load_json(INDEX_DIR / "wordcloud.json")
     if data is None:
         return jsonify({"error": "Index not built. Run pipeline/build_index.py first."}), 503
     return jsonify(data)
@@ -354,6 +398,9 @@ def get_wordcloud():
 
 @app.route("/api/timeline")
 def get_timeline():
+    snapshot = _load_json(DEPLOY_INDEX_DIR / "timeline.json") or _load_json(TIMELINE_SNAPSHOT_PATH)
+    if snapshot is not None:
+        return jsonify(snapshot)
     return jsonify(_load_yearly_timeline())
 
 
@@ -365,6 +412,25 @@ def get_stock_ohlc(ticker):
     start = request.args.get("start", "")
     end = request.args.get("end", "")
     force_refresh = request.args.get("force", "") in ("1", "true", "yes")
+    snapshot = (
+        _load_snapshot(DEPLOY_STOCK_OHLC_DIR, ticker)
+        or _load_snapshot(SNAPSHOT_STOCK_OHLC_DIR, ticker)
+    )
+    if snapshot is not None:
+        bars = _filter_bars_by_range(snapshot.get("bars", []), start, end)
+        return jsonify({
+            "ticker": snapshot.get("ticker", _canonical_ticker(ticker)),
+            "bars": bars,
+            "source": "snapshot",
+            "error": snapshot.get("error", ""),
+        })
+    if _has_deploy_snapshot():
+        return jsonify({
+            "ticker": _canonical_ticker(ticker),
+            "bars": [],
+            "source": "snapshot",
+            "error": "Snapshot missing for this stock",
+        })
     if not start or not end:
         return jsonify({"error": "start and end query params required"}), 400
     payload = fetch_ohlc_with_meta(ticker, market, start, end, force_refresh=force_refresh)
@@ -380,7 +446,7 @@ def get_stock_stats(ticker):
     start_override = data_req.get("start")
     end_override = data_req.get("end")
 
-    stocks_data = _load_json(INDEX_DIR / "stocks.json")
+    stocks_data = _load_json(DEPLOY_INDEX_DIR / "stocks.json") or _load_json(INDEX_DIR / "stocks.json")
     if not stocks_data:
         return jsonify({"error": "Index not built"}), 503
 
@@ -400,7 +466,26 @@ def get_stock_stats(ticker):
         start = start_override
     if end_override:
         end = end_override
-    stock_payload = fetch_ohlc_with_meta(ticker, market, start, end, force_refresh=force_refresh)
+    snapshot = (
+        _load_snapshot(DEPLOY_STOCK_OHLC_DIR, ticker)
+        or _load_snapshot(SNAPSHOT_STOCK_OHLC_DIR, ticker)
+    )
+    if snapshot is not None:
+        stock_payload = {
+            "ticker": snapshot.get("ticker", _canonical_ticker(ticker)),
+            "bars": _filter_bars_by_range(snapshot.get("bars", []), start, end),
+            "source": "snapshot",
+            "error": snapshot.get("error", ""),
+        }
+    elif _has_deploy_snapshot():
+        stock_payload = {
+            "ticker": _canonical_ticker(ticker),
+            "bars": [],
+            "source": "snapshot",
+            "error": "Snapshot missing for this stock",
+        }
+    else:
+        stock_payload = fetch_ohlc_with_meta(ticker, market, start, end, force_refresh=force_refresh)
     if not stock_payload["bars"]:
         return jsonify({
             "ticker": ticker,

@@ -1,0 +1,47 @@
+{
+  "name": "吉利德科学",
+  "ticker": "GILD",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture",
+    "integrity",
+    "long_termism"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 1,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "a4b9410b-ae7e-41b7-8abd-abf48bd221a4",
+      "stock": "吉利德科学",
+      "ticker": "GILD",
+      "market": "US",
+      "date": "2020-02-05",
+      "sentiment": "bullish",
+      "summary": "准备买入",
+      "quote": "明天准备买点这家公司，觉得这是家有利益之上的追求的公司。",
+      "source_file": "2020-02_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/140622490"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "a4b9410b-ae7e-41b7-8abd-abf48bd221a4",
+      "stock": "吉利德科学",
+      "ticker": "GILD",
+      "market": "US",
+      "date": "2020-02-05",
+      "sentiment": "bullish",
+      "summary": "准备买入",
+      "quote": "明天准备买点这家公司，觉得这是家有利益之上的追求的公司。",
+      "source_file": "2020-02_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/140622490"
+    }
+  ]
+}

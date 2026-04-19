@@ -1,0 +1,72 @@
+{
+  "name": "美国银行",
+  "ticker": "BAC",
+  "market": "US",
+  "philosophies": [
+    "circle_of_competence",
+    "stop_doing"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 2,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "b82696e8-33c2-41d6-a3a1-fb83fd6953b3",
+      "stock": "美国银行",
+      "ticker": "BAC",
+      "market": "US",
+      "date": "2011-09-06",
+      "sentiment": "bullish",
+      "summary": "跟投美银",
+      "quote": "上一次跟老巴买了富国，这次跟了点美银，也算是个学习的过程，希望学费是负的哈。",
+      "source_file": "2011-09_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/20384840"
+    },
+    {
+      "id": "2f020a29-ade7-4249-ae05-cfc8d3c1e2a7",
+      "stock": "美国银行",
+      "ticker": "BAC",
+      "market": "US",
+      "date": "2011-12-27",
+      "sentiment": "bullish",
+      "summary": "老巴deal非常好",
+      "quote": "老巴这个deal怎么看都是个非常好的deal，若干年后大概会赚翻了。",
+      "source_file": "2011-12_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/20624932"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "b82696e8-33c2-41d6-a3a1-fb83fd6953b3",
+      "stock": "美国银行",
+      "ticker": "BAC",
+      "market": "US",
+      "date": "2011-09-06",
+      "sentiment": "bullish",
+      "summary": "跟投美银",
+      "quote": "上一次跟老巴买了富国，这次跟了点美银，也算是个学习的过程，希望学费是负的哈。",
+      "source_file": "2011-09_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/20384840"
+    },
+    {
+      "id": "2f020a29-ade7-4249-ae05-cfc8d3c1e2a7",
+      "stock": "美国银行",
+      "ticker": "BAC",
+      "market": "US",
+      "date": "2011-12-27",
+      "sentiment": "bullish",
+      "summary": "老巴deal非常好",
+      "quote": "老巴这个deal怎么看都是个非常好的deal，若干年后大概会赚翻了。",
+      "source_file": "2011-12_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/20624932"
+    }
+  ]
+}

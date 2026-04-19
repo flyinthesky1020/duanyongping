@@ -1,0 +1,73 @@
+{
+  "name": "Groupon",
+  "ticker": "GRPN",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "stop_doing"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 0,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "629fe8e7-e509-4ab4-a9a3-ad2ebe8c6fa1",
+      "stock": "Groupon",
+      "ticker": "GRPN",
+      "market": "US",
+      "date": "2012-02-10",
+      "sentiment": "bearish",
+      "summary": "看空Groupon",
+      "quote": "我认为，groupon也算是难得一见的很容易看出来未来不会太好的公司，只要想象一下什么人可能持续用就可以明白了。反正我实在是想不出来什么样的生意可以持续作为groupon的客户。",
+      "source_file": "2012-02_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/21416567"
+    },
+    {
+      "id": "3d396395-a13a-402c-8125-50267b9d6599",
+      "stock": "Groupon",
+      "ticker": "GRPN",
+      "market": "US",
+      "date": "2012-07-13",
+      "sentiment": "bearish",
+      "summary": "不会买Groupon",
+      "quote": "我其实根本就不懂groupon的生意模式，只是粗略看了一下，看不出这种公司能长期获利的理由，所以我不会买",
+      "source_file": "2012-07_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/22001844"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "629fe8e7-e509-4ab4-a9a3-ad2ebe8c6fa1",
+      "stock": "Groupon",
+      "ticker": "GRPN",
+      "market": "US",
+      "date": "2012-02-10",
+      "sentiment": "bearish",
+      "summary": "看空Groupon",
+      "quote": "我认为，groupon也算是难得一见的很容易看出来未来不会太好的公司，只要想象一下什么人可能持续用就可以明白了。反正我实在是想不出来什么样的生意可以持续作为groupon的客户。",
+      "source_file": "2012-02_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/21416567"
+    },
+    {
+      "id": "3d396395-a13a-402c-8125-50267b9d6599",
+      "stock": "Groupon",
+      "ticker": "GRPN",
+      "market": "US",
+      "date": "2012-07-13",
+      "sentiment": "bearish",
+      "summary": "不会买Groupon",
+      "quote": "我其实根本就不懂groupon的生意模式，只是粗略看了一下，看不出这种公司能长期获利的理由，所以我不会买",
+      "source_file": "2012-07_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/22001844"
+    }
+  ]
+}

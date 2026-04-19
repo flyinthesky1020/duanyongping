@@ -1,0 +1,43 @@
+{
+  "name": "搜狐",
+  "ticker": "SOHU",
+  "market": "US",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "3382f25d-9765-4ca3-9e44-36a13f0ad2f3",
+      "stock": "搜狐",
+      "ticker": "SOHU",
+      "market": "US",
+      "date": "2012-05-09",
+      "sentiment": "bearish",
+      "summary": "看空搜狐视频业务",
+      "quote": "对我而言，感觉上搜狐的最大不确定性在其对视频的不断的大力投入。视频是个差异化很小的产品，一堆有钱的公司拼在一起，结局恐怕不太好。",
+      "source_file": "2012-05_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/21772366"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "3382f25d-9765-4ca3-9e44-36a13f0ad2f3",
+      "stock": "搜狐",
+      "ticker": "SOHU",
+      "market": "US",
+      "date": "2012-05-09",
+      "sentiment": "bearish",
+      "summary": "看空搜狐视频业务",
+      "quote": "对我而言，感觉上搜狐的最大不确定性在其对视频的不断的大力投入。视频是个差异化很小的产品，一堆有钱的公司拼在一起，结局恐怕不太好。",
+      "source_file": "2012-05_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/21772366"
+    }
+  ]
+}

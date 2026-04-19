@@ -1,0 +1,116 @@
+{
+  "name": "微软",
+  "ticker": "MSFT",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "long_termism",
+    "stop_doing"
+  ],
+  "opinion_count": 4,
+  "bullish_count": 3,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "2f963920-d10d-4751-9d99-e0572f150318",
+      "stock": "微软",
+      "ticker": "MSFT",
+      "market": "US",
+      "date": "2020-12-03",
+      "sentiment": "bullish",
+      "summary": "看好微软",
+      "quote": "我最近发现一家to B的公司很厉害，但理解的有点晚了，虽然差不多30年前就见过这家公司的老板，好像叫比尔盖茨。",
+      "source_file": "2020-12_batch024",
+      "source_type": "xueqiu",
+      "chunk_index": 24,
+      "url": "https://xueqiu.com/1247347556/164902577"
+    },
+    {
+      "id": "d971d5e2-c4f0-4427-b71d-03203747bef3",
+      "stock": "微软",
+      "ticker": "MSFT",
+      "market": "US",
+      "date": "2024-01-27",
+      "sentiment": "bullish",
+      "summary": "微软10-20年后仍在",
+      "quote": "谷歌，微软，BRK应该也还在。20年呢：我觉得苹果，茅台应该还在，谷歌，微软，BRK也应该还在",
+      "source_file": "2024-01_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": ""
+    },
+    {
+      "id": "5ac794b2-229a-4f01-bc4b-434887609ab2",
+      "stock": "微软",
+      "ticker": "MSFT",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好微软未来利润",
+      "quote": "微软",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276840293"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "2f963920-d10d-4751-9d99-e0572f150318",
+      "stock": "微软",
+      "ticker": "MSFT",
+      "market": "US",
+      "date": "2020-12-03",
+      "sentiment": "bullish",
+      "summary": "看好微软",
+      "quote": "我最近发现一家to B的公司很厉害，但理解的有点晚了，虽然差不多30年前就见过这家公司的老板，好像叫比尔盖茨。",
+      "source_file": "2020-12_batch024",
+      "source_type": "xueqiu",
+      "chunk_index": 24,
+      "url": "https://xueqiu.com/1247347556/164902577"
+    },
+    {
+      "id": "d971d5e2-c4f0-4427-b71d-03203747bef3",
+      "stock": "微软",
+      "ticker": "MSFT",
+      "market": "US",
+      "date": "2024-01-27",
+      "sentiment": "bullish",
+      "summary": "微软10-20年后仍在",
+      "quote": "谷歌，微软，BRK应该也还在。20年呢：我觉得苹果，茅台应该还在，谷歌，微软，BRK也应该还在",
+      "source_file": "2024-01_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": ""
+    },
+    {
+      "id": "5ac794b2-229a-4f01-bc4b-434887609ab2",
+      "stock": "微软",
+      "ticker": "MSFT",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好微软未来利润",
+      "quote": "微软",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276840293"
+    },
+    {
+      "id": "10eefb50-c289-4b64-8fed-cee8b9f53dd3",
+      "stock": "Microsoft",
+      "ticker": "MSFT",
+      "market": "US",
+      "date": "2026-03-24",
+      "sentiment": "bearish",
+      "summary": "AI冲击软件业务",
+      "quote": "我不太懂微软，感觉ai对他们的软件生意会有蛮大冲击的。",
+      "source_file": "2026-03_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/380982882"
+    }
+  ]
+}

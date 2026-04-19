@@ -1,0 +1,9 @@
+{
+  "ticker": "SPX",
+  "market": "US",
+  "start": "2026-03-13",
+  "end": "2026-04-19",
+  "bars": [],
+  "generated_at": "2026-04-19T07:45:23.956121+00:00",
+  "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+}

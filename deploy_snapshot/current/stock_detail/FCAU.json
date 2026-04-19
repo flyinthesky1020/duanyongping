@@ -1,0 +1,43 @@
+{
+  "name": "菲亚特克莱斯勒",
+  "ticker": "FCAU",
+  "market": "US",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "b387047e-75e6-4503-bf7b-9178574193b0",
+      "stock": "菲亚特克莱斯勒",
+      "ticker": "FCAU",
+      "market": "US",
+      "date": "2019-04-09",
+      "sentiment": "bearish",
+      "summary": "不看好FCAU商业模式",
+      "quote": "我想找的是商业模式好的公司，这公司看上去不是我想找的那种。",
+      "source_file": "2019-04_batch013",
+      "source_type": "xueqiu",
+      "chunk_index": 13,
+      "url": "https://xueqiu.com/1247347556/124841368"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "b387047e-75e6-4503-bf7b-9178574193b0",
+      "stock": "菲亚特克莱斯勒",
+      "ticker": "FCAU",
+      "market": "US",
+      "date": "2019-04-09",
+      "sentiment": "bearish",
+      "summary": "不看好FCAU商业模式",
+      "quote": "我想找的是商业模式好的公司，这公司看上去不是我想找的那种。",
+      "source_file": "2019-04_batch013",
+      "source_type": "xueqiu",
+      "chunk_index": 13,
+      "url": "https://xueqiu.com/1247347556/124841368"
+    }
+  ]
+}

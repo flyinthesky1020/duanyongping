@@ -1,0 +1,141 @@
+{
+  "name": "谷歌",
+  "ticker": "GOOGL",
+  "market": "US",
+  "philosophies": [
+    "long_termism"
+  ],
+  "opinion_count": 6,
+  "bullish_count": 6,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "641f0961-0e5f-4ff8-86b7-8d28bfb28642",
+      "stock": "谷歌",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2019-05-29",
+      "sentiment": "bullish",
+      "summary": "Google商业模式好",
+      "quote": "搜索最后变成Google的好的商业模式",
+      "source_file": "2019-05_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/127492539"
+    },
+    {
+      "id": "b3b4ee72-6d3c-4309-a621-d7fdb871f0a4",
+      "stock": "谷歌",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好谷歌未来利润",
+      "quote": "谷歌",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276840293"
+    },
+    {
+      "id": "cd6c7ab8-b905-4f29-91e3-0c64f9a862a1",
+      "stock": "谷歌",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2024-08-12",
+      "sentiment": "bullish",
+      "summary": "谷歌价格合理长期看好",
+      "quote": "价格合理就好。所谓价格合理的意思就是，从未来10年或更长的时间看，这个投资对投资人的机会成本而言是合算的。",
+      "source_file": "2024-08_batch011",
+      "source_type": "xueqiu",
+      "chunk_index": 11,
+      "url": "https://xueqiu.com/1247347556/300792075"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "641f0961-0e5f-4ff8-86b7-8d28bfb28642",
+      "stock": "谷歌",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2019-05-29",
+      "sentiment": "bullish",
+      "summary": "Google商业模式好",
+      "quote": "搜索最后变成Google的好的商业模式",
+      "source_file": "2019-05_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/127492539"
+    },
+    {
+      "id": "b3b4ee72-6d3c-4309-a621-d7fdb871f0a4",
+      "stock": "谷歌",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好谷歌未来利润",
+      "quote": "谷歌",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276840293"
+    },
+    {
+      "id": "cd6c7ab8-b905-4f29-91e3-0c64f9a862a1",
+      "stock": "谷歌",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2024-08-12",
+      "sentiment": "bullish",
+      "summary": "谷歌价格合理长期看好",
+      "quote": "价格合理就好。所谓价格合理的意思就是，从未来10年或更长的时间看，这个投资对投资人的机会成本而言是合算的。",
+      "source_file": "2024-08_batch011",
+      "source_type": "xueqiu",
+      "chunk_index": 11,
+      "url": "https://xueqiu.com/1247347556/300792075"
+    },
+    {
+      "id": "3e2c383b-f604-44db-aff9-b20bf67964d5",
+      "stock": "Google",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2025-03-30",
+      "sentiment": "bullish",
+      "summary": "考虑加仓Google",
+      "quote": "我会考虑增加一点Google。Google底蕴深厚，不可小看。",
+      "source_file": "2025-03_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/329536047"
+    },
+    {
+      "id": "10f144f9-849f-4ef3-bc0c-6cf4c6cd3d02",
+      "stock": "谷歌",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2025-03-31",
+      "sentiment": "bullish",
+      "summary": "考虑增加Google",
+      "quote": "我会考虑增加一点Google。Google底蕴深厚，不可小看。",
+      "source_file": "2025-03_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/329579753"
+    },
+    {
+      "id": "7884477b-fb18-40f0-b7e1-1588f252193a",
+      "stock": "谷歌",
+      "ticker": "GOOGL",
+      "market": "US",
+      "date": "2025-08-03",
+      "sentiment": "bullish",
+      "summary": "优先于标普500",
+      "quote": "优先顺序在苹果，Google，Brk后面",
+      "source_file": "2025-08_batch007",
+      "source_type": "xueqiu",
+      "chunk_index": 7,
+      "url": "https://xueqiu.com/1247347556/345374225"
+    }
+  ]
+}

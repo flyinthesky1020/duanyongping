@@ -1,0 +1,76 @@
+{
+  "name": "巨人网络",
+  "ticker": "GA",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "cash_flow",
+    "circle_of_competence",
+    "corporate_culture",
+    "integrity",
+    "patience"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 2,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "d002c51a-6fc1-4786-be2f-3242cf5b441d",
+      "stock": "巨人网络",
+      "ticker": "GA",
+      "market": "US",
+      "date": "2011-11-02",
+      "sentiment": "bullish",
+      "summary": "支持该投资",
+      "quote": "这个投资我支持！@巨人网络(GA)",
+      "source_file": "2011-11_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/20464443"
+    },
+    {
+      "id": "58c949e6-1c9a-4b79-9a9f-c6682101fe60",
+      "stock": "巨人网络",
+      "ticker": "GA",
+      "market": "US",
+      "date": "2012-03-06",
+      "sentiment": "bullish",
+      "summary": "看涨至6块多",
+      "quote": "年化6毛多的利润，如果给8倍pe，加上现金也该有6块多了。也许ga会涨到6块多？",
+      "source_file": "2012-03_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/21540566"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "d002c51a-6fc1-4786-be2f-3242cf5b441d",
+      "stock": "巨人网络",
+      "ticker": "GA",
+      "market": "US",
+      "date": "2011-11-02",
+      "sentiment": "bullish",
+      "summary": "支持该投资",
+      "quote": "这个投资我支持！@巨人网络(GA)",
+      "source_file": "2011-11_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/20464443"
+    },
+    {
+      "id": "58c949e6-1c9a-4b79-9a9f-c6682101fe60",
+      "stock": "巨人网络",
+      "ticker": "GA",
+      "market": "US",
+      "date": "2012-03-06",
+      "sentiment": "bullish",
+      "summary": "看涨至6块多",
+      "quote": "年化6毛多的利润，如果给8倍pe，加上现金也该有6块多了。也许ga会涨到6块多？",
+      "source_file": "2012-03_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/21540566"
+    }
+  ]
+}

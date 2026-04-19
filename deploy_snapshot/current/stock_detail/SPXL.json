@@ -1,0 +1,41 @@
+{
+  "name": "SPXL",
+  "ticker": "SPXL",
+  "market": "US",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "95ecb577-516f-41f1-a420-7eb25a9ff96d",
+      "stock": "SPXL",
+      "ticker": "SPXL",
+      "market": "US",
+      "date": "2023-03-21",
+      "sentiment": "bearish",
+      "summary": "绝不碰杠杆ETF",
+      "quote": "绝对不会碰，这些大概相当于买call。",
+      "source_file": "2023-03_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/245109055"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "95ecb577-516f-41f1-a420-7eb25a9ff96d",
+      "stock": "SPXL",
+      "ticker": "SPXL",
+      "market": "US",
+      "date": "2023-03-21",
+      "sentiment": "bearish",
+      "summary": "绝不碰杠杆ETF",
+      "quote": "绝对不会碰，这些大概相当于买call。",
+      "source_file": "2023-03_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/245109055"
+    }
+  ]
+}

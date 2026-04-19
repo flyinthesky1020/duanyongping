@@ -1,0 +1,71 @@
+{
+  "name": "Peloton Interactive",
+  "ticker": "PTON",
+  "market": "US",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 0,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "4b2ded81-136e-46e3-806e-919e04a1171e",
+      "stock": "Peloton Interactive",
+      "ticker": "PTON",
+      "market": "US",
+      "date": "2024-01-05",
+      "sentiment": "bearish",
+      "summary": "商业模式差",
+      "quote": "健身行业差异化很小，替代品很多，成本还很重，作为生意的商业模式是非常差的。",
+      "source_file": "2024-01_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/273757695"
+    },
+    {
+      "id": "61e2b061-0079-4c60-b037-58772e565607",
+      "stock": "Peloton Interactive",
+      "ticker": "PTON",
+      "market": "US",
+      "date": "2024-01-15",
+      "sentiment": "bearish",
+      "summary": "不看好Peloton",
+      "quote": "我看不到苹果会买这家公司的理由。我试过这家产品，好像没啥特别的。",
+      "source_file": "2024-01_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": ""
+    }
+  ],
+  "opinions": [
+    {
+      "id": "4b2ded81-136e-46e3-806e-919e04a1171e",
+      "stock": "Peloton Interactive",
+      "ticker": "PTON",
+      "market": "US",
+      "date": "2024-01-05",
+      "sentiment": "bearish",
+      "summary": "商业模式差",
+      "quote": "健身行业差异化很小，替代品很多，成本还很重，作为生意的商业模式是非常差的。",
+      "source_file": "2024-01_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/273757695"
+    },
+    {
+      "id": "61e2b061-0079-4c60-b037-58772e565607",
+      "stock": "Peloton Interactive",
+      "ticker": "PTON",
+      "market": "US",
+      "date": "2024-01-15",
+      "sentiment": "bearish",
+      "summary": "不看好Peloton",
+      "quote": "我看不到苹果会买这家公司的理由。我试过这家产品，好像没啥特别的。",
+      "source_file": "2024-01_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": ""
+    }
+  ]
+}

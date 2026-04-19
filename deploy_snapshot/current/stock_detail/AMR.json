@@ -1,0 +1,43 @@
+{
+  "name": "AMR Corp",
+  "ticker": "AMR",
+  "market": "US",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "704bcca4-35f2-4692-bc25-b4d388c9ec16",
+      "stock": "AMR Corp",
+      "ticker": "AMR",
+      "market": "US",
+      "date": "2011-12-29",
+      "sentiment": "bearish",
+      "summary": "航空股将清零",
+      "quote": "航空股很难不被清零。",
+      "source_file": "2011-12_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/20634173"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "704bcca4-35f2-4692-bc25-b4d388c9ec16",
+      "stock": "AMR Corp",
+      "ticker": "AMR",
+      "market": "US",
+      "date": "2011-12-29",
+      "sentiment": "bearish",
+      "summary": "航空股将清零",
+      "quote": "航空股很难不被清零。",
+      "source_file": "2011-12_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/20634173"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "波音",
+  "ticker": "BA",
+  "market": "US",
+  "philosophies": [
+    "circle_of_competence"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "29362c84-4f51-4fe1-8142-a9aeb446856c",
+      "stock": "波音",
+      "ticker": "BA",
+      "market": "US",
+      "date": "2025-03-13",
+      "sentiment": "bearish",
+      "summary": "看空波音未来",
+      "quote": "卖飞机的，合并了麦道之后干了些很奇怪的事情，以后麻烦比较大。",
+      "source_file": "2025-03_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/326983370"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "29362c84-4f51-4fe1-8142-a9aeb446856c",
+      "stock": "波音",
+      "ticker": "BA",
+      "market": "US",
+      "date": "2025-03-13",
+      "sentiment": "bearish",
+      "summary": "看空波音未来",
+      "quote": "卖飞机的，合并了麦道之后干了些很奇怪的事情，以后麻烦比较大。",
+      "source_file": "2025-03_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/326983370"
+    }
+  ]
+}

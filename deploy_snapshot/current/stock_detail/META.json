@@ -1,0 +1,102 @@
+{
+  "name": "Meta",
+  "ticker": "META",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture",
+    "stop_doing"
+  ],
+  "opinion_count": 3,
+  "bullish_count": 0,
+  "bearish_count": 3,
+  "preview_opinions": [
+    {
+      "id": "3b5a91a6-4ae7-4952-ac37-6f20bb7c9dc0",
+      "stock": "Meta",
+      "ticker": "META",
+      "market": "US",
+      "date": "2022-02-02",
+      "sentiment": "bearish",
+      "summary": "已清仓并回避",
+      "quote": "还好我的FB都处理掉了，再碰的概率应该也极小",
+      "source_file": "2022-02_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/210609675"
+    },
+    {
+      "id": "1d20aed0-18f5-4b0d-9c3d-f8abb2cbb39a",
+      "stock": "Meta",
+      "ticker": "META",
+      "market": "US",
+      "date": "2022-02-12",
+      "sentiment": "bearish",
+      "summary": "不喜欢企业文化",
+      "quote": "是的，我有点不太喜欢他们的企业文化。我生活在硅谷，确实也听到和看到一些让我喜欢不起来的东西。",
+      "source_file": "2022-02_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/211094128"
+    },
+    {
+      "id": "305653f4-29ab-4ae0-b1db-29c4ba04725b",
+      "stock": "Meta Platforms",
+      "ticker": "META",
+      "market": "US",
+      "date": "2022-10-27",
+      "sentiment": "bearish",
+      "summary": "看不懂元宇宙",
+      "quote": "元宇宙是真看不懂，小扎到底想干啥？",
+      "source_file": "2022-10_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/233824204"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "3b5a91a6-4ae7-4952-ac37-6f20bb7c9dc0",
+      "stock": "Meta",
+      "ticker": "META",
+      "market": "US",
+      "date": "2022-02-02",
+      "sentiment": "bearish",
+      "summary": "已清仓并回避",
+      "quote": "还好我的FB都处理掉了，再碰的概率应该也极小",
+      "source_file": "2022-02_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/210609675"
+    },
+    {
+      "id": "1d20aed0-18f5-4b0d-9c3d-f8abb2cbb39a",
+      "stock": "Meta",
+      "ticker": "META",
+      "market": "US",
+      "date": "2022-02-12",
+      "sentiment": "bearish",
+      "summary": "不喜欢企业文化",
+      "quote": "是的，我有点不太喜欢他们的企业文化。我生活在硅谷，确实也听到和看到一些让我喜欢不起来的东西。",
+      "source_file": "2022-02_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/211094128"
+    },
+    {
+      "id": "305653f4-29ab-4ae0-b1db-29c4ba04725b",
+      "stock": "Meta Platforms",
+      "ticker": "META",
+      "market": "US",
+      "date": "2022-10-27",
+      "sentiment": "bearish",
+      "summary": "看不懂元宇宙",
+      "quote": "元宇宙是真看不懂，小扎到底想干啥？",
+      "source_file": "2022-10_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/233824204"
+    }
+  ]
+}

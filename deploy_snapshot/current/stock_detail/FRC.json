@@ -1,0 +1,113 @@
+{
+  "name": "第一共和银行",
+  "ticker": "FRC",
+  "market": "US",
+  "philosophies": [
+    "stop_doing"
+  ],
+  "opinion_count": 4,
+  "bullish_count": 0,
+  "bearish_count": 4,
+  "preview_opinions": [
+    {
+      "id": "b42b11a3-3844-45b8-ab80-2c8c5879bfda",
+      "stock": "第一共和银行",
+      "ticker": "FRC",
+      "market": "US",
+      "date": "2023-03-14",
+      "sentiment": "bearish",
+      "summary": "飞刀别接危险",
+      "quote": "这种飞刀最好别接，确实有危险的",
+      "source_file": "2023-03_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/244465305"
+    },
+    {
+      "id": "5300207f-05af-413a-aab6-e71d1625b821",
+      "stock": "第一共和银行",
+      "ticker": "FRC",
+      "market": "US",
+      "date": "2023-03-15",
+      "sentiment": "bearish",
+      "summary": "飞刀最好别接，危险",
+      "quote": "这种飞刀最好别接，确实有危险的。",
+      "source_file": "2023-03_batch013",
+      "source_type": "xueqiu",
+      "chunk_index": 13,
+      "url": "https://xueqiu.com/1247347556/244567787"
+    },
+    {
+      "id": "6cc37fa1-e70a-4234-a86d-e793236893d3",
+      "stock": "第一共和银行",
+      "ticker": "FRC",
+      "market": "US",
+      "date": "2023-03-17",
+      "sentiment": "bearish",
+      "summary": "飞刀危险别接",
+      "quote": "$第一共和银行(FRC)$ 这种飞刀最好别接，确实有危险的。",
+      "source_file": "2023-03_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": ""
+    }
+  ],
+  "opinions": [
+    {
+      "id": "b42b11a3-3844-45b8-ab80-2c8c5879bfda",
+      "stock": "第一共和银行",
+      "ticker": "FRC",
+      "market": "US",
+      "date": "2023-03-14",
+      "sentiment": "bearish",
+      "summary": "飞刀别接危险",
+      "quote": "这种飞刀最好别接，确实有危险的",
+      "source_file": "2023-03_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/244465305"
+    },
+    {
+      "id": "5300207f-05af-413a-aab6-e71d1625b821",
+      "stock": "第一共和银行",
+      "ticker": "FRC",
+      "market": "US",
+      "date": "2023-03-15",
+      "sentiment": "bearish",
+      "summary": "飞刀最好别接，危险",
+      "quote": "这种飞刀最好别接，确实有危险的。",
+      "source_file": "2023-03_batch013",
+      "source_type": "xueqiu",
+      "chunk_index": 13,
+      "url": "https://xueqiu.com/1247347556/244567787"
+    },
+    {
+      "id": "6cc37fa1-e70a-4234-a86d-e793236893d3",
+      "stock": "第一共和银行",
+      "ticker": "FRC",
+      "market": "US",
+      "date": "2023-03-17",
+      "sentiment": "bearish",
+      "summary": "飞刀危险别接",
+      "quote": "$第一共和银行(FRC)$ 这种飞刀最好别接，确实有危险的。",
+      "source_file": "2023-03_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": ""
+    },
+    {
+      "id": "c4204369-5f67-408d-82bf-da6bbf1d4358",
+      "stock": "第一共和银行",
+      "ticker": "FRC",
+      "market": "US",
+      "date": "2023-05-03",
+      "sentiment": "bearish",
+      "summary": "飞刀绝对不要接",
+      "quote": "回复@大道无形我有型: 果然如此，钱走茶凉，和想象的一样。这种飞刀绝对不要接哈。",
+      "source_file": "2023-05_batch023",
+      "source_type": "xueqiu",
+      "chunk_index": 23,
+      "url": "https://xueqiu.com/1247347556/249288662"
+    }
+  ]
+}

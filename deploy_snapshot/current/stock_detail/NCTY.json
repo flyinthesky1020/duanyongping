@@ -1,0 +1,43 @@
+{
+  "name": "第九城市",
+  "ticker": "NCTY",
+  "market": "US",
+  "philosophies": [
+    "corporate_culture"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "774fc579-a14c-48f4-aa34-85e7fe541c27",
+      "stock": "第九城市",
+      "ticker": "NCTY",
+      "market": "US",
+      "date": "2011-12-02",
+      "sentiment": "bearish",
+      "summary": "完全没兴趣看",
+      "quote": "我完全没兴趣看。@梁剑：7块多的九城还值得买入吗？$第九城市(NCTY)$ 市值超过2个亿后，我觉得不太值得买入了，至少目前尚未完全看清Firefall产生的营收的情况下是如此。或许九城未来还会涨10倍，但是我觉得现在买入的话(股价7.5美元左右)，超出安全边际了。",
+      "source_file": "2011-12_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": "https://xueqiu.com/1247347556/20550450"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "774fc579-a14c-48f4-aa34-85e7fe541c27",
+      "stock": "第九城市",
+      "ticker": "NCTY",
+      "market": "US",
+      "date": "2011-12-02",
+      "sentiment": "bearish",
+      "summary": "完全没兴趣看",
+      "quote": "我完全没兴趣看。@梁剑：7块多的九城还值得买入吗？$第九城市(NCTY)$ 市值超过2个亿后，我觉得不太值得买入了，至少目前尚未完全看清Firefall产生的营收的情况下是如此。或许九城未来还会涨10倍，但是我觉得现在买入的话(股价7.5美元左右)，超出安全边际了。",
+      "source_file": "2011-12_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": "https://xueqiu.com/1247347556/20550450"
+    }
+  ]
+}

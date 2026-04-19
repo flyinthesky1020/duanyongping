@@ -1,0 +1,100 @@
+{
+  "name": "可口可乐",
+  "ticker": "KO",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence"
+  ],
+  "opinion_count": 3,
+  "bullish_count": 3,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "c6b8a3b9-3f3d-45cb-b059-4f4726bf500f",
+      "stock": "可口可乐",
+      "ticker": "KO",
+      "market": "US",
+      "date": "2019-05-29",
+      "sentiment": "bullish",
+      "summary": "可口可乐商业模式好",
+      "quote": "茅台，苹果，腾讯，可口可乐都是好的生意模式",
+      "source_file": "2019-05_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/127492539"
+    },
+    {
+      "id": "0e217f77-25e2-4b37-9511-16a541e146f9",
+      "stock": "可口可乐",
+      "ticker": "KO",
+      "market": "US",
+      "date": "2023-07-01",
+      "sentiment": "bullish",
+      "summary": "阿斯巴甜影响甚微",
+      "quote": "我查资料看到阿巴斯甜致癌的危险性小过牛肉和猪肉。如果以上属实的话，对可口可乐的影响可以忽略不计。",
+      "source_file": "2023-07_batch011",
+      "source_type": "xueqiu",
+      "chunk_index": 11,
+      "url": "https://xueqiu.com/1247347556/254561893"
+    },
+    {
+      "id": "78aff798-6c15-428e-856d-94ccecd5fc74",
+      "stock": "可口可乐",
+      "ticker": "KO",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好可口可乐抗通胀",
+      "quote": "麦当劳可口可乐这类公司打败通胀的概率应该很大，所以也应该算。",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276690323"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "c6b8a3b9-3f3d-45cb-b059-4f4726bf500f",
+      "stock": "可口可乐",
+      "ticker": "KO",
+      "market": "US",
+      "date": "2019-05-29",
+      "sentiment": "bullish",
+      "summary": "可口可乐商业模式好",
+      "quote": "茅台，苹果，腾讯，可口可乐都是好的生意模式",
+      "source_file": "2019-05_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/127492539"
+    },
+    {
+      "id": "0e217f77-25e2-4b37-9511-16a541e146f9",
+      "stock": "可口可乐",
+      "ticker": "KO",
+      "market": "US",
+      "date": "2023-07-01",
+      "sentiment": "bullish",
+      "summary": "阿斯巴甜影响甚微",
+      "quote": "我查资料看到阿巴斯甜致癌的危险性小过牛肉和猪肉。如果以上属实的话，对可口可乐的影响可以忽略不计。",
+      "source_file": "2023-07_batch011",
+      "source_type": "xueqiu",
+      "chunk_index": 11,
+      "url": "https://xueqiu.com/1247347556/254561893"
+    },
+    {
+      "id": "78aff798-6c15-428e-856d-94ccecd5fc74",
+      "stock": "可口可乐",
+      "ticker": "KO",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好可口可乐抗通胀",
+      "quote": "麦当劳可口可乐这类公司打败通胀的概率应该很大，所以也应该算。",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276690323"
+    }
+  ]
+}

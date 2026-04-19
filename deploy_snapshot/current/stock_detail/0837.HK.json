@@ -1,0 +1,43 @@
+{
+  "name": "谭木匠",
+  "ticker": "0837.HK",
+  "market": "HK",
+  "philosophies": [
+    "stop_doing"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "73d746b2-ccdd-414b-9214-dd691bbdbfaf",
+      "stock": "谭木匠",
+      "ticker": "0837.HK",
+      "market": "HK",
+      "date": "2019-04-09",
+      "sentiment": "bearish",
+      "summary": "规模太小不予关注",
+      "quote": "这类公司规模太小且难以做大，一般不是我会关注的对象，虽然从你说的情况来看，他们也算是中规中矩的生意。",
+      "source_file": "2019-04_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/124834247"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "73d746b2-ccdd-414b-9214-dd691bbdbfaf",
+      "stock": "谭木匠",
+      "ticker": "0837.HK",
+      "market": "HK",
+      "date": "2019-04-09",
+      "sentiment": "bearish",
+      "summary": "规模太小不予关注",
+      "quote": "这类公司规模太小且难以做大，一般不是我会关注的对象，虽然从你说的情况来看，他们也算是中规中矩的生意。",
+      "source_file": "2019-04_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/124834247"
+    }
+  ]
+}

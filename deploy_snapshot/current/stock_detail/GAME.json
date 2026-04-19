@@ -1,0 +1,41 @@
+{
+  "name": "盛大游戏",
+  "ticker": "GAME",
+  "market": "US",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "93ebef48-bd59-444f-a122-910249b01c91",
+      "stock": "盛大游戏",
+      "ticker": "GAME",
+      "market": "US",
+      "date": "2012-02-10",
+      "sentiment": "bearish",
+      "summary": "不要碰GAME",
+      "quote": "这个点评很好，至少说明不要碰pwrd和game了。玩家的眼睛是雪亮雪亮滴。",
+      "source_file": "2012-02_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/21420684"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "93ebef48-bd59-444f-a122-910249b01c91",
+      "stock": "盛大游戏",
+      "ticker": "GAME",
+      "market": "US",
+      "date": "2012-02-10",
+      "sentiment": "bearish",
+      "summary": "不要碰GAME",
+      "quote": "这个点评很好，至少说明不要碰pwrd和game了。玩家的眼睛是雪亮雪亮滴。",
+      "source_file": "2012-02_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/21420684"
+    }
+  ]
+}

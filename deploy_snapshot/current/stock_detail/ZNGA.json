@@ -1,0 +1,41 @@
+{
+  "name": "Zynga",
+  "ticker": "ZNGA",
+  "market": "US",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "dfdb4d9e-efab-426e-a70c-5c081de39e9c",
+      "stock": "Zynga",
+      "ticker": "ZNGA",
+      "market": "US",
+      "date": "2011-09-26",
+      "sentiment": "bearish",
+      "summary": "估值过高",
+      "quote": "140亿的估值显然太高了。@Zynga(ZNGA)",
+      "source_file": "2011-09_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/20404758"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "dfdb4d9e-efab-426e-a70c-5c081de39e9c",
+      "stock": "Zynga",
+      "ticker": "ZNGA",
+      "market": "US",
+      "date": "2011-09-26",
+      "sentiment": "bearish",
+      "summary": "估值过高",
+      "quote": "140亿的估值显然太高了。@Zynga(ZNGA)",
+      "source_file": "2011-09_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/20404758"
+    }
+  ]
+}

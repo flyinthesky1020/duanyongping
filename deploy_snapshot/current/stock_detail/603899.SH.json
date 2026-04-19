@@ -1,0 +1,41 @@
+{
+  "name": "晨光文具",
+  "ticker": "603899.SH",
+  "market": "CN_A",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "6bfe0230-6678-474c-8e84-a1d4d5bf3de1",
+      "stock": "晨光文具",
+      "ticker": "603899.SH",
+      "market": "CN_A",
+      "date": "2019-05-29",
+      "sentiment": "bearish",
+      "summary": "生意模式较差",
+      "quote": "这种生意，能活下来就不错了，和苹果茅台这种生意模式不能相提并论的。",
+      "source_file": "2019-05_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/127467970"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "6bfe0230-6678-474c-8e84-a1d4d5bf3de1",
+      "stock": "晨光文具",
+      "ticker": "603899.SH",
+      "market": "CN_A",
+      "date": "2019-05-29",
+      "sentiment": "bearish",
+      "summary": "生意模式较差",
+      "quote": "这种生意，能活下来就不错了，和苹果茅台这种生意模式不能相提并论的。",
+      "source_file": "2019-05_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/127467970"
+    }
+  ]
+}

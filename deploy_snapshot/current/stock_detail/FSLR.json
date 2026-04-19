@@ -1,0 +1,41 @@
+{
+  "name": "FSLR",
+  "ticker": "FSLR",
+  "market": "US",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "48eb1325-6369-49cc-8193-36655c8b0d87",
+      "stock": "FSLR",
+      "ticker": "FSLR",
+      "market": "US",
+      "date": "2012-04-06",
+      "sentiment": "bearish",
+      "summary": "看空FSLR，选择远离",
+      "quote": "这个行业未来不太好，产品没有差异化，现金流甚至可能会是负的。我选择远离。",
+      "source_file": "2012-04_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/21661288"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "48eb1325-6369-49cc-8193-36655c8b0d87",
+      "stock": "FSLR",
+      "ticker": "FSLR",
+      "market": "US",
+      "date": "2012-04-06",
+      "sentiment": "bearish",
+      "summary": "看空FSLR，选择远离",
+      "quote": "这个行业未来不太好，产品没有差异化，现金流甚至可能会是负的。我选择远离。",
+      "source_file": "2012-04_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/21661288"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "迪士尼",
+  "ticker": "DIS",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "long_termism"
+  ],
+  "opinion_count": 3,
+  "bullish_count": 2,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "fae60435-60f0-44fe-bece-0d746c9b77ab",
+      "stock": "迪士尼",
+      "ticker": "DIS",
+      "market": "US",
+      "date": "2020-05-29",
+      "sentiment": "bullish",
+      "summary": "迪士尼为可收藏伟大公司",
+      "quote": "我觉得Disney应该是个可以被收藏的伟大公司。",
+      "source_file": "2020-05_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/149490982"
+    },
+    {
+      "id": "8c1ac19b-4256-4881-9a72-38a8e8a75c4e",
+      "stock": "迪士尼",
+      "ticker": "DIS",
+      "market": "US",
+      "date": "2020-08-12",
+      "sentiment": "bullish",
+      "summary": "伟大公司可收藏",
+      "quote": "老巴说他是个伟大公司的收藏者。我觉得Disney应该是个可以被收藏的伟大公司。",
+      "source_file": "2020-08_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/156303504"
+    },
+    {
+      "id": "2f9b6f89-958f-4677-9df7-704accfd410a",
+      "stock": "迪士尼",
+      "ticker": "DIS",
+      "market": "US",
+      "date": "2023-05-28",
+      "sentiment": "bearish",
+      "summary": "质疑商业模式",
+      "quote": "一直很喜欢迪斯尼的产品，但一直没明白迪斯尼的商业模式。为什么迪斯尼看起来很强大但老是很难赚钱呢？看起来这个商业模式似乎不是那么美妙，是种很累的商业模式。不过，我还是会保留对迪斯尼的投资，毕竟属于小于1%的投资哈。",
+      "source_file": "2023-05_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/251624939"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "fae60435-60f0-44fe-bece-0d746c9b77ab",
+      "stock": "迪士尼",
+      "ticker": "DIS",
+      "market": "US",
+      "date": "2020-05-29",
+      "sentiment": "bullish",
+      "summary": "迪士尼为可收藏伟大公司",
+      "quote": "我觉得Disney应该是个可以被收藏的伟大公司。",
+      "source_file": "2020-05_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/149490982"
+    },
+    {
+      "id": "8c1ac19b-4256-4881-9a72-38a8e8a75c4e",
+      "stock": "迪士尼",
+      "ticker": "DIS",
+      "market": "US",
+      "date": "2020-08-12",
+      "sentiment": "bullish",
+      "summary": "伟大公司可收藏",
+      "quote": "老巴说他是个伟大公司的收藏者。我觉得Disney应该是个可以被收藏的伟大公司。",
+      "source_file": "2020-08_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/156303504"
+    },
+    {
+      "id": "2f9b6f89-958f-4677-9df7-704accfd410a",
+      "stock": "迪士尼",
+      "ticker": "DIS",
+      "market": "US",
+      "date": "2023-05-28",
+      "sentiment": "bearish",
+      "summary": "质疑商业模式",
+      "quote": "一直很喜欢迪斯尼的产品，但一直没明白迪斯尼的商业模式。为什么迪斯尼看起来很强大但老是很难赚钱呢？看起来这个商业模式似乎不是那么美妙，是种很累的商业模式。不过，我还是会保留对迪斯尼的投资，毕竟属于小于1%的投资哈。",
+      "source_file": "2023-05_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/251624939"
+    }
+  ]
+}

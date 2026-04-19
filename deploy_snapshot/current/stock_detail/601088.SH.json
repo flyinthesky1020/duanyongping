@@ -1,0 +1,72 @@
+{
+  "name": "神华",
+  "ticker": "601088.SH",
+  "market": "CN_A",
+  "philosophies": [
+    "circle_of_competence",
+    "long_termism"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 2,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "13f77fed-561d-41f1-a3f0-757e9f9c0c4e",
+      "stock": "中国神华",
+      "ticker": "601088.SH",
+      "market": "CN_A",
+      "date": "2011-11-28",
+      "sentiment": "bullish",
+      "summary": "神华不贵",
+      "quote": "从能源战略的角度看，神华不贵。",
+      "source_file": "2011-11_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/20538010"
+    },
+    {
+      "id": "7759b1ca-88f8-41b5-a2fb-49420c2b613a",
+      "stock": "神华",
+      "ticker": "601088.SH",
+      "market": "CN_A",
+      "date": "2025-07-19",
+      "sentiment": "bullish",
+      "summary": "比存银行合算",
+      "quote": "神华我的了解读不如茅台，但大概率应该比存银行好。",
+      "source_file": "2025-07_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/343213640"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "13f77fed-561d-41f1-a3f0-757e9f9c0c4e",
+      "stock": "中国神华",
+      "ticker": "601088.SH",
+      "market": "CN_A",
+      "date": "2011-11-28",
+      "sentiment": "bullish",
+      "summary": "神华不贵",
+      "quote": "从能源战略的角度看，神华不贵。",
+      "source_file": "2011-11_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/20538010"
+    },
+    {
+      "id": "7759b1ca-88f8-41b5-a2fb-49420c2b613a",
+      "stock": "神华",
+      "ticker": "601088.SH",
+      "market": "CN_A",
+      "date": "2025-07-19",
+      "sentiment": "bullish",
+      "summary": "比存银行合算",
+      "quote": "神华我的了解读不如茅台，但大概率应该比存银行好。",
+      "source_file": "2025-07_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/343213640"
+    }
+  ]
+}

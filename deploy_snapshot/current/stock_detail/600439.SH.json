@@ -1,0 +1,43 @@
+{
+  "name": "瑞贝卡",
+  "ticker": "600439.SH",
+  "market": "CN_A",
+  "philosophies": [
+    "integrity"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "57697cf3-3736-4eb0-a8f2-735b2b3cd131",
+      "stock": "瑞贝卡",
+      "ticker": "600439.SH",
+      "market": "CN_A",
+      "date": "2012-04-09",
+      "sentiment": "bearish",
+      "summary": "不值得花时间",
+      "quote": "不知道这个公司，但从文中叙述的情况看不值得花时间",
+      "source_file": "2012-04_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/21664261"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "57697cf3-3736-4eb0-a8f2-735b2b3cd131",
+      "stock": "瑞贝卡",
+      "ticker": "600439.SH",
+      "market": "CN_A",
+      "date": "2012-04-09",
+      "sentiment": "bearish",
+      "summary": "不值得花时间",
+      "quote": "不知道这个公司，但从文中叙述的情况看不值得花时间",
+      "source_file": "2012-04_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/21664261"
+    }
+  ]
+}

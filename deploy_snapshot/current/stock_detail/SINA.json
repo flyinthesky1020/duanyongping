@@ -1,0 +1,104 @@
+{
+  "name": "新浪",
+  "ticker": "SINA",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "cash_flow",
+    "circle_of_competence",
+    "integrity",
+    "long_termism",
+    "stop_doing"
+  ],
+  "opinion_count": 3,
+  "bullish_count": 1,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "27ea9144-7342-44c0-8787-f5e5980b0425",
+      "stock": "新浪",
+      "ticker": "SINA",
+      "market": "US",
+      "date": "2011-11-22",
+      "sentiment": "bearish",
+      "summary": "非理想投资标的",
+      "quote": "想靠新浪赚大钱的想法太投机的，至少我不认为这是个好的投资标的，除非哪天能看出来微博的生意模式是好的生意模式。",
+      "source_file": "2011-11_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/20522344"
+    },
+    {
+      "id": "d799c6d9-beaf-40cd-a54c-65cf77ae9de6",
+      "stock": "新浪",
+      "ticker": "SINA",
+      "market": "US",
+      "date": "2011-11-22",
+      "sentiment": "bearish",
+      "summary": "微博模式无投资价值",
+      "quote": "从投资的角度看，目前微博的生意模式不知道什么价有投资价值。",
+      "source_file": "2011-11_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/20522827"
+    },
+    {
+      "id": "7ca0561c-cc99-4df9-a428-28d2da111c57",
+      "stock": "新浪",
+      "ticker": "SINA",
+      "market": "US",
+      "date": "2012-04-05",
+      "sentiment": "bullish",
+      "summary": "卖出put支持新浪",
+      "quote": "卖个put再支持一下新浪微博",
+      "source_file": "2012-04_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/21650810"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "27ea9144-7342-44c0-8787-f5e5980b0425",
+      "stock": "新浪",
+      "ticker": "SINA",
+      "market": "US",
+      "date": "2011-11-22",
+      "sentiment": "bearish",
+      "summary": "非理想投资标的",
+      "quote": "想靠新浪赚大钱的想法太投机的，至少我不认为这是个好的投资标的，除非哪天能看出来微博的生意模式是好的生意模式。",
+      "source_file": "2011-11_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/20522344"
+    },
+    {
+      "id": "d799c6d9-beaf-40cd-a54c-65cf77ae9de6",
+      "stock": "新浪",
+      "ticker": "SINA",
+      "market": "US",
+      "date": "2011-11-22",
+      "sentiment": "bearish",
+      "summary": "微博模式无投资价值",
+      "quote": "从投资的角度看，目前微博的生意模式不知道什么价有投资价值。",
+      "source_file": "2011-11_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/20522827"
+    },
+    {
+      "id": "7ca0561c-cc99-4df9-a428-28d2da111c57",
+      "stock": "新浪",
+      "ticker": "SINA",
+      "market": "US",
+      "date": "2012-04-05",
+      "sentiment": "bullish",
+      "summary": "卖出put支持新浪",
+      "quote": "卖个put再支持一下新浪微博",
+      "source_file": "2012-04_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/21650810"
+    }
+  ]
+}

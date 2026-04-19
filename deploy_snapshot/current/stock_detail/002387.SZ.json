@@ -1,0 +1,44 @@
+{
+  "name": "维信诺",
+  "ticker": "002387.SZ",
+  "market": "CN_A",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "89ea6422-19b2-4823-a43d-7b94c314db68",
+      "stock": "维信诺",
+      "ticker": "002387.SZ",
+      "market": "CN_A",
+      "date": "2020-11-26",
+      "sentiment": "bearish",
+      "summary": "重资产差异化小",
+      "quote": "我对这个行业不了解，感觉像是重资产且产品差异化不太大的行业。",
+      "source_file": "2020-11_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/164332023"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "89ea6422-19b2-4823-a43d-7b94c314db68",
+      "stock": "维信诺",
+      "ticker": "002387.SZ",
+      "market": "CN_A",
+      "date": "2020-11-26",
+      "sentiment": "bearish",
+      "summary": "重资产差异化小",
+      "quote": "我对这个行业不了解，感觉像是重资产且产品差异化不太大的行业。",
+      "source_file": "2020-11_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/164332023"
+    }
+  ]
+}

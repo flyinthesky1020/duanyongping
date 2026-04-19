@@ -1,0 +1,142 @@
+{
+  "name": "UNG",
+  "ticker": "UNG",
+  "market": "US",
+  "philosophies": [
+    "circle_of_competence",
+    "stop_doing"
+  ],
+  "opinion_count": 6,
+  "bullish_count": 3,
+  "bearish_count": 3,
+  "preview_opinions": [
+    {
+      "id": "a884a751-ab8d-4cd1-acbf-f0a2adba5e13",
+      "stock": "UNG",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2012-01-09",
+      "sentiment": "bearish",
+      "summary": "UNG将归零不可买",
+      "quote": "ung就是个投机的工具，早晚是会变成0的，根据不打算拿10年的股票就不应该拿10天的原理，一定不能买",
+      "source_file": "2012-01_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/20663346"
+    },
+    {
+      "id": "353a216f-587e-427c-bbc6-51b3db48fdf0",
+      "stock": "UNG",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2012-04-24",
+      "sentiment": "bearish",
+      "summary": "看空UNG",
+      "quote": "谁说会剩1%了？我说的是剩下不到1%，意思差别很大的。",
+      "source_file": "2012-04_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/21736802"
+    },
+    {
+      "id": "9b377c7b-cade-4fb1-987b-cf7e62262106",
+      "stock": "美国天然气价ETF",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2022-12-05",
+      "sentiment": "bullish",
+      "summary": "看多天然气ETF",
+      "quote": "这个钱应该能赚着。",
+      "source_file": "2022-12_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/237116565"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "a884a751-ab8d-4cd1-acbf-f0a2adba5e13",
+      "stock": "UNG",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2012-01-09",
+      "sentiment": "bearish",
+      "summary": "UNG将归零不可买",
+      "quote": "ung就是个投机的工具，早晚是会变成0的，根据不打算拿10年的股票就不应该拿10天的原理，一定不能买",
+      "source_file": "2012-01_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/20663346"
+    },
+    {
+      "id": "353a216f-587e-427c-bbc6-51b3db48fdf0",
+      "stock": "UNG",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2012-04-24",
+      "sentiment": "bearish",
+      "summary": "看空UNG",
+      "quote": "谁说会剩1%了？我说的是剩下不到1%，意思差别很大的。",
+      "source_file": "2012-04_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/21736802"
+    },
+    {
+      "id": "9b377c7b-cade-4fb1-987b-cf7e62262106",
+      "stock": "美国天然气价ETF",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2022-12-05",
+      "sentiment": "bullish",
+      "summary": "看多天然气ETF",
+      "quote": "这个钱应该能赚着。",
+      "source_file": "2022-12_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/237116565"
+    },
+    {
+      "id": "38a55cdb-9344-4cb5-bf04-28f4fc03607d",
+      "stock": "美国天然气价ETF",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2022-12-06",
+      "sentiment": "bearish",
+      "summary": "做空天然气ETF",
+      "quote": "这个只是个反投机的小游戏。简单讲就是赌天然气不可能一直涨上去",
+      "source_file": "2022-12_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": "https://xueqiu.com/1247347556/237116678"
+    },
+    {
+      "id": "ba280103-1620-46d1-9deb-1a6be6484048",
+      "stock": "美国天然气价ETF",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2023-01-07",
+      "sentiment": "bullish",
+      "summary": "长线投机大概率盈利",
+      "quote": "去年放了一点长线投机的东西，已经过期了一些，大部分还要一年才有最后结果。这种游戏还是蛮好玩的，但只敢小玩玩。感觉这种交易大概率是会赚的",
+      "source_file": "2023-01_batch011",
+      "source_type": "xueqiu",
+      "chunk_index": 11,
+      "url": "https://xueqiu.com/1247347556/239511658"
+    },
+    {
+      "id": "3b8166de-4c94-4735-a468-2e77c41fcd71",
+      "stock": "美国天然气价ETF",
+      "ticker": "UNG",
+      "market": "US",
+      "date": "2023-01-09",
+      "sentiment": "bullish",
+      "summary": "看多天然气ETF",
+      "quote": "去年放了一点长线投机的东西，已经过期了一些，大部分还要一年才有最后结果。这种游戏还是蛮好玩的，但只敢小玩玩。感觉这种交易大概率是会赚的，但还没明白到底风险在哪里。",
+      "source_file": "2023-01_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/239540285"
+    }
+  ]
+}

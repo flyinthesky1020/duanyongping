@@ -1,0 +1,99 @@
+{
+  "name": "标普500",
+  "ticker": "SPY",
+  "market": "US",
+  "philosophies": [
+    "circle_of_competence"
+  ],
+  "opinion_count": 3,
+  "bullish_count": 3,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "9d2e24f2-60ae-4cf7-8452-535f6a4e4b05",
+      "stock": "标普500",
+      "ticker": "SPY",
+      "market": "US",
+      "date": "2019-09-30",
+      "sentiment": "bullish",
+      "summary": "看好标普500",
+      "quote": "S&P 蛮好的，300没研究过。",
+      "source_file": "2019-09_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/133583462"
+    },
+    {
+      "id": "109b2267-9f6c-48c8-b8cb-52553e751f5d",
+      "stock": "SPY",
+      "ticker": "SPY",
+      "market": "US",
+      "date": "2024-01-06",
+      "sentiment": "bullish",
+      "summary": "看好SPY",
+      "quote": "我觉得spy就蛮好，别的我没看过。",
+      "source_file": "2024-01_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/273814804"
+    },
+    {
+      "id": "73dfdfa3-7d70-4027-bfa7-f4f0731484f9",
+      "stock": "标普500",
+      "ticker": "SPY",
+      "market": "US",
+      "date": "2024-10-11",
+      "sentiment": "bullish",
+      "summary": "看好标普500",
+      "quote": "投标普确实是个好的选项，长时间里极少人能比标普500表现好的",
+      "source_file": "2024-10_batch015",
+      "source_type": "xueqiu",
+      "chunk_index": 15,
+      "url": "https://xueqiu.com/1247347556/307665625"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "9d2e24f2-60ae-4cf7-8452-535f6a4e4b05",
+      "stock": "标普500",
+      "ticker": "SPY",
+      "market": "US",
+      "date": "2019-09-30",
+      "sentiment": "bullish",
+      "summary": "看好标普500",
+      "quote": "S&P 蛮好的，300没研究过。",
+      "source_file": "2019-09_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/133583462"
+    },
+    {
+      "id": "109b2267-9f6c-48c8-b8cb-52553e751f5d",
+      "stock": "SPY",
+      "ticker": "SPY",
+      "market": "US",
+      "date": "2024-01-06",
+      "sentiment": "bullish",
+      "summary": "看好SPY",
+      "quote": "我觉得spy就蛮好，别的我没看过。",
+      "source_file": "2024-01_batch008",
+      "source_type": "xueqiu",
+      "chunk_index": 8,
+      "url": "https://xueqiu.com/1247347556/273814804"
+    },
+    {
+      "id": "73dfdfa3-7d70-4027-bfa7-f4f0731484f9",
+      "stock": "标普500",
+      "ticker": "SPY",
+      "market": "US",
+      "date": "2024-10-11",
+      "sentiment": "bullish",
+      "summary": "看好标普500",
+      "quote": "投标普确实是个好的选项，长时间里极少人能比标普500表现好的",
+      "source_file": "2024-10_batch015",
+      "source_type": "xueqiu",
+      "chunk_index": 15,
+      "url": "https://xueqiu.com/1247347556/307665625"
+    }
+  ]
+}

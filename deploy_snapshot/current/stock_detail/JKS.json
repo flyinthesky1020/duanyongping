@@ -1,0 +1,43 @@
+{
+  "name": "晶科能源",
+  "ticker": "JKS",
+  "market": "US",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "8a13aedb-4ee0-46de-83af-b4dbe6245fc3",
+      "stock": "晶科能源",
+      "ticker": "JKS",
+      "market": "US",
+      "date": "2011-12-12",
+      "sentiment": "bearish",
+      "summary": "产品无差异化看空",
+      "quote": "产品没办法有差异化的结局必然如此啊。it's just the beginning.",
+      "source_file": "2011-12_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": ""
+    }
+  ],
+  "opinions": [
+    {
+      "id": "8a13aedb-4ee0-46de-83af-b4dbe6245fc3",
+      "stock": "晶科能源",
+      "ticker": "JKS",
+      "market": "US",
+      "date": "2011-12-12",
+      "sentiment": "bearish",
+      "summary": "产品无差异化看空",
+      "quote": "产品没办法有差异化的结局必然如此啊。it's just the beginning.",
+      "source_file": "2011-12_batch009",
+      "source_type": "xueqiu",
+      "chunk_index": 9,
+      "url": ""
+    }
+  ]
+}

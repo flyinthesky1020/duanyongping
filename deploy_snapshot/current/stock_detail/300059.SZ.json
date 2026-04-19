@@ -1,0 +1,41 @@
+{
+  "name": "东方财富",
+  "ticker": "300059.SZ",
+  "market": "CN_A",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "771fa3f9-86b6-47fb-8518-84e514f89b7c",
+      "stock": "东方财富",
+      "ticker": "300059.SZ",
+      "market": "CN_A",
+      "date": "2024-01-21",
+      "sentiment": "bearish",
+      "summary": "不买东方财富",
+      "quote": "这也是我不买东方财富的原因。",
+      "source_file": "2024-01_batch003",
+      "source_type": "xueqiu",
+      "chunk_index": 3,
+      "url": "https://xueqiu.com/1247347556/275655265"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "771fa3f9-86b6-47fb-8518-84e514f89b7c",
+      "stock": "东方财富",
+      "ticker": "300059.SZ",
+      "market": "CN_A",
+      "date": "2024-01-21",
+      "sentiment": "bearish",
+      "summary": "不买东方财富",
+      "quote": "这也是我不买东方财富的原因。",
+      "source_file": "2024-01_batch003",
+      "source_type": "xueqiu",
+      "chunk_index": 3,
+      "url": "https://xueqiu.com/1247347556/275655265"
+    }
+  ]
+}

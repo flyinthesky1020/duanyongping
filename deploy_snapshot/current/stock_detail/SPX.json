@@ -1,0 +1,41 @@
+{
+  "name": "标普500",
+  "ticker": "SPX",
+  "market": "US",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 1,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "b6893ef7-3958-4b1e-8b69-ff0a21159948",
+      "stock": "标普500",
+      "ticker": "SPX",
+      "market": "US",
+      "date": "2026-03-23",
+      "sentiment": "bullish",
+      "summary": "推荐定投标普",
+      "quote": "对于大多数很难搞懂公司的人们而言，可能定投（能放10年或以上）sp500好点吧，不焦虑。",
+      "source_file": "2026-03_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/380787106"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "b6893ef7-3958-4b1e-8b69-ff0a21159948",
+      "stock": "标普500",
+      "ticker": "SPX",
+      "market": "US",
+      "date": "2026-03-23",
+      "sentiment": "bullish",
+      "summary": "推荐定投标普",
+      "quote": "对于大多数很难搞懂公司的人们而言，可能定投（能放10年或以上）sp500好点吧，不焦虑。",
+      "source_file": "2026-03_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/380787106"
+    }
+  ]
+}

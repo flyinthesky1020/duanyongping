@@ -1,0 +1,41 @@
+{
+  "name": "CDC软件",
+  "ticker": "CDCS",
+  "market": "US",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "4ae853e0-7d87-413b-8179-bc3146dd4876",
+      "stock": "CDC软件",
+      "ticker": "CDCS",
+      "market": "US",
+      "date": "2011-10-07",
+      "sentiment": "bearish",
+      "summary": "CDC为烂公司",
+      "quote": "10年前买网易时就顺便看过这家烂公司，很意外这公司能扛到现在才破产。@CDC软件(CDCS)",
+      "source_file": "2011-10_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/20415712"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "4ae853e0-7d87-413b-8179-bc3146dd4876",
+      "stock": "CDC软件",
+      "ticker": "CDCS",
+      "market": "US",
+      "date": "2011-10-07",
+      "sentiment": "bearish",
+      "summary": "CDC为烂公司",
+      "quote": "10年前买网易时就顺便看过这家烂公司，很意外这公司能扛到现在才破产。@CDC软件(CDCS)",
+      "source_file": "2011-10_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/20415712"
+    }
+  ]
+}

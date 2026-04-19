@@ -1,0 +1,43 @@
+{
+  "name": "欢聚",
+  "ticker": "YY",
+  "market": "US",
+  "philosophies": [
+    "circle_of_competence"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 1,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "9b3aa4fd-316e-4985-a783-dfaba204458b",
+      "stock": "欢聚",
+      "ticker": "YY",
+      "market": "US",
+      "date": "2021-02-25",
+      "sentiment": "bullish",
+      "summary": "建议不要做空",
+      "quote": "不要做空的另一个例子。",
+      "source_file": "2021-02_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/171903102"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "9b3aa4fd-316e-4985-a783-dfaba204458b",
+      "stock": "欢聚",
+      "ticker": "YY",
+      "market": "US",
+      "date": "2021-02-25",
+      "sentiment": "bullish",
+      "summary": "建议不要做空",
+      "quote": "不要做空的另一个例子。",
+      "source_file": "2021-02_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/171903102"
+    }
+  ]
+}

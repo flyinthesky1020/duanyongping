@@ -1,0 +1,41 @@
+{
+  "name": "7-11",
+  "ticker": "3382",
+  "market": "UNKNOWN",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "f03c0ba7-b2fb-49fc-80c9-49e129f354e3",
+      "stock": "7-11",
+      "ticker": "3382",
+      "market": "UNKNOWN",
+      "date": "2020-12-04",
+      "sentiment": "bearish",
+      "summary": "7-11未来难过",
+      "quote": "没了解过，直觉上未来日子会越来越难过，电商太厉害了。",
+      "source_file": "2020-12_batch016",
+      "source_type": "xueqiu",
+      "chunk_index": 16,
+      "url": "https://xueqiu.com/1247347556/164985715"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "f03c0ba7-b2fb-49fc-80c9-49e129f354e3",
+      "stock": "7-11",
+      "ticker": "3382",
+      "market": "UNKNOWN",
+      "date": "2020-12-04",
+      "sentiment": "bearish",
+      "summary": "7-11未来难过",
+      "quote": "没了解过，直觉上未来日子会越来越难过，电商太厉害了。",
+      "source_file": "2020-12_batch016",
+      "source_type": "xueqiu",
+      "chunk_index": 16,
+      "url": "https://xueqiu.com/1247347556/164985715"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "麦当劳",
+  "ticker": "MCD",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 1,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "82931b39-abfa-4691-9246-41c91d941bc1",
+      "stock": "麦当劳",
+      "ticker": "MCD",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好麦当劳抗通胀能力",
+      "quote": "麦当劳可口可乐这类公司打败通胀的概率应该很大，所以也应该算。",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276690323"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "82931b39-abfa-4691-9246-41c91d941bc1",
+      "stock": "麦当劳",
+      "ticker": "MCD",
+      "market": "US",
+      "date": "2024-01-30",
+      "sentiment": "bullish",
+      "summary": "看好麦当劳抗通胀能力",
+      "quote": "麦当劳可口可乐这类公司打败通胀的概率应该很大，所以也应该算。",
+      "source_file": "2024-01_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/276690323"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "国电科环",
+  "ticker": "1296.HK",
+  "market": "HK",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "7c75fcdb-be5c-4ee3-b4cb-0f86a2422f74",
+      "stock": "国电科环",
+      "ticker": "1296.HK",
+      "market": "HK",
+      "date": "2020-10-23",
+      "sentiment": "bearish",
+      "summary": "不再买烟蒂资产",
+      "quote": "我现在不再买这种生意了。",
+      "source_file": "2020-10_batch007",
+      "source_type": "xueqiu",
+      "chunk_index": 7,
+      "url": "https://xueqiu.com/1247347556/161507814"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "7c75fcdb-be5c-4ee3-b4cb-0f86a2422f74",
+      "stock": "国电科环",
+      "ticker": "1296.HK",
+      "market": "HK",
+      "date": "2020-10-23",
+      "sentiment": "bearish",
+      "summary": "不再买烟蒂资产",
+      "quote": "我现在不再买这种生意了。",
+      "source_file": "2020-10_batch007",
+      "source_type": "xueqiu",
+      "chunk_index": 7,
+      "url": "https://xueqiu.com/1247347556/161507814"
+    }
+  ]
+}

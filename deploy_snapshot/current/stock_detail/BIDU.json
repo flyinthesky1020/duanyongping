@@ -1,0 +1,43 @@
+{
+  "name": "百度",
+  "ticker": "BIDU",
+  "market": "US",
+  "philosophies": [
+    "stop_doing"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "0f7396a8-9bb8-47f6-b821-8eeb9f4fdf6d",
+      "stock": "百度",
+      "ticker": "BIDU",
+      "market": "US",
+      "date": "2019-05-23",
+      "sentiment": "bearish",
+      "summary": "不值得长期投资",
+      "quote": "你说得对，不值得长期投资。我说的研究一下指的是研究一下是不是烟蒂，是对着问题去的。",
+      "source_file": "2019-05_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": "https://xueqiu.com/1247347556/127187179"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "0f7396a8-9bb8-47f6-b821-8eeb9f4fdf6d",
+      "stock": "百度",
+      "ticker": "BIDU",
+      "market": "US",
+      "date": "2019-05-23",
+      "sentiment": "bearish",
+      "summary": "不值得长期投资",
+      "quote": "你说得对，不值得长期投资。我说的研究一下指的是研究一下是不是烟蒂，是对着问题去的。",
+      "source_file": "2019-05_batch012",
+      "source_type": "xueqiu",
+      "chunk_index": 12,
+      "url": "https://xueqiu.com/1247347556/127187179"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "provider": "openai_compatible",
+  "model": "your-model-name",
+  "api_key": "YOUR_API_KEY",
+  "base_url": "https://your-provider.example/v1",
+  "concurrent_workers": 10
+}

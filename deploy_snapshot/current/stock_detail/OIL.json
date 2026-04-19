@@ -1,0 +1,41 @@
+{
+  "name": "能源行业/石油公司",
+  "ticker": "OIL",
+  "market": "UNKNOWN",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "b8fc9077-964a-475d-995f-a4c35ca15026",
+      "stock": "能源行业/石油公司",
+      "ticker": "OIL",
+      "market": "UNKNOWN",
+      "date": "2024-05-18",
+      "sentiment": "bearish",
+      "summary": "能源行业难懂不敢重注",
+      "quote": "但能源行业实在是难懂啊，绝对不敢下重注的。",
+      "source_file": "2024-05_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/290489129"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "b8fc9077-964a-475d-995f-a4c35ca15026",
+      "stock": "能源行业/石油公司",
+      "ticker": "OIL",
+      "market": "UNKNOWN",
+      "date": "2024-05-18",
+      "sentiment": "bearish",
+      "summary": "能源行业难懂不敢重注",
+      "quote": "但能源行业实在是难懂啊，绝对不敢下重注的。",
+      "source_file": "2024-05_batch005",
+      "source_type": "xueqiu",
+      "chunk_index": 5,
+      "url": "https://xueqiu.com/1247347556/290489129"
+    }
+  ]
+}

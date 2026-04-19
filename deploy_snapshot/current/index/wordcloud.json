@@ -1,0 +1,496 @@
+{
+  "words": [
+    {
+      "text": "停止做错误的事",
+      "weight": 191,
+      "type": "concept",
+      "target": "philosophy:stop_doing"
+    },
+    {
+      "text": "本分",
+      "weight": 133,
+      "type": "concept",
+      "target": "philosophy:integrity"
+    },
+    {
+      "text": "好的商业模式",
+      "weight": 173,
+      "type": "concept",
+      "target": "philosophy:business_model"
+    },
+    {
+      "text": "企业文化",
+      "weight": 127,
+      "type": "concept",
+      "target": "philosophy:corporate_culture"
+    },
+    {
+      "text": "长期主义",
+      "weight": 172,
+      "type": "concept",
+      "target": "philosophy:long_termism"
+    },
+    {
+      "text": "不懂不投",
+      "weight": 184,
+      "type": "concept",
+      "target": "philosophy:circle_of_competence"
+    },
+    {
+      "text": "等待与耐心",
+      "weight": 98,
+      "type": "concept",
+      "target": "philosophy:patience"
+    },
+    {
+      "text": "现金流思维",
+      "weight": 97,
+      "type": "concept",
+      "target": "philosophy:cash_flow"
+    },
+    {
+      "text": "苹果",
+      "weight": 85,
+      "type": "stock",
+      "target": "stock:AAPL"
+    },
+    {
+      "text": "贵州茅台",
+      "weight": 74,
+      "type": "stock",
+      "target": "stock:600519.SH"
+    },
+    {
+      "text": "腾讯",
+      "weight": 46,
+      "type": "stock",
+      "target": "stock:0700.HK"
+    },
+    {
+      "text": "拼多多",
+      "weight": 28,
+      "type": "stock",
+      "target": "stock:PDD"
+    },
+    {
+      "text": "特斯拉",
+      "weight": 26,
+      "type": "stock",
+      "target": "stock:TSLA"
+    },
+    {
+      "text": "谷歌C",
+      "weight": 26,
+      "type": "stock",
+      "target": "stock:GOOG"
+    },
+    {
+      "text": "英伟达",
+      "weight": 25,
+      "type": "stock",
+      "target": "stock:NVDA"
+    },
+    {
+      "text": "阿里巴巴",
+      "weight": 24,
+      "type": "stock",
+      "target": "stock:BABA"
+    },
+    {
+      "text": "Yahoo",
+      "weight": 24,
+      "type": "stock",
+      "target": "stock:YHOO"
+    },
+    {
+      "text": "GE",
+      "weight": 24,
+      "type": "stock",
+      "target": "stock:GE"
+    },
+    {
+      "text": "Facebook",
+      "weight": 23,
+      "type": "stock",
+      "target": "stock:FB"
+    },
+    {
+      "text": "亚马逊",
+      "weight": 23,
+      "type": "stock",
+      "target": "stock:AMZN"
+    },
+    {
+      "text": "伯克希尔",
+      "weight": 23,
+      "type": "stock",
+      "target": "stock:BRK.B"
+    },
+    {
+      "text": "西方石油",
+      "weight": 23,
+      "type": "stock",
+      "target": "stock:OXY"
+    },
+    {
+      "text": "达美航空",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:DAL"
+    },
+    {
+      "text": "网易",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:NTES"
+    },
+    {
+      "text": "新东方",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:EDU"
+    },
+    {
+      "text": "UNG",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:UNG"
+    },
+    {
+      "text": "谷歌",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:GOOGL"
+    },
+    {
+      "text": "腾讯控股",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:00700.HK"
+    },
+    {
+      "text": "完美世界",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:PWRD"
+    },
+    {
+      "text": "万科A",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:000002.SZ"
+    },
+    {
+      "text": "京东",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:JD"
+    },
+    {
+      "text": "腾讯控股",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:TCEHY"
+    },
+    {
+      "text": "第一共和银行",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:FRC"
+    },
+    {
+      "text": "创维",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:0751.HK"
+    },
+    {
+      "text": "微软",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:MSFT"
+    },
+    {
+      "text": "Moderna",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:MRNA"
+    },
+    {
+      "text": "迪士尼",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:DIS"
+    },
+    {
+      "text": "Meta",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:META"
+    },
+    {
+      "text": "可口可乐",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:KO"
+    },
+    {
+      "text": "泡泡玛特",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:9992.HK"
+    },
+    {
+      "text": "新浪",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:SINA"
+    },
+    {
+      "text": "泡泡玛特",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:09992.HK"
+    },
+    {
+      "text": "诺基亚",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:NOK"
+    },
+    {
+      "text": "UTSI",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:UTSI"
+    },
+    {
+      "text": "畅游",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:CYOU"
+    },
+    {
+      "text": "伯克希尔哈撒韦",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:BRK"
+    },
+    {
+      "text": "老虎证券",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:TIGR"
+    },
+    {
+      "text": "美国银行",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:BAC"
+    },
+    {
+      "text": "神华",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:601088.SH"
+    },
+    {
+      "text": "西南航空",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:LUV"
+    },
+    {
+      "text": "台积电",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:TSM"
+    },
+    {
+      "text": "标普500",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:SPY"
+    },
+    {
+      "text": "任天堂",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:NTDOY"
+    },
+    {
+      "text": "阿里巴巴",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:9988.HK"
+    },
+    {
+      "text": "游戏驿站",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:GME"
+    },
+    {
+      "text": "Groupon",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:GRPN"
+    },
+    {
+      "text": "巨人网络",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:GA"
+    },
+    {
+      "text": "Peloton Interactive",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:PTON"
+    },
+    {
+      "text": "Walmart",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:WMT"
+    },
+    {
+      "text": "奇虎三六零",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:QIHU"
+    },
+    {
+      "text": "Zoom",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:ZM"
+    },
+    {
+      "text": "波音",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:BA"
+    },
+    {
+      "text": "比亚迪",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:002594.SZ"
+    },
+    {
+      "text": "石头科技",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:688169.SH"
+    },
+    {
+      "text": "传音控股",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:688036.SH"
+    },
+    {
+      "text": "Zynga",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:ZNGA"
+    },
+    {
+      "text": "通用汽车",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:GM"
+    },
+    {
+      "text": "Palantir",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:PLTR"
+    },
+    {
+      "text": "本分",
+      "weight": 88,
+      "type": "concept",
+      "target": "philosophy:integrity"
+    },
+    {
+      "text": "护城河",
+      "weight": 75,
+      "type": "concept",
+      "target": "philosophy:business_model"
+    },
+    {
+      "text": "定价权",
+      "weight": 72,
+      "type": "concept",
+      "target": "philosophy:business_model"
+    },
+    {
+      "text": "现金流",
+      "weight": 78,
+      "type": "concept",
+      "target": "philosophy:cash_flow"
+    },
+    {
+      "text": "能力圈",
+      "weight": 73,
+      "type": "concept",
+      "target": "philosophy:circle_of_competence"
+    },
+    {
+      "text": "安全边际",
+      "weight": 70,
+      "type": "concept",
+      "target": "philosophy:patience"
+    },
+    {
+      "text": "ROE",
+      "weight": 68,
+      "type": "concept",
+      "target": "philosophy:business_model"
+    },
+    {
+      "text": "市场先生",
+      "weight": 65,
+      "type": "concept",
+      "target": "philosophy:patience"
+    },
+    {
+      "text": "巴菲特",
+      "weight": 72,
+      "type": "concept",
+      "target": "philosophy:long_termism"
+    },
+    {
+      "text": "DCF",
+      "weight": 62,
+      "type": "concept",
+      "target": "philosophy:cash_flow"
+    },
+    {
+      "text": "永续经营",
+      "weight": 65,
+      "type": "concept",
+      "target": "philosophy:long_termism"
+    },
+    {
+      "text": "逆向投资",
+      "weight": 60,
+      "type": "concept",
+      "target": "philosophy:patience"
+    },
+    {
+      "text": "商业模式",
+      "weight": 75,
+      "type": "concept",
+      "target": "philosophy:business_model"
+    },
+    {
+      "text": "企业文化",
+      "weight": 72,
+      "type": "concept",
+      "target": "philosophy:corporate_culture"
+    }
+  ]
+}

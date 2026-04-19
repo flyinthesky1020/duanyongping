@@ -1,0 +1,131 @@
+{
+  "name": "京东",
+  "ticker": "JD",
+  "market": "UNKNOWN",
+  "philosophies": [
+    "business_model",
+    "cash_flow",
+    "circle_of_competence",
+    "corporate_culture",
+    "long_termism"
+  ],
+  "opinion_count": 5,
+  "bullish_count": 0,
+  "bearish_count": 5,
+  "preview_opinions": [
+    {
+      "id": "5228c398-eb0c-4ef2-bde0-b1be3942c638",
+      "stock": "京东",
+      "ticker": "JD",
+      "market": "UNKNOWN",
+      "date": "2011-09-26",
+      "sentiment": "bearish",
+      "summary": "长期吃苦头",
+      "quote": "京东那个搞法长期是要吃苦头的。",
+      "source_file": "2011-09_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/20404757"
+    },
+    {
+      "id": "11c75aac-faa5-47e5-add3-30eda3cc3939",
+      "stock": "京东",
+      "ticker": "JD",
+      "market": "US",
+      "date": "2011-12-27",
+      "sentiment": "bearish",
+      "summary": "生意模式不美妙",
+      "quote": "这么低的margin和这么点营业额要用这么多人啊[汗]，这个生意模式看起来不是很美妙。",
+      "source_file": "2011-12_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/20625065"
+    },
+    {
+      "id": "234bd715-33e8-4372-a4da-b545a42c280c",
+      "stock": "京东",
+      "ticker": "JD",
+      "market": "UNKNOWN",
+      "date": "2011-12-29",
+      "sentiment": "bearish",
+      "summary": "京东模式不美妙",
+      "quote": "这么低的margin和这么点营业额要用这么多人啊[汗]，这个生意模式看起来不是很美妙。",
+      "source_file": "2011-12_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/20626316"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "5228c398-eb0c-4ef2-bde0-b1be3942c638",
+      "stock": "京东",
+      "ticker": "JD",
+      "market": "UNKNOWN",
+      "date": "2011-09-26",
+      "sentiment": "bearish",
+      "summary": "长期吃苦头",
+      "quote": "京东那个搞法长期是要吃苦头的。",
+      "source_file": "2011-09_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/20404757"
+    },
+    {
+      "id": "11c75aac-faa5-47e5-add3-30eda3cc3939",
+      "stock": "京东",
+      "ticker": "JD",
+      "market": "US",
+      "date": "2011-12-27",
+      "sentiment": "bearish",
+      "summary": "生意模式不美妙",
+      "quote": "这么低的margin和这么点营业额要用这么多人啊[汗]，这个生意模式看起来不是很美妙。",
+      "source_file": "2011-12_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/20625065"
+    },
+    {
+      "id": "234bd715-33e8-4372-a4da-b545a42c280c",
+      "stock": "京东",
+      "ticker": "JD",
+      "market": "UNKNOWN",
+      "date": "2011-12-29",
+      "sentiment": "bearish",
+      "summary": "京东模式不美妙",
+      "quote": "这么低的margin和这么点营业额要用这么多人啊[汗]，这个生意模式看起来不是很美妙。",
+      "source_file": "2011-12_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/20626316"
+    },
+    {
+      "id": "4e5f700e-13b8-47e9-8bb7-00aaca58c64c",
+      "stock": "京东",
+      "ticker": "JD",
+      "market": "UNKNOWN",
+      "date": "2011-12-30",
+      "sentiment": "bearish",
+      "summary": "京东快速扩员隐患大",
+      "quote": "我觉得如果他们真的需要增加那么多员工，为什么不分3年而非要在一年里完成呢？除非他们真是超人，不然这种做法后患比较大。",
+      "source_file": "2011-12_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/20637666"
+    },
+    {
+      "id": "d2765f4e-5088-4008-a4d3-4dd70240943a",
+      "stock": "京东",
+      "ticker": "JD",
+      "market": "US",
+      "date": "2019-06-20",
+      "sentiment": "bearish",
+      "summary": "京东618促销套路复杂",
+      "quote": "狗东这轮618促销真是彻彻底底的反面教材，套路复杂到懒得浪费时间，直接闪人$京东(JD)$",
+      "source_file": "2019-06_batch004",
+      "source_type": "xueqiu",
+      "chunk_index": 4,
+      "url": "https://xueqiu.com/1247347556/128468848"
+    }
+  ]
+}

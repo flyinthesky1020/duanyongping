@@ -1,0 +1,72 @@
+{
+  "name": "任天堂",
+  "ticker": "NTDOY",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "corporate_culture"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 0,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "d0c4ef31-a6d1-4257-b22e-bd16ed59b0ad",
+      "stock": "Nintendo",
+      "ticker": "NTDOY",
+      "market": "US",
+      "date": "2012-03-31",
+      "sentiment": "bearish",
+      "summary": "看空任天堂前景",
+      "quote": "突然想到前段时间新闻里看到任天堂ceo讲的坚决不做手机游戏的说法，感觉任天堂也快了（小朋友好像对ds已经没啥兴趣了）",
+      "source_file": "2012-03_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/21647488"
+    },
+    {
+      "id": "34bb9000-4bb4-4320-a9bd-4ff373d73c74",
+      "stock": "任天堂",
+      "ticker": "NTDOY",
+      "market": "US",
+      "date": "2024-01-27",
+      "sentiment": "bearish",
+      "summary": "目前地位远不如前",
+      "quote": "任天堂目前地位显然远不如30年前了，应该也不如20年前。",
+      "source_file": "2024-01_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/276649527"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "d0c4ef31-a6d1-4257-b22e-bd16ed59b0ad",
+      "stock": "Nintendo",
+      "ticker": "NTDOY",
+      "market": "US",
+      "date": "2012-03-31",
+      "sentiment": "bearish",
+      "summary": "看空任天堂前景",
+      "quote": "突然想到前段时间新闻里看到任天堂ceo讲的坚决不做手机游戏的说法，感觉任天堂也快了（小朋友好像对ds已经没啥兴趣了）",
+      "source_file": "2012-03_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/21647488"
+    },
+    {
+      "id": "34bb9000-4bb4-4320-a9bd-4ff373d73c74",
+      "stock": "任天堂",
+      "ticker": "NTDOY",
+      "market": "US",
+      "date": "2024-01-27",
+      "sentiment": "bearish",
+      "summary": "目前地位远不如前",
+      "quote": "任天堂目前地位显然远不如30年前了，应该也不如20年前。",
+      "source_file": "2024-01_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/276649527"
+    }
+  ]
+}

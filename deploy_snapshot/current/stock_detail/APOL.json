@@ -1,0 +1,43 @@
+{
+  "name": "Apollo集团",
+  "ticker": "APOL",
+  "market": "US",
+  "philosophies": [
+    "stop_doing"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "c844aa3b-52b8-462d-9e85-8de8039bd9d6",
+      "stock": "Apollo集团",
+      "ticker": "APOL",
+      "market": "US",
+      "date": "2012-08-30",
+      "sentiment": "bearish",
+      "summary": "不喜欢双CEO治理",
+      "quote": "真的快到20块了。感觉还是不喜欢apol的双CEO，两个来自于华尔街的CEO。",
+      "source_file": "2012-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/22179454"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "c844aa3b-52b8-462d-9e85-8de8039bd9d6",
+      "stock": "Apollo集团",
+      "ticker": "APOL",
+      "market": "US",
+      "date": "2012-08-30",
+      "sentiment": "bearish",
+      "summary": "不喜欢双CEO治理",
+      "quote": "真的快到20块了。感觉还是不喜欢apol的双CEO，两个来自于华尔街的CEO。",
+      "source_file": "2012-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/22179454"
+    }
+  ]
+}

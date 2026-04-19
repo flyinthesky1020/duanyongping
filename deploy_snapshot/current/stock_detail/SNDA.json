@@ -1,0 +1,44 @@
+{
+  "name": "盛大",
+  "ticker": "SNDA",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "stop_doing"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "f8c89211-ea38-44ce-8f85-44c6ec9e0ab9",
+      "stock": "盛大",
+      "ticker": "SNDA",
+      "market": "US",
+      "date": "2011-08-31",
+      "sentiment": "bearish",
+      "summary": "没有焦点早晚有麻烦",
+      "quote": "没有焦点的公司早晚会有麻烦。@盛大(SNDA)",
+      "source_file": "2011-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/20380594"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "f8c89211-ea38-44ce-8f85-44c6ec9e0ab9",
+      "stock": "盛大",
+      "ticker": "SNDA",
+      "market": "US",
+      "date": "2011-08-31",
+      "sentiment": "bearish",
+      "summary": "没有焦点早晚有麻烦",
+      "quote": "没有焦点的公司早晚会有麻烦。@盛大(SNDA)",
+      "source_file": "2011-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/20380594"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "理想汽车",
+  "ticker": "LI",
+  "market": "US",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 0,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "2f4a0335-0003-419a-b9e7-78ebc5acfe41",
+      "stock": "理想汽车",
+      "ticker": "LI",
+      "market": "US",
+      "date": "2020-10-09",
+      "sentiment": "bearish",
+      "summary": "车行业苦生意",
+      "quote": "车行业是个苦生意，不容易。",
+      "source_file": "2020-10_batch033",
+      "source_type": "xueqiu",
+      "chunk_index": 33,
+      "url": "https://xueqiu.com/1247347556/160617400"
+    },
+    {
+      "id": "8fa2a830-3c5d-4bff-af2e-eb358a5b01ae",
+      "stock": "理想汽车",
+      "ticker": "LI",
+      "market": "US",
+      "date": "2020-10-17",
+      "sentiment": "bearish",
+      "summary": "理想赚钱不易",
+      "quote": "我没太多看法，只是觉得他们最后想赚钱都不容易。看10年再说吧。",
+      "source_file": "2020-10_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/161145463"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "2f4a0335-0003-419a-b9e7-78ebc5acfe41",
+      "stock": "理想汽车",
+      "ticker": "LI",
+      "market": "US",
+      "date": "2020-10-09",
+      "sentiment": "bearish",
+      "summary": "车行业苦生意",
+      "quote": "车行业是个苦生意，不容易。",
+      "source_file": "2020-10_batch033",
+      "source_type": "xueqiu",
+      "chunk_index": 33,
+      "url": "https://xueqiu.com/1247347556/160617400"
+    },
+    {
+      "id": "8fa2a830-3c5d-4bff-af2e-eb358a5b01ae",
+      "stock": "理想汽车",
+      "ticker": "LI",
+      "market": "US",
+      "date": "2020-10-17",
+      "sentiment": "bearish",
+      "summary": "理想赚钱不易",
+      "quote": "我没太多看法，只是觉得他们最后想赚钱都不容易。看10年再说吧。",
+      "source_file": "2020-10_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/161145463"
+    }
+  ]
+}

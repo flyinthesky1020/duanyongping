@@ -1,0 +1,69 @@
+{
+  "name": "阿里巴巴",
+  "ticker": "9988.HK",
+  "market": "HK",
+  "philosophies": [],
+  "opinion_count": 2,
+  "bullish_count": 1,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "5cb69249-92af-4f2e-8afb-7ebd93e25910",
+      "stock": "阿里巴巴",
+      "ticker": "9988.HK",
+      "market": "HK",
+      "date": "2024-06-24",
+      "sentiment": "bearish",
+      "summary": "对阿里观感下降",
+      "quote": "感觉通过这个事情对阿里的感官直线下降",
+      "source_file": "2024-06_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/295015290"
+    },
+    {
+      "id": "c13d39f3-c30d-42cd-b2e7-dbd7d9b5440a",
+      "stock": "阿里巴巴",
+      "ticker": "9988.HK",
+      "market": "HK",
+      "date": "2024-09-15",
+      "sentiment": "bullish",
+      "summary": "淘宝底部扎实",
+      "quote": "淘宝微信底一波 关税底一波 这个底部扎实了",
+      "source_file": "2024-09_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": ""
+    }
+  ],
+  "opinions": [
+    {
+      "id": "5cb69249-92af-4f2e-8afb-7ebd93e25910",
+      "stock": "阿里巴巴",
+      "ticker": "9988.HK",
+      "market": "HK",
+      "date": "2024-06-24",
+      "sentiment": "bearish",
+      "summary": "对阿里观感下降",
+      "quote": "感觉通过这个事情对阿里的感官直线下降",
+      "source_file": "2024-06_batch006",
+      "source_type": "xueqiu",
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/295015290"
+    },
+    {
+      "id": "c13d39f3-c30d-42cd-b2e7-dbd7d9b5440a",
+      "stock": "阿里巴巴",
+      "ticker": "9988.HK",
+      "market": "HK",
+      "date": "2024-09-15",
+      "sentiment": "bullish",
+      "summary": "淘宝底部扎实",
+      "quote": "淘宝微信底一波 关税底一波 这个底部扎实了",
+      "source_file": "2024-09_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": ""
+    }
+  ]
+}

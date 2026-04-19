@@ -1,0 +1,43 @@
+{
+  "name": "宁德时代",
+  "ticker": "300750.SZ",
+  "market": "CN_A",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "2d836101-02a6-4bcc-a8a5-b94f669da51d",
+      "stock": "宁德时代",
+      "ticker": "300750.SZ",
+      "market": "CN_A",
+      "date": "2019-04-29",
+      "sentiment": "bearish",
+      "summary": "护城河建立有难度",
+      "quote": "这类产品差异化小，变化快，建立护城河有点难度。",
+      "source_file": "2019-04_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/125878934"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "2d836101-02a6-4bcc-a8a5-b94f669da51d",
+      "stock": "宁德时代",
+      "ticker": "300750.SZ",
+      "market": "CN_A",
+      "date": "2019-04-29",
+      "sentiment": "bearish",
+      "summary": "护城河建立有难度",
+      "quote": "这类产品差异化小，变化快，建立护城河有点难度。",
+      "source_file": "2019-04_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/125878934"
+    }
+  ]
+}

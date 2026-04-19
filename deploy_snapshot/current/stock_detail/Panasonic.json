@@ -1,0 +1,46 @@
+{
+  "name": "松下",
+  "ticker": "Panasonic",
+  "market": "UNKNOWN",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture",
+    "stop_doing"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "5115751f-101d-4b37-b87b-948f91ac8bb7",
+      "stock": "松下",
+      "ticker": "Panasonic",
+      "market": "UNKNOWN",
+      "date": "2022-05-16",
+      "sentiment": "bearish",
+      "summary": "看空松下",
+      "quote": "松下和GE的商业模式都不太好，企业文化也没我想象的好",
+      "source_file": "2022-05_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/219957686"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "5115751f-101d-4b37-b87b-948f91ac8bb7",
+      "stock": "松下",
+      "ticker": "Panasonic",
+      "market": "UNKNOWN",
+      "date": "2022-05-16",
+      "sentiment": "bearish",
+      "summary": "看空松下",
+      "quote": "松下和GE的商业模式都不太好，企业文化也没我想象的好",
+      "source_file": "2022-05_batch002",
+      "source_type": "xueqiu",
+      "chunk_index": 2,
+      "url": "https://xueqiu.com/1247347556/219957686"
+    }
+  ]
+}

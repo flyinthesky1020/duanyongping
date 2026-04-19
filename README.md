@@ -74,6 +74,25 @@ app.run(debug=True, host="0.0.0.0", port=5002)
 PY
 ```
 
+## 生产部署
+## Production Deployment
+
+- 阿里云 ECS + 域名上线步骤见 [DEPLOY_ALIYUN.md](/Users/haitao/Documents/duanyongping/DEPLOY_ALIYUN.md)
+- For Alibaba Cloud ECS deployment, follow [DEPLOY_ALIYUN.md](/Users/haitao/Documents/duanyongping/DEPLOY_ALIYUN.md)
+
+- 上线前建议先生成本地快照，避免线上再请求第三方股票接口：
+- Before deployment, build local snapshots so production does not request third-party stock providers:
+
+```bash
+python3 scripts/build_deploy_snapshot.py
+```
+
+- 生成后的发布数据会单独放在 `deploy_snapshot/current/` 目录。
+- The generated deploy-ready data is stored separately under `deploy_snapshot/current/`.
+
+- 如需继续跑抽取脚本，请基于 `config.example.json` 在本地手动创建不入库的 `config.json`。
+- If you need to rerun extraction pipelines, create a local untracked `config.json` from `config.example.json`.
+
 ## 主要页面
 ## Main Views
 

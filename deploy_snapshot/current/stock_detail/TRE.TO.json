@@ -1,0 +1,41 @@
+{
+  "name": "TRE.TO",
+  "ticker": "TRE.TO",
+  "market": "UNKNOWN",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "93eee2f0-b52d-4a63-b4ec-ba6b68528427",
+      "stock": "TRE.TO",
+      "ticker": "TRE.TO",
+      "market": "UNKNOWN",
+      "date": "2011-08-31",
+      "sentiment": "bearish",
+      "summary": "不信任该类型CEO",
+      "quote": "基本上，我对喜欢谈传统文化，佛，养生，的ceo，都不太信任。@TRE.TO",
+      "source_file": "2011-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/20376807"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "93eee2f0-b52d-4a63-b4ec-ba6b68528427",
+      "stock": "TRE.TO",
+      "ticker": "TRE.TO",
+      "market": "UNKNOWN",
+      "date": "2011-08-31",
+      "sentiment": "bearish",
+      "summary": "不信任该类型CEO",
+      "quote": "基本上，我对喜欢谈传统文化，佛，养生，的ceo，都不太信任。@TRE.TO",
+      "source_file": "2011-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/20376807"
+    }
+  ]
+}

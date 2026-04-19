@@ -1,0 +1,41 @@
+{
+  "name": "嘉信理财",
+  "ticker": "SCHW",
+  "market": "US",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "7d83d0d8-3d45-464b-aafb-f764a93bc042",
+      "stock": "嘉信理财",
+      "ticker": "SCHW",
+      "market": "US",
+      "date": "2023-03-14",
+      "sentiment": "bearish",
+      "summary": "难是好的投资标的",
+      "quote": "券商的差异化一般很小而且转换成本也很小，所以一般来说很难是特别好的投资标的",
+      "source_file": "2023-03_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/244479977"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "7d83d0d8-3d45-464b-aafb-f764a93bc042",
+      "stock": "嘉信理财",
+      "ticker": "SCHW",
+      "market": "US",
+      "date": "2023-03-14",
+      "sentiment": "bearish",
+      "summary": "难是好的投资标的",
+      "quote": "券商的差异化一般很小而且转换成本也很小，所以一般来说很难是特别好的投资标的",
+      "source_file": "2023-03_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/244479977"
+    }
+  ]
+}

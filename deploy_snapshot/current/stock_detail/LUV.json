@@ -1,0 +1,74 @@
+{
+  "name": "西南航空",
+  "ticker": "LUV",
+  "market": "US",
+  "philosophies": [
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture",
+    "integrity"
+  ],
+  "opinion_count": 2,
+  "bullish_count": 0,
+  "bearish_count": 2,
+  "preview_opinions": [
+    {
+      "id": "7b7754c2-933e-4dba-8fdc-0a0b0f0623fd",
+      "stock": "西南航空",
+      "ticker": "LUV",
+      "market": "US",
+      "date": "2020-06-11",
+      "sentiment": "bearish",
+      "summary": "看空航空股模式",
+      "quote": "新冠传染性比SARS要厉害，似乎短期内也不会像SARS那样消失，而且以后出现这种病毒的频率是有可能增加的。如果不到10年来一次，航空公司这种生意模式会非常辛苦的。",
+      "source_file": "2020-06_batch003",
+      "source_type": "xueqiu",
+      "chunk_index": 3,
+      "url": "https://xueqiu.com/1247347556/151114518"
+    },
+    {
+      "id": "779154ed-5c85-4f35-8f06-38d0a9f05d13",
+      "stock": "西南航空",
+      "ticker": "LUV",
+      "market": "US",
+      "date": "2020-08-17",
+      "sentiment": "bearish",
+      "summary": "西南航空未来艰难",
+      "quote": "我也觉得西南航空公司是最优秀的航空公司，但依然觉得他们未来的日子不好过。",
+      "source_file": "2020-08_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/156918135"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "7b7754c2-933e-4dba-8fdc-0a0b0f0623fd",
+      "stock": "西南航空",
+      "ticker": "LUV",
+      "market": "US",
+      "date": "2020-06-11",
+      "sentiment": "bearish",
+      "summary": "看空航空股模式",
+      "quote": "新冠传染性比SARS要厉害，似乎短期内也不会像SARS那样消失，而且以后出现这种病毒的频率是有可能增加的。如果不到10年来一次，航空公司这种生意模式会非常辛苦的。",
+      "source_file": "2020-06_batch003",
+      "source_type": "xueqiu",
+      "chunk_index": 3,
+      "url": "https://xueqiu.com/1247347556/151114518"
+    },
+    {
+      "id": "779154ed-5c85-4f35-8f06-38d0a9f05d13",
+      "stock": "西南航空",
+      "ticker": "LUV",
+      "market": "US",
+      "date": "2020-08-17",
+      "sentiment": "bearish",
+      "summary": "西南航空未来艰难",
+      "quote": "我也觉得西南航空公司是最优秀的航空公司，但依然觉得他们未来的日子不好过。",
+      "source_file": "2020-08_batch001",
+      "source_type": "xueqiu",
+      "chunk_index": 1,
+      "url": "https://xueqiu.com/1247347556/156918135"
+    }
+  ]
+}

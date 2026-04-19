@@ -1,0 +1,43 @@
+{
+  "name": "三星",
+  "ticker": "Samsung",
+  "market": "UNKNOWN",
+  "philosophies": [
+    "business_model"
+  ],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "ea991845-36f8-45c8-90ad-f9b9f9a42cdf",
+      "stock": "三星",
+      "ticker": "Samsung",
+      "market": "UNKNOWN",
+      "date": "2012-08-30",
+      "sentiment": "bearish",
+      "summary": "三星未来经营困难",
+      "quote": "也许不用10年，三星的日子就会比现在那些日本的老牌家电公司难受。",
+      "source_file": "2012-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/22185134"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "ea991845-36f8-45c8-90ad-f9b9f9a42cdf",
+      "stock": "三星",
+      "ticker": "Samsung",
+      "market": "UNKNOWN",
+      "date": "2012-08-30",
+      "sentiment": "bearish",
+      "summary": "三星未来经营困难",
+      "quote": "也许不用10年，三星的日子就会比现在那些日本的老牌家电公司难受。",
+      "source_file": "2012-08_batch000",
+      "source_type": "xueqiu",
+      "chunk_index": 0,
+      "url": "https://xueqiu.com/1247347556/22185134"
+    }
+  ]
+}
