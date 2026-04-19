@@ -67,7 +67,6 @@ function renderTimelineDetail(item) {
   detailEl.innerHTML = `
     <div class="phi-header-card timeline-detail-header">
       <div class="phi-title">年度脉络 · ${escapeHtml(item.year)}</div>
-      <div class="phi-tagline">按时间回看这一年里段永平关注的核心理念、代表性股票与关键表达。</div>
       <div class="phi-description">${buildYearLead(item)}</div>
       <div class="timeline-stat-row">
         <div class="timeline-stat-chip">原始发言 ${item.post_count || 0} 条</div>
