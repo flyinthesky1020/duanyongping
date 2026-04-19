@@ -93,6 +93,37 @@ PY
   展示他讨论过的股票，并附带观点、统计与价格走势。
   Shows the stocks he talked about together with opinions, statistics, and price trends.
 
+## 页面截图
+## Screenshots
+
+### 首页 / Home
+
+首页以 3D 词云作为第一入口，适合快速浏览核心理念与高频提及股票。
+The home tab uses a 3D word cloud as the first entry point for quickly exploring key ideas and frequently mentioned stocks.
+
+![首页截图](docs/screenshots/home.png)
+
+### 年度脉络 / Yearly Timeline
+
+年度脉络按照年份组织关键理念、重点股票、关键切片和分月观点，便于观察思想演化。
+The timeline tab organizes key philosophies, top stocks, important moments, and monthly posts by year, making the evolution of ideas easier to follow.
+
+![年度脉络截图](docs/screenshots/timeline.png)
+
+### 投资理念 / Philosophy
+
+投资理念页将发言归纳为主题，并展示代表性语录和关联股票。
+The philosophy tab groups statements into themes and highlights representative quotes together with related stocks.
+
+![投资理念截图](docs/screenshots/philosophy.png)
+
+### 提及股票 / Stocks
+
+提及股票页支持按市场筛选、搜索和展开查看观点详情，是查看个股观点与统计的主要入口。
+The stocks tab supports market filters, search, and expandable details, and serves as the main entry point for stock-level opinions and statistics.
+
+![提及股票截图](docs/screenshots/stocks.png)
+
 ## 项目结构
 ## Project Structure
 
