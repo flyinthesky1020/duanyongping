@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c0f99d77-622f-4d4b-aea3-4b5f5c536334",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-03-16",
+    "sentiment": "bullish",
+    "summary": "投资腾讯",
+    "quote": "我投腾讯和FB没找过任何内部高管聊，虽然我其实也认识腾讯的高管（球友）。我投资的标准很简单：商业模式，企业文化，合理价钱。所以当商业模式和企业文化不错的公司价钱也不错时，我就会有兴趣。",
+    "source_file": "2019-03_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/123126525"
+  },
+  {
+    "id": "c1805e85-825c-4649-a489-4c6a37918c7c",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2019-03-16",
+    "sentiment": "bullish",
+    "summary": "投资Facebook",
+    "quote": "我投腾讯和FB没找过任何内部高管聊，虽然我其实也认识腾讯的高管（球友）。我投资的标准很简单：商业模式，企业文化，合理价钱。所以当商业模式和企业文化不错的公司价钱也不错时，我就会有兴趣。",
+    "source_file": "2019-03_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/123126525"
+  }
+]

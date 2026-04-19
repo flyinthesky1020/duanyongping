@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我们招人会先看合适性，同时要看合格性。合适性指的是和企业文化的匹配性，合格性则指的是把事情做对的能力。理论上合格性是可以培养的，但还是需要具备一定的基础。",
+    "post_url": "https://xueqiu.com/1247347556/124144381",
+    "post_date": "2019-03-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "虽然iPhone早就有了无线充电，但AirPower出不来还是有点可惜。终于见到苹果掉一次链子了，不过这比强行推出来好。",
+    "post_url": "https://xueqiu.com/1247347556/124133160",
+    "post_date": "2019-03-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

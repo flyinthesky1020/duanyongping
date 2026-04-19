@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7ca0561c-cc99-4df9-a428-28d2da111c57",
+    "stock": "新浪",
+    "ticker": "SINA",
+    "market": "US",
+    "date": "2012-04-05",
+    "sentiment": "bullish",
+    "summary": "卖出put支持新浪",
+    "quote": "卖个put再支持一下新浪微博",
+    "source_file": "2012-04_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/21650810"
+  }
+]

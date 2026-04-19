@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ec70dbea-e1bd-4807-9bf3-edfa4697539e",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-04-23",
+    "sentiment": "bullish",
+    "summary": "看好苹果长期持有",
+    "quote": "以现价持有这两家公司，10年后年化8%应该大概率可以实现。这也是我为什么愿意持有这两家公司的原因。",
+    "source_file": "2019-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/125281099"
+  },
+  {
+    "id": "d05fa6a9-f208-44f3-8674-6838df908cef",
+    "stock": "Berkshire Hathaway",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2019-04-23",
+    "sentiment": "bullish",
+    "summary": "看好伯克希尔长期持有",
+    "quote": "以现价持有这两家公司，10年后年化8%应该大概率可以实现。这也是我为什么愿意持有这两家公司的原因。",
+    "source_file": "2019-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/125281099"
+  }
+]

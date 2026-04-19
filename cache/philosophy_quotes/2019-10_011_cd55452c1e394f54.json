@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得任何行业我们都可以到前三，前提是：1、要有足够长的时间，2、只能一个一个来。",
+    "post_url": "https://xueqiu.com/1247347556/133599839",
+    "post_date": "2019-10-01",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "大道想通了买股票就是买公司，所以不再操心股价。",
+    "post_url": "https://xueqiu.com/1247347556/133592538",
+    "post_date": "2019-10-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "海底捞的东西还可以的，服务确实不错。餐饮业到最后还是要靠东西好吃才能活下去。",
+    "post_url": "https://xueqiu.com/1247347556/133596416",
+    "post_date": "2019-10-01",
+    "mentioned_stocks": [
+      "海底捞"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "据说连茅台酒厂自己想换个地方做同样的就都做不出来，不知道为什么。",
+    "post_url": "https://xueqiu.com/1247347556/133592513",
+    "post_date": "2019-10-01",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你在纠结什么？没看懂。",
+    "post_url": "https://xueqiu.com/1247347556/133599675",
+    "post_date": "2019-10-01",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

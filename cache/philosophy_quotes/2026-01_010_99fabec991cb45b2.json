@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "提高直销比例以后，大家才能真正看到茅台的实力和提价能力。我觉得茅台零售价格至少是可以跟上通胀的。",
+    "post_url": "https://xueqiu.com/1247347556/372156832",
+    "post_date": "2026-01-20",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们是站着说话不腰疼，所以现在逼着他们这么做对长远来说是件很好的事情。",
+    "post_url": "https://xueqiu.com/1247347556/372152245",
+    "post_date": "2026-01-20",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果有闲钱，不投资最后肯定会输给通胀的，但赌博会输得更快更干净。",
+    "post_url": "https://xueqiu.com/1247347556/372071175",
+    "post_date": "2026-01-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

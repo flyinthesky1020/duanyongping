@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "好公司不怕大萧条，大萧条来的时候好公司的额外优势更大，公司价值所代表的实际购买力反而会相对上升。所以，投资要聚焦在找好公司上面。",
+    "post_url": "https://xueqiu.com/1247347556/133058272",
+    "post_date": "2019-09-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "要建立品牌一定要想得很长远很长远。简单但绝非容易。",
+    "post_url": "https://xueqiu.com/1247347556/133120604",
+    "post_date": "2019-09-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "对的，不懂不碰。",
+    "post_url": "https://xueqiu.com/1247347556/133090691",
+    "post_date": "2019-09-19",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "看未来能赚多少钱，看不懂就不碰了。",
+    "post_url": "https://xueqiu.com/1247347556/133090750",
+    "post_date": "2019-09-19",
+    "mentioned_stocks": [
+      "amzn"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我投资是不太看财报的（早期看过一点点，不觉得有用）。一般来说，不了解的公司不要碰，了解的公司不太可能不知道他们是不是有意做假的。如果你连业务的作假都看不到，那财报做假就更难看到了。",
+    "post_url": "https://xueqiu.com/1247347556/133060045",
+    "post_date": "2019-09-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

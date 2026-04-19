@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8adbca02-7421-44f8-9c9d-40347f89cffa",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-11-28",
+    "sentiment": "bullish",
+    "summary": "茅台回购明智",
+    "quote": "他们回购或增持是明智的。他们应该一直是很明白茅台的价值的",
+    "source_file": "2022-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/236532058"
+  },
+  {
+    "id": "e42a9c7a-2fc5-4066-96ea-d8929ee9aa19",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-11-28",
+    "sentiment": "bullish",
+    "summary": "苹果期权易亏",
+    "quote": "买option的结局大概率是会亏的",
+    "source_file": "2022-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/236520826"
+  }
+]

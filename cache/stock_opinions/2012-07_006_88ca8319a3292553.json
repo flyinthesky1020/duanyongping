@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a8070bc5-3f79-42a0-b815-22d064fdd6b7",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-07-05",
+    "sentiment": "bullish",
+    "summary": "看好苹果护城河与创新能力",
+    "quote": "苹果创造用户需求的能力能延续就很棒了，不用年年用大招，厨师能把菜做好。iCloud是很棒的护城河。",
+    "source_file": "2012-07_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/21973069"
+  }
+]

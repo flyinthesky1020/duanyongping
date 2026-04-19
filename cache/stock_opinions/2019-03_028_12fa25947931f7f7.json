@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9751f112-066e-48c3-a079-1382fa4cb93f",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-03-13",
+    "sentiment": "bullish",
+    "summary": "看好腾讯长期盈利",
+    "quote": "我认为腾讯这家公司大概率10-15年内一年可以赚2000-3000亿人民币，愿意出多少钱买这家公司完全取决于你自己的机会成本。",
+    "source_file": "2019-03_batch028",
+    "source_type": "xueqiu",
+    "chunk_index": 28,
+    "url": "https://xueqiu.com/1247347556/122932446"
+  }
+]

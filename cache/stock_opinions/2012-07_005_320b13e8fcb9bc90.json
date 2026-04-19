@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3d396395-a13a-402c-8125-50267b9d6599",
+    "stock": "Groupon",
+    "ticker": "GRPN",
+    "market": "US",
+    "date": "2012-07-13",
+    "sentiment": "bearish",
+    "summary": "不会买Groupon",
+    "quote": "我其实根本就不懂groupon的生意模式，只是粗略看了一下，看不出这种公司能长期获利的理由，所以我不会买",
+    "source_file": "2012-07_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/22001844"
+  }
+]

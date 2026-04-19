@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "总想着翻身是个啥逻辑？富两次吗？...投资用的就应该是闲钱，不然很难有平常心。",
+    "post_url": "https://xueqiu.com/1247347556/273297056",
+    "post_date": "2024-01-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "粉笔是个啥？没听说过呢。",
+    "post_url": "https://xueqiu.com/1247347556/273298012",
+    "post_date": "2024-01-02",
+    "mentioned_stocks": [
+      "粉笔"
+    ],
+    "quality_score": 4
+  }
+]

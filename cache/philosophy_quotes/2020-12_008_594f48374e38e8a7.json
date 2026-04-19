@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买股票用杠杆的情况下，你的股票是被抵押给券商的，当杠杆比例高到一定程度，一个大跌券商就可能会把你的股票卖掉还债。股市大跌是一定会发生的事情。而且总是发生在你没想到的时候。只要你一直在用margin，你一定会碰到这一天的，很可能会让你一夜回到解放前。苹果历史上大掉40%的事情发生过10次...",
+    "post_url": "https://xueqiu.com/1247347556/165067430",
+    "post_date": "2020-12-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果市场明天关闭，不在开放，但股东权益不变，你对自己持有的股票的看法会有改变吗？你回到股票到底是什么就能明白了。",
+    "post_url": "https://xueqiu.com/1247347556/165067259",
+    "post_date": "2020-12-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

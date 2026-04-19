@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d44b5e97-5b3e-4660-bb1b-6d218c60c30f",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-10-09",
+    "sentiment": "bullish",
+    "summary": "茅台长期优于存款",
+    "quote": "我觉得10年20年后看买茅台比存银行大概率会好。",
+    "source_file": "2024-10_batch016",
+    "source_type": "xueqiu",
+    "chunk_index": 16,
+    "url": "https://xueqiu.com/1247347556/307454334"
+  }
+]

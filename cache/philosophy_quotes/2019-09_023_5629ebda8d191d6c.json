@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "苹果本来就不是一家手机公司",
+    "post_url": "https://xueqiu.com/1247347556/132646276",
+    "post_date": "2019-09-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "平常心",
+    "post_url": "https://xueqiu.com/1247347556/132641571",
+    "post_date": "2019-09-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

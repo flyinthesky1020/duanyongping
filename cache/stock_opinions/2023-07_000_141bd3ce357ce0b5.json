@@ -1,0 +1,16 @@
+[
+  {
+    "id": "01b5ada4-20ae-45ec-913e-61f12415913f",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-07-31",
+    "sentiment": "bullish",
+    "summary": "长期持有苹果",
+    "quote": "我觉得苹果不会就这么绝尘而去的，我...通过option，我可以在保住股票的前提下每年还能多赚几个点，但万一苹果突然一飞冲天我就卖飞了",
+    "source_file": "2023-07_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/257081750"
+  }
+]

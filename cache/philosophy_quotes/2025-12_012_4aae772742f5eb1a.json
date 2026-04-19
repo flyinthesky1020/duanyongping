@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "每家公司都是有风险的。公司高管买不买自己股票跟自己公司好不好的关心其实是很小的。简单讲，你搞不懂的公司都是风险很大的。",
+    "post_url": "https://xueqiu.com/1247347556/364472590",
+    "post_date": "2025-12-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我从来没跟黄峥聊过拼多多，所以一直搞不太懂。",
+    "post_url": "https://xueqiu.com/1247347556/364459159",
+    "post_date": "2025-12-03",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "对很多常规意义上不会破产的企业，相对投资者来说是会破产的，资产重组，负债化股等，对投资者来说可能都类似破产",
+    "post_url": "https://xueqiu.com/1247347556/364458106",
+    "post_date": "2025-12-03",
+    "mentioned_stocks": [
+      "万科A"
+    ],
+    "quality_score": 4
+  }
+]

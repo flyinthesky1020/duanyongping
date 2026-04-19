@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解美团，不知道股价高低，也没买过。",
+    "post_url": "https://xueqiu.com/1247347556/160572973",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [
+      "美团"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "尽量从10年后往回看，别管老巴说过啥。",
+    "post_url": "https://xueqiu.com/1247347556/160572695",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我记得最深的就是企业不要追着利润走。",
+    "post_url": "https://xueqiu.com/1247347556/160572543",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "感觉像贪心，但不确定。",
+    "post_url": "https://xueqiu.com/1247347556/160572823",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

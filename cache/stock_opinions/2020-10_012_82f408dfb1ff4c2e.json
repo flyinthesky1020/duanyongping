@@ -1,0 +1,16 @@
+[
+  {
+    "id": "012883b9-7055-4128-84f7-3b7c4331b723",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-10-19",
+    "sentiment": "bullish",
+    "summary": "茅台价值优于银行利息",
+    "quote": "假设有人按今天的价钱把整个茅台变现了后全部存进银行，我觉得未来十年他能收到的利息总和是大概率会低于茅台本身经营所带来的净现金流总和的。",
+    "source_file": "2020-10_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/161247058"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我知道你问什么，但我觉得投资的决策你必须自己做，想透了后再做决定。",
+    "post_url": "https://xueqiu.com/1247347556/134033758",
+    "post_date": "2019-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不给具体投资建议的。关于茅台，我的观点已经说的很清楚了。希望大家如果不是为了捐钱给六和公益的话，不要浪费钱在这种问题上哈。",
+    "post_url": "https://xueqiu.com/1247347556/134030904",
+    "post_date": "2019-10-14",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "降低了风险的意思是每个人买两瓶比某个人买了很多好。提高了收入的意思是直接卖给零售商比给代理商的价格要好，而且名正言顺，同时还减低了腐败机会。",
+    "post_url": "https://xueqiu.com/1247347556/133983033",
+    "post_date": "2019-10-13",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "是啊。其实茅台53度难买到的问题一直都在，但以前大家不知道在哪里能买到真的，现在大家知道这个是真的的时候每人逢年过节尝尝就不得了了哈。",
+    "post_url": "https://xueqiu.com/1247347556/134034260",
+    "post_date": "2019-10-14",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "马化腾人不错，而且年轻，微信及微信支付的影响非常大且深远。我们确实买了一点腾讯，但比例很小。",
+    "post_url": "https://xueqiu.com/1247347556/134087433",
+    "post_date": "2019-10-15",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

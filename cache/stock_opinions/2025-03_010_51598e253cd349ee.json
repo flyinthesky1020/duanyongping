@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2405f2bf-e405-4b77-82ca-8fd08f88b1b2",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-03-11",
+    "sentiment": "bearish",
+    "summary": "苹果目前不便宜",
+    "quote": "补充一下，苹果目前其实依然不那么便宜，而且面临懂王加关税的不确定因素。",
+    "source_file": "2025-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/326940091"
+  }
+]

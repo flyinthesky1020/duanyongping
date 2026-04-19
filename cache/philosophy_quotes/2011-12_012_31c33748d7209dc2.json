@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "老郭虽然在代工业世界顶尖，但对零售业完全没概念。",
+    "post_url": "https://xueqiu.com/1247347556/20574440",
+    "post_date": "2011-12-11",
+    "mentioned_stocks": [
+      "富智康集团"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "价值投资者不会35买，知道区别了？",
+    "post_url": "https://xueqiu.com/1247347556/20560849",
+    "post_date": "2011-12-06",
+    "mentioned_stocks": [
+      "携程"
+    ],
+    "quality_score": 4
+  }
+]

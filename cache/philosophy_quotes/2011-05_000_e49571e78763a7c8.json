@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "很喜欢看空不做空的说法。",
+    "post_url": "https://xueqiu.com/1247347556/20215902",
+    "post_date": "2011-05-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我只是发现很多人受自己的水平所限，把马云的很多长处当成短处了。",
+    "post_url": "https://xueqiu.com/1247347556/20234011",
+    "post_date": "2011-05-17",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 3
+  }
+]

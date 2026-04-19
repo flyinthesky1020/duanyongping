@@ -1,0 +1,16 @@
+[
+  {
+    "id": "43dc9686-4174-40d0-92c1-98f29e78a6f5",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2018-09-10",
+    "sentiment": "bullish",
+    "summary": "好公司便宜应多买",
+    "quote": "不懂什么叫系统风险，好公司便宜的时候应该尽量多买点，岂有卖掉之理呢？",
+    "source_file": "2018-09_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/113598055"
+  }
+]

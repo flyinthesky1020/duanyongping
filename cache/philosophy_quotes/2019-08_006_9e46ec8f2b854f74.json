@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "错的事情一定要马上停，但对的事情不一定都要做，做对的事情也需要聚焦。",
+    "post_url": "https://xueqiu.com/1247347556/131631787",
+    "post_date": "2019-08-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "错的事情一定要马上停，但对的事情不一定都要做，做对的事情也需要聚焦。",
+    "post_url": "https://xueqiu.com/1247347556/131631787",
+    "post_date": "2019-08-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "因为定性分析要更准确。比如人们可能很容易知道茅台10年后大概能赚多少钱，但无法准确知道10年后的某一年能赚多少，也没必要知道。对苹果这类公司则更是如此。",
+    "post_url": "https://xueqiu.com/1247347556/131607806",
+    "post_date": "2019-08-22",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

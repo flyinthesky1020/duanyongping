@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "好的企业文化可以为好的商业模式保驾护航，甚至可以帮助发现好的商业模式，但我没想过权重的问题。这是个过滤器，没有权重的概念。",
+    "post_url": "https://xueqiu.com/1247347556/127185527",
+    "post_date": "2019-05-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "长期来说，该干嘛干嘛！",
+    "post_url": "https://xueqiu.com/1247347556/127150237",
+    "post_date": "2019-05-22",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "赌是一翻两瞪眼的事情，当然可以啊，但没人保证你能赢（不然不叫赌啊）",
+    "post_url": "https://xueqiu.com/1247347556/127149699",
+    "post_date": "2019-05-22",
+    "mentioned_stocks": [
+      "百度"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我看了一下雪球上的财务数据，他们好像确实有200亿美金的净资产啊，为什么不回购呢？在想什么？",
+    "post_url": "https://xueqiu.com/1247347556/127149699",
+    "post_date": "2019-05-22",
+    "mentioned_stocks": [
+      "百度"
+    ],
+    "quality_score": 3
+  }
+]

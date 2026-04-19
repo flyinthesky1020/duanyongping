@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我从2011年就在雪球说苹果了，说了十几年才涨上来的吧？ 至少前三年好像都还经常是掉的。",
+    "post_url": "https://xueqiu.com/1247347556/383545563",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [
+      "苹果",
+      "网易",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我觉得泡泡玛特已经过了这一关了。",
+    "post_url": "https://xueqiu.com/1247347556/383540688",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我也认同王宁说过的很多话，所以我也是他的粉丝哈。",
+    "post_url": "https://xueqiu.com/1247347556/383537381",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "没有现金流的东西是很难理解的，我们不是一路人哈。",
+    "post_url": "https://xueqiu.com/1247347556/383536692",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没有现金流的东西是很难理解的，我们不是一路人哈。",
+    "post_url": "https://xueqiu.com/1247347556/383536692",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "领先的ai看图看线能赚到钱是理论上是很有可能的，但这是个零和游戏，亏钱的那些一般叫做“韭菜”。",
+    "post_url": "https://xueqiu.com/1247347556/383537168",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

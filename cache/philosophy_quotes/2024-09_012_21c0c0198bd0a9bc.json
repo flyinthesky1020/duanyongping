@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "其实自己真的明白的公司跌得重是值得高兴的事情，除非你其实不真懂。",
+    "post_url": "https://xueqiu.com/1247347556/304858381",
+    "post_date": "2024-09-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我们不知道市场会有多疯狂，也不知道事情可能会坏到什么程度。不要用margin是投资的基本要求！我们一直说的是10年20年，但你用margin可能会让你在那之前就陷入困境，没必要哈。",
+    "post_url": "https://xueqiu.com/1247347556/304858189",
+    "post_date": "2024-09-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们不知道市场会有多疯狂，也不知道事情可能会坏到什么程度。不要用margin是投资的基本要求！我们一直说的是10年20年，但你用margin可能会让你在那之前就陷入困境，没必要哈。",
+    "post_url": "https://xueqiu.com/1247347556/304858189",
+    "post_date": "2024-09-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "本来投上市公司的钱就应该是闲钱，如果自己能找到生意，那当然应该投自己的生意。其实投上市公司的内在道理是一样的，差别是不用自己费力去经营而已，很多时候甚至还能请到比自己更能干的人去经营。",
+    "post_url": "https://xueqiu.com/1247347556/304856756",
+    "post_date": "2024-09-17",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "其实投上市公司的内在道理是一样的，差别是不用自己费力去经营而已，很多时候甚至还能请到比自己更能干的人去经营。",
+    "post_url": "https://xueqiu.com/1247347556/304856756",
+    "post_date": "2024-09-17",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  }
+]

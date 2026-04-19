@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fd7c229d-5c6a-4f7f-b160-12d64dc51353",
+    "stock": "万科A",
+    "ticker": "000002.SZ",
+    "market": "CN_A",
+    "date": "2025-10-31",
+    "sentiment": "bearish",
+    "summary": "不看好万科A",
+    "quote": "哎，不知道你学的是什么。大凡问下DeepSeek也不会得出你的结论吧。",
+    "source_file": "2025-10_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/359409930"
+  },
+  {
+    "id": "bbf38f08-eaa0-4cd6-a7d4-f9584ddf7e3e",
+    "stock": "伯克希尔B",
+    "ticker": "BRK-B",
+    "market": "US",
+    "date": "2025-10-31",
+    "sentiment": "bullish",
+    "summary": "大概率买入BRK-B",
+    "quote": "目前我大概率会买BRK/B，那是个躲牛市的好地方。",
+    "source_file": "2025-10_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/359409743"
+  },
+  {
+    "id": "d6b66a7a-58e0-4978-8be9-8ec490f2ff0b",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-10-31",
+    "sentiment": "bullish",
+    "summary": "不下修茅台价值",
+    "quote": "回复@博学的存钱浪人: 不会。",
+    "source_file": "2025-10_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/359286486"
+  }
+]

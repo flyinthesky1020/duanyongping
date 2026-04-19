@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "关键看基本面哈。",
+    "post_url": "https://xueqiu.com/1247347556/20484807",
+    "post_date": "2011-11-08",
+    "mentioned_stocks": [
+      "新浪"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "he's just like you, know nothing about it.",
+    "post_url": "https://xueqiu.com/1247347556/20484666",
+    "post_date": "2011-11-08",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦A"
+    ],
+    "quality_score": 4
+  }
+]

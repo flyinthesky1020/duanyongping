@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你不光对苹果理解很浅。你觉得苹果“这类”科技企业都还有谁？",
+    "post_url": "https://xueqiu.com/1247347556/242422198",
+    "post_date": "2023-02-18",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "勇气在这里好像没啥用，但理性可能会帮助更大一点。",
+    "post_url": "https://xueqiu.com/1247347556/242422211",
+    "post_date": "2023-02-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "向更好的东西屈服真的那么伤自尊吗？不承认别人好又如何可以学习人家呢？去其糟粕取其精华？too naive.",
+    "post_url": "https://xueqiu.com/1247347556/242421326",
+    "post_date": "2023-02-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

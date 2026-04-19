@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "腾讯商业模式非常不错、企业文化也还可以。但确实不便宜。不便宜是和当时其他的好公司比（茅台或苹果），潜力还很大指的是微信及微信支付，尤其是微信支付。不过，微信支付到底会咋样还是蛮复杂的。",
+    "post_url": "https://xueqiu.com/1247347556/132513418",
+    "post_date": "2019-09-08",
+    "mentioned_stocks": [
+      "腾讯控股",
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "腾讯商业模式非常不错、企业文化也还可以。",
+    "post_url": "https://xueqiu.com/1247347556/132513418",
+    "post_date": "2019-09-08",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "确实有些企业家对投资的理解并不比常人好。",
+    "post_url": "https://xueqiu.com/1247347556/132515522",
+    "post_date": "2019-09-08",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

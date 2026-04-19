@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e519588f-cf39-4d13-84d1-543c39fbe8a0",
+    "stock": "台积电",
+    "ticker": "TSM",
+    "market": "US",
+    "date": "2023-05-16",
+    "sentiment": "bearish",
+    "summary": "不看好台积电",
+    "quote": "我不意外巴菲特会卖掉台积电。虽然台积电非常了不起，但商业模式有点累，实在是太重了。但投资是全方位比较的，我会更倾向于商业模式更好一点的公司。",
+    "source_file": "2023-05_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/250482172"
+  },
+  {
+    "id": "c648f511-8479-46fa-92b2-b5475dda1bee",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2023-05-16",
+    "sentiment": "bullish",
+    "summary": "再卖put看涨",
+    "quote": "那我再卖点put@木买蚂蚁：巴菲特又加仓西方石油了",
+    "source_file": "2023-05_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/250482470"
+  }
+]

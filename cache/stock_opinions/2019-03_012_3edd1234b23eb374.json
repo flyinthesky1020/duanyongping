@@ -1,0 +1,44 @@
+[
+  {
+    "id": "228f7631-cb98-491d-8e02-0148c8c9b1ea",
+    "stock": "苹果公司",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-03-18",
+    "sentiment": "bullish",
+    "summary": "看好苹果",
+    "quote": "您现持有的苹果，茅台，腾迅都是净利润率特别高的公司...不过好像我喜欢的公司似乎都有高毛利的特征，但没归纳过。",
+    "source_file": "2019-03_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/123276113"
+  },
+  {
+    "id": "aadcd304-30f5-4164-8cc5-8f119cf1bf6d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-03-18",
+    "sentiment": "bullish",
+    "summary": "看好茅台",
+    "quote": "您现持有的苹果，茅台，腾迅都是净利润率特别高的公司...不过好像我喜欢的公司似乎都有高毛利的特征，但没归纳过。",
+    "source_file": "2019-03_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/123276113"
+  },
+  {
+    "id": "f438564d-058c-4306-9c5a-ce40c5d2fde2",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-03-18",
+    "sentiment": "bullish",
+    "summary": "看好腾讯",
+    "quote": "您现持有的苹果，茅台，腾迅都是净利润率特别高的公司...不过好像我喜欢的公司似乎都有高毛利的特征，但没归纳过。",
+    "source_file": "2019-03_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/123276113"
+  }
+]

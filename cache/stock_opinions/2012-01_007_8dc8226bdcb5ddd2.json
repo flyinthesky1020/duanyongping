@@ -1,0 +1,16 @@
+[
+  {
+    "id": "272db302-d15d-41c9-8918-9dd3c7396faa",
+    "stock": "雅虎",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2012-01-04",
+    "sentiment": "bearish",
+    "summary": "雅虎麻烦需防范风险",
+    "quote": "美国雅虎总的来讲是比较麻烦地，谁都难有好办法，所以我们要对可能发生的坏情况",
+    "source_file": "2012-01_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/20647137"
+  }
+]

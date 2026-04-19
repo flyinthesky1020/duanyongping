@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "是的，最后居然不赚钱的基本上都是因为太短视。",
+    "post_url": "https://xueqiu.com/1247347556/132724668",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "平常心其实就是在任何时候，尤其是在有诱惑的时候，能够排除所有外界的干扰，回到事物的本质（原点），辨别事情的是非与对错，知道什么是对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/132715804",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "结束蓝光部门是不得已的一件事情，不然无法维持一个高质量的队伍，因为这个产品确实江河日下了。目前原蓝光的团队大多转入一加了，他们现在干得也很不错哈。",
+    "post_url": "https://xueqiu.com/1247347556/132706385",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [
+      "一加"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我觉得机会成本的解释是合理的，但这个机会成本可能指的是社会平均机会成本，比如政府债券，比如S&P的平均回报？不管怎么说，存银行肯定是回报最低的办法，因为这样一般会输给通胀，但总比不懂乱买股票连本都保不住要好。",
+    "post_url": "https://xueqiu.com/1247347556/132706290",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "茅台酒量非常小，你说的这些东西不会影响喝茅台酒的人。我认识的很多喝白酒的朋友都是除了茅台什么白酒都不喝的人。试想想，大家聚会时，说“我们今天不喝茅台喝xxx酒”估计很多人会马上说今天不想喝白酒……。社会发展带来的结果是经济条件好的人越来越多，所以茅台的成长应该也是大概率的。",
+    "post_url": "https://xueqiu.com/1247347556/132703427",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  }
+]

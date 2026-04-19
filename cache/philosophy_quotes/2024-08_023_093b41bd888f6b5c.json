@@ -1,0 +1,24 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没兴趣。药业太难了。",
+    "post_url": "https://xueqiu.com/1247347556/300120050",
+    "post_date": "2024-08-06",
+    "mentioned_stocks": [
+      "药明系",
+      "生物医药"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不懂Intel。",
+    "post_url": "https://xueqiu.com/1247347556/300020747",
+    "post_date": "2024-08-05",
+    "mentioned_stocks": [
+      "Intel",
+      "英特尔"
+    ],
+    "quality_score": 3
+  }
+]

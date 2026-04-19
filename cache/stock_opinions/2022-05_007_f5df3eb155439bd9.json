@@ -1,0 +1,30 @@
+[
+  {
+    "id": "641e7179-e788-4f94-a3d2-8c489eeec90a",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-05-05",
+    "sentiment": "bullish",
+    "summary": "长期看好腾讯",
+    "quote": "长期看，至少不会输给通胀的。",
+    "source_file": "2022-05_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/219017976"
+  },
+  {
+    "id": "ae72b1d9-10f1-48d0-83de-17faeb58b137",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-05-05",
+    "sentiment": "bullish",
+    "summary": "茅台增长被低估",
+    "quote": "而且，茅台10%的平均成长很可能低估了。假如你有一笔现金，长期没有使用计划，你觉得投在哪里最舒服（合算）？",
+    "source_file": "2022-05_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/218940879"
+  }
+]

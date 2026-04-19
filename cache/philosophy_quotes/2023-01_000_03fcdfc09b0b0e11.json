@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "你们那个商学院老师其实是不懂可口可乐的。可口可乐配方最厉害的地方是喜欢喝的人喝不腻。让每个人各喝五罐就知道区别了。",
+    "post_url": "https://xueqiu.com/1247347556/241001535",
+    "post_date": "2023-01-31",
+    "mentioned_stocks": [
+      "可口可乐"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我个人理解，好的公司一般来讲就是能够持续找到用户“差异化”需求的那些公司吧。如果找不到“差异化”的东西，那“敢为天下后”的产品就会成为悲剧。所以“敢为天下后”的前提一定是你能够提供出你的用户群需要而别人没有或不能提供的“差异化”的产品。",
+    "post_url": "https://xueqiu.com/1247347556/240491164",
+    "post_date": "2023-01-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "感觉上最没有差异化的产品就是硅片，因为用户最后只会关心每度电的成本，所以这个行业实际上是效率的竞争。航空公司实际上的差异化也非常小，除非某航空公司的安全性被怀疑，否则消费者的关心点会主要集中在从 a 点到 b 点的成本。所以以上两个行业会是价格竞争异常激烈的行业。",
+    "post_url": "https://xueqiu.com/1247347556/240491164",
+    "post_date": "2023-01-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

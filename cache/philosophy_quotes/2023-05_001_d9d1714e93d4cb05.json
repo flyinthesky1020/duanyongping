@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "一直很喜欢迪斯尼的产品，但一直没明白迪斯尼的商业模式。为什么迪斯尼看起来很强大但老是很难赚钱呢？看起来这个商业模式似乎不是那么美妙，是种很累的商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/251779105",
+    "post_date": "2023-05-30",
+    "mentioned_stocks": [
+      "迪士尼"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "关注短期、关注市场的人才会问“股价便不便宜”。我关注长期，看不懂的不碰。我不看市场，只看生意。",
+    "post_url": "https://xueqiu.com/1247347556/251619254",
+    "post_date": "2023-05-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你说某只股票贵，how do you know ? 站在现在看10年前，估计什么都是贵的。你站在10年后看现在，能看懂而且便宜的公司，买就行了。",
+    "post_url": "https://xueqiu.com/1247347556/251619254",
+    "post_date": "2023-05-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

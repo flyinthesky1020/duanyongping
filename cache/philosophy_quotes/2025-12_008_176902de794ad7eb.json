@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "也可能没有努力去寻找对的事情就躺平了。",
+    "post_url": "https://xueqiu.com/1247347556/365455393",
+    "post_date": "2025-12-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个价位段我们茅台的分红都是直接再买股票的。",
+    "post_url": "https://xueqiu.com/1247347556/365443982",
+    "post_date": "2025-12-10",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

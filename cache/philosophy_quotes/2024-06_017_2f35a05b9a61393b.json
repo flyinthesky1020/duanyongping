@@ -1,0 +1,59 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "投资实在是太简单了，说来说去就一句话：买股票就是买公司。但理解公司不是一本书可以写的，所以投资真的很难写书。",
+    "post_url": "https://xueqiu.com/1247347556/293465402",
+    "post_date": "2024-06-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不好受是因为不懂又想赚快钱，对吧？",
+    "post_url": "https://xueqiu.com/1247347556/293464782",
+    "post_date": "2024-06-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "喜欢喝茅台的人不会因为市场价跌了就不喝茅台了，但目前可能商务活动活跃度有点下降，所以喝少了？ 喜欢茅台公司的人，股价越低应该是越开心的。",
+    "post_url": "https://xueqiu.com/1247347556/293464507",
+    "post_date": "2024-06-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "喜欢喝茅台的人不会因为市场价跌了就不喝茅台了，但目前可能商务活动活跃度有点下降，所以喝少了？ 喜欢茅台公司的人，股价越低应该是越开心的。",
+    "post_url": "https://xueqiu.com/1247347556/293464507",
+    "post_date": "2024-06-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "茅台的治理水平离苹果差很远的，大家不理解这点就别讨论茅台了吧。",
+    "post_url": "https://xueqiu.com/1247347556/293465007",
+    "post_date": "2024-06-11",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "喜欢喝茅台的人不会因为市场价跌了就不喝茅台了，但目前可能商务活动活跃度有点下降，所以喝少了？",
+    "post_url": "https://xueqiu.com/1247347556/293464507",
+    "post_date": "2024-06-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

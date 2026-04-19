@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "微软终于明白去ces是件费力不讨好的事情了。苹果早就明白了，我们公司也算一开始就知道地。现在还有很多国内公司每年在ces劳民伤财，希望他们能再想想。",
+    "post_url": "https://xueqiu.com/1247347556/20608393",
+    "post_date": "2011-12-21",
+    "mentioned_stocks": [
+      "微软",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "能讲的都讲了，还看不懂就是看不懂了。",
+    "post_url": "https://xueqiu.com/1247347556/20594915",
+    "post_date": "2011-12-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "那你就少了一种亏钱的办法，未必是坏事。",
+    "post_url": "https://xueqiu.com/1247347556/20594935",
+    "post_date": "2011-12-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

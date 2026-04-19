@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "但我知道老巴很懂银行，所以我懂一点就行了，反正不超过老巴的比例就行。",
+    "post_url": "https://xueqiu.com/1247347556/20382070",
+    "post_date": "2011-09-01",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "“投资者”是应该具有这些基本常识的，不然就成投机了。老巴肯买优先股的公司一般都是老巴认为足够安全的公司，印象中老巴好像没怎么错过。",
+    "post_url": "https://xueqiu.com/1247347556/20381281",
+    "post_date": "2011-09-01",
+    "mentioned_stocks": [
+      "美国银行"
+    ],
+    "quality_score": 3
+  }
+]

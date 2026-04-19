@@ -1,0 +1,16 @@
+[
+  {
+    "id": "87a581f8-fcbc-4785-a70e-c97a17f7b039",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-06-16",
+    "sentiment": "bullish",
+    "summary": "乐见苹果下跌",
+    "quote": "很高兴苹果股价能跌下来，最好时间能持续久一点，回购的成本就能低一些",
+    "source_file": "2022-06_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/222910136"
+  }
+]

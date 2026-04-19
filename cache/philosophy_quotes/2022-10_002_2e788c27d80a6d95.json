@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "$苹果(AAPL)$ 强大的商业模式！",
+    "post_url": "https://xueqiu.com/1247347556/233833660",
+    "post_date": "2022-10-27",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "元宇宙是真看不懂，小扎到底想干啥？vr出来的头几年我还是花了一些时间去了解的，甚至还去附近几个大学的实验室看过，直觉就是这个产品的受欢迎度恐怕会有点像立体电影。一转眼又过去了好几年，当初的感觉还是没能被改变什么。",
+    "post_url": "https://xueqiu.com/1247347556/233824136",
+    "post_date": "2022-10-27",
+    "mentioned_stocks": [
+      "Meta Platforms"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "大道之前说过，希望苹果能掉得多一点时间长一点之类的话，目前市场情况离大道希望的有点距离。",
+    "post_url": "https://xueqiu.com/1247347556/234008916",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果能体会到用闲钱买好公司的意思，就大概能知道波澜是啥意思了。",
+    "post_url": "https://xueqiu.com/1247347556/234008916",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

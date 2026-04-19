@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "尽量长，比如一辈子加五年。",
+    "post_url": "https://xueqiu.com/1247347556/250484283",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看到巴菲特之前没怎么碰过股市，因为觉得那是个投机的东西，不想碰，直到看到老巴后才突然想到，搞懂公司我应该比绝大多数人在行哈。",
+    "post_url": "https://xueqiu.com/1247347556/250555653",
+    "post_date": "2023-05-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不过，这个不是我擅长的范围内的事情，估计很难有啥结论。",
+    "post_url": "https://xueqiu.com/1247347556/250555638",
+    "post_date": "2023-05-16",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "那🉐️多有毛病才需要这样啊？人生苦短，犯不着吧？话说回来，索罗斯接近崩溃边缘是有可能的，毕竟他是个大投机家。",
+    "post_url": "https://xueqiu.com/1247347556/250485918",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

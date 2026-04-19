@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "以前我对商业模式是没有那么重视的，只是众多考虑之一。认识老巴以后，我买的苹果，茅台，包括腾讯，都有老巴的影响在里面。",
+    "post_url": "https://xueqiu.com/1247347556/160960965",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我对安全边际的理解是对公司的理解度而不是股票短期的价格波动。对一个伟大公司而言，有时候一点点价格差别10年后看都不是事，但因为差那点价格而错过一个好公司就可能是大事了。",
+    "post_url": "https://xueqiu.com/1247347556/160970155",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你要能赚快钱为什么要戒掉？你要赚不到那你要戒掉什么？我知道我赚不了块钱，所以这个不算心魔。",
+    "post_url": "https://xueqiu.com/1247347556/160979084",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "从那以后，市场对我的影响逐年下降到几乎没有。",
+    "post_url": "https://xueqiu.com/1247347556/160960965",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

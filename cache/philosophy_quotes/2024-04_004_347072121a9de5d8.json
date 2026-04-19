@@ -1,0 +1,35 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看懂一家公司确实很难。以前没看懂，现在再看也还是没懂。搞不清楚这家公司10年后会是更好还是不如现在。",
+    "post_url": "https://xueqiu.com/1247347556/286894886",
+    "post_date": "2024-04-19",
+    "mentioned_stocks": [
+      "英伟达",
+      "NVDA"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "苹果我可以肯定10年后大概率还是这么厉害。",
+    "post_url": "https://xueqiu.com/1247347556/286929132",
+    "post_date": "2024-04-19",
+    "mentioned_stocks": [
+      "苹果",
+      "AAPL"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "保有量这个指标必须关注啊！我估计很多人是不知道目前苹果因为保有量带来的收入每年有多少的。iPhone的使用年限长，换机周期也就长，眼前的销量和实际的保有量并不是线性相关的。",
+    "post_url": "https://xueqiu.com/1247347556/286226271",
+    "post_date": "2024-04-15",
+    "mentioned_stocks": [
+      "苹果",
+      "AAPL"
+    ],
+    "quality_score": 5
+  }
+]

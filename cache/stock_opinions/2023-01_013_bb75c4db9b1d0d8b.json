@@ -1,0 +1,16 @@
+[
+  {
+    "id": "41d008ae-06f6-4c7d-a19b-83f6a4bf1834",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-01-04",
+    "sentiment": "bullish",
+    "summary": "看好苹果长期盈利",
+    "quote": "最重要的是能认为苹果能持续赚钱！只要这点是确认的，价格越低越好。苹果的商业模式和企业文化决定了大概率苹果会继续非常赚钱的。",
+    "source_file": "2023-01_batch013",
+    "source_type": "xueqiu",
+    "chunk_index": 13,
+    "url": "https://xueqiu.com/1247347556/239163115"
+  }
+]

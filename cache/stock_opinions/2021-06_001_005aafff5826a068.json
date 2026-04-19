@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e1f5563b-d554-4a4c-b87c-9b7bd490ad43",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2021-06-05",
+    "sentiment": "bullish",
+    "summary": "苹果厉害",
+    "quote": "$苹果(AAPL)$ 厉害!",
+    "source_file": "2021-06_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": ""
+  }
+]

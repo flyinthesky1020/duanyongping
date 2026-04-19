@@ -1,0 +1,16 @@
+[
+  {
+    "id": "23aa8684-47a6-4fe3-b2cf-b641d510d652",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-07-21",
+    "sentiment": "bullish",
+    "summary": "看好AI iPhone换机潮",
+    "quote": "Ai iPhone大概率会导致一波换机潮，主要是因为iPhone太耐用，平均换机周期比较长，很多人都没啥换机的动力。Ai iPhone会给大家一个很好的换机理由。估计未来十年内iPhone至少能卖个25亿台或者接近30亿",
+    "source_file": "2024-07_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/298273451"
+  }
+]

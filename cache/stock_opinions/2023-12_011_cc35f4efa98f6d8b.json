@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0c6cf277-1c00-452f-adaa-ece5b1a497dd",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2023-12-12",
+    "sentiment": "bullish",
+    "summary": "40以下每日买入",
+    "quote": "目前状态：40以下一般每天买入一万股，这就是慢慢买的意思。今天买入的价钱好像是39.6左右？先把上次卖掉的买回来再说。",
+    "source_file": "2023-12_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/270495899"
+  }
+]

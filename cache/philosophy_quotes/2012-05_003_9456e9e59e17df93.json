@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "其实我什么也没看，所以其实也没啥理解。有时偶尔关注一下A股的公司，总是看见很多有点吸引力的公司的结构属于\"部分上市\"，一头雾水，故有此疑问。",
+    "post_url": "https://xueqiu.com/1247347556/21823176",
+    "post_date": "2012-05-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "很多公司是集团没上市，而只是部分资产上市了，不可避免的存在集团和上市公司的关联交易，甚至同业竞争。很难避免，也很让人不放心。投资的同时要先估量大股东或管理层的想法，是不是要把上市公...",
+    "post_url": "https://xueqiu.com/1247347556/21823202",
+    "post_date": "2012-05-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "那要看你很好的定义是什么。毛估估一下，5年大概能有50-100%的回报，确实不是很好，但会好过市场平均值。",
+    "post_url": "https://xueqiu.com/1247347556/21827892",
+    "post_date": "2012-05-21",
+    "mentioned_stocks": [
+      "雅虎"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "就算传说是真的，那也只是一只靴子落地。除非你有自己喜欢的目标，不然未必要卖。",
+    "post_url": "https://xueqiu.com/1247347556/21823155",
+    "post_date": "2012-05-19",
+    "mentioned_stocks": [
+      "雅虎"
+    ],
+    "quality_score": 4
+  }
+]

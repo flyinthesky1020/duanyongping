@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4a99875d-39fb-46ed-b725-afeeefe7d919",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-02-23",
+    "sentiment": "bullish",
+    "summary": "好公司不要轻易卖出",
+    "quote": "好公司不要轻易卖出。",
+    "source_file": "2022-02_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/211946323"
+  }
+]

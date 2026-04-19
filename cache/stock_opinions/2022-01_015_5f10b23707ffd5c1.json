@@ -1,0 +1,16 @@
+[
+  {
+    "id": "30338145-da34-4467-a234-d433625556b6",
+    "stock": "Moderna",
+    "ticker": "MRNA",
+    "market": "US",
+    "date": "2022-01-15",
+    "sentiment": "bullish",
+    "summary": "小赌怡情有兴趣",
+    "quote": "我现在对MRNA有点兴趣，但这不属于我能力圈内的东西。小赌怡情，逼下自己，希望一年内我可以大致看明白这家公司。",
+    "source_file": "2022-01_batch015",
+    "source_type": "xueqiu",
+    "chunk_index": 15,
+    "url": "https://xueqiu.com/1247347556/209069645"
+  }
+]

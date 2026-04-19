@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "那时候茅台应该已经100多亿利润了吧？到200-300亿应该只是时间问题吧？毕竟商业模式好啊！",
+    "post_url": "https://xueqiu.com/1247347556/161283119",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解你说的新能源汽车行业，我甚至都不太了解这个和汽车行业的区别，难道他们不是一个行业吗？",
+    "post_url": "https://xueqiu.com/1247347556/161253307",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我觉得企业文化里最重要的应该是核心价值观的问题，不符合核心价值观的东西不做最重要。",
+    "post_url": "https://xueqiu.com/1247347556/161253343",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

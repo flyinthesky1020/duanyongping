@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "黄金其实很难理解的，建立在黄金之上的生意其实要搞懂也很难。",
+    "post_url": "https://xueqiu.com/1247347556/383160991",
+    "post_date": "2026-04-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "泡泡玛特的壁垒目前看上去有几个（排名不分先后，还没想清楚重要性的排序）：已经建立起来的用户关注度（品牌），艺术家的签约壁垒，全球各地的门店，强大的王宁和他的team（包括生产，物流，品质以及一切及其他）。这些壁垒不能保证潮玩可以一直有人喜欢，但可以让喜欢潮玩的人们一直关注泡泡玛特...",
+    "post_url": "https://xueqiu.com/1247347556/383160764",
+    "post_date": "2026-04-08",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "以前对王宁的印象就很好，但一直觉得这个生意离我太远，不容易理解，不知道可持续性会如何。我以前见过很多风靡一时的玩具，比如电子宠物，呼啦圈，魔方等等，一开始直觉觉得这个有点像那些...",
+    "post_url": "https://xueqiu.com/1247347556/383157653",
+    "post_date": "2026-04-08",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 4
+  }
+]

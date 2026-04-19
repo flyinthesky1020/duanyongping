@@ -1,0 +1,70 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "做对的事情是可以选择的。人们大概都知道骗人是不对的，也大概知道抽烟是不对的吧，也大概知道...",
+    "post_url": "https://xueqiu.com/1247347556/243587861",
+    "post_date": "2023-03-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们投资茅台应该有10年了吧。",
+    "post_url": "https://xueqiu.com/1247347556/243587861",
+    "post_date": "2023-03-05",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没关注过，也完全没兴趣，离我的圈太远。",
+    "post_url": "https://xueqiu.com/1247347556/243547807",
+    "post_date": "2023-03-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我看不懂房地产。房地产最重要的就是location,这个非常难上规模。",
+    "post_url": "https://xueqiu.com/1247347556/243500090",
+    "post_date": "2023-03-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "错了就改很好，改第二次也很好哈。",
+    "post_url": "https://xueqiu.com/1247347556/243547087",
+    "post_date": "2023-03-04",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "炒巴菲特'们'的作业的都是不择不扣的韭菜。被'们'了的人们其实也是可以打败80%以上的股市中的人的，办法就是远离股市。",
+    "post_url": "https://xueqiu.com/1247347556/243499830",
+    "post_date": "2023-03-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "电视真是难以差异化的产品",
+    "post_url": "https://xueqiu.com/1247347556/243547087",
+    "post_date": "2023-03-04",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "每个公司其实只有一个真正的买家，那就是公司自己",
+    "post_url": "https://xueqiu.com/1247347556/243588340",
+    "post_date": "2023-03-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

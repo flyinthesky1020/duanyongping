@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "和上次重组以前比，现在几大航空公司实际上已经是有点准垄断了，所以在可见的未来，商业模式也还是不错的。",
+    "post_url": "https://xueqiu.com/1247347556/147476112",
+    "post_date": "2020-04-21",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "这四家还是有一点点差别的。西南似乎最健康，但上升空间最小。Dal企业文化也还不错，安全性也差不多。",
+    "post_url": "https://xueqiu.com/1247347556/147476080",
+    "post_date": "2020-04-21",
+    "mentioned_stocks": [
+      "达美航空",
+      "西南航空"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "从买入=持有或持有=买入的角度看，现在买入航空公司其实就等于卖了苹果去买入航空公司（虽然我是用最近多出来的现金），从10年或更长的角度...",
+    "post_url": "https://xueqiu.com/1247347556/147476080",
+    "post_date": "2020-04-21",
+    "mentioned_stocks": [
+      "达美航空",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我们要有自己的独立思考的能力，不是老巴买什么就简单跟进的意思，不然就已经掉在IBM的坑里了。事实上，老巴买了IBM之后的这些年我一直想看懂IBM，但看来看去都觉得老巴也是可能会犯错的。",
+    "post_url": "https://xueqiu.com/1247347556/147246783",
+    "post_date": "2020-04-19",
+    "mentioned_stocks": [
+      "IBM"
+    ],
+    "quality_score": 5
+  }
+]

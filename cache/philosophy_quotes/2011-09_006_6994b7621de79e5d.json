@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "借钱（margin）做股票是用你的其他股票抵押的，完全由broker控制，但市场大跌时他们会随时要求你卖股票还钱。股票市场有时会疯狂到无法想象，用margin的人一生也许只需要碰...",
+    "post_url": "https://xueqiu.com/1247347556/20388394",
+    "post_date": "2011-09-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "用margin的人老的快，投资总年头短，整个投资生命周期里赚钱少很多。",
+    "post_url": "https://xueqiu.com/1247347556/20388416",
+    "post_date": "2011-09-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "但如果是因为钱多而做这件事，尤其是看到其以前的表现，感觉多半是错的。钱多（相关业务用不掉）就应该回购或派息，不然就是对自己公司没自信，那股价掉也正常。",
+    "post_url": "https://xueqiu.com/1247347556/20392583",
+    "post_date": "2011-09-13",
+    "mentioned_stocks": [
+      "PWRD"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "未来现金流折现不是公式，是思维方式。",
+    "post_url": "https://xueqiu.com/1247347556/20386904",
+    "post_date": "2011-09-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "长期而言，没有护城河的企业大概率表现会比有护城河的企业差很多。",
+    "post_url": "https://xueqiu.com/1247347556/130250805",
+    "post_date": "2019-07-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对别的酒企业不了解，但茅台确实如你说的蛮好的。",
+    "post_url": "https://xueqiu.com/1247347556/130231755",
+    "post_date": "2019-07-26",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你说得对，过长压供应商款是不对的，而且羊毛一定要出在羊身上。我当CEO时是规定过压款不能超过60天，不然我们要付利息。",
+    "post_url": "https://xueqiu.com/1247347556/130216558",
+    "post_date": "2019-07-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我们从差不多30年前就是这么做的了，和是否滋润无关。",
+    "post_url": "https://xueqiu.com/1247347556/130231695",
+    "post_date": "2019-07-26",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不用margin的意思就是不要拿股票抵押借钱。如果你懂投资，你不需要 margin，，因为你早晚会有钱。如果你不懂投资，你更不应该用margin，因为那样大概率会让你陷入大麻烦。",
+    "post_url": "https://xueqiu.com/1247347556/130203721",
+    "post_date": "2019-07-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "希望大家不要让我点评任何东西哈，不好意思。",
+    "post_url": "https://xueqiu.com/1247347556/130242917",
+    "post_date": "2019-07-26",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

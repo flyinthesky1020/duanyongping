@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我是可以把别人亏的钱和自己亏的钱等同起来的人，这种容忍对建立健康的企业文化十分重要。",
+    "post_url": "https://xueqiu.com/1247347556/237312044",
+    "post_date": "2022-12-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "林奇最高时好像有过接近2000只股票，我不觉得他会在乎任何公司的价值，不管他说过什么。",
+    "post_url": "https://xueqiu.com/1247347556/237222576",
+    "post_date": "2022-12-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个是长线的，超过一年了，应该是Long Capital Gain。",
+    "post_url": "https://xueqiu.com/1247347556/237221450",
+    "post_date": "2022-12-06",
+    "mentioned_stocks": [
+      "美国天然气价ETF-Concierge Technologies"
+    ],
+    "quality_score": 4
+  }
+]

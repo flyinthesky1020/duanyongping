@@ -1,0 +1,24 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你说的这几家公司我都不熟悉，没啥观点。",
+    "post_url": "https://xueqiu.com/1247347556/129147096",
+    "post_date": "2019-07-03",
+    "mentioned_stocks": [
+      "菲利普莫里斯",
+      "麦当劳",
+      "波音"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个心态蛮好的吧？",
+    "post_url": "https://xueqiu.com/1247347556/129053214",
+    "post_date": "2019-07-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

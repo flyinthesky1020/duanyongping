@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "品种多则单一品种研发投入少，库存总量多，单位成本也会高。",
+    "post_url": "https://xueqiu.com/1247347556/131101324",
+    "post_date": "2019-08-13",
+    "mentioned_stocks": [
+      "任天堂"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "个人认为多数投资公司做的都是生意，看的多是短期，不是学投资的好地方。",
+    "post_url": "https://xueqiu.com/1247347556/131041366",
+    "post_date": "2019-08-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你确定你真的对某件事情感兴趣吗？比较常见的事情是有些人只是对赚钱感兴趣，但不知道什么能赚钱，所以想去尝试各种听说赚钱更快的办法，不知道你是不是属于这种情况。",
+    "post_url": "https://xueqiu.com/1247347556/130876413",
+    "post_date": "2019-08-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不评价同行。",
+    "post_url": "https://xueqiu.com/1247347556/130834658",
+    "post_date": "2019-08-07",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

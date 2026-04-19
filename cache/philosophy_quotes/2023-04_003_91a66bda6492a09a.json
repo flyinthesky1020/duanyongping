@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "道就是“做对的事情和把事情做对”，就是理性想长远想本质。秘诀就是理性想长远想本质的思维习惯。",
+    "post_url": "https://xueqiu.com/1247347556/248298384",
+    "post_date": "2023-04-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "分拆上市不影响公司价值除非这个分拆改变了公司。",
+    "post_url": "https://xueqiu.com/1247347556/248302693",
+    "post_date": "2023-04-22",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "“如果只能听一个人的声音那就是用户的声音”, 其实如果还能听第二个人的声音, 那也应该是消费者的声音，依此类推。",
+    "post_url": "https://xueqiu.com/1247347556/248310219",
+    "post_date": "2023-04-22",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我卖点新东方的put其实很像风投，就是赌虚岁已经60的俞敏洪不会就此倒下，至于他最后能干成什么我是不知道的。总觉得俞敏洪是条汉子，象征性支持一下。",
+    "post_url": "https://xueqiu.com/1247347556/247973030",
+    "post_date": "2023-04-19",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 3
+  }
+]

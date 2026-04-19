@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "客观讲，茅台的商业模式要好些。",
+    "post_url": "https://xueqiu.com/1247347556/124780641",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "茅台",
+      "格力电器"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "标准很简单，10年后回头看，今天用茅台去换合算不？不合算的就算了",
+    "post_url": "https://xueqiu.com/1247347556/124777106",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  }
+]

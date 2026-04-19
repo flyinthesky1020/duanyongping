@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3873bc36-c202-4246-a226-62ecb632280b",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-09-13",
+    "sentiment": "bullish",
+    "summary": "长期看好茅台",
+    "quote": "塑化剂问题出现时，很难知道短期会如何，但知道应该不会影响10年后的茅台。茅台，10年后应该还是在卖茅台吧，你需要想什么？",
+    "source_file": "2019-09_batch015",
+    "source_type": "xueqiu",
+    "chunk_index": 15,
+    "url": "https://xueqiu.com/1247347556/132770168"
+  }
+]

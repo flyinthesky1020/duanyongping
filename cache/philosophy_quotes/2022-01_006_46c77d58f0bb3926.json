@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "好理解但不一定是个好的商业模式。我绝对不会做这个生意，因为太烦了。不过，这个生意在规模小的时候应该是很有机会打败通胀的。",
+    "post_url": "https://xueqiu.com/1247347556/210056163",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会做这个生意，因为太烦了。",
+    "post_url": "https://xueqiu.com/1247347556/210056163",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "看10年吧，如果你不愿意看更久的话。",
+    "post_url": "https://xueqiu.com/1247347556/210055857",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实从未来10年看回来，现在的苹果依然很香哈。",
+    "post_url": "https://xueqiu.com/1247347556/210055723",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "腾讯是不错的公司，但我了解的不够，也没空去了解的更深入，所以一直没碰过。",
+    "post_url": "https://xueqiu.com/1247347556/210055839",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  }
+]

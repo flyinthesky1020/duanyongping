@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f3b39d61-416a-46df-a946-0e0f5a737ac0",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2018-09-23",
+    "sentiment": "bullish",
+    "summary": "看好苹果手表销量",
+    "quote": "刚刚路过Palo Alto的苹果店，19:18，队依然排得很长，估计还有150-200人。看来苹果今年准备充分啊，以前能卖半天就不错了。今年手表非常受欢迎，如果有一天苹果一年卖一亿个手表，我不会觉得太意外。",
+    "source_file": "2018-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/114155414"
+  },
+  {
+    "id": "bdd67be6-5071-4ccb-b2be-08171b8409a6",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2018-09-23",
+    "sentiment": "bearish",
+    "summary": "大比例投资不合适",
+    "quote": "这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。",
+    "source_file": "2018-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/114155529"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7ce1ed2b-3017-4665-92a0-9a9b4ba640e9",
+    "stock": "GE",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2019-05-26",
+    "sentiment": "bearish",
+    "summary": "GE麻烦多文化变差",
+    "quote": "好多年没看过GE了，感觉他们麻烦蛮多的，企业文化也好像变掉了。",
+    "source_file": "2019-05_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/127273566"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "4eeaed1b-524f-44b9-91bf-45dec312c537",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-09-11",
+    "sentiment": "bullish",
+    "summary": "看好茅台成长",
+    "quote": "社会发展带来的结果是经济条件好的人越来越多，所以茅台的成长应该也是大概率的。",
+    "source_file": "2019-09_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/132703427"
+  },
+  {
+    "id": "b556b96a-c6c2-4906-9d92-7659b4d23976",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-09-11",
+    "sentiment": "bullish",
+    "summary": "苹果将创新高",
+    "quote": "It’s time for Apple to have a new high now.",
+    "source_file": "2019-09_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/132646276"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "232942e0-0abb-4b51-b615-7289a2484451",
+    "stock": "谷歌C",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2021-02-07",
+    "sentiment": "bullish",
+    "summary": "好公司厉害",
+    "quote": "好公司就是厉害！",
+    "source_file": "2021-02_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/170796369"
+  }
+]

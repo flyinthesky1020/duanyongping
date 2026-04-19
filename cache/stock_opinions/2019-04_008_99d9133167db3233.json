@@ -1,0 +1,16 @@
+[
+  {
+    "id": "820a3785-286c-49e8-8ca0-f9ba21e0fa84",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-04-20",
+    "sentiment": "bullish",
+    "summary": "商业模式非常不错",
+    "quote": "直觉上觉得腾讯商业模式非常不错，企业文化也还可以哈。",
+    "source_file": "2019-04_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/125247157"
+  }
+]

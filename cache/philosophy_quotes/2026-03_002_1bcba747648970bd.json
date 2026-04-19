@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得拼多多做网上品牌是个顺理成章的事情。他们很清楚什么东西有量。他们可以把有量的的东西做到极致，既要质量好，到用户手里的价格还低（去掉了所有中间渠道）。他们只要选出某些有代表性的产品用来打自己的品牌就可以了，不需要所有商品都做自己的品牌的。这个其实就是Costco的样子。",
+    "post_url": "https://xueqiu.com/1247347556/381370858",
+    "post_date": "2026-03-26",
+    "mentioned_stocks": [
+      "拼多多",
+      "Costco"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太懂微软，感觉ai对他们的软件生意会有蛮大冲击的。",
+    "post_url": "https://xueqiu.com/1247347556/380982882",
+    "post_date": "2026-03-24",
+    "mentioned_stocks": [
+      "微软"
+    ],
+    "quality_score": 3
+  }
+]

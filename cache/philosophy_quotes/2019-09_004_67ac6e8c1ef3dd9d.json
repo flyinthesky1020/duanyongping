@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "很多都是试错试出来的。",
+    "post_url": "https://xueqiu.com/1247347556/133474087",
+    "post_date": "2019-09-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "风险点的意思是不是让你买了支票整天睡不着的那个东东？如果有就不该买。",
+    "post_url": "https://xueqiu.com/1247347556/133475064",
+    "post_date": "2019-09-27",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "1.护城河，2，没算过。",
+    "post_url": "https://xueqiu.com/1247347556/133470832",
+    "post_date": "2019-09-27",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

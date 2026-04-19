@@ -1,0 +1,16 @@
+[
+  {
+    "id": "96267954-a3be-4964-8107-6d48b9ebaef0",
+    "stock": "万科A",
+    "ticker": "000002.SZ",
+    "market": "CN_A",
+    "date": "2025-12-03",
+    "sentiment": "bearish",
+    "summary": "高杠杆房企投资风险",
+    "quote": "对很多常规意义上不会破产的企业，相对投资者来说是会破产的，资产重组，负债化股等，对投资者来说可能都类似破产",
+    "source_file": "2025-12_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/364458106"
+  }
+]

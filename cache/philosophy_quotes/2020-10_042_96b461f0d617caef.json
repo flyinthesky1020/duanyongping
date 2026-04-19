@@ -1,0 +1,66 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "这个行业确实难的，起点低，管理复杂，难以保持产品的一致性…",
+    "post_url": "https://xueqiu.com/1247347556/160617238",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "好像没有公式，我主要关注商业模式和企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/160617357",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "好像没有公式，我主要关注商业模式和企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/160617357",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "老巴买了IBM后我确实看过IBM，没看懂，觉得老巴偶尔犯一下错误也很正常。老巴厉害的地方只是错误率低很多而已。",
+    "post_url": "https://xueqiu.com/1247347556/160617127",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "IBM"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没注意过这个问题，感觉要搞明白比搞明白苹果要难很多。",
+    "post_url": "https://xueqiu.com/1247347556/160617116",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不好意思，没听说过这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/160617132",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "北鼎"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我之前说的很清楚了，就是玩一把。一个礼拜的短call，金额也非常小，就当我去拉斯维加斯赌了100块吧。",
+    "post_url": "https://xueqiu.com/1247347556/160617258",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "一家茅台，另一家茅台。",
+    "post_url": "https://xueqiu.com/1247347556/300769026",
+    "post_date": "2024-08-12",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯",
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "一家茅台，另一家茅台。",
+    "post_url": "https://xueqiu.com/1247347556/300769026",
+    "post_date": "2024-08-12",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯",
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "一家茅台，另一家茅台。",
+    "post_url": "https://xueqiu.com/1247347556/300769026",
+    "post_date": "2024-08-12",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯",
+      "网易"
+    ],
+    "quality_score": 4
+  }
+]

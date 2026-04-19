@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "人们关注我们是因为我们做的那些事情，但我们之所以是我们很大程度上是因为我们不做的那些事情。你想用穷举法来花我的时间么？",
+    "post_url": "https://xueqiu.com/1247347556/127187747",
+    "post_date": "2019-05-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你说得对，不值得长期投资。我说的研究一下指的是研究一下是不是烟蒂，是对着问题去的。",
+    "post_url": "https://xueqiu.com/1247347556/127187179",
+    "post_date": "2019-05-23",
+    "mentioned_stocks": [
+      "百度"
+    ],
+    "quality_score": 4
+  }
+]

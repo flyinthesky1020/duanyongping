@@ -1,0 +1,49 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "听一个认识黑莓原ceo的朋友讲，那个ceo是个非常骄傲的人。黑莓有今天大概和他的性格有很大关系。突然想到前段时间新闻里看到任天堂ceo讲的坚决不做手机游戏的说法，感觉任天堂也快了（小朋友好像对ds已经没啥兴趣了）。智能手机给这个世界带来的变化实在是太大，原来的很多产品都将不复存在。",
+    "post_url": "https://xueqiu.com/1247347556/21647488",
+    "post_date": "2012-03-31",
+    "mentioned_stocks": [
+      "黑莓",
+      "任天堂"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "听一个认识黑莓原ceo的朋友讲，那个ceo是个非常骄傲的人。黑莓有今天大概和他的性格有很大关系。",
+    "post_url": "https://xueqiu.com/1247347556/21647488",
+    "post_date": "2012-03-31",
+    "mentioned_stocks": [
+      "黑莓"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "国产手机以后大概没几个厂家能每台赚到10美金的。",
+    "post_url": "https://xueqiu.com/1247347556/21646562",
+    "post_date": "2012-03-30",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "13岁了，看财报还太早。我们已经达成协议，下礼拜买100股，前提是他要写一封email给我，告诉我买ea的理由，我好存档。",
+    "post_url": "https://xueqiu.com/1247347556/21648160",
+    "post_date": "2012-03-31",
+    "mentioned_stocks": [
+      "EA"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不理解option的确实不应该用。",
+    "post_url": "https://xueqiu.com/1247347556/21647349",
+    "post_date": "2012-03-31",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

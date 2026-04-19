@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "不需要去所在公司呆过也是可以理解的，呆过也未必就能理解，苹果工作过的人真正能理解苹果的比例也是很小的。是不是创过业同理。还是那句话，你把我在雪球过去十几年说过的东西看几遍就能理解一些了。",
+    "post_url": "https://xueqiu.com/1247347556/326927305",
+    "post_date": "2025-03-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不需要去所在公司呆过也是可以理解的，呆过也未必就能理解，苹果工作过的人真正能理解苹果的比例也是很小的。是不是创过业同理。",
+    "post_url": "https://xueqiu.com/1247347556/326927305",
+    "post_date": "2025-03-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "需要每天问吗？话说回来，如果美国再这么掉个几次，选择面就大了。上午打完球回来看到泡泡开始破还是蛮高兴滴。nvda我确实有兴趣的，掉得越多兴趣会越大。也许等子弹再飞会儿，也许明天就再下手？",
+    "post_url": "https://xueqiu.com/1247347556/326782727",
+    "post_date": "2025-03-10",
+    "mentioned_stocks": [
+      "nvda"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不是空仓了，是作为一个满仓主义者，有了（一部分）空仓的意思。其实一月份我就在这里说过了，美股有点贵。",
+    "post_url": "https://xueqiu.com/1247347556/326926888",
+    "post_date": "2025-03-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

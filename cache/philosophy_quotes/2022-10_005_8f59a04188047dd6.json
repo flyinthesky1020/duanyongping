@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "基本上你问的是如何了解合作对象的问题。时间，只有时间才可以真的了解一个人。当你觉得对方不合适的时候，一定要尽早分开。",
+    "post_url": "https://xueqiu.com/1247347556/232768325",
+    "post_date": "2022-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "今天确实买茅台了。刚刚发现还有点人民币闲钱，就买了茅台。长期来说，比方在银行里合算的概率比较大。",
+    "post_url": "https://xueqiu.com/1247347556/232663992",
+    "post_date": "2022-10-13",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

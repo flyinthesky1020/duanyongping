@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e19e2810-c03a-4c57-a446-b5cbe0185238",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-07-12",
+    "sentiment": "bullish",
+    "summary": "现金多无大忧",
+    "quote": "茅台最大的麻烦可能就是现金太多，只要不乱花就没啥特别不放心的。",
+    "source_file": "2019-07_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/129541421"
+  },
+  {
+    "id": "56b388a3-acb3-4ee8-8e61-2fee8ab2a409",
+    "stock": "创维数码",
+    "ticker": "0751.HK",
+    "market": "HK",
+    "date": "2019-07-12",
+    "sentiment": "bearish",
+    "summary": "电视时间减少前景不佳",
+    "quote": "很久没关注过创维了，不知道他们除了电视以外目前还在做什么。现在人们花在电视机上的时间在逐渐减少，10年20年后应该会更少的。",
+    "source_file": "2019-07_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/129255695"
+  }
+]

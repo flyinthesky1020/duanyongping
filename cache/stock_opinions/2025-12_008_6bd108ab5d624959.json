@@ -1,0 +1,16 @@
+[
+  {
+    "id": "840f469b-397a-4c9d-9792-860fdd89b595",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2025-12-07",
+    "sentiment": "bullish",
+    "summary": "重返特斯拉",
+    "quote": "今天试了一下刚买的model y，自动驾驶的感觉确实很好。okay，Tsla, I’m back!",
+    "source_file": "2025-12_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/364796466"
+  }
+]

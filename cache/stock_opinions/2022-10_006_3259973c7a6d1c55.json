@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ab58db1d-0151-453b-a21f-81abbf0328f4",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-10-12",
+    "sentiment": "bullish",
+    "summary": "买入茅台",
+    "quote": "今天确实买茅台了。刚刚发现还有点人民币闲钱，就买了茅台。长期来说，比方在银行里合算的概率比较大。",
+    "source_file": "2022-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/232503376"
+  },
+  {
+    "id": "54046d80-86fc-4f97-a589-ea3556eca546",
+    "stock": "腾讯控股",
+    "ticker": "TCEHY",
+    "market": "US",
+    "date": "2022-10-12",
+    "sentiment": "bullish",
+    "summary": "计划继续买入",
+    "quote": "计划明天$32左右再买点。",
+    "source_file": "2022-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/232503376"
+  },
+  {
+    "id": "8fafa965-6764-4ed6-909f-098e69df3753",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-10-12",
+    "sentiment": "bullish",
+    "summary": "卖出看跌期权",
+    "quote": "今天卖了些苹果的put，计划明天继续。",
+    "source_file": "2022-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/232492126"
+  }
+]

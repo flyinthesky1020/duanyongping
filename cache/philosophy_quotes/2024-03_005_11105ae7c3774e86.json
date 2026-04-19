@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "这个难度比一般人想象的高。我很多年前就想过，到今天为止也还没想到办法。",
+    "post_url": "https://xueqiu.com/1247347556/282351683",
+    "post_date": "2024-03-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你觉得老美或日本人跟一个中国朋友聊一下就知道茅台是怎么回事了吗？",
+    "post_url": "https://xueqiu.com/1247347556/282022664",
+    "post_date": "2024-03-13",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

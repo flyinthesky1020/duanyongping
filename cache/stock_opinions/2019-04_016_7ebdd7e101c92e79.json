@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b885bb0c-c993-4208-869d-f300973d4cbf",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-04-08",
+    "sentiment": "bullish",
+    "summary": "商业模式好可长期持有",
+    "quote": "A股除了茅台外，还有没有类似的商业模式特别好，拿个十年都不用睡不好觉的公司？请列举理由哈。",
+    "source_file": "2019-04_batch016",
+    "source_type": "xueqiu",
+    "chunk_index": 16,
+    "url": "https://xueqiu.com/1247347556/124776875"
+  }
+]

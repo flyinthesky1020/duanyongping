@@ -1,0 +1,16 @@
+[
+  {
+    "id": "353a216f-587e-427c-bbc6-51b3db48fdf0",
+    "stock": "UNG",
+    "ticker": "UNG",
+    "market": "US",
+    "date": "2012-04-24",
+    "sentiment": "bearish",
+    "summary": "看空UNG",
+    "quote": "谁说会剩1%了？我说的是剩下不到1%，意思差别很大的。",
+    "source_file": "2012-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/21736802"
+  }
+]

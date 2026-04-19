@@ -1,0 +1,16 @@
+[
+  {
+    "id": "148c1505-22c0-4c65-a1c8-7b3c67d0e58e",
+    "stock": "Tesla",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2025-03-11",
+    "sentiment": "bearish",
+    "summary": "电动车商业模式趋难",
+    "quote": "电动车同质化会越来越厉害，这个行业的商业模式会越来越辛苦的。",
+    "source_file": "2025-03_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/326982965"
+  }
+]

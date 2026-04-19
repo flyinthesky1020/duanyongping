@@ -1,0 +1,74 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "自传确实很难写真话，就算是真的也是挑着说的。作为一个普通人，为了挑几句真话说而花了打球的时间是很不合算滴。也许总统写个回忆录是有意义的，因为确实有很多大的历史事件在里面。",
+    "post_url": "https://xueqiu.com/1247347556/294378931",
+    "post_date": "2024-06-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这辈子不写书。",
+    "post_url": "https://xueqiu.com/1247347556/294339837",
+    "post_date": "2024-06-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "目前30年的国债利率是4.44%，相当于22.5倍的PE，这也是持有任何公司的机会成本。短期国债的利率是5.36%，相当于18.66倍的PE。持有=买入，有点纠结了。",
+    "post_url": "https://xueqiu.com/1247347556/294378014",
+    "post_date": "2024-06-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "目前30年的国债利率是4.44%，相当于22.5倍的PE，这也是持有任何公司的机会成本。短期国债的利率是5.36%，相当于18.66倍的PE。持有=买入，有点纠结了。",
+    "post_url": "https://xueqiu.com/1247347556/294378014",
+    "post_date": "2024-06-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我那天去觉得保安的态度不够好，还专门提了一嘴，因为保安是第一印象，凶巴巴的让人感觉不好哈。",
+    "post_url": "https://xueqiu.com/1247347556/294377597",
+    "post_date": "2024-06-19",
+    "mentioned_stocks": [
+      "步步高"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "茅台系列酒其实意义不大。",
+    "post_url": "https://xueqiu.com/1247347556/294211879",
+    "post_date": "2024-06-17",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "茅台还是那个茅台！",
+    "post_url": "https://xueqiu.com/1247347556/294339837",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "茅台系列酒其实意义不大。",
+    "post_url": "https://xueqiu.com/1247347556/294211879",
+    "post_date": "2024-06-17",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

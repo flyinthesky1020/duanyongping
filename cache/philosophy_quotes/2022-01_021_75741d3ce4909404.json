@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "卖这种put看着好玩，但背后的逻辑还是严密的。首先，从十年的角度看，170的苹果其实不贵（功夫全在这里），然后就好玩了。",
+    "post_url": "https://xueqiu.com/1247347556/208342996",
+    "post_date": "2022-01-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "哈，今天确实只花了一分钟下单。打完球回来看到确实实现了利润，当然如果put给我未来利润会更大些。",
+    "post_url": "https://xueqiu.com/1247347556/208350776",
+    "post_date": "2022-01-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

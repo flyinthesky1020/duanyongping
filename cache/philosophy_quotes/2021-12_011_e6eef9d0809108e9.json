@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "从10年或以上的角度看，会大概率比拿着现金强。",
+    "post_url": "https://xueqiu.com/1247347556/205175925",
+    "post_date": "2021-12-06",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "虽然还是看不懂其商业模式，但觉得他们对农产品的支持还是非常有意义的。准备再次风投一下！（卖点put，不要效仿）这次成本远高于第一次（如果明天成交的话）。另外，我也不喜欢他们那个烦人的广告。",
+    "post_url": "https://xueqiu.com/1247347556/205094026",
+    "post_date": "2021-12-05",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我没见过俞敏洪，但上次新东方被人做空的时候我曾经花过四个小时看过我能网上找到的俞敏洪接受过的采访，当时的结论是这人不会是空头说的那样，于是就进场卖了很多put",
+    "post_url": "https://xueqiu.com/1247347556/205306576",
+    "post_date": "2021-12-07",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "margin由于抵押的是账上的其他股票，任何是个市场短期的大波动就可能将你的钱wipe out掉，但老巴的这个put是不受市场波动影响的",
+    "post_url": "https://xueqiu.com/1247347556/20484663",
+    "post_date": "2011-11-08",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦A"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "老巴这个deal实际上就是长期不看坏美国。如果谁给我这么个deal，我也愿意啊。和借margin是完全两码事",
+    "post_url": "https://xueqiu.com/1247347556/20484663",
+    "post_date": "2011-11-08",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦A"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "老巴卖的这些put买家只能在到期的时候行使，这是一个非常大的区别...老巴这几十个亿白用20年不是没有理由的",
+    "post_url": "https://xueqiu.com/1247347556/20484632",
+    "post_date": "2011-11-08",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦A"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "一次性亏掉3个多亿，按现在的盈利水平要赚两年多吧？不过这些钱是过去若干年亏掉，但目前不用直接亏现金的",
+    "post_url": "https://xueqiu.com/1247347556/20484474",
+    "post_date": "2011-11-08",
+    "mentioned_stocks": [
+      "新浪"
+    ],
+    "quality_score": 3
+  }
+]

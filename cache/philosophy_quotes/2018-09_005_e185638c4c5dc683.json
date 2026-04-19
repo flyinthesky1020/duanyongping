@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "用10年的眼光看，茅台依然不贵啊，上个礼拜绿一下或者上个季度绿一下不是什么了不起的事情。",
+    "post_url": "https://xueqiu.com/1247347556/113841814",
+    "post_date": "2018-09-15",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我也是Tesla早期的用户，事实上我的modle S是今年才卖掉的。啥都不说了，赌两块钱吧：一块是Tesla10年后的股价比今天低，一块赌苹果10年后股价比今天高",
+    "post_url": "https://xueqiu.com/1247347556/114032740",
+    "post_date": "2018-09-19",
+    "mentioned_stocks": [
+      "Tesla",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "焦点开始发散的表现？",
+    "post_url": "https://xueqiu.com/1247347556/114005655",
+    "post_date": "2018-09-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

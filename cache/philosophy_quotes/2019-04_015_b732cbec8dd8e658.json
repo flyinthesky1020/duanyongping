@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我主要讲投资是什么（什么是对的事情），很少讲怎么投资（如何把事情做对）。老巴得股东信应该两者都有了。在如何把事情做对上，也许有很多书可以看，但最重要是能够看懂企业，看懂商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/124932865",
+    "post_date": "2019-04-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我主要讲投资是什么（什么是对的事情），很少讲怎么投资（如何把事情做对）。",
+    "post_url": "https://xueqiu.com/1247347556/124932865",
+    "post_date": "2019-04-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "作为投资人，我喜欢库克下的苹果。",
+    "post_url": "https://xueqiu.com/1247347556/124932762",
+    "post_date": "2019-04-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不知道什么是戴维斯双杀，所以没啥建议。",
+    "post_url": "https://xueqiu.com/1247347556/124886143",
+    "post_date": "2019-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

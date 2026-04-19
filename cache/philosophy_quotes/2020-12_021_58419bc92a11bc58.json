@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "美股很少，不喜欢就不买这种公司就好。",
+    "post_url": "https://xueqiu.com/1247347556/164987876",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没了解过，直觉上未来日子会越来越难过，电商太厉害了。",
+    "post_url": "https://xueqiu.com/1247347556/164985715",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [
+      "7-11"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我觉得贵并不是指的股价，而是相对于我能看明白等等盈利能力。",
+    "post_url": "https://xueqiu.com/1247347556/164984852",
+    "post_date": "2020-12-03",
+    "mentioned_stocks": [
+      "亚马逊"
+    ],
+    "quality_score": 5
+  }
+]

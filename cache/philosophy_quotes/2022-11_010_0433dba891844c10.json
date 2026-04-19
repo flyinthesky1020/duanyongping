@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "赵丹阳同学有一次跟我说，他已经跟价值投资分道扬镳了。我说你从来没在这条道上跑过啊，分道扬镳是怎么回事？",
+    "post_url": "https://xueqiu.com/1247347556/234607204",
+    "post_date": "2022-11-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "强大的商业模式！",
+    "post_url": "https://xueqiu.com/1247347556/234313756",
+    "post_date": "2022-11-01",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

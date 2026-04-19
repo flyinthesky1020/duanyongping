@@ -1,0 +1,16 @@
+[
+  {
+    "id": "215143b7-220f-4b56-9fdc-67eb9094935d",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-06-26",
+    "sentiment": "bullish",
+    "summary": "破千庆祝",
+    "quote": "破1000了，开瓶啤酒庆祝一下",
+    "source_file": "2019-06_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/128792746"
+  }
+]

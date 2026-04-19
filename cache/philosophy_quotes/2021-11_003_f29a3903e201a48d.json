@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "航空生意的苦日子可能还有相当长的时间，而且这种情况每隔一段时间还可能再来，这个商业模式确实没那么好。",
+    "post_url": "https://xueqiu.com/1247347556/201889272",
+    "post_date": "2021-11-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "做空特斯拉的人们现在应该很惨啊！这是又一个不能做空的例子。",
+    "post_url": "https://xueqiu.com/1247347556/201875073",
+    "post_date": "2021-11-01",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "但谁会是电动车或者说谁会是车的市场的最后赢家，我依然无法判断。",
+    "post_url": "https://xueqiu.com/1247347556/201875073",
+    "post_date": "2021-11-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "看起来车的差异化，尤其是电动车的差异化其实不是很大，至少从10年后看回来的观点看，很难有比汽油车的差异化大的感觉。",
+    "post_url": "https://xueqiu.com/1247347556/201875073",
+    "post_date": "2021-11-01",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

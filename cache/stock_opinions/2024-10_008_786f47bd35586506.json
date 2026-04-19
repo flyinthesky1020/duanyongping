@@ -1,0 +1,16 @@
+[
+  {
+    "id": "50c05dc4-d1c0-4d11-8a8a-de926dc3cfd0",
+    "stock": "极兔速递",
+    "ticker": "1519.HK",
+    "market": "HK",
+    "date": "2024-10-20",
+    "sentiment": "bearish",
+    "summary": "苦生意",
+    "quote": "大道您好，想请教您一下，极兔速递您怎么看？我最近一直在研究，请您指教 段总：苦生意。",
+    "source_file": "2024-10_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/308861669"
+  }
+]

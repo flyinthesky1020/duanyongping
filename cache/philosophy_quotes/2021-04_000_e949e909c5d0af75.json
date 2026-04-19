@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "感觉苹果的产品就像游戏里的装备，每个产品出来都会给别的产品威力加成，加防加攻的都有。",
+    "post_url": "https://xueqiu.com/1247347556/177820271",
+    "post_date": "2021-04-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我依然认为顺丰和Zoom都是很好的公司，但商业模式都不是最好的那种。",
+    "post_url": "https://xueqiu.com/1247347556/176761624",
+    "post_date": "2021-04-09",
+    "mentioned_stocks": [
+      "顺丰",
+      "Zoom"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我的意思是不要做空，中国这个市场这么大，这个营业额是可能的（没有证据是作假的意思）。",
+    "post_url": "https://xueqiu.com/1247347556/177929335",
+    "post_date": "2021-04-22",
+    "mentioned_stocks": [
+      "跟谁学"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你只是想忙起來的话，卖covered call是个好办法，但50%以上概率你会少赚钱。",
+    "post_url": "https://xueqiu.com/1247347556/178485424",
+    "post_date": "2021-04-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对跟谁学完全不了解，试过一下他们的产品，大概是天下最慢最难受的互联网产品，看起来商业模式也很烂。",
+    "post_url": "https://xueqiu.com/1247347556/177929335",
+    "post_date": "2021-04-22",
+    "mentioned_stocks": [
+      "跟谁学"
+    ],
+    "quality_score": 3
+  }
+]

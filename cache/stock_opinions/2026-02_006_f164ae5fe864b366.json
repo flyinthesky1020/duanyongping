@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1c8147c9-acd9-475e-ab40-4d7f73f5a090",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-02-02",
+    "sentiment": "bullish",
+    "summary": "预测茅台2026业绩向好",
+    "quote": "预测26一季报会很好，26全年业绩大概率不会降了",
+    "source_file": "2026-02_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/374521365"
+  }
+]

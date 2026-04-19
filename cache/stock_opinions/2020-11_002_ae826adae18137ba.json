@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1663728f-586f-4fec-b451-c4d403d26d37",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2020-11-29",
+    "sentiment": "bearish",
+    "summary": "不再关注，没价值",
+    "quote": "虽然我们在这家公司上赚了不少钱，但用过modelS之后就不再感兴趣，从此不再关注，自然对我也没价值。",
+    "source_file": "2020-11_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/164451189"
+  }
+]

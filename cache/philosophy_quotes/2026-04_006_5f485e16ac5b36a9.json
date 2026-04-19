@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "比卖酒平台可强了很多啊。卖酒的平台上面的酒是不是平台的产品，只是平台的商品而已。",
+    "post_url": "https://xueqiu.com/1247347556/383462760",
+    "post_date": "2026-04-10",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "泡泡玛特的壁垒已经建起来了，大家要顾虑的其实是持续性的问题。",
+    "post_url": "https://xueqiu.com/1247347556/383395579",
+    "post_date": "2026-04-10",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "前两年就看了一眼，觉得这是家蛮有意思的公司，创始人年轻且极为明白，企业文化也很好",
+    "post_url": "https://xueqiu.com/1247347556/383462143",
+    "post_date": "2026-04-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "作为做游戏出生的人，我的直觉是这个需求是可以持续的，但很难说清楚。",
+    "post_url": "https://xueqiu.com/1247347556/383395579",
+    "post_date": "2026-04-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "但当时有点贵",
+    "post_url": "https://xueqiu.com/1247347556/383462143",
+    "post_date": "2026-04-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "慢慢调集资金吧，不然就先收点保费就好。",
+    "post_url": "https://xueqiu.com/1247347556/383393663",
+    "post_date": "2026-04-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

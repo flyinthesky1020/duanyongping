@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你说的行业我不了解。有机会你可以看看我是怎么看投资的。",
+    "post_url": "https://xueqiu.com/1247347556/164413015",
+    "post_date": "2020-11-27",
+    "mentioned_stocks": [
+      "维信诺"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "差不多吧。",
+    "post_url": "https://xueqiu.com/1247347556/164412436",
+    "post_date": "2020-11-27",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

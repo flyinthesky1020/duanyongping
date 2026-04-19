@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c085b0ef-a5db-4be3-8823-eb9de8f366ce",
+    "stock": "美团",
+    "ticker": "3690.HK",
+    "market": "HK",
+    "date": "2020-10-09",
+    "sentiment": "bearish",
+    "summary": "目前不打算投资",
+    "quote": "不好意思，确实少了一个字。是“目前也没打算投”的意思。",
+    "source_file": "2020-10_batch030",
+    "source_type": "xueqiu",
+    "chunk_index": 30,
+    "url": "https://xueqiu.com/1247347556/160635792"
+  }
+]

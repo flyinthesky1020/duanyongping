@@ -1,0 +1,21 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂房地产，对这个行业普遍高举债感到困惑。",
+    "post_url": "https://xueqiu.com/1247347556/125356287",
+    "post_date": "2019-04-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "以现价持有这两家公司，10年后年化8%应该大概率可以实现。这也是我为什么愿意持有这两家公司的原因。",
+    "post_url": "https://xueqiu.com/1247347556/125281099",
+    "post_date": "2019-04-21",
+    "mentioned_stocks": [
+      "苹果",
+      "伯克希尔"
+    ],
+    "quality_score": 4
+  }
+]

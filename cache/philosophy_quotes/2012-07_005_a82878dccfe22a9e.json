@@ -1,0 +1,21 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "大道这4年里只真正出手了一次，就是苹果，上一次出手是GE，大概这是其会成为极少数人的原因？",
+    "post_url": "https://xueqiu.com/1247347556/22009631",
+    "post_date": "2012-07-16",
+    "mentioned_stocks": [
+      "苹果",
+      "GE"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "本人不懂银行，不知道为什么别人会得出这个结论。",
+    "post_url": "https://xueqiu.com/1247347556/22008679",
+    "post_date": "2012-07-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

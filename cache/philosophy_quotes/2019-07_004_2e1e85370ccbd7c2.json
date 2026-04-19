@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我也曾经看过zara，但确实看不懂啊。",
+    "post_url": "https://xueqiu.com/1247347556/129770943",
+    "post_date": "2019-07-17",
+    "mentioned_stocks": [
+      "Zara"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "听其言，观其行。茅台年头长，了解起来不难。",
+    "post_url": "https://xueqiu.com/1247347556/129722980",
+    "post_date": "2019-07-16",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "最好不借。",
+    "post_url": "https://xueqiu.com/1247347556/129722947",
+    "post_date": "2019-07-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "他凭什么呢？",
+    "post_url": "https://xueqiu.com/1247347556/129680766",
+    "post_date": "2019-07-15",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我看过IMAX，感觉10年后这家公司的日子很难比现在好过。",
+    "post_url": "https://xueqiu.com/1247347556/129850732",
+    "post_date": "2019-07-18",
+    "mentioned_stocks": [
+      "IMAX"
+    ],
+    "quality_score": 4
+  }
+]

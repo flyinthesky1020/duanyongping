@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个你要自己决定，想想10年后或许有点帮助。",
+    "post_url": "https://xueqiu.com/1247347556/132760938",
+    "post_date": "2019-09-12",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "平常心其实就是在任何时候，尤其是在有诱惑的时候，能够排除所有外界的干扰，回到事物的本质（原点），辨别事情的是非与对错，知道什么是对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/132736506",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "买什么买多少什么价这种事都是你必须要自己决定的事情。",
+    "post_url": "https://xueqiu.com/1247347556/132760913",
+    "post_date": "2019-09-12",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

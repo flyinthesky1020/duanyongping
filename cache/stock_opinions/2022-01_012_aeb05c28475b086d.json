@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e074f674-fc61-421f-8acf-77e3f28de4f1",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-01-21",
+    "sentiment": "bullish",
+    "summary": "持有优于现金",
+    "quote": "拿着茅台和腾讯这种公司如果用10年计应该比拿着现金好，但不等于是赚大钱的东西，但肯定比赔钱强很多。",
+    "source_file": "2022-01_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/209650891"
+  },
+  {
+    "id": "f5f79e9f-6518-4491-b625-a2275517ca3b",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-01-21",
+    "sentiment": "bullish",
+    "summary": "持有优于现金",
+    "quote": "拿着茅台和腾讯这种公司如果用10年计应该比拿着现金好，但不等于是赚大钱的东西，但肯定比赔钱强很多。",
+    "source_file": "2022-01_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/209650891"
+  }
+]

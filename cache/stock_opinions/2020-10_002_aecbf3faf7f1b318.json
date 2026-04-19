@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b2140da5-ea8e-4fda-b216-61ce22773287",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-10-29",
+    "sentiment": "bullish",
+    "summary": "茅台赢通胀无问题",
+    "quote": "没估过，但觉得赢通胀没问题。",
+    "source_file": "2020-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/161975323"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不知道这家公司，光顾着打球了。",
+    "post_url": "https://xueqiu.com/1247347556/329581465",
+    "post_date": "2025-03-30",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "有机会也是会加的。我开始有点“喜欢”Mr. trump了，他真的会给我带来机会。",
+    "post_url": "https://xueqiu.com/1247347556/329579591",
+    "post_date": "2025-03-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资需要独立思考，“孤独”可以找其他朋友玩，比如球友，酒友。喝点茅台对身体未必好但有情绪价值，适量就好。",
+    "post_url": "https://xueqiu.com/1247347556/329684633",
+    "post_date": "2025-03-31",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

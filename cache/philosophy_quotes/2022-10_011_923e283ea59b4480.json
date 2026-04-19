@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对苹果确实完全不操心，掉多少都不往心里去。腾讯总是觉得懂得不透，下不了重手。",
+    "post_url": "https://xueqiu.com/1247347556/232121742",
+    "post_date": "2022-10-04",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "未来现金流看不透。",
+    "post_url": "https://xueqiu.com/1247347556/232122969",
+    "post_date": "2022-10-04",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我不预期股票回报率的，只想生意回报率。",
+    "post_url": "https://xueqiu.com/1247347556/232061457",
+    "post_date": "2022-10-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

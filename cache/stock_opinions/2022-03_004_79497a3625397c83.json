@@ -1,0 +1,16 @@
+[
+  {
+    "id": "87079c8e-8777-4651-ae67-fae7a3c9d578",
+    "stock": "老虎证券",
+    "ticker": "TIGR",
+    "market": "US",
+    "date": "2022-03-18",
+    "sentiment": "bearish",
+    "summary": "不喜欢老虎证券界面复杂",
+    "quote": "老虎证券的界面太复杂，似乎想把尽可能多的功能放在界面里，让人眼花缭乱，不是我喜欢的那种。",
+    "source_file": "2022-03_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/214605628"
+  }
+]

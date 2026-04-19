@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我对茅台的产品文化，尤其是53度飞天的产品文化蛮有信心的。",
+    "post_url": "https://xueqiu.com/1247347556/124560195",
+    "post_date": "2019-04-04",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你如果能放下市值的概念，想象这两家公司都是非上市公司，也许你就明白了？",
+    "post_url": "https://xueqiu.com/1247347556/124560189",
+    "post_date": "2019-04-03",
+    "mentioned_stocks": [
+      "苹果",
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "当手头有闲置的现金又找不到合适的股票买入，内心里觉得钱如果没能“花”出去就是在贬值。换作是您，您会怎么做呢？我会着急",
+    "post_url": "https://xueqiu.com/1247347556/124476718",
+    "post_date": "2019-04-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9ca677b0-9adb-4d7b-867b-ecdcf3804622",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-10-14",
+    "sentiment": "bullish",
+    "summary": "没有卖出计划",
+    "quote": "我目前没有卖茅台或苹果的计划，我甚至不知道他们的PE。当然，如果真是100倍的PE，我可能要看下发生什么事了。",
+    "source_file": "2020-10_batch022",
+    "source_type": "xueqiu",
+    "chunk_index": 22,
+    "url": "https://xueqiu.com/1247347556/160872320"
+  },
+  {
+    "id": "27cee3eb-599f-4d47-9cce-d8da66229387",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-10-14",
+    "sentiment": "bullish",
+    "summary": "没有卖出计划",
+    "quote": "我目前没有卖茅台或苹果的计划，我甚至不知道他们的PE。当然，如果真是100倍的PE，我可能要看下发生什么事了。",
+    "source_file": "2020-10_batch022",
+    "source_type": "xueqiu",
+    "chunk_index": 22,
+    "url": "https://xueqiu.com/1247347556/160872320"
+  }
+]

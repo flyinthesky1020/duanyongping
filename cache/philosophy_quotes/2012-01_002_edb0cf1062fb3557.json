@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买股票和这只股票过去是多少钱没关系，就像卖股票和买入成本无关一样。搞不懂这点就是trader，当然做个赚钱的trader也不错哈。",
+    "post_url": "https://xueqiu.com/1247347556/21267712",
+    "post_date": "2012-01-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "抄底就是投机，为什么被套牢后就成了价值投资了？老巴被套citi了吗？为什么没有？所谓的价值投资者不是口里喊几句价值投资就会成为价值投资的。",
+    "post_url": "https://xueqiu.com/1247347556/21227406",
+    "post_date": "2012-01-26",
+    "mentioned_stocks": [
+      "花旗银行"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "所谓的价值投资者不是口里喊几句价值投资就会成为价值投资的。",
+    "post_url": "https://xueqiu.com/1247347556/21227406",
+    "post_date": "2012-01-26",
+    "mentioned_stocks": [
+      "花旗银行"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "呵呵，属于瞎忙的那种，比例很小，基本都补回来了。",
+    "post_url": "https://xueqiu.com/1247347556/21224239",
+    "post_date": "2012-01-26",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

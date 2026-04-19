@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式特别厉害的公司早晚会被调查的。这个案子看上去牵扯面很小。",
+    "post_url": "https://xueqiu.com/1247347556/283042941",
+    "post_date": "2024-03-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这个有办法减少。我们就不让有有息贷款。至少防止了过度使用杠杆。",
+    "post_url": "https://xueqiu.com/1247347556/282351873",
+    "post_date": "2024-03-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

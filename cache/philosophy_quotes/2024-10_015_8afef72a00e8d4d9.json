@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "闲钱就可以，几年不知道但最后至少会比存银行好。",
+    "post_url": "https://xueqiu.com/1247347556/308380212",
+    "post_date": "2024-10-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你研究了这么久，怎么会来问一个不关心这个生意的人呢？问来问去只能说明你心里没底，趁早还是省点时间吧。",
+    "post_url": "https://xueqiu.com/1247347556/308379203",
+    "post_date": "2024-10-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "苦生意。",
+    "post_url": "https://xueqiu.com/1247347556/308336713",
+    "post_date": "2024-10-16",
+    "mentioned_stocks": [
+      "极兔速递"
+    ],
+    "quality_score": 3
+  }
+]

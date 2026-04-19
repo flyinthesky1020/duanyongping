@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你是想听听茅台股价的短期动态吗？简单讲，10年后今天这个价钱大概率大家都会觉得很便宜的。",
+    "post_url": "https://xueqiu.com/1247347556/287075254",
+    "post_date": "2024-04-21",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看懂一家公司确实很难。以前没看懂，现在再看也还是没懂。搞不清楚这家公司10年后会是更好还是不如现在。",
+    "post_url": "https://xueqiu.com/1247347556/286966331",
+    "post_date": "2024-04-20",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对“看懂”的定义非常简单，就是敢下重注。按老巴最多分散到6个公司的说法（我很同意哈），“看懂”并敢下注的比例至少要占1/6吧？不然都应该叫“观察仓”？",
+    "post_url": "https://xueqiu.com/1247347556/286964435",
+    "post_date": "2024-04-20",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 5
+  }
+]

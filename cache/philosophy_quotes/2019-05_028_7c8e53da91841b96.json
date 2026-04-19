@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不喝白酒，不太了解别的白酒。",
+    "post_url": "https://xueqiu.com/1247347556/126883027",
+    "post_date": "2019-05-17",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "搞不懂得公司不要碰就好",
+    "post_url": "https://xueqiu.com/1247347556/126883006",
+    "post_date": "2019-05-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "想着10年后，时间长了你就会得到你该得到的。",
+    "post_url": "https://xueqiu.com/1247347556/126883006",
+    "post_date": "2019-05-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "问题的提法有点复杂，简单说其实就是你到底能为你的消费者提供什么别人提供不了的但消费者又是很想要的东西，这就叫差异化。如果你正好有且能让你的消费者知道且能买到，你应该就可以活下来了。",
+    "post_url": "https://xueqiu.com/1247347556/126882905",
+    "post_date": "2019-05-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

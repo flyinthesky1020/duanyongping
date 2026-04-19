@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我能力圈有限，没听过这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/160661043",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不喜欢这种51%以上输的赌，所以对博彩业无感。",
+    "post_url": "https://xueqiu.com/1247347556/160659401",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我也看不清。",
+    "post_url": "https://xueqiu.com/1247347556/160656318",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [
+      "华侨城"
+    ],
+    "quality_score": 4
+  }
+]

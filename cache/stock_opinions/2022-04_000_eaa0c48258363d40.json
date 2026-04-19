@@ -1,0 +1,30 @@
+[
+  {
+    "id": "70240aed-99d7-43fd-98f5-894af1b9248a",
+    "stock": "GE",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2022-04-29",
+    "sentiment": "bearish",
+    "summary": "不再投资GE",
+    "quote": "现在不会再投GE和创维，因为这两家商业模式都不太好。",
+    "source_file": "2022-04_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/218826485"
+  },
+  {
+    "id": "17d44211-3125-41b6-946c-0b158de85b7d",
+    "stock": "创维",
+    "ticker": "0751.HK",
+    "market": "HK",
+    "date": "2022-04-29",
+    "sentiment": "bearish",
+    "summary": "不再投资创维",
+    "quote": "现在不会再投GE和创维，因为这两家商业模式都不太好。",
+    "source_file": "2022-04_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/218826485"
+  }
+]

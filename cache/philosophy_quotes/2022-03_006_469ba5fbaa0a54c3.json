@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "大家伙用margin的例子很多，历史上非常著名的也不少。难以理解！",
+    "post_url": "https://xueqiu.com/1247347556/214229349",
+    "post_date": "2022-03-15",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "那是玩笑，也是自嘲，说的是同一件事情，就是70年代他用过margin，而且差点就完蛋了。",
+    "post_url": "https://xueqiu.com/1247347556/214272092",
+    "post_date": "2022-03-15",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "中概股这次暴跌估计是有什么大家伙爆仓了？希望时间能长一点点，看看是不是有啥机会！",
+    "post_url": "https://xueqiu.com/1247347556/214219427",
+    "post_date": "2022-03-15",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  }
+]

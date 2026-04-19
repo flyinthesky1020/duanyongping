@@ -1,0 +1,16 @@
+[
+  {
+    "id": "61e2b061-0079-4c60-b037-58772e565607",
+    "stock": "Peloton Interactive",
+    "ticker": "PTON",
+    "market": "US",
+    "date": "2024-01-15",
+    "sentiment": "bearish",
+    "summary": "不看好Peloton",
+    "quote": "我看不到苹果会买这家公司的理由。我试过这家产品，好像没啥特别的。",
+    "source_file": "2024-01_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": ""
+  }
+]

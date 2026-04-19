@@ -1,0 +1,30 @@
+[
+  {
+    "id": "68d2e56e-d1ce-4711-9574-0558c4b5f04c",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-10-09",
+    "sentiment": "bullish",
+    "summary": "重仓持有茅台不动",
+    "quote": "基本都是茅台，而且是很大的资金持有量，市值波动这么大，依然不动。",
+    "source_file": "2024-10_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/307371034"
+  },
+  {
+    "id": "5cdd2239-5d7c-4661-92ec-5a957a7372a5",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2024-10-09",
+    "sentiment": "bullish",
+    "summary": "TEMU品牌实力强",
+    "quote": "我问过很多普通美国人，几乎绝大多数人都已经知道TEMU了。知道建立品牌有多难的人才知道，这个真的是很牛的！",
+    "source_file": "2024-10_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/307277729"
+  }
+]

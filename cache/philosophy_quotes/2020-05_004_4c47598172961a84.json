@@ -1,0 +1,34 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "我对老巴为什么卖航空公司没有兴趣，我只是对他这种卖法感到不舒服而已。刚刚对媒体说完不卖接着马上就卖了，而且是用了点技巧去卖的。",
+    "post_url": "https://xueqiu.com/1247347556/148513511",
+    "post_date": "2020-05-02",
+    "mentioned_stocks": [
+      "达美航空",
+      "西南航空"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我只是有点意外他为什么刚刚说不卖就卖了，感觉他在说不卖的时候其实已经决定要卖了，而且还是先把达美和西南卖到10%以下，为后面进一步减持方便而准备。",
+    "post_url": "https://xueqiu.com/1247347556/148513292",
+    "post_date": "2020-05-02",
+    "mentioned_stocks": [
+      "达美航空",
+      "西南航空"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我对老巴清空航空公司是有点意外的，因为他刚刚说过他不会卖航空公司！这个时候卖就等于把粉丝套进去了哈，有点难以理解。",
+    "post_url": "https://xueqiu.com/1247347556/148506832",
+    "post_date": "2020-05-02",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5c1810ea-22dc-43d2-b1c7-756af2b4a10e",
+    "stock": "UNKNOWN",
+    "ticker": "UNKNOWN",
+    "market": "UNKNOWN",
+    "date": "2011-11-01",
+    "sentiment": "bearish",
+    "summary": "不碰",
+    "quote": "便不便宜还是取决于了不了解这家公司。40亿人民币也不是小钱啊。无论如何，这个不是我能搞懂的东西，不碰。",
+    "source_file": "2011-11_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/20463624"
+  }
+]

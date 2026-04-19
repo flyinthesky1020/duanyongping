@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "保持节奏就好。",
+    "post_url": "https://xueqiu.com/1247347556/275925920",
+    "post_date": "2024-01-22",
+    "mentioned_stocks": [
+      "腾讯控股ADR"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "计划慢慢买，把大半年前卖掉的部分买回来就好。",
+    "post_url": "https://xueqiu.com/1247347556/276002547",
+    "post_date": "2024-01-22",
+    "mentioned_stocks": [
+      "腾讯控股ADR"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "投资其实不需要啥理论的。买股票就是买公司其实属于定义，因为股票就是公司的一部分。",
+    "post_url": "https://xueqiu.com/1247347556/276103558",
+    "post_date": "2024-01-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "应该是“宁要模糊的正确，也不要精确的错误”。",
+    "post_url": "https://xueqiu.com/1247347556/275769484",
+    "post_date": "2024-01-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

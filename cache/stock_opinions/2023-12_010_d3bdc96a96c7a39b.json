@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c810b227-8fa9-4544-bcb2-e3336548d768",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-12-13",
+    "sentiment": "bullish",
+    "summary": "好公司要惜卖",
+    "quote": "苹果现在不便宜了，但一直没找到我想拿苹果换的公司。好公司要惜卖。",
+    "source_file": "2023-12_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/270769407"
+  }
+]

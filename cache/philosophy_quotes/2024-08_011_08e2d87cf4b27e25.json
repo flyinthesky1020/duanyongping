@@ -1,0 +1,39 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买call最终大概率会很惨。",
+    "post_url": "https://xueqiu.com/1247347556/301186438",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不敢推荐啊，很难了解很深，比了解一个公司都难。",
+    "post_url": "https://xueqiu.com/1247347556/301183522",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "比如目前的苹果，市值扣掉净现金后，大约8000亿左右，年利润500亿左右。如果你认为苹果未来20年以上的年利润只多不少，而你又没别的办法赚到6%以上的年利润，那你就可以买苹果了。",
+    "post_url": "https://xueqiu.com/1247347556/301181394",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我不知道谁会涨得更多更快，但我觉得这两个生意都不错，都值得收藏。",
+    "post_url": "https://xueqiu.com/1247347556/301080201",
+    "post_date": "2024-08-14",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我想到茅台这样做的一个理由：茅台的官方建议价就是¥1499，所以茅台按这个价给任何人都是合理的，给股东自然也能说得过去，其实就是一个变相涨价的办法。这里不合理的地方是零售价过低了，但又不知道该怎么涨。这也从侧面说明茅台还有潜在价值。",
+    "post_url": "https://xueqiu.com/1247347556/206641841",
+    "post_date": "2021-12-21",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "这个要求很滑稽，公司的满足办法也很滑稽。股东就是股东，公司满足股东的东西就是公司的盈利，别的东西搅和进来就乱了吧？",
+    "post_url": "https://xueqiu.com/1247347556/206530457",
+    "post_date": "2021-12-20",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "在这个视频里从大家的谈话中能感受到我们的企业文化的强大，我很开心哈。",
+    "post_url": "https://xueqiu.com/1247347556/206652550",
+    "post_date": "2021-12-21",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 3
+  }
+]

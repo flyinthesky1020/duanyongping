@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不好意思，我不太懂市场，所以回答不了你的问题。",
+    "post_url": "https://xueqiu.com/1247347556/123126502",
+    "post_date": "2019-03-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果是确定的一年一倍的机会，全世界的钱都会跑过来的。你的例子我不懂。",
+    "post_url": "https://xueqiu.com/1247347556/123126505",
+    "post_date": "2019-03-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得10年后回过头来看，腾讯赚的钱（我买的份额占的比例）应该比我存银行的利息要多。",
+    "post_url": "https://xueqiu.com/1247347556/123103083",
+    "post_date": "2019-03-15",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  }
+]

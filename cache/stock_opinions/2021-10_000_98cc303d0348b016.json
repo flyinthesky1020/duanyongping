@@ -1,0 +1,30 @@
+[
+  {
+    "id": "7b35c102-34af-4b1b-85a6-a75d013c5ea2",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2021-10-31",
+    "sentiment": "bullish",
+    "summary": "卖出put看涨苹果",
+    "quote": "我大概有5-10%是在卖put上，主要是卖苹果的put。是个好玩的游戏，时间是站在我这边的。",
+    "source_file": "2021-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/201629184"
+  },
+  {
+    "id": "9783283d-70d3-4a48-86e9-ce27fe336a41",
+    "stock": "Moderna",
+    "ticker": "MRNA",
+    "market": "US",
+    "date": "2021-10-31",
+    "sentiment": "bullish",
+    "summary": "看好mRNA疫苗技术",
+    "quote": "mRNA 的疫苗很有点道理。",
+    "source_file": "2021-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/201721751"
+  }
+]

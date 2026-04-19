@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ff8303c1-1046-4241-b21e-0fda3dee35ef",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-04-02",
+    "sentiment": "bullish",
+    "summary": "大概率会有一定增长",
+    "quote": "我猜他们大概率会有一定增长",
+    "source_file": "2025-04_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/330016638"
+  }
+]

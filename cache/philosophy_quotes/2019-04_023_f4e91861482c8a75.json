@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "毋以善小而不为，勿以恶小而为之。",
+    "post_url": "https://xueqiu.com/1247347556/124692181",
+    "post_date": "2019-04-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "根据广告量推测利润的前提是经营者是理性的，但这点我并没有得到确认。在酒行业里，茅台好好的，别的就没必要花太多时间了，除非你认为其有机会比例上大幅度超越茅台？",
+    "post_url": "https://xueqiu.com/1247347556/124636450",
+    "post_date": "2019-04-06",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "茅台未来利润大概率上是会比现在高的，而且大概率是越来越高……。",
+    "post_url": "https://xueqiu.com/1247347556/124636511",
+    "post_date": "2019-04-06",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我喜欢星巴克，但对舒尔茨没认真了解过。",
+    "post_url": "https://xueqiu.com/1247347556/124744195",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "星巴克"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "在酒行业里，茅台好好的，别的就没必要花太多时间了，除非你认为其有机会比例上大幅度超越茅台？",
+    "post_url": "https://xueqiu.com/1247347556/124636450",
+    "post_date": "2019-04-06",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

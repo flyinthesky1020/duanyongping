@@ -1,0 +1,16 @@
+[
+  {
+    "id": "83383cf1-ad3e-4150-a931-163ec8a1357b",
+    "stock": "IMAX CHINA",
+    "ticker": "1970.HK",
+    "market": "HK",
+    "date": "2019-07-19",
+    "sentiment": "bearish",
+    "summary": "看空IMAX未来十年",
+    "quote": "我看过IMAX，感觉10年后这家公司的日子很难比现在好过。",
+    "source_file": "2019-07_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/129850732"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我不想也不能推荐任何人买任何股票，因为投资是和你自己的机会成本密切相关的事情。当然，如果你有10年都用不上的闲钱放在银行里，10年后你可能确实会发现当年还不如买成茅台呢，至少现在往回看是如此。",
+    "post_url": "https://xueqiu.com/1247347556/160655037",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "主要靠时间吧。三观不合在一起时间长了一定会知道的。",
+    "post_url": "https://xueqiu.com/1247347556/160654425",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没接触过物业股。",
+    "post_url": "https://xueqiu.com/1247347556/160654371",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "e089df2c-ea4a-4752-ac2d-0fed468c64f4",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2025-03-25",
+    "sentiment": "bullish",
+    "summary": "NVDA厉害，敢拿着",
+    "quote": "我个人觉得NVDA这家公司其实很厉害，这个价钱我敢拿着",
+    "source_file": "2025-03_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/328728914"
+  },
+  {
+    "id": "947fb6b7-c3f1-4700-9039-b8b05d6d1267",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2025-03-25",
+    "sentiment": "bullish",
+    "summary": "两家公司都不错",
+    "quote": "这两家公司都不错，很难决定怎么分配你的资金才能得到最大回报。追求最大回报那是神仙干的事情，好过你的机会成本的投资其实都是不错的投资哈。",
+    "source_file": "2025-03_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/328558714"
+  },
+  {
+    "id": "0ed2f69e-9633-4d8c-9fba-1419a506e107",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2025-03-25",
+    "sentiment": "bullish",
+    "summary": "两家公司都不错",
+    "quote": "这两家公司都不错，很难决定怎么分配你的资金才能得到最大回报。追求最大回报那是神仙干的事情，好过你的机会成本的投资其实都是不错的投资哈。",
+    "source_file": "2025-03_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/328558714"
+  }
+]

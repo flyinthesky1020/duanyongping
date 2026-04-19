@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂，猜大概疫苗供足后半年内就差不多了吧。·供足要多久不知道，也许大半年。",
+    "post_url": "https://xueqiu.com/1247347556/164827265",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你在哪个视频看我说过“守正出奇”了？ 我没有过这种心态，不知道怎么规划。",
+    "post_url": "https://xueqiu.com/1247347556/164826705",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "因为货币不都是自由流通的，你其实干了一件不明所以的事情。",
+    "post_url": "https://xueqiu.com/1247347556/164826468",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "加仓吧，反正10年后回头看也是个不错的选择。",
+    "post_url": "https://xueqiu.com/1247347556/164825677",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 5
+  }
+]

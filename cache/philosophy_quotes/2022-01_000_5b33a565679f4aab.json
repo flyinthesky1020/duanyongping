@@ -1,0 +1,65 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/210492981",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我认为苹果的商业模式比可口可乐还要强大。",
+    "post_url": "https://xueqiu.com/1247347556/210494145",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "做为投资，不太了解爱马仕，虽然也有一些这个牌子的产品，比如皮带，毛衣啥的。个人对爱马仕不依赖，感觉不出像茅台一样的商业模式，以后有机会可以留意一下。",
+    "post_url": "https://xueqiu.com/1247347556/210541648",
+    "post_date": "2022-01-31",
+    "mentioned_stocks": [
+      "爱马仕",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你两家公司都不懂，这么想有点道理，但永远都很难想通的。如果你两家公司都懂，那你自己自然有答案。",
+    "post_url": "https://xueqiu.com/1247347556/210492981",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/210492981",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不过，我不喜欢物流的商业模式，不建议大家投这类公司。",
+    "post_url": "https://xueqiu.com/1247347556/210541597",
+    "post_date": "2022-01-31",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我觉得Tim Cook是更好的CEO。",
+    "post_url": "https://xueqiu.com/1247347556/210494145",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

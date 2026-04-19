@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "今天买了点，再跌再多买些。",
+    "post_url": "https://xueqiu.com/1247347556/209030266",
+    "post_date": "2022-01-14",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得以10年的眼光看，我来管怎么着都比拿着现金吃利息要好。",
+    "post_url": "https://xueqiu.com/1247347556/208822881",
+    "post_date": "2022-01-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我认识一个喜欢喝茅台酒的朋友，有段时间老是问我买啥股票好。我当时就跟他说，你那么喜欢茅台酒，为什么不买茅台？开始不太能听进去，后来算是有点明白，最后真都买了茅台，现在蛮开心的，再也不问我该买啥了。他说，有闲钱就买点茅台，就当存茅台酒，我觉得有点道理。",
+    "post_url": "https://xueqiu.com/1247347556/208826242",
+    "post_date": "2022-01-12",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

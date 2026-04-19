@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c42d444d-21e4-4611-9bc8-e1387f729fc6",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-11-07",
+    "sentiment": "bullish",
+    "summary": "苹果生态系统强大",
+    "quote": "苹果最厉害的就是在苹果的企业文化下建立的生态系统，这是个非常强大得商业模式，非常难以撼动。",
+    "source_file": "2020-11_batch026",
+    "source_type": "xueqiu",
+    "chunk_index": 26,
+    "url": "https://xueqiu.com/1247347556/162696353"
+  }
+]

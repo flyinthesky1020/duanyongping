@@ -1,0 +1,55 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不捡烟蒂了",
+    "post_url": "https://xueqiu.com/1247347556/116025353",
+    "post_date": "2018-10-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "创维又掉到一块多了？好多年前曾经在一块多时买过，好像是5-8块卖掉了。无意中发现又回到了这个价钱，但居然没兴趣，就像对ge没兴趣一样。看来本人对投资的理解确实进步了。",
+    "post_url": "https://xueqiu.com/1247347556/116020999",
+    "post_date": "2018-10-30",
+    "mentioned_stocks": [
+      "创维集团",
+      "ge"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "能明白看10年其实更容易说明你进步了哈。",
+    "post_url": "https://xueqiu.com/1247347556/115879292",
+    "post_date": "2018-10-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "为调仓而调大概率会是错的。",
+    "post_url": "https://xueqiu.com/1247347556/115878093",
+    "post_date": "2018-10-28",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我认为游戏公司给消费者提供好游戏和别的公司提供好产品没有任何差别，不存在良知的问题。我们不认为有人沉醉于麻将是麻将的错吧？我们也不会认为有人喝醉酒是酒的错吧？我们也不认为有人在赌场倾家荡产是赌场的错吧？那为什么我们会认为有人沉迷游戏是游戏的错呢？",
+    "post_url": "https://xueqiu.com/1247347556/115878093",
+    "post_date": "2018-10-28",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "现在买入过10年看显然大概率会比存银行好。",
+    "post_url": "https://xueqiu.com/1247347556/115848226",
+    "post_date": "2018-10-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "坚持做难的事情感觉像存心要跟自己过不去的样子。老巴都说要找三尺高的栏杆跨过去哈。坚持做对的事情虽然也不容易，但是应该是愉悦的。",
+    "post_url": "https://xueqiu.com/1247347556/301194547",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "是的，找到好公司确实很难，比爬山要难。所以，真要投资的话，要坚持的是要坚持去找好公司，去看懂生意，至少要学会坚持不买烂生意。",
+    "post_url": "https://xueqiu.com/1247347556/301192179",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们拿着苹果拿着茅台这么多年，老是有人在旁边一直说：你好难啊！我难吗？！难在哪里了？什么事情比这个更容易呢？拿着好公司比爬山这种东西要简单甚至容易很多，如果你能确定拿着的是“好公司”的话。如果你不知道拿着的是不是好公司，那你坚持什么？",
+    "post_url": "https://xueqiu.com/1247347556/301189112",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "拿着好公司比爬山这种东西要简单甚至容易很多，如果你能确定拿着的是“好公司”的话。",
+    "post_url": "https://xueqiu.com/1247347556/301189112",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "任何公司都可以这么算，但是功夫不在“算”上，“你认为”那里占了大头。投资最重要的是要懂得你投的生意，无他。",
+    "post_url": "https://xueqiu.com/1247347556/301187646",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "坚持做对的事情虽然也不容易，但是应该是愉悦的。",
+    "post_url": "https://xueqiu.com/1247347556/301194547",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "是啊，500/8000=6.25%，显然比利息好了。",
+    "post_url": "https://xueqiu.com/1247347556/301188013",
+    "post_date": "2024-08-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 2
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你要短线能赚钱那当然做短线啊！最短的短线在澳门。",
+    "post_url": "https://xueqiu.com/1247347556/372357636",
+    "post_date": "2026-01-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你如果做“价值投资”很赚钱的话，你为什么想转？如果你连做“价值投资”都不赚钱的话，你能干的过人家幻方？你知道人家ai的水平吗？你知道人家早年屯了多少nvda的芯片吗？假装懂投资是真的很危险的。",
+    "post_url": "https://xueqiu.com/1247347556/372438550",
+    "post_date": "2026-01-21",
+    "mentioned_stocks": [
+      "NVDA"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "公益是件很复杂的事情，我这两天花了点时间了解了一下，感觉比搞懂茅台要难很多。直觉上有点蹊跷，再多看一段时间吧。",
+    "post_url": "https://xueqiu.com/1247347556/372436759",
+    "post_date": "2026-01-21",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "什么都有可能的，但真到1200的时候，你大概率也是不会买的。",
+    "post_url": "https://xueqiu.com/1247347556/372441488",
+    "post_date": "2026-01-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "哈，我为什么会急？我是希望多跌一点的。",
+    "post_url": "https://xueqiu.com/1247347556/372440880",
+    "post_date": "2026-01-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "你着哪门子急？拿别人壮胆是没有用的。茅台一时半会儿也许不会“反弹”，你这种梭哈心态很可能会难受很久的。",
+    "post_url": "https://xueqiu.com/1247347556/372440033",
+    "post_date": "2026-01-21",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "主要看公司本身。好公司虽然也会受到大环境影响，但因为好公司大多比较健康，往往受到的影响比平均要小，回来的时候也经常是更快的。就茅台而言，一段时间内，茅台的销售肯定是会受到房地产行业景气，商业景气以及禁酒令的影响的，但长期来讲i茅台很可能解决了在哪里能买到真茅...",
+    "post_url": "https://xueqiu.com/1247347556/372356123",
+    "post_date": "2026-01-21",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

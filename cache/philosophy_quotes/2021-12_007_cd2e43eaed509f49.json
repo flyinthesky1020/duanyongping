@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "是大家共同的文化，大道开了个头而已。",
+    "post_url": "https://xueqiu.com/1247347556/206213569",
+    "post_date": "2021-12-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "又有点put要到期了，钱实在是没地方去，12%年回报也还不错吧。",
+    "post_url": "https://xueqiu.com/1247347556/206208683",
+    "post_date": "2021-12-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "就是冒能冒得起的风险，当然不是为了冒险而冒险哈。有些事情看起来需要做，但如果做就会有风险，这个时候理性思考很重要。",
+    "post_url": "https://xueqiu.com/1247347556/206006526",
+    "post_date": "2021-12-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

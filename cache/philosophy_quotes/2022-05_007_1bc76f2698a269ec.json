@@ -1,0 +1,47 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这种时候其实我也很想用margin的哈，所以复习一下大道说过的不要用margin的道理。",
+    "post_url": "https://xueqiu.com/1247347556/219496601",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你卖put的时候没有现金在旁边，那就是用margin。",
+    "post_url": "https://xueqiu.com/1247347556/219502832",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我赌一块钱不会。10年20年后就看到了。",
+    "post_url": "https://xueqiu.com/1247347556/219491201",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [
+      "苹果",
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。",
+    "post_url": "https://xueqiu.com/1247347556/219468055",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你可能还没搞明白买put是什么意思的吧？",
+    "post_url": "https://xueqiu.com/1247347556/219500851",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

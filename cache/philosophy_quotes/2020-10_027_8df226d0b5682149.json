@@ -1,0 +1,37 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "所谓坚持做对的事情是通过发现是错的事情就马上停止，不管多大的代价都会是最小的代价。stop doing list也很重要。",
+    "post_url": "https://xueqiu.com/1247347556/160934208",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "经营企业和投资一样，少犯错很重要。但所谓少犯错不是通过什么都不敢做实现的，那叫裹足不前。少犯错是通过坚持做对的事情来实现。",
+    "post_url": "https://xueqiu.com/1247347556/160934208",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "投资确很简单：买股票就是买公司，搞懂公司生意就好了，搞不懂就别碰。",
+    "post_url": "https://xueqiu.com/1247347556/160887961",
+    "post_date": "2020-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我目前没有卖茅台或苹果的计划，我甚至不知道他们的PE。",
+    "post_url": "https://xueqiu.com/1247347556/160872320",
+    "post_date": "2020-10-13",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

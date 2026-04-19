@@ -1,0 +1,61 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "苹果，茅台和腾讯都是不卖品！",
+    "post_url": "https://xueqiu.com/1247347556/157606713",
+    "post_date": "2020-08-25",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "仔细想了一下，从10年的眼光看，苹果和茅台其实也都不贵。",
+    "post_url": "https://xueqiu.com/1247347556/157581046",
+    "post_date": "2020-08-25",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得难得的好公司最好还是拿着，换来换去比较复杂。",
+    "post_url": "https://xueqiu.com/1247347556/157509838",
+    "post_date": "2020-08-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我现在并没有想卖苹果的意思，因为卖了钱也没有更好的去处，从这个角度看，似乎也不算高估。",
+    "post_url": "https://xueqiu.com/1247347556/157511375",
+    "post_date": "2020-08-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "历史上苹果有过至少10-11次40%以上的回调，希望下次快点到来。",
+    "post_url": "https://xueqiu.com/1247347556/157471924",
+    "post_date": "2020-08-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我一直不太习惯买很高pe的公司",
+    "post_url": "https://xueqiu.com/1247347556/157509838",
+    "post_date": "2020-08-24",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

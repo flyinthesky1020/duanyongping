@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1a1a4db1-a9e2-43cc-b375-8a2d892e181e",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2023-04-12",
+    "sentiment": "bullish",
+    "summary": "开始思考阿里，先卖put",
+    "quote": "开始思考阿里，先卖点put再说。",
+    "source_file": "2023-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/246827128"
+  },
+  {
+    "id": "29da7a4b-0a63-482e-8370-478a8cb6b03d",
+    "stock": "谷歌",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2023-04-12",
+    "sentiment": "bullish",
+    "summary": "ChatGPT无法替代谷歌搜索",
+    "quote": "大道一直说的是ChatGpt目前还完全不能用于搜索，所以目前还不会替代搜索。Bard和Chatgpt是一样的东西，现在可以全方位比较两个产品的区别了。",
+    "source_file": "2023-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/246857337"
+  }
+]

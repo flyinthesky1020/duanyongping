@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "诱导式充值确实不厚道，能限制一下会更健康。",
+    "post_url": "https://xueqiu.com/1247347556/272077830",
+    "post_date": "2023-12-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "老规矩，掉一次买一点点，慢慢来。",
+    "post_url": "https://xueqiu.com/1247347556/272077830",
+    "post_date": "2023-12-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果新规矩只是这个的话，感觉至少不会对腾讯的营业额和盈利有本质的影响。游戏玩家总体而言是理性的，老百姓心里有杆秤哈。",
+    "post_url": "https://xueqiu.com/1247347556/272087661",
+    "post_date": "2023-12-22",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

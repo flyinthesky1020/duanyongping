@@ -1,0 +1,63 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "别人怎么分配投资和你自己没啥关系的，你投自己能理解的好公司就好。",
+    "post_url": "https://xueqiu.com/1247347556/123089890",
+    "post_date": "2019-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没看过其他游戏公司除了腾讯，一直很想投腾讯但直到去年才投了一些。",
+    "post_url": "https://xueqiu.com/1247347556/123090419",
+    "post_date": "2019-03-15",
+    "mentioned_stocks": [
+      "腾讯",
+      "网易"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "一直很想投腾讯但直到去年才投了一些。",
+    "post_url": "https://xueqiu.com/1247347556/123090419",
+    "post_date": "2019-03-15",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "投资不怕晚，啥时候悟明白了都行，因为以后的日子还长着呢。",
+    "post_url": "https://xueqiu.com/1247347556/123093843",
+    "post_date": "2019-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我当CEO的时候并没有一个时间分配表，但大致知道什么是重要的。简而言之，不要让重要的事情变成紧急的事情。",
+    "post_url": "https://xueqiu.com/1247347556/123090568",
+    "post_date": "2019-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "关键在于你是否选对了公司。",
+    "post_url": "https://xueqiu.com/1247347556/123090678",
+    "post_date": "2019-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "办法已经在那里，现在只能靠自己了。",
+    "post_url": "https://xueqiu.com/1247347556/123090521",
+    "post_date": "2019-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  }
+]

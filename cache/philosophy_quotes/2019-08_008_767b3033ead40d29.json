@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "每个股票我买的时候都是打算不卖的，包括茅台。",
+    "post_url": "https://xueqiu.com/1247347556/131500030",
+    "post_date": "2019-08-20",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "有个你没搞懂的股票突然涨了很多，然后你就有了很多感想？你要真的本分的话应该是没啥想法才对吧？",
+    "post_url": "https://xueqiu.com/1247347556/131511320",
+    "post_date": "2019-08-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我觉得这家公司很了不起但不是很明白他们未来的发展。",
+    "post_url": "https://xueqiu.com/1247347556/131504912",
+    "post_date": "2019-08-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "持有就等于买入。",
+    "post_url": "https://xueqiu.com/1247347556/131538753",
+    "post_date": "2019-08-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

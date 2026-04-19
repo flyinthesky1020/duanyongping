@@ -1,0 +1,16 @@
+[
+  {
+    "id": "19a0bbb5-edb3-4e5e-8fe0-15542e7ace8b",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2018-09-04",
+    "sentiment": "bearish",
+    "summary": "暂不宜大比例投资",
+    "quote": "如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适",
+    "source_file": "2018-09_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/113291246"
+  }
+]

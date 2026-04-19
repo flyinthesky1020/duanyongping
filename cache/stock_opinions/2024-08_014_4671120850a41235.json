@@ -1,0 +1,16 @@
+[
+  {
+    "id": "af43e302-e2a7-4133-b2bd-d287ab3fff93",
+    "stock": "Google",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2024-08-09",
+    "sentiment": "bullish",
+    "summary": "Google有吸引力",
+    "quote": "Goog看着蛮吸引人的，但我对Goog的搜索的护城河不是那么有把握，虽然觉得他们的护城河应该也是蛮宽的。",
+    "source_file": "2024-08_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/300572545"
+  }
+]

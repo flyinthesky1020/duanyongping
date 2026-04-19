@@ -1,0 +1,16 @@
+[
+  {
+    "id": "57154e45-8835-4f03-b310-0b34d837ad60",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-10-16",
+    "sentiment": "bullish",
+    "summary": "买入苹果",
+    "quote": "我对苹果还是更了解一些，也正好碰上苹果大掉了一下。我就都又买成苹果了。苹果不便宜，现金更贵啊。",
+    "source_file": "2020-10_batch017",
+    "source_type": "xueqiu",
+    "chunk_index": 17,
+    "url": "https://xueqiu.com/1247347556/161100922"
+  }
+]

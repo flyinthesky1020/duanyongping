@@ -1,0 +1,16 @@
+[
+  {
+    "id": "389362c8-fd56-456d-a77d-ec64ec8670bf",
+    "stock": "腾讯控股",
+    "ticker": "00700.HK",
+    "market": "HK",
+    "date": "2024-11-10",
+    "sentiment": "bullish",
+    "summary": "卖出看跌期权",
+    "quote": "刚刚卖了10k 11/28到期的400的put，收6.3上下。",
+    "source_file": "2024-11_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/312105608"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e7f16d69-75d2-4a94-bbf0-feba2cbdb4e2",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-02-27",
+    "sentiment": "bullish",
+    "summary": "价格不贵",
+    "quote": "把懂王税考虑在内的话，这个价不贵啊。",
+    "source_file": "2026-02_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/376661442"
+  }
+]

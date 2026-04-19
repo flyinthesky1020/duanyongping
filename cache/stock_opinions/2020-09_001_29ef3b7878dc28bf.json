@@ -1,0 +1,44 @@
+[
+  {
+    "id": "be6027cc-be8e-47cc-b54e-41a5e7ab90d9",
+    "stock": "美团",
+    "ticker": "3690.HK",
+    "market": "HK",
+    "date": "2020-09-09",
+    "sentiment": "bullish",
+    "summary": "开始认真关注美团",
+    "quote": "感觉王兴蛮厉害的，能够理性面对问题！开始认真关注美团！",
+    "source_file": "2020-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/158892155"
+  },
+  {
+    "id": "e7735578-2df8-4a9f-882e-e236c494b7fa",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2020-09-09",
+    "sentiment": "bearish",
+    "summary": "生意模式难赚钱",
+    "quote": "我的观点很简单，第一，我用了他们的车三年，不喜欢！ 第二，这个生意模式似乎很难赚钱！",
+    "source_file": "2020-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/158528617"
+  },
+  {
+    "id": "66f5d874-e0c1-49e7-8b88-3eeb54b6ed20",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2020-09-09",
+    "sentiment": "bullish",
+    "summary": "港股只买腾讯",
+    "quote": "港股我们只买了腾讯。",
+    "source_file": "2020-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/158238613"
+  }
+]

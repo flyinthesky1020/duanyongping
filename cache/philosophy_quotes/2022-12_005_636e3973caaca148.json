@@ -1,0 +1,41 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "这个说法是基于利益的，当不诚信有巨大利益的时候，基于这种想法的人多半会选择不诚信。我觉得诚信不应该是策略。",
+    "post_url": "https://xueqiu.com/1247347556/238280089",
+    "post_date": "2022-12-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "掉了很多的股票有很多啊。公司价值和其到过什么市值未必是有关系的。我依然觉得特斯拉未来是个苦生意，商业模式不是那么好，尽管他们做成这样已经很了不起了。",
+    "post_url": "https://xueqiu.com/1247347556/238280049",
+    "post_date": "2022-12-20",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我觉得“市值管理”的说法有点问题，感觉茅台做了一件对的事情，但用了不太对的说法，文化上会让人觉得市值是可以管理的。苹果的说法很简单，叫做“保持现金中性”，就是留够现金，多余的都还给股东。",
+    "post_url": "https://xueqiu.com/1247347556/238280049",
+    "post_date": "2022-12-20",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "两三年就轮岗公司还很好的情况不多见，茅台刚好就属于这种。只要产品文化不变，茅台谁管都会不错的。",
+    "post_url": "https://xueqiu.com/1247347556/238280015",
+    "post_date": "2022-12-20",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  }
+]

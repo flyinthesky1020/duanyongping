@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实一直是这样的。没有ai的时候，普通人做t的大多数也是亏得一塌糊涂的，ai以后依然会如此而已。",
+    "post_url": "https://xueqiu.com/1247347556/326314013",
+    "post_date": "2025-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "苦生意也是生意，也是有可能能赚钱的，但赚得非常辛苦。",
+    "post_url": "https://xueqiu.com/1247347556/326196670",
+    "post_date": "2025-03-05",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "量化交易大概率是个猎人和猎物的零和游戏，投资则像农夫种田，两者其实互不干扰。量化交易赚的是韭菜的钱，投资赚的是企业成长的钱。",
+    "post_url": "https://xueqiu.com/1247347556/326148761",
+    "post_date": "2025-03-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你大概率不如我了解NVDA。",
+    "post_url": "https://xueqiu.com/1247347556/326032998",
+    "post_date": "2025-03-04",
+    "mentioned_stocks": [
+      "NVDA"
+    ],
+    "quality_score": 2
+  }
+]

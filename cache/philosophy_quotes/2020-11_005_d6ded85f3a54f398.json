@@ -1,0 +1,68 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "人们关注我们往往是因为我们做了的那些事情，其实我们之所以成为我们，很大程度上还因为我们不做的那些事情。",
+    "post_url": "https://xueqiu.com/1247347556/164321707",
+    "post_date": "2020-11-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我的能力圈有限，大部分公司我都不了解。",
+    "post_url": "https://xueqiu.com/1247347556/164321707",
+    "post_date": "2020-11-26",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对这个行业不了解，感觉像是重资产且产品差异化不太大的行业。",
+    "post_url": "https://xueqiu.com/1247347556/164332023",
+    "post_date": "2020-11-26",
+    "mentioned_stocks": [
+      "维信诺"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我对这个行业不了解，感觉像是重资产且产品差异化不太大的行业。",
+    "post_url": "https://xueqiu.com/1247347556/164332023",
+    "post_date": "2020-11-26",
+    "mentioned_stocks": [
+      "维信诺"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "Think different 其实非常了不起，长期而言是力量巨大的。",
+    "post_url": "https://xueqiu.com/1247347556/164321956",
+    "post_date": "2020-11-26",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "Think different 其实非常了不起，长期而言是力量巨大的。think different其实是内含“消费者导向”的，因为那是前提。",
+    "post_url": "https://xueqiu.com/1247347556/164321956",
+    "post_date": "2020-11-26",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "其实大屏手机也从另外一个角度说明了苹果厉害的地方。可能因为乔布斯说过不要大屏，所以苹果犹豫了一下，但消费者的需求摆在那里，所以最后他们还是用不同的办法想通了。",
+    "post_url": "https://xueqiu.com/1247347556/164321906",
+    "post_date": "2020-11-26",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

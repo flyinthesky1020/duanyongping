@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8095670a-1ecb-442a-bd51-6264a40dd620",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2023-11-30",
+    "sentiment": "bullish",
+    "summary": "买入腾讯",
+    "quote": "今天41.05-41.1之间买了200k股腾讯。计划慢慢买，把大半年前卖掉的部分买回来就好。",
+    "source_file": "2023-11_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/268803364"
+  }
+]

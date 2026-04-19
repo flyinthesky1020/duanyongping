@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式好的企业股价最终会上来，这是我的常识。",
+    "post_url": "https://xueqiu.com/1247347556/295229288",
+    "post_date": "2024-06-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "别人喝没喝我不知道，我买的好像大部分还在。以后缺钱时就拿瓶酒去换钱去。因为我自己不太喝白酒，当年买的茅台大部分都还在。",
+    "post_url": "https://xueqiu.com/1247347556/295242264",
+    "post_date": "2024-06-25",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "72956cea-e411-4219-99ad-7a0be2172955",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-03-07",
+    "sentiment": "bullish",
+    "summary": "计划每跌10%加仓",
+    "quote": "我计划每掉10%加一次仓。",
+    "source_file": "2022-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": ""
+  },
+  {
+    "id": "848fb6b2-9974-4795-a488-26e2a6295ee6",
+    "stock": "达美航空",
+    "ticker": "DAL",
+    "market": "US",
+    "date": "2022-03-07",
+    "sentiment": "bearish",
+    "summary": "商业模式有缺陷",
+    "quote": "航空公司的商业模式确实是有缺陷的。",
+    "source_file": "2022-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/213314141"
+  }
+]

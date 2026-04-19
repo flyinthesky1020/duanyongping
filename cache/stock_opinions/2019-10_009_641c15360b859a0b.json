@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9c985ae9-20aa-4ee3-af17-edfb71e56ed5",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2019-10-01",
+    "sentiment": "bullish",
+    "summary": "看好阿里巴巴未来",
+    "quote": "应该还是会蛮厉害的。",
+    "source_file": "2019-10_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/133595824"
+  },
+  {
+    "id": "aa21e5e8-ceb5-4e0a-8249-e6f68e928b91",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2019-10-01",
+    "sentiment": "bullish",
+    "summary": "FB未来继续成长",
+    "quote": "fb去年已经赚了超过200亿了，未来大概率会继续成长，10年内大概率会超过500亿的。",
+    "source_file": "2019-10_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/133592705"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "8951a441-9c31-4884-a731-f61b39d544aa",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-12-05",
+    "sentiment": "bullish",
+    "summary": "闲钱优先买苹果",
+    "quote": "如果我有闲钱，我会更倾向于买苹果而不是amazon。",
+    "source_file": "2020-12_batch013",
+    "source_type": "xueqiu",
+    "chunk_index": 13,
+    "url": "https://xueqiu.com/1247347556/165026660"
+  },
+  {
+    "id": "c4a1b837-58dd-4e12-a2b4-ee27dfd02fea",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-12-05",
+    "sentiment": "bullish",
+    "summary": "减持可能性非常小",
+    "quote": "如果清空或大比例减持苹果或者茅台的话（可能性非常小），我应该会告诉大家的。",
+    "source_file": "2020-12_batch013",
+    "source_type": "xueqiu",
+    "chunk_index": 13,
+    "url": "https://xueqiu.com/1247347556/165026813"
+  }
+]

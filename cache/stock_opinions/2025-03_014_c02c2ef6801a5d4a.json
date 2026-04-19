@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d8701d19-de87-4d42-81c6-87d9ae3170a8",
+    "stock": "TSM",
+    "ticker": "TSM",
+    "market": "US",
+    "date": "2025-03-08",
+    "sentiment": "bullish",
+    "summary": "开始关注TSM",
+    "quote": "开始想想TSM。35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。现在开始关注。",
+    "source_file": "2025-03_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/326572370"
+  },
+  {
+    "id": "91a7ffb7-7a92-454c-b59e-7b30cfc77008",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2025-03-08",
+    "sentiment": "bullish",
+    "summary": "腾讯卖put幸运",
+    "quote": "腾讯短期的premium其实年化不低，一个月可以有差不多3%。我前段时间put进来不少腾讯，感觉运气很好。",
+    "source_file": "2025-03_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/326505863"
+  }
+]

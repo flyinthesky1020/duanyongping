@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "尽量不打交道吧？",
+    "post_url": "https://xueqiu.com/1247347556/129452089",
+    "post_date": "2019-07-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "思考本质，做对的事情和想10年都是一个意思。",
+    "post_url": "https://xueqiu.com/1247347556/129603595",
+    "post_date": "2019-07-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "茅台最大的麻烦可能就是现金太多，只要不乱花就没啥特别不放心的。",
+    "post_url": "https://xueqiu.com/1247347556/129541421",
+    "post_date": "2019-07-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

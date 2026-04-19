@@ -1,0 +1,16 @@
+[
+  {
+    "id": "71b6dbc2-f9a1-4543-8860-3ccb4a8f3d21",
+    "stock": "雅虎",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2012-04-18",
+    "sentiment": "bearish",
+    "summary": "业务翻身无望",
+    "quote": "虽然雅虎扣除流量获得成本后的净营收实现了自2008年Q3以来的首次上涨...但对雅虎这架老爷车来说，仍未能让人看到其业务翻身的希望...至于新CEO的复兴之路，仍然很遥远。",
+    "source_file": "2012-04_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/21703220"
+  }
+]

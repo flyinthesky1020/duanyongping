@@ -1,0 +1,44 @@
+[
+  {
+    "id": "6f72af6a-4faf-42ba-935a-90e233bf628d",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2020-11-17",
+    "sentiment": "bullish",
+    "summary": "确信拼多多是好公司",
+    "quote": "让我确信拼多多是一家有利润之上的好公司，也把让人们买得开心作为公司使命！",
+    "source_file": "2020-11_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/163574073"
+  },
+  {
+    "id": "3605560e-c51a-4ae1-9ba9-17e59bb2c804",
+    "stock": "Amazon",
+    "ticker": "AMZN",
+    "market": "US",
+    "date": "2020-11-17",
+    "sentiment": "bullish",
+    "summary": "Amazon伟大的企业",
+    "quote": "在我看来Amazon, google应该算",
+    "source_file": "2020-11_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/163564728"
+  },
+  {
+    "id": "e8e80565-0e2a-44ad-baf6-e984805f9311",
+    "stock": "Google",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2020-11-17",
+    "sentiment": "bullish",
+    "summary": "Google伟大的企业",
+    "quote": "在我看来Amazon, google应该算",
+    "source_file": "2020-11_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/163564728"
+  }
+]

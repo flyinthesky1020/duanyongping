@@ -1,0 +1,82 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "今天去这家公司看了一眼，到处逛了逛，看了一下实验室和办公区，蹭了一杯咖啡喝。感觉这家公司的企业文化还不错，但对生意模式无感，确实不在自己的能力圈内。有机会再继续了解吧。",
+    "post_url": "https://xueqiu.com/1247347556/141845623",
+    "post_date": "2020-02-21",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "对生意模式无感，确实不在自己的能力圈内。",
+    "post_url": "https://xueqiu.com/1247347556/141845623",
+    "post_date": "2020-02-21",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "感觉这家公司的企业文化还不错",
+    "post_url": "https://xueqiu.com/1247347556/141845623",
+    "post_date": "2020-02-21",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我简单看了一眼，能找到的中文资料非常有限，既看不懂商业模式，也看不到企业文化，对这家公司10年20年后会怎么样一点概念都没有，看来还是属于我能力圈以外的公司，目前绝对没有任何想大量买入的想法。",
+    "post_url": "https://xueqiu.com/1247347556/141104559",
+    "post_date": "2020-02-12",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "既看不懂商业模式，也看不到企业文化，对这家公司10年20年后会怎么样一点概念都没有，看来还是属于我能力圈以外的公司。",
+    "post_url": "https://xueqiu.com/1247347556/141104559",
+    "post_date": "2020-02-12",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "有利润之上的追求属于好的企业文化的一部分",
+    "post_url": "https://xueqiu.com/1247347556/141104559",
+    "post_date": "2020-02-12",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "对这家公司10年20年后会怎么样一点概念都没有，看来还是属于我能力圈以外的公司。",
+    "post_url": "https://xueqiu.com/1247347556/141104559",
+    "post_date": "2020-02-12",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "几年前去过两次苹果的股东大会，以后大概不会再去了。所有的信息事先都是知道的，除了想看看苹果公司外，其实没必要去。",
+    "post_url": "https://xueqiu.com/1247347556/142535946",
+    "post_date": "2020-02-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

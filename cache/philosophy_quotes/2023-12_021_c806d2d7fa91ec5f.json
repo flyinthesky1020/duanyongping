@@ -1,0 +1,63 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "我对阿里最不喜欢的就是“二选一”，因为那是违背”让天下没有难做的生意“的。“二选一”的宗旨是让阿里的天下没有难做的生意。",
+    "post_url": "https://xueqiu.com/1247347556/270237622",
+    "post_date": "2023-12-09",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "电商我老觉得看不透，不知道护城河到底在哪里，不知道10年后谁还能活得比较好。比如，我很难理解拼多多厉害的那些东西为什么阿里等不学或者学不像。如果厉害的东西大家都跟着学的话，10年后谁会更厉害呢？苹果的东西大家想学但学不会。这个世界上学不会的东西其实是很少的。",
+    "post_url": "https://xueqiu.com/1247347556/270237879",
+    "post_date": "2023-12-09",
+    "mentioned_stocks": [
+      "阿里巴巴",
+      "拼多多",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "目前阿里的净现金流还是很强的，扣掉净现金后的PE好像已经是个位数了，所以可能是个卖put的好目标。",
+    "post_url": "https://xueqiu.com/1247347556/270231156",
+    "post_date": "2023-12-09",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "哪个公司都可能有不合适的人，淘汰需要时间和事件。",
+    "post_url": "https://xueqiu.com/1247347556/270239953",
+    "post_date": "2023-12-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "你肯定觉得茅台也没啥对手们学不会的吧？",
+    "post_url": "https://xueqiu.com/1247347556/270291079",
+    "post_date": "2023-12-10",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "是没注意所以没学，还是没好好学，还是很认真滴学但就是学不会？",
+    "post_url": "https://xueqiu.com/1247347556/270239901",
+    "post_date": "2023-12-09",
+    "mentioned_stocks": [
+      "阿里巴巴",
+      "拼多多"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "真是了不起的企业文化",
+    "post_url": "https://xueqiu.com/1247347556/374712343",
+    "post_date": "2026-02-03",
+    "mentioned_stocks": [
+      "vivo"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "1%太少了，至少要和通胀持平的。每年温和涨价比每几年涨一次要好很多。茅台过去大概是每隔几年涨一次价，我觉得那样似乎会更费劲一些。涨多少合适是要去摸索的，也许每年涨3%-5%可能更合适？无论如何，涨多少都应该跟通胀匹配，多了少了可能都不合适。",
+    "post_url": "https://xueqiu.com/1247347556/374597508",
+    "post_date": "2026-02-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这两点相当于再造了一两个茅台。这个一两年内就能看得很清楚了。",
+    "post_url": "https://xueqiu.com/1247347556/374595832",
+    "post_date": "2026-02-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "这个其实就是有人在用软件抢单，这会让普通老百姓很难抢到。技术上也许是有办法的，比如同一个人（iP）一个月内不能买两次……。",
+    "post_url": "https://xueqiu.com/1247347556/374594846",
+    "post_date": "2026-02-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

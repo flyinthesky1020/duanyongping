@@ -1,0 +1,16 @@
+[
+  {
+    "id": "45d66eef-6990-48c2-a8ea-24821a066742",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-08-08",
+    "sentiment": "bullish",
+    "summary": "买入茅台赢大盘",
+    "quote": "我觉得目前这个价格买入茅台，十年二十年后回头看应该至少不会输给通胀，大概率会赢大盘",
+    "source_file": "2024-08_batch017",
+    "source_type": "xueqiu",
+    "chunk_index": 17,
+    "url": "https://xueqiu.com/1247347556/300403629"
+  }
+]

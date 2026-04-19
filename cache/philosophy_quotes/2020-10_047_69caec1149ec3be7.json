@@ -1,0 +1,43 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "简单讲，腾讯就是通过建立了的社交媒体，将流量货币化了。",
+    "post_url": "https://xueqiu.com/1247347556/160613264",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对腾讯的理解度远不如苹果，所以投的比例也小很多。",
+    "post_url": "https://xueqiu.com/1247347556/160613264",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "腾讯",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "感觉10年后腾讯应该依然强大，但50年就不好说了。",
+    "post_url": "https://xueqiu.com/1247347556/160613264",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这个游戏最好不玩，很容易不小心就把好不容易买到的好公司丢了。",
+    "post_url": "https://xueqiu.com/1247347556/160612515",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

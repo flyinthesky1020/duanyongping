@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "这类产品差异化小，变化快，建立护城河有点难度。",
+    "post_url": "https://xueqiu.com/1247347556/125878934",
+    "post_date": "2019-04-29",
+    "mentioned_stocks": [
+      "宁德时代"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "广告市场很大，和经济总量几乎是线性相关的。不了解极光。",
+    "post_url": "https://xueqiu.com/1247347556/125804327",
+    "post_date": "2019-04-28",
+    "mentioned_stocks": [
+      "极光"
+    ],
+    "quality_score": 3
+  }
+]

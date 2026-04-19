@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "Goog看着蛮吸引人的，但我对Goog的搜索的护城河不是那么有把握，虽然觉得...有段时间没怎么用搜索了。还发现Gemini经常不如ChatGPT，还发现perplexity有时候比前面两家都好用。也许Google的护城河要开始松动了，很难想象10年后会是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/315006142",
+    "post_date": "2024-12-01",
+    "mentioned_stocks": [
+      "Google",
+      "Alphabet"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我说过我没主动卖过苹果！！",
+    "post_url": "https://xueqiu.com/1247347556/315216077",
+    "post_date": "2024-12-02",
+    "mentioned_stocks": [
+      "苹果",
+      "Apple"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你对投资还毫无概念就热爱上了？是因为能亏钱吗？",
+    "post_url": "https://xueqiu.com/1247347556/315316441",
+    "post_date": "2024-12-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

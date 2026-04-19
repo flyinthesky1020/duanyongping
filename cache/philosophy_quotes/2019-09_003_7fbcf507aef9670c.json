@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我看过这家公司，眼花缭乱，看不懂。",
+    "post_url": "https://xueqiu.com/1247347556/133496805",
+    "post_date": "2019-09-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你买股票时本来就是应该假设这是家非上市公司的哈，现在果然是了，你咋就不乐意了呢？",
+    "post_url": "https://xueqiu.com/1247347556/133484264",
+    "post_date": "2019-09-27",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "姚明够高了，不量也知道吧？",
+    "post_url": "https://xueqiu.com/1247347556/133475094",
+    "post_date": "2019-09-27",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

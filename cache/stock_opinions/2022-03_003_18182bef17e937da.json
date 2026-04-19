@@ -1,0 +1,44 @@
+[
+  {
+    "id": "df773287-96a9-467f-a56f-f765d2d01512",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-03-20",
+    "sentiment": "bullish",
+    "summary": "计划换入腾讯",
+    "quote": "明天准备拿BRKB换点，不等了。",
+    "source_file": "2022-03_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/214684571"
+  },
+  {
+    "id": "586d80bc-a8aa-460e-963f-122781d99632",
+    "stock": "老虎证券",
+    "ticker": "TIGR",
+    "market": "US",
+    "date": "2022-03-20",
+    "sentiment": "bearish",
+    "summary": "提示业务风险",
+    "quote": "有点危险‼️我注意到前段时间别人都不可以short GME但老虎可以。这种高风险的事情如果客户出事崩掉了老虎是可能要赔的。",
+    "source_file": "2022-03_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/214659088"
+  },
+  {
+    "id": "a66220a5-0ee5-42e2-b57d-b523344a9470",
+    "stock": "伯克希尔",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2022-03-20",
+    "sentiment": "bullish",
+    "summary": "看好长期表现",
+    "quote": "我有不少BRK，不是很懂你的问题。我个人认为BRK大概率可以打败通胀，大于51%的机会可以打败S&P500，以及大概率会打败99%以上说自己不喜欢巴菲特的人们。",
+    "source_file": "2022-03_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/214605835"
+  }
+]

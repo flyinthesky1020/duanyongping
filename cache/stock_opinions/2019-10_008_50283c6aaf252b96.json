@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d957dc4e-5595-4365-bb31-a43357a94055",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-10-03",
+    "sentiment": "bullish",
+    "summary": "苹果公司都不错",
+    "quote": "这两个公司都不错，买什么或怎么分配取决于自己更了解哪个公司。",
+    "source_file": "2019-10_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/133627957"
+  },
+  {
+    "id": "f4b4c315-37be-4bf2-89d7-8fc10f0fb64d",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2019-10-03",
+    "sentiment": "bullish",
+    "summary": "FB公司都不错",
+    "quote": "这两个公司都不错，买什么或怎么分配取决于自己更了解哪个公司。",
+    "source_file": "2019-10_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/133627957"
+  }
+]

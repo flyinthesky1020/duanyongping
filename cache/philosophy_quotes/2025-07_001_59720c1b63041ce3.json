@@ -1,0 +1,67 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "神华我的了解读不如茅台，但大概率应该比存银行好。",
+    "post_url": "https://xueqiu.com/1247347556/343213640",
+    "post_date": "2025-07-18",
+    "mentioned_stocks": [
+      "神华",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "稳定币有点道理。发行方可以赚tbill的利息和投机者的期望。不过我没兴趣。",
+    "post_url": "https://xueqiu.com/1247347556/343069782",
+    "post_date": "2025-07-17",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "神华我的了解读不如茅台，但大概率应该比存银行好。买腾讯肯定也比存银行好。想想百分之八十几的人都在股市上亏钱，好过存银行其实是很奢侈的。",
+    "post_url": "https://xueqiu.com/1247347556/343213640",
+    "post_date": "2025-07-18",
+    "mentioned_stocks": [
+      "神华",
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "万一你买了五年前的nvda的话，你要多赚很多的，如果你买了还居然拿住了的话。",
+    "post_url": "https://xueqiu.com/1247347556/343071641",
+    "post_date": "2025-07-17",
+    "mentioned_stocks": [
+      "nvda"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "如果你知道你在等什么，那当然要等！如果你不知道在等什么，那你等什么？",
+    "post_url": "https://xueqiu.com/1247347556/343070636",
+    "post_date": "2025-07-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "假装思考其实也没啥好处。",
+    "post_url": "https://xueqiu.com/1247347556/343101225",
+    "post_date": "2025-07-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不跟他们打交道，屏蔽就好。",
+    "post_url": "https://xueqiu.com/1247347556/343267377",
+    "post_date": "2025-07-19",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

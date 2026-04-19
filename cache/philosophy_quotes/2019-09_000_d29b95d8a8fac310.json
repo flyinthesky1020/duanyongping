@@ -1,0 +1,86 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "卖股票和成本无关。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "估值高了卖，等估值低了再买，我也想这样做，谁不想赚差价啊，但这么做的结果基本上都是瞎忙半天还少赚了，所以以后就不再想干这种事情了。知其不可为也很重要。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我认为长期来讲，苹果未来赚的钱只会比现在多。不需要算的公司我才投的。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "越是迷惘的时候越是要往远处看，10年20年后会是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没看懂的公司比较容易鉴别，就是股价一掉你就想卖，涨一点点你也想卖的那种。看懂的那种大概就是怎么涨你都不想卖，大掉时你会全力再买进的那种。我的意思是看懂并买进的那种公司最好的状态就是不想卖。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我在老巴那里学到的非常重要的一点就是先看商业模式，除非你喜欢这家公司的商业模式，不然就不再往下看了，这样能省很多时间。商业模式好的意思就是长期能赚很多钱且能持续。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "企业文化来自创始人，不是做出来的。好的企业文化就是做对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "会赚钱的公司指的是能够长期赚钱的公司，这些公司往往有着利益之上的考量和追求。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我猜大多数换的原因是因为赚钱了，因为想落袋平安？很多人大概会好不容易买了一只赚钱的股票就赶紧卖掉了，因为怕其会像别的股票掉下去？",
+    "post_url": "https://xueqiu.com/1247347556/133577771",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "在我自己能理解的范围内找长期回报较高的公司去持有。",
+    "post_url": "https://xueqiu.com/1247347556/133577914",
+    "post_date": "2019-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

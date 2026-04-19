@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1c07633e-31be-4956-8880-e7f40e033c7d",
+    "stock": "达美航空",
+    "ticker": "DAL",
+    "market": "US",
+    "date": "2020-10-10",
+    "sentiment": "bearish",
+    "summary": "卖出达美/减持退出",
+    "quote": "想卖的时候确实应该像你说的那样直接卖出股票。不过我的量不小，所以想通过卖不同时间的call来慢慢退出。",
+    "source_file": "2020-10_batch028",
+    "source_type": "xueqiu",
+    "chunk_index": 28,
+    "url": "https://xueqiu.com/1247347556/160654400"
+  }
+]

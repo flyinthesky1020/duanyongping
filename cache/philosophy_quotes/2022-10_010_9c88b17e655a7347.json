@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "卖得多就给得便宜的办法是对销售非常短视和初级的理解，尽管很多大公司也这么做",
+    "post_url": "https://xueqiu.com/1247347556/232217479",
+    "post_date": "2022-10-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "一次一次的选择会让你最后成为你本该成为的人",
+    "post_url": "https://xueqiu.com/1247347556/232144112",
+    "post_date": "2022-10-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "是\"本该成为的人\"，不是\"最想要变成的人\"",
+    "post_url": "https://xueqiu.com/1247347556/232124088",
+    "post_date": "2022-10-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不会因为价钱掉了就后悔，但确实没能真的看透，所以下不了重手",
+    "post_url": "https://xueqiu.com/1247347556/232126934",
+    "post_date": "2022-10-04",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果真的到30以下也许还会再多买一些，但真的下重手的概率依然不大。虽然我喜欢的东西依然在但我担心的东西也去不掉",
+    "post_url": "https://xueqiu.com/1247347556/232127130",
+    "post_date": "2022-10-04",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a65130a4-16e7-4dbd-ab9c-1ddb31996a3b",
+    "stock": "澳门博彩业",
+    "ticker": "MACAU_GAMING",
+    "market": "UNKNOWN",
+    "date": "2020-10-10",
+    "sentiment": "bearish",
+    "summary": "不看好博彩业",
+    "quote": "我不喜欢这种51%以上输的赌，所以对博彩业无感。",
+    "source_file": "2020-10_batch027",
+    "source_type": "xueqiu",
+    "chunk_index": 27,
+    "url": "https://xueqiu.com/1247347556/160659401"
+  }
+]

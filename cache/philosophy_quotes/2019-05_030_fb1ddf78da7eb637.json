@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "价格合适主要指的是你自己的机会成本（也可以扩展到社会的机会成本）。比如你喜欢一个公司，你觉得未来20年的回报能有8%/年，但同时你又是一个很会赚钱的人，平时总能赚到10%/年，那你当然就可以考虑等等，看看有没有更好的机会。如果你只是把钱放在银行吃1%/年利息的话，年回报8%就很好了，千万别...",
+    "post_url": "https://xueqiu.com/1247347556/126799209",
+    "post_date": "2019-05-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我有阿里，上市时就买了，但对其了解度没那么高。再说，我投资也不是根据增速来的。",
+    "post_url": "https://xueqiu.com/1247347556/126794926",
+    "post_date": "2019-05-16",
+    "mentioned_stocks": [
+      "阿里"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你假设一下你拥有这两家公司，都是非上市的，你会容易一点得到结论。",
+    "post_url": "https://xueqiu.com/1247347556/126796996",
+    "post_date": "2019-05-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果他们能活下来的话，他们肯定会比现在厉害很多。我认为他们能活下来的机会很大。",
+    "post_url": "https://xueqiu.com/1247347556/126798582",
+    "post_date": "2019-05-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "腾讯投资虽然确实有很多是财务投资，但多数还是蛮相关的，他们大概也不是为了多元化去投资的。而且他们这种投资行为并没有影响到他们的主业，但他们的主业确对他们的投资经常是有帮助的。",
+    "post_url": "https://xueqiu.com/1247347556/126824378",
+    "post_date": "2019-05-16",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

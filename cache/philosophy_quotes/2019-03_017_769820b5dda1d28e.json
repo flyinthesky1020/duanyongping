@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我觉得招人一定要注意的地方就是要先看合适性。然后才是合格性。合适性就是和自己企业文化匹配的意思，合格性就是工作能力的意思。",
+    "post_url": "https://xueqiu.com/1247347556/123247001",
+    "post_date": "2019-03-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "光整天看也许是不够的，要想要实践。如果你一直在悟的话，早晚会明白的。投资开始的越早越好，不要想着马上赚大钱，一定要记得老巴那句话：“满满地变富”。",
+    "post_url": "https://xueqiu.com/1247347556/123246787",
+    "post_date": "2019-03-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我了解A股很少，目前就只是关注了茅台，其他有曾经关心过的，但都觉得没茅台好。",
+    "post_url": "https://xueqiu.com/1247347556/123246649",
+    "post_date": "2019-03-18",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "长期来说，监管趋严应该不会影响吧。",
+    "post_url": "https://xueqiu.com/1247347556/123247252",
+    "post_date": "2019-03-18",
+    "mentioned_stocks": [
+      "Facebook"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "哈哈。不好意思哈，规矩就是规矩",
+    "post_url": "https://xueqiu.com/1247347556/123246708",
+    "post_date": "2019-03-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

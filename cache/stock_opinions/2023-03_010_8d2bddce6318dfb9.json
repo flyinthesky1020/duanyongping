@@ -1,0 +1,30 @@
+[
+  {
+    "id": "95ecb577-516f-41f1-a420-7eb25a9ff96d",
+    "stock": "SPXL",
+    "ticker": "SPXL",
+    "market": "US",
+    "date": "2023-03-21",
+    "sentiment": "bearish",
+    "summary": "绝不碰杠杆ETF",
+    "quote": "绝对不会碰，这些大概相当于买call。",
+    "source_file": "2023-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/245109055"
+  },
+  {
+    "id": "ed091513-b475-41a2-a37d-0e465d01ac7d",
+    "stock": "UPRO",
+    "ticker": "UPRO",
+    "market": "US",
+    "date": "2023-03-21",
+    "sentiment": "bearish",
+    "summary": "绝不碰杠杆ETF",
+    "quote": "绝对不会碰，这些大概相当于买call。",
+    "source_file": "2023-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/245109055"
+  }
+]

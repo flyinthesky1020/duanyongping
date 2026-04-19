@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你如果不认识喜欢喝茅台的朋友，那你还是远离茅台的比较好，不让实在是太操心了。",
+    "post_url": "https://xueqiu.com/1247347556/293918407",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你很喜欢喝酒，你会容易理解很多。",
+    "post_url": "https://xueqiu.com/1247347556/293919221",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "茅台还是那个茅台！",
+    "post_url": "https://xueqiu.com/1247347556/293923962",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

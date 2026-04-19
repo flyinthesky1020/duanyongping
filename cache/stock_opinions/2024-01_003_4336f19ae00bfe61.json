@@ -1,0 +1,30 @@
+[
+  {
+    "id": "a1dd8efd-71ed-48e8-8657-874e9ee7ba7d",
+    "stock": "富途证券",
+    "ticker": "FUTU",
+    "market": "US",
+    "date": "2024-01-21",
+    "sentiment": "bearish",
+    "summary": "不买券商股",
+    "quote": "买券商和买航空公司或者太阳能硅片公司并没有本质差别。一般来说，券商的差异化应该比航空公司还要小，转换成本非常低（换交易平台是没有成本的），价格战是难以避免的。",
+    "source_file": "2024-01_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/275655265"
+  },
+  {
+    "id": "771fa3f9-86b6-47fb-8518-84e514f89b7c",
+    "stock": "东方财富",
+    "ticker": "300059.SZ",
+    "market": "CN_A",
+    "date": "2024-01-21",
+    "sentiment": "bearish",
+    "summary": "不买东方财富",
+    "quote": "这也是我不买东方财富的原因。",
+    "source_file": "2024-01_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/275655265"
+  }
+]

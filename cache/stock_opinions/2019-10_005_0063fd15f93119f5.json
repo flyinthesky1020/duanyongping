@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dfdc50df-b075-4de5-855a-4391092790e7",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-10-10",
+    "sentiment": "bullish",
+    "summary": "网售策略降低风险增收",
+    "quote": "降低了风险，提高了收入。",
+    "source_file": "2019-10_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/133799422"
+  }
+]

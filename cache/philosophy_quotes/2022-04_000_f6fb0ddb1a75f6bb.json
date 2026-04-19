@@ -1,0 +1,60 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你提到的这三点不是投资最重要的三点，而是stop doing list。投资最重要的是投资公司，投资生意，所以最重要的是看商业模式和企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/218362385",
+    "post_date": "2022-04-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "现在不会再投GE和创维，因为这两家商业模式都不太好。",
+    "post_url": "https://xueqiu.com/1247347556/218826485",
+    "post_date": "2022-04-29",
+    "mentioned_stocks": [
+      "GE",
+      "创维"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "当时听人说了一下这个公司，觉得有点意思，于是马上买了一点。开始研究后发现完全不是我以为的那样，就马上卖掉了，还幸运地小赚了一点，要是拿到现在可就亏大了。",
+    "post_url": "https://xueqiu.com/1247347556/218523891",
+    "post_date": "2022-04-27",
+    "mentioned_stocks": [
+      "海峡创新"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "现在不会再投GE和创维，因为这两家商业模式都不太好。",
+    "post_url": "https://xueqiu.com/1247347556/218826485",
+    "post_date": "2022-04-29",
+    "mentioned_stocks": [
+      "GE",
+      "创维"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "投资最重要的是投资公司，投资生意，所以最重要的是看商业模式和企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/218362385",
+    "post_date": "2022-04-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "当时听人说了一下这个公司，觉得有点意思，于是马上买了一点。开始研究后发现完全不是我以为的那样，就马上卖掉了，还幸运地小赚了一点，要是拿到现在可就亏大了。",
+    "post_url": "https://xueqiu.com/1247347556/218523891",
+    "post_date": "2022-04-27",
+    "mentioned_stocks": [
+      "海峡创新"
+    ],
+    "quality_score": 4
+  }
+]

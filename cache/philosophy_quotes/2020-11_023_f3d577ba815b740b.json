@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式不是管理之术。",
+    "post_url": "https://xueqiu.com/1247347556/163541170",
+    "post_date": "2020-11-17",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "巴菲特可以看到他孙女以及她的朋友们如何在用，最重要的是，他能看到现金流及企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/163541119",
+    "post_date": "2020-11-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "巴菲特可以看到他孙女以及她的朋友们如何在用，最重要的是，他能看到现金流及企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/163541119",
+    "post_date": "2020-11-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "提醒一下，任何时候都不应该用margin！",
+    "post_url": "https://xueqiu.com/1247347556/213225061",
+    "post_date": "2022-03-06",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "一般来讲，当我买一只股票时，一定会有个买的理由，同时也要看到负面的东西。当买的理由消失了或重要的负面东西增加到我不能接受的时候，我就会离场。太贵了有时会成为离场的理由",
+    "post_url": "https://xueqiu.com/1247347556/213227990",
+    "post_date": "2022-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我了解的公司少，港股里我能看懂的好公司里腾讯确实是top的。",
+    "post_url": "https://xueqiu.com/1247347556/213147490",
+    "post_date": "2022-03-05",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 5
+  }
+]

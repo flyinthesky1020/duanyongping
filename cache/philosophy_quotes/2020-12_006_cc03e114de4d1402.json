@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "比较苦的生意的特点往往是进入门槛比较低，产品差异化小，经常需要靠产品等等价格竞争。比较一下茅台就明白了。",
+    "post_url": "https://xueqiu.com/1247347556/165068109",
+    "post_date": "2020-12-06",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我关注的公司和人都很少，可以可以花足够时间在有限的人和公司上，这样准确率自然就高很多了。",
+    "post_url": "https://xueqiu.com/1247347556/165069192",
+    "post_date": "2020-12-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实属于“投资”还是“投机”并没有那么重要。你这个应该是属于“投资在机会上”。这个做法无可非议但可能比较累，长期回报也未必就高。",
+    "post_url": "https://xueqiu.com/1247347556/165069293",
+    "post_date": "2020-12-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

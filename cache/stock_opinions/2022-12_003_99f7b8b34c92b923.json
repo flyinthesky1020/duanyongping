@@ -1,0 +1,30 @@
+[
+  {
+    "id": "555755de-b788-4133-96b3-f8dc66d6921d",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-12-24",
+    "sentiment": "bullish",
+    "summary": "计划加仓苹果",
+    "quote": "礼拜一计划用其他股票再换点苹果。",
+    "source_file": "2022-12_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/238540434"
+  },
+  {
+    "id": "f7723995-2741-4b34-8ba8-f5962a8f4059",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2022-12-24",
+    "sentiment": "bearish",
+    "summary": "特斯拉商业模式不佳",
+    "quote": "我依然觉得特斯拉未来是个苦生意，商业模式不是那么好，尽管他们做成这样已经很...",
+    "source_file": "2022-12_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/238515912"
+  }
+]

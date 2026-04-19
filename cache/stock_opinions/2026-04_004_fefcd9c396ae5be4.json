@@ -1,0 +1,30 @@
+[
+  {
+    "id": "54e3e7f7-9d8f-4b81-bdb1-bd505849e105",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-11",
+    "sentiment": "bullish",
+    "summary": "看懂泡泡玛特",
+    "quote": "这期财报的盈利激发了我的好奇心，连续花了好几天去理解这家公司，很久没有过这种兴奋感了。",
+    "source_file": "2026-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/383487187"
+  },
+  {
+    "id": "b0c4d051-0e42-4aa5-a7ac-2439cbd6fc91",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-04-11",
+    "sentiment": "bullish",
+    "summary": "茅台会找到办法",
+    "quote": "茅台会找到对付的办法的，时间问题。",
+    "source_file": "2026-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/383486353"
+  }
+]

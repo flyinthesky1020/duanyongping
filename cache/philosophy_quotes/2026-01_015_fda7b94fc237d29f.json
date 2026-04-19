@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式里面包括未来现金流了，不然好的商业模式是什么意思？",
+    "post_url": "https://xueqiu.com/1247347556/368953515",
+    "post_date": "2026-01-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "商业模式里面包括未来现金流了，不然好的商业模式是什么意思？",
+    "post_url": "https://xueqiu.com/1247347556/368953515",
+    "post_date": "2026-01-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "用Ai看了一下，商业模式对我没吸引力。",
+    "post_url": "https://xueqiu.com/1247347556/368887734",
+    "post_date": "2026-01-03",
+    "mentioned_stocks": [
+      "洪恩"
+    ],
+    "quality_score": 4
+  }
+]

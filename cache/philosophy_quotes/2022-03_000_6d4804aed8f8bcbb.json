@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们最近又买了点。和大家看到的任何消息无关，甚至和股价也没有关系，只是正好有点多余现金。总觉得从看10年的角度，拿着茅台比拿着现金存在银行要好一点点。",
+    "post_url": "https://xueqiu.com/1247347556/215638554",
+    "post_date": "2022-03-29",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "10年或更久的角度看，我没发现任何A股公司比茅台好，当然也希望能找到。",
+    "post_url": "https://xueqiu.com/1247347556/215638554",
+    "post_date": "2022-03-29",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看上去确实是因为你关注的时间太短了。来日方长，建议你认真看看大道的东西，先看个三两年，真的觉得自己看明白了再动手也不迟。",
+    "post_url": "https://xueqiu.com/1247347556/215876495",
+    "post_date": "2022-03-31",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "来日方长，建议你认真看看大道的东西，先看个三两年，真的觉得自己看明白了再动手也不迟。",
+    "post_url": "https://xueqiu.com/1247347556/215876495",
+    "post_date": "2022-03-31",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "总觉得从看10年的角度，拿着茅台比拿着现金存在银行要好一点点。",
+    "post_url": "https://xueqiu.com/1247347556/215638554",
+    "post_date": "2022-03-29",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

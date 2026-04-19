@@ -1,0 +1,59 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不用margin指的是任何情况下",
+    "post_url": "https://xueqiu.com/1247347556/130201128",
+    "post_date": "2019-07-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "产品是生意模式基础:产品要好，没有好产品生存都困难别说建立好的生意模式。好的生意模有自己独特的视角，不单单是产品，还要具有护城河，才能不被别人竞争，才能保证产品一直卖的有利润，一直有钱赚。",
+    "post_url": "https://xueqiu.com/1247347556/130156414",
+    "post_date": "2019-07-25",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "企业文化要好:一直修这个护城河，加宽加固；以及不断改进产品。",
+    "post_url": "https://xueqiu.com/1247347556/130156414",
+    "post_date": "2019-07-25",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "生意模式好是不是指那种比较容易赚钱、赚钱不那么吃力，然后长期赚的也比较多的那种？",
+    "post_url": "https://xueqiu.com/1247347556/130145017",
+    "post_date": "2019-07-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这里的变化应该指的是产品，显然苹果属于要变的公司，茅台属于不变的公司。我喜欢苹果，也喜欢茅台，因为他们的生意模式都很好。",
+    "post_url": "https://xueqiu.com/1247347556/130090012",
+    "post_date": "2019-07-23",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看懂了一家公司的最简单的标准就是你不会想去问别人“我是不是看懂了这家公司”。",
+    "post_url": "https://xueqiu.com/1247347556/130066265",
+    "post_date": "2019-07-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

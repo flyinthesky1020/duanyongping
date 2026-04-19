@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4c57cf88-b7d6-4cd9-8db3-c517cee80b2e",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-03-08",
+    "sentiment": "bullish",
+    "summary": "宁愿买茅台",
+    "quote": "不会！第一不会融资买股票，第二我宁愿买茅台。",
+    "source_file": "2022-03_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/213440891"
+  }
+]

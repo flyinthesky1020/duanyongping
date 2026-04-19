@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不知道怎么破困境，但至少不要再陷入新的困境，就像老巴说的，如果发现自己掉到坑里了，至少不要继续往下挖了。另外，好公司也是会掉的，你可能错在想赚快钱了，以后不要再犯这种错误就好。",
+    "post_url": "https://xueqiu.com/1247347556/210453203",
+    "post_date": "2022-01-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/210481003",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "人生的每个选择是站在是非还是利益上最终会决定你是谁，或者说你会成为那个你本该成为的人。",
+    "post_url": "https://xueqiu.com/1247347556/210457874",
+    "post_date": "2022-01-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这取决于你自己的机会成本。我觉得从未来10年或更长的时间看，现在拿着腾讯应该比把钱存在银行合算，但你很可能能找到更好的机会的。",
+    "post_url": "https://xueqiu.com/1247347556/210453239",
+    "post_date": "2022-01-29",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/210481003",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

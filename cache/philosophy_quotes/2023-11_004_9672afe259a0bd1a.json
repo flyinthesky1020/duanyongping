@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "知不易行也不易。实际上就是知道什么是对的事情不容易，把事情做对了也不容易。认为知易行难的很可能还没完全知。",
+    "post_url": "https://xueqiu.com/1247347556/267347260",
+    "post_date": "2023-11-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "他们不光人多，而且前浪推后浪，最后都被拍在沙滩上了吧？",
+    "post_url": "https://xueqiu.com/1247347556/267181244",
+    "post_date": "2023-11-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "作为股东，我更希望能看到的是正常分红稳定提高。苹果的办法值得借鉴。",
+    "post_url": "https://xueqiu.com/1247347556/267682945",
+    "post_date": "2023-11-20",
+    "mentioned_stocks": [
+      "贵州茅台",
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

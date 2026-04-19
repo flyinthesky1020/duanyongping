@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "巴菲特没买过GE，放到今天我也不会再买的。GE的商业模式没那么好。",
+    "post_url": "https://xueqiu.com/1247347556/308532982",
+    "post_date": "2024-10-17",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你不懂的公司就是有风险的公司，和净资产不是线形线形相关的。",
+    "post_url": "https://xueqiu.com/1247347556/308500644",
+    "post_date": "2024-10-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "目前确实有些现金放在tbill上，还没任何计划。",
+    "post_url": "https://xueqiu.com/1247347556/308507518",
+    "post_date": "2024-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

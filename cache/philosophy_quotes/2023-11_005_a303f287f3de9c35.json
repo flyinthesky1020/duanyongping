@@ -1,0 +1,34 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这也是为什么大道一直觉得自己是普通人的原因。大道过去十几年实际上就真的看懂了两家公司，苹果和茅台。平均六年看懂一家。",
+    "post_url": "https://xueqiu.com/1247347556/267163071",
+    "post_date": "2023-11-15",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不应该苛求茅台的员工，苹果的员工也没几个能看懂苹果的。我们公司的员工也不会好到哪里去。要是内部员工能看懂自己公司的话，哪有我们啥事啊。",
+    "post_url": "https://xueqiu.com/1247347556/267169348",
+    "post_date": "2023-11-15",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "卖了后钱放哪里很重要。不卖至少应该可以赢通胀吧，还能睡好觉。",
+    "post_url": "https://xueqiu.com/1247347556/267167154",
+    "post_date": "2023-11-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

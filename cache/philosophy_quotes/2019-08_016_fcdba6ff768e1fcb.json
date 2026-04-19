@@ -1,0 +1,60 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂宏观经济，虽然我研究生是学宏观经济的（计量经济）。",
+    "post_url": "https://xueqiu.com/1247347556/130578662",
+    "post_date": "2019-08-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我的意思其实是，如果你一直关注的话，好公司出现时你就有可能会意识到了（需要真的看懂哈），价格其实没那么重要。",
+    "post_url": "https://xueqiu.com/1247347556/130591996",
+    "post_date": "2019-08-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "看雪球，好公司出来时你会知道的。2-3年找到一个就好。",
+    "post_url": "https://xueqiu.com/1247347556/130583139",
+    "post_date": "2019-08-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "差异化指的是产品能满足用户的某个或某些别人满足不了的需求。能够长期维持的差异化就是护城河。",
+    "post_url": "https://xueqiu.com/1247347556/130556236",
+    "post_date": "2019-08-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "大概就是这个意思，比如把未来的净现金流折现到现在。当然，用算数平均也没问题，因为这本来就是个定性分析。",
+    "post_url": "https://xueqiu.com/1247347556/130548294",
+    "post_date": "2019-08-01",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不了解你和你的生意，很难给任何建议。不过，就生意种类一般而言，做得越多，赚的越少，所以聚焦很重要。",
+    "post_url": "https://xueqiu.com/1247347556/130524826",
+    "post_date": "2019-08-01",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你用现价和未来10年或20年的加权平均盈利来得出一个市盈率试试？如果你能算出来并且该市盈率很高的话，大概率是该卖的，毕竟亚马逊不常见。算不出来的逻辑上就不该碰。",
+    "post_url": "https://xueqiu.com/1247347556/130524715",
+    "post_date": "2019-08-01",
+    "mentioned_stocks": [
+      "亚马逊"
+    ],
+    "quality_score": 5
+  }
+]

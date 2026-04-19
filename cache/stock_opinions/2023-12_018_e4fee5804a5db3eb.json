@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2911318b-1269-4c23-84a2-c81acb0ac6ab",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-12-08",
+    "sentiment": "bullish",
+    "summary": "茅台无替代选择",
+    "quote": "茅台没有，因为没有别的选择",
+    "source_file": "2023-12_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/270175843"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你懂投资，你不需要用杠杆，因为你早晚会变富的。如果你不懂投资，你更不应该用杠杆，不然裸奔的将可能会是你。投资是件快乐的事情，用杠杆会让你有机会睡不好觉的。",
+    "post_url": "https://xueqiu.com/1247347556/165040887",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "腾讯的“调整”给了我买入腾讯的机会。",
+    "post_url": "https://xueqiu.com/1247347556/165040789",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  }
+]

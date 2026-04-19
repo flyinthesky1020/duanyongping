@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "投资不能按季度'表现'来决策，不然会累死人的。",
+    "post_url": "https://xueqiu.com/1247347556/239482452",
+    "post_date": "2023-01-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我卖call的时候收的不是现金流？不懂的最好不要假装懂点啥。",
+    "post_url": "https://xueqiu.com/1247347556/239508250",
+    "post_date": "2023-01-07",
+    "mentioned_stocks": [
+      "美国天然气价ETF-Concierge Technologies(UNG)"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "感觉这种交易大概率是会赚的，但还没明白到底风险在哪里。",
+    "post_url": "https://xueqiu.com/1247347556/239505028",
+    "post_date": "2023-01-07",
+    "mentioned_stocks": [
+      "美国天然气价ETF-Concierge Technologies(UNG)"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "看不懂10年的人其实也看不懂一年的。看懂10年远容易过看懂短期的。",
+    "post_url": "https://xueqiu.com/1247347556/129976118",
+    "post_date": "2019-07-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你纠结的东西不是关于价值的，10年后回头看没啥意义。除非你钱太多，不然见到好价钱只买一点点是件说不过去的事情。",
+    "post_url": "https://xueqiu.com/1247347556/129961942",
+    "post_date": "2019-07-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解阿胶。",
+    "post_url": "https://xueqiu.com/1247347556/129936201",
+    "post_date": "2019-07-20",
+    "mentioned_stocks": [
+      "阿胶"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我个子不高，看书似乎帮不上忙，所以一般尽量不去干那些需要高个子干的事情。",
+    "post_url": "https://xueqiu.com/1247347556/129850801",
+    "post_date": "2019-07-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

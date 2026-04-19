@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果A股有便宜我又了解的股票的话，我也可以买。不过现在我不太了解A股。",
+    "post_url": "https://xueqiu.com/1247347556/107876976",
+    "post_date": "2018-05-27",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我觉得模糊的正确指的就是定性的重要性，或者甚至也可以说是要先做对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/107934249",
+    "post_date": "2018-05-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "“宁要模糊的精确，也不要精确的模糊”这句话应该是“宁要模糊的正确。也不要精确的错误”。",
+    "post_url": "https://xueqiu.com/1247347556/107876887",
+    "post_date": "2018-05-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

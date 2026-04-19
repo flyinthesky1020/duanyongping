@@ -1,0 +1,39 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "喜欢钱不是什么过错。最重要得是“取之有道”。我是那个年代过来的人，非常羞于谈“钱”字，连经营企业时都尽量避免“钱”，当然总是可以找到别的词代替，比如资金、收入等等。",
+    "post_url": "https://xueqiu.com/1247347556/21760107",
+    "post_date": "2012-04-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "应该是买1688.com的过桥贷款吧？1688账上有不少现金，但在私有化以前是不可以被动用的，而用于私有化的钱应该要先给出去，所以需要贷款。纯属逻辑想象，本人对投行业务一点都不了解。",
+    "post_url": "https://xueqiu.com/1247347556/21760143",
+    "post_date": "2012-04-30",
+    "mentioned_stocks": [
+      "1688.com"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "当我告诉他我从他那里学到的最重要的东西是“买股票就是买公司”时，他非常兴奋地说这正是我从我老师那学到的东西（\"That's exact what I learnt from Graham.\")",
+    "post_url": "https://xueqiu.com/1247347556/21760139",
+    "post_date": "2012-04-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "科技类活不长指的是微软吗？即使今天来看，如果从某一时点用同样代价让你就可以拥有1%的微软或可乐的股份，哪个会让你觉得更开心呢？现在很多“科技类”的公司走下坡路实际上都是同一个原因，你懂的。还有就是，消费类的公司就一定活得长吗？只要看看可口可乐这么多年的同...",
+    "post_url": "https://xueqiu.com/1247347556/21758019",
+    "post_date": "2012-04-28",
+    "mentioned_stocks": [
+      "微软",
+      "可口可乐"
+    ],
+    "quality_score": 5
+  }
+]

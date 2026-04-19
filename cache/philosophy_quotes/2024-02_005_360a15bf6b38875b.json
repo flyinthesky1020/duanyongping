@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "很赚钱的公司是没道理用的，除非他们用错了会计师（事务所）。",
+    "post_url": "https://xueqiu.com/1247347556/278448865",
+    "post_date": "2024-02-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "苹果的角度一般是看能不能给消费者带来点什么，而不是生意上能不能成功。根据这个观点，我推断出苹果不会推苹果电视机，前些年我还认为苹果车大概率不会在近些年见到，除非技术条件达到了苹果的要求。",
+    "post_url": "https://xueqiu.com/1247347556/277903820",
+    "post_date": "2024-02-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

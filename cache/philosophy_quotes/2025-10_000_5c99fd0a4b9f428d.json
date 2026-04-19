@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "其实老巴比绝大多数人懂苹果，不然他不会买了那么多的。当然，我要更懂一点点，所以投的比例也更高。",
+    "post_url": "https://xueqiu.com/1247347556/359410800",
+    "post_date": "2025-10-31",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这个很可能是真的，但原因是因为我能搞懂的公司太少了。",
+    "post_url": "https://xueqiu.com/1247347556/359429413",
+    "post_date": "2025-10-31",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实只是1万股茅台，他们每年花分红就好。市值只是暂时的。",
+    "post_url": "https://xueqiu.com/1247347556/359432108",
+    "post_date": "2025-10-31",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "其实只是1万股茅台，他们每年花分红就好。市值只是暂时的。",
+    "post_url": "https://xueqiu.com/1247347556/359432108",
+    "post_date": "2025-10-31",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

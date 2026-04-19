@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "就拿苹果为例：这个价位不便宜，我确实不想买，但卖了又不知道买啥更好，这也是我在不停卖call的原因。",
+    "post_url": "https://xueqiu.com/1247347556/366196550",
+    "post_date": "2025-12-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "就拿苹果为例：这个价位不便宜，我确实不想买，但卖了又不知道买啥更好，这也是我在不停卖call的原因。",
+    "post_url": "https://xueqiu.com/1247347556/366196550",
+    "post_date": "2025-12-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "王宁这个说法我很喜欢！我觉得他也是自己琢磨出来的。",
+    "post_url": "https://xueqiu.com/1247347556/365971407",
+    "post_date": "2025-12-14",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  }
+]

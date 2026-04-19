@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "腾讯是不错的公司，但我了解的不够，也没空去了解的更深入，所以一直没碰过。",
+    "post_url": "https://xueqiu.com/1247347556/21862186",
+    "post_date": "2012-05-31",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我有帐号，但没怎么用过。不是很看得懂fb的生意模式。",
+    "post_url": "https://xueqiu.com/1247347556/21858983",
+    "post_date": "2012-05-30",
+    "mentioned_stocks": [
+      "Facebook"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "区别只在能不能看懂。早看懂当然好，但难很多。vc的做法则有所不同，是在一定认知的前提下撒胡椒面。",
+    "post_url": "https://xueqiu.com/1247347556/21850963",
+    "post_date": "2012-05-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "正是！//@COPAD:“感觉不到他的存在”，cook不就是基业长青里伟大ceo的类型嘛",
+    "post_url": "https://xueqiu.com/1247347556/21846164",
+    "post_date": "2012-05-26",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "不明白为什么惠普会需要找空降兵。",
+    "post_url": "https://xueqiu.com/1247347556/21844933",
+    "post_date": "2012-05-25",
+    "mentioned_stocks": [
+      "惠普"
+    ],
+    "quality_score": 3
+  }
+]

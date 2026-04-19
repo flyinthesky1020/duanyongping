@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "是的，所以商业模式很重要。",
+    "post_url": "https://xueqiu.com/1247347556/284637850",
+    "post_date": "2024-04-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "其实就是只有赚钱的公司才能有钱买自己",
+    "post_url": "https://xueqiu.com/1247347556/284637850",
+    "post_date": "2024-04-02",
+    "mentioned_stocks": [
+      "万科"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这不就是买股票就是买公司的意思吗？不然买公司是啥意思？！",
+    "post_url": "https://xueqiu.com/1247347556/284637850",
+    "post_date": "2024-04-02",
+    "mentioned_stocks": [
+      "万科"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不明觉厉，但确实看到厉害的地方了。",
+    "post_url": "https://xueqiu.com/1247347556/284632947",
+    "post_date": "2024-04-02",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 3
+  }
+]

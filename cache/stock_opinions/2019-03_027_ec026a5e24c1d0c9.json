@@ -1,0 +1,16 @@
+[
+  {
+    "id": "38edb4b9-30e4-4009-a3b1-f5ac42050278",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-03-13",
+    "sentiment": "bullish",
+    "summary": "苹果估值仍合理",
+    "quote": "我觉得还是值的，service按SAAS的估价的话（比如Intuit）单列出来市值也有4000亿，未来净利润低于600亿的概率还是很低的，ROE 30-40%多也是大公司中不常见的",
+    "source_file": "2019-03_batch027",
+    "source_type": "xueqiu",
+    "chunk_index": 27,
+    "url": "https://xueqiu.com/1247347556/122956618"
+  }
+]

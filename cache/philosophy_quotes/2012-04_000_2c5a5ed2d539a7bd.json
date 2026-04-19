@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "对雪球没看法，至少看不出伟大的生意模式的味道。",
+    "post_url": "https://xueqiu.com/1247347556/21760957",
+    "post_date": "2012-04-30",
+    "mentioned_stocks": [
+      "雪球"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "Facebook 到现在还没搞懂有啥用，有时被迫登录一下，上去晃晃，不知干嘛。",
+    "post_url": "https://xueqiu.com/1247347556/21760955",
+    "post_date": "2012-04-30",
+    "mentioned_stocks": [
+      "Facebook"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "比如我有一个朋友，他非常明白地坚决不碰股票，只把钱投在自己懂的生意里，回报肯定比股市上85%以上的人好。",
+    "post_url": "https://xueqiu.com/1247347556/21760929",
+    "post_date": "2012-04-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "买公司如果不是买未来现金流的话，那买的是什么呢？假设如果你买的不是上市公司的话就容易理解了。",
+    "post_url": "https://xueqiu.com/1247347556/21760674",
+    "post_date": "2012-04-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "Business model 不好就很容易碰到这种情况。",
+    "post_url": "https://xueqiu.com/1247347556/21760655",
+    "post_date": "2012-04-30",
+    "mentioned_stocks": [
+      "赛维LDK"
+    ],
+    "quality_score": 3
+  }
+]

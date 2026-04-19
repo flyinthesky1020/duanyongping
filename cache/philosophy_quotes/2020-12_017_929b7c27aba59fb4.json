@@ -1,0 +1,63 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "贵不贵是相对于你自己的机会成本而言的。",
+    "post_url": "https://xueqiu.com/1247347556/165026660",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "至于amazon股价会不会涨得更快，我并不知道所以也不关心。",
+    "post_url": "https://xueqiu.com/1247347556/165026660",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [
+      "amazon"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "取决于初学者能搞懂什么，其实和是不是初学者无关。",
+    "post_url": "https://xueqiu.com/1247347556/165026255",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "虽然我没有义务公布任何东西，但我如果清空或大比例减持苹果或者茅台的话（可能性非常小），我应该会告诉大家的。",
+    "post_url": "https://xueqiu.com/1247347556/165026813",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "虽然我没有义务公布任何东西，但我如果清空或大比例减持苹果或者茅台的话（可能性非常小），我应该会告诉大家的。",
+    "post_url": "https://xueqiu.com/1247347556/165026813",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果我有闲钱，我会更倾向于买苹果而不是amazon。",
+    "post_url": "https://xueqiu.com/1247347556/165026660",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [
+      "苹果",
+      "amazon"
+    ],
+    "quality_score": 3
+  }
+]

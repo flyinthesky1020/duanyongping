@@ -1,0 +1,16 @@
+[
+  {
+    "id": "169a3728-65da-4648-910b-829a8f8c5782",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-04-10",
+    "sentiment": "bullish",
+    "summary": "喜欢库克管理的苹果",
+    "quote": "作为投资人，我喜欢库克下的苹果。",
+    "source_file": "2019-04_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/124932762"
+  }
+]

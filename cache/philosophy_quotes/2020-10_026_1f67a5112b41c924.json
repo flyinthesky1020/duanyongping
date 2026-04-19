@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我能看懂一些企业 但不太了解指数，也没投过。",
+    "post_url": "https://xueqiu.com/1247347556/160941487",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "忽略市场影响，看懂商业模式和企业文化，尽量想明白10年后企业会是啥样子。如果你决定要买某只股票，先想象一下如果股市马上停止10年交易，你是否能接受。",
+    "post_url": "https://xueqiu.com/1247347556/160938353",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "忽略市场影响，看懂商业模式和企业文化，尽量想明白10年后企业会是啥样子。如果你决定要买某只股票，先想象一下如果股市马上停止10年交易，你是否能接受。",
+    "post_url": "https://xueqiu.com/1247347556/160938353",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "忽略市场影响，看懂商业模式和企业文化，尽量想明白10年后企业会是啥样子。如果你决定要买某只股票，先想象一下如果股市马上停止10年交易，你是否能接受。",
+    "post_url": "https://xueqiu.com/1247347556/160938353",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资一家公司就是接受这家公司的现状，如果不满意这家公司，可以选择不投的。",
+    "post_url": "https://xueqiu.com/1247347556/160941470",
+    "post_date": "2020-10-14",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

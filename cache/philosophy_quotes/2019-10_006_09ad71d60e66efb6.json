@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "隔行如隔山，不知道哈。",
+    "post_url": "https://xueqiu.com/1247347556/133882300",
+    "post_date": "2019-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解这个。",
+    "post_url": "https://xueqiu.com/1247347556/133865871",
+    "post_date": "2019-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "一直搞不懂银行。对我来说，靠借钱做生意的比较难搞懂。不过，我倒是跟着老巴买了些美国银行和富国银行，赚了几顿饭钱。",
+    "post_url": "https://xueqiu.com/1247347556/133860116",
+    "post_date": "2019-10-10",
+    "mentioned_stocks": [
+      "美国银行",
+      "富国银行"
+    ],
+    "quality_score": 4
+  }
+]

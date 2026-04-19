@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ebdf4102-5dad-4999-a47e-f5cbd45b6421",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2025-11-21",
+    "sentiment": "bullish",
+    "summary": "看涨NVDA无泡沫",
+    "quote": "我不觉得nvda是泡沫，我会一直卖put的。我很开心那些大空头成了我的客户，我会很乐意收他们的保费的。",
+    "source_file": "2025-11_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/362793225"
+  }
+]

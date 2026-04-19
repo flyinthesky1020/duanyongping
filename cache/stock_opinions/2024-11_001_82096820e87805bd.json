@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2d296506-b840-42ea-8be6-e98644d543ad",
+    "stock": "石头科技",
+    "ticker": "688169.SH",
+    "market": "CN_A",
+    "date": "2024-11-21",
+    "sentiment": "bearish",
+    "summary": "商业模式差太远",
+    "quote": "你要喜欢就赌一下呗。商业模式实在是差太远！",
+    "source_file": "2024-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/313541407"
+  },
+  {
+    "id": "90896ab4-0701-47d6-86ed-3ac3720eed86",
+    "stock": "传音控股",
+    "ticker": "688036.SH",
+    "market": "CN_A",
+    "date": "2024-11-21",
+    "sentiment": "bearish",
+    "summary": "商业模式差太远",
+    "quote": "你要喜欢就赌一下呗。商业模式实在是差太远！",
+    "source_file": "2024-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/313541407"
+  }
+]

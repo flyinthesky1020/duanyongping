@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5507ec17-ade4-4a42-8460-4d16ca7e5ff8",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-10",
+    "sentiment": "bullish",
+    "summary": "看好泡泡玛特",
+    "quote": "最近这次财报有点厉害，居然真的可以有这么好的盈利。我现在已经不需要想这个商业模式是不是可以行得通的问题了，也已经想通了可持续性的问题。",
+    "source_file": "2026-04_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/383462143"
+  }
+]

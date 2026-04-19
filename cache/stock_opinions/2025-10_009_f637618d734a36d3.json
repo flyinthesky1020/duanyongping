@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1bcbd5a2-63eb-45c1-b75a-3ce25772e58d",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2025-10-18",
+    "sentiment": "bullish",
+    "summary": "看好腾讯游戏业务",
+    "quote": "对腾讯肯定是啊，对你就不知道了。",
+    "source_file": "2025-10_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/357269594"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "当股票下跌的时候，你心里充满了恐惧，那就说明你买了你不懂的公司。你目前看上去并不懂茅台，估计茅台再跌个10% 你可能就“坚持”不住了。",
+    "post_url": "https://xueqiu.com/1247347556/373620568",
+    "post_date": "2026-01-28",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "“不容易”指的是看懂生意不容易，“简单”说的是只有看懂生意是重要的。",
+    "post_url": "https://xueqiu.com/1247347556/373620568",
+    "post_date": "2026-01-28",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我说过很多次，我对没现金流的东西不关心不感兴趣，以后谁再问这类问题就直接屏蔽了，免被打扰。",
+    "post_url": "https://xueqiu.com/1247347556/373372474",
+    "post_date": "2026-01-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

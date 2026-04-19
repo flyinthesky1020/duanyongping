@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资就是愉快的，投机很折磨人。",
+    "post_url": "https://xueqiu.com/1247347556/326772292",
+    "post_date": "2025-03-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。",
+    "post_url": "https://xueqiu.com/1247347556/326770302",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [
+      "TSM"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我觉得这是瞎折腾的后果，但对于投资者来说是好事。泡沫不破，投资难做哈。很可能遍地是黄金的机会又要来了。",
+    "post_url": "https://xueqiu.com/1247347556/326770057",
+    "post_date": "2025-03-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

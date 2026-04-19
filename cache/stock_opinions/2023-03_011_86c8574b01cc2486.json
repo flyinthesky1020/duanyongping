@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a38d5572-8c11-4bd1-a2b5-7aadb98bc6f5",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-03-19",
+    "sentiment": "bullish",
+    "summary": "长期看好不愿换仓",
+    "quote": "谁能推荐一个10年或20年后单位投资能大概率累计赚钱比苹果多的？这里赚钱多不是指股价，是指的公司的盈利。找到一个商业模式和企业文化都很好的公司真不容易，可不想轻易换了。",
+    "source_file": "2023-03_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/244840267"
+  }
+]

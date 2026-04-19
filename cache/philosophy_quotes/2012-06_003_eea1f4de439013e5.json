@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这些年有一点点变化，比如犯了一些错，终于有了一个亏钱的账号（到现在还没翻过身，但比低点涨了150%了）。",
+    "post_url": "https://xueqiu.com/1247347556/21870171",
+    "post_date": "2012-06-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我记得网易好像是18个月？很久没看过，可能不准。",
+    "post_url": "https://xueqiu.com/1247347556/21874714",
+    "post_date": "2012-06-04",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 2
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "那是因为你可能还不太了解流量的价值",
+    "post_url": "https://xueqiu.com/1247347556/132111195",
+    "post_date": "2019-08-30",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "拿着吧，除非某天真的需要钱时。",
+    "post_url": "https://xueqiu.com/1247347556/132064196",
+    "post_date": "2019-08-29",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  }
+]

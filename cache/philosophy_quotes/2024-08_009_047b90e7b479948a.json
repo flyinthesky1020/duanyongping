@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我看不懂新东方。我不会因为老板是“好人”而去投资一家公司。",
+    "post_url": "https://xueqiu.com/1247347556/301437896",
+    "post_date": "2024-08-18",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "那就是不懂。",
+    "post_url": "https://xueqiu.com/1247347556/301437814",
+    "post_date": "2024-08-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "最近说过：茅台还是那个茅台！这不够吗？只要你把这两手的投资当成存了银行了，10年20年后你会觉得你做了一个正确的决定的。",
+    "post_url": "https://xueqiu.com/1247347556/301437746",
+    "post_date": "2024-08-18",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我没算过，但你可以假设腾讯把投资都卖掉，把钱还完债务后全部用来回购，完了你再算pe就比较真实了。这是假设，没必要但可以这么做。",
+    "post_url": "https://xueqiu.com/1247347556/301397867",
+    "post_date": "2024-08-17",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  }
+]

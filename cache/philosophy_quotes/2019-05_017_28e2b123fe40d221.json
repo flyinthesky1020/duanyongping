@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我们要上市了的话，大概率还是会像不上市那样经营的，不会受任何股价变动影响的。",
+    "post_url": "https://xueqiu.com/1247347556/127119813",
+    "post_date": "2019-05-22",
+    "mentioned_stocks": [
+      "步步高"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太懂政治，感觉比你想象的要复杂。",
+    "post_url": "https://xueqiu.com/1247347556/127122638",
+    "post_date": "2019-05-22",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

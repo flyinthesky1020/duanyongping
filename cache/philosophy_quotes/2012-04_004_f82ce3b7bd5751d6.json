@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "想起当年有人模仿着去买china.com,因为那也是几块钱的互联网公司。当时我提醒那是家烂公司，千万别碰，结果人家不听，呵呵。",
+    "post_url": "https://xueqiu.com/1247347556/21749149",
+    "post_date": "2012-04-26",
+    "mentioned_stocks": [
+      "china.com"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "任何产品开始时跟风买的都是大部分，但最初懂的那20／25%的人最关键。",
+    "post_url": "https://xueqiu.com/1247347556/21742869",
+    "post_date": "2012-04-25",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "跟风的一碰到类似这几天的情况估计多数就都被震仓震掉了。",
+    "post_url": "https://xueqiu.com/1247347556/21737218",
+    "post_date": "2012-04-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "呵呵，我和china.com当时的那个ceo确实很烂。",
+    "post_url": "https://xueqiu.com/1247347556/21749212",
+    "post_date": "2012-04-26",
+    "mentioned_stocks": [
+      "china.com"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "很难理解无人驾驶的意义何在。至少我不敢坐在没人驾驶的汽车里，哪怕有人告诉我那是绝对安全的。",
+    "post_url": "https://xueqiu.com/1247347556/21744932",
+    "post_date": "2012-04-25",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

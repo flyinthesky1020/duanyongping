@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "有闲钱当然买啊！难道每块钱的变动都要问一次么？10年后大概率是比银行利息好的。",
+    "post_url": "https://xueqiu.com/1247347556/292274386",
+    "post_date": "2024-06-01",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "也许你依然没搞懂“股票”。顺丰是个不错的公司，但商业模式很苦。",
+    "post_url": "https://xueqiu.com/1247347556/292269567",
+    "post_date": "2024-06-01",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 4
+  }
+]

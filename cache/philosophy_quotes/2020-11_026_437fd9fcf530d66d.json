@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没研究过。老巴做事总是有点道理的，我不想花时间。",
+    "post_url": "https://xueqiu.com/1247347556/163303073",
+    "post_date": "2020-11-14",
+    "mentioned_stocks": [
+      "伯克希尔"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "也许是运气吧。商业模式和企业文化两个过滤器很关键。",
+    "post_url": "https://xueqiu.com/1247347556/163303052",
+    "post_date": "2020-11-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "也许是运气吧。商业模式和企业文化两个过滤器很关键。",
+    "post_url": "https://xueqiu.com/1247347556/163303052",
+    "post_date": "2020-11-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没研究过。",
+    "post_url": "https://xueqiu.com/1247347556/163266144",
+    "post_date": "2020-11-13",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

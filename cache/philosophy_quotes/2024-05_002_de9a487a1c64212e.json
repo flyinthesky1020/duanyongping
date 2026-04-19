@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "自己买的公司，然后让别人分析？",
+    "post_url": "https://xueqiu.com/1247347556/291768066",
+    "post_date": "2024-05-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我见过卖了茅台买了高息理财产品的，然后就没有然后了。",
+    "post_url": "https://xueqiu.com/1247347556/291767574",
+    "post_date": "2024-05-28",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

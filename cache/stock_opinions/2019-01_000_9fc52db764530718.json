@@ -1,0 +1,58 @@
+[
+  {
+    "id": "d6f3af88-cd7d-45fc-8e79-53cd003a9773",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-01-18",
+    "sentiment": "bullish",
+    "summary": "今日买入苹果",
+    "quote": "今天又买了苹果，纪念一下8年前的决定。",
+    "source_file": "2019-01_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/120013043"
+  },
+  {
+    "id": "32435186-cb24-4254-af65-ff768f26939b",
+    "stock": "Tencent",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-01-18",
+    "sentiment": "bullish",
+    "summary": "增持腾讯",
+    "quote": "这些年大概认真买了不少苹果和茅台以及最近增加了一些腾讯和fb以及不太多的goog",
+    "source_file": "2019-01_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/120013043"
+  },
+  {
+    "id": "690db52d-6bc7-4c86-843d-80e636d13e81",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2019-01-18",
+    "sentiment": "bullish",
+    "summary": "增持Facebook",
+    "quote": "这些年大概认真买了不少苹果和茅台以及最近增加了一些腾讯和fb以及不太多的goog",
+    "source_file": "2019-01_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/120013043"
+  },
+  {
+    "id": "e1a4b060-48c4-47a9-9398-26efea5784f8",
+    "stock": "Google",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2019-01-18",
+    "sentiment": "bullish",
+    "summary": "增持谷歌",
+    "quote": "这些年大概认真买了不少苹果和茅台以及最近增加了一些腾讯和fb以及不太多的goog",
+    "source_file": "2019-01_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/120013043"
+  }
+]

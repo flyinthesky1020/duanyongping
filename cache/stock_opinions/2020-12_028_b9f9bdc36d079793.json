@@ -1,0 +1,16 @@
+[
+  {
+    "id": "be0e359d-1fcf-44f6-b04d-86f3f5832573",
+    "stock": "达美航空",
+    "ticker": "DAL",
+    "market": "US",
+    "date": "2020-12-03",
+    "sentiment": "bearish",
+    "summary": "不喜欢的商业模式",
+    "quote": "已经说得很清楚了，不是我喜欢的商业模式，拿不住。",
+    "source_file": "2020-12_batch028",
+    "source_type": "xueqiu",
+    "chunk_index": 28,
+    "url": "https://xueqiu.com/1247347556/164888306"
+  }
+]

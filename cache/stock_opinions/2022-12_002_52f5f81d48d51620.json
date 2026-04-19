@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dc717c99-3861-4d58-af99-d250fa236bef",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-12-30",
+    "sentiment": "bullish",
+    "summary": "愿将持仓换苹果",
+    "quote": "以目前苹果的价钱，我更愿意拿着苹果。只要在这个价钱以下我是可能会慢慢把手里大部分其他股票都换成苹果的",
+    "source_file": "2022-12_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/238877614"
+  },
+  {
+    "id": "30c5f037-b781-4bdc-be30-c4d01fcc8f42",
+    "stock": "伯克希尔",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2022-12-30",
+    "sentiment": "bullish",
+    "summary": "长期会好一点点",
+    "quote": "我觉得brk长期来说还是会好一点点",
+    "source_file": "2022-12_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/238965003"
+  }
+]

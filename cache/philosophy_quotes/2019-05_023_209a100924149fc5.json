@@ -1,0 +1,72 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "禁区大概主要是两个：生意模式不好，企业文化不好。",
+    "post_url": "https://xueqiu.com/1247347556/126936623",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我如果认为一家公司不诚信的话，我就不碰了，比如特斯拉。",
+    "post_url": "https://xueqiu.com/1247347556/126936623",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "禁区大概主要是两个：生意模式不好，企业文化不好。",
+    "post_url": "https://xueqiu.com/1247347556/126936623",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "企业文化不好最典型的特征就是经常说瞎话，你只要看他以前说过多少瞎话就明白了。",
+    "post_url": "https://xueqiu.com/1247347556/126936623",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "举个所谓懂的例子：比如苹果，我在2011年买苹果的时候，苹果大概3000亿市值（当时股价310/7=44），手里有1000亿净现金，那时候利润大概不到200亿。以我对苹果的理解，我认为苹果未来5年左右赢利大概率会涨很多，所以我就猜个500亿（去年595亿）。",
+    "post_url": "https://xueqiu.com/1247347556/126928217",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "以我对苹果的理解，我认为苹果未来5年左右赢利大概率会涨很多，所以我就猜个500亿（去年595亿）。",
+    "post_url": "https://xueqiu.com/1247347556/126928217",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "其实我对好价钱已经不太提了，合适价钱就好。",
+    "post_url": "https://xueqiu.com/1247347556/126941640",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "刘作虎很踏实，既知道要做对的事情，也很努力滴把事情做对，而且把事情做对的能力也极强。",
+    "post_url": "https://xueqiu.com/1247347556/126947415",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

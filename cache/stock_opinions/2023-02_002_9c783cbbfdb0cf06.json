@@ -1,0 +1,44 @@
+[
+  {
+    "id": "82bc9311-9441-4f4c-be30-1c5cdd5e8b12",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-02-22",
+    "sentiment": "bullish",
+    "summary": "十年优于现金",
+    "quote": "回复@登山投资: 10年后看，大概率会比拿着现金或存银行好。",
+    "source_file": "2023-02_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/242748381"
+  },
+  {
+    "id": "031c66c2-5fb0-4cff-9cce-0ec5d988fa0d",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2023-02-22",
+    "sentiment": "bullish",
+    "summary": "十年优于现金",
+    "quote": "回复@登山投资: 10年后看，大概率会比拿着现金或存银行好。",
+    "source_file": "2023-02_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/242748381"
+  },
+  {
+    "id": "df198f2f-70fc-4237-8037-94b4235a21b2",
+    "stock": "谷歌C",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2023-02-22",
+    "sentiment": "bearish",
+    "summary": "份额将受冲击",
+    "quote": "Goog独霸天下的局面也确实会受到冲击，份额多少会下降一些。",
+    "source_file": "2023-02_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/242737311"
+  }
+]

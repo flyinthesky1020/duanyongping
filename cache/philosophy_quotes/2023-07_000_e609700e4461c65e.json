@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我看到很多人会买“fix income”的产品，这种“投资”从10年以上的角度看是必然会输给通胀的，所以投钱在“固定fix income”这种产品上长期来说就是个错误的事情，不做这种事情就是个典型的“模糊的正确”的例子。",
+    "post_url": "https://xueqiu.com/1247347556/256968673",
+    "post_date": "2023-07-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "破三万亿也没啥，还是该干嘛干嘛。五年从一万亿到三万亿，由于回购的缘故，股价增加的应该更多。",
+    "post_url": "https://xueqiu.com/1247347556/256970125",
+    "post_date": "2023-07-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "因为苹果有Option。通过option，我可以在保住股票的前提下每年还能多赚几个点，但万一苹果突然一飞冲天我就卖飞了。我的意思是，在未来不太长的时间段里，万一苹果被call走了，我还可以买一个tbill（短期国债），同时卖个同样价钱的put（210），等着被put回来。我觉得苹果不会就这么绝尘而去的",
+    "post_url": "https://xueqiu.com/1247347556/257081750",
+    "post_date": "2023-07-31",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

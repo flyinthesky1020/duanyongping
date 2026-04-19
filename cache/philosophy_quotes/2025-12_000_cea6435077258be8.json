@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这是我管的一个账号上的苹果。这么多年几乎没怎么动过，全靠打球赚的钱哈。",
+    "post_url": "https://xueqiu.com/1247347556/368680308",
+    "post_date": "2025-12-31",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "新的一年里，需要认真学习一下怎么使用ai，希望能让自己能理解ai到敢下重注的地步。",
+    "post_url": "https://xueqiu.com/1247347556/368680308",
+    "post_date": "2025-12-31",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "969bc116-6818-4e4c-85af-9af7f80a5ff2",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-01-25",
+    "sentiment": "bullish",
+    "summary": "苹果依然很香",
+    "quote": "其实从未来10年看回来，现在的苹果依然很香哈。",
+    "source_file": "2022-01_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/210055723"
+  }
+]

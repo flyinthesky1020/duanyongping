@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bf5d1a01-55fd-4839-b4cf-199b4981658a",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-10-18",
+    "sentiment": "bullish",
+    "summary": "看好茅台",
+    "quote": "我说过，两只啊。一只是茅台，另一只也是茅台。",
+    "source_file": "2025-10_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/357272042"
+  }
+]

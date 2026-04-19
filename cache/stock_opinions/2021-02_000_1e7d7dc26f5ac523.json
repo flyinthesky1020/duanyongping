@@ -1,0 +1,44 @@
+[
+  {
+    "id": "b40b4d5d-e31c-48ad-9a00-0e4fbe8217cd",
+    "stock": "GameStop",
+    "ticker": "GME",
+    "market": "US",
+    "date": "2021-02-25",
+    "sentiment": "bearish",
+    "summary": "卖出看涨期权",
+    "quote": "我就不信gme明天能到800块，又卖了明天到期的800块钱的call，收了2块多钱一个。",
+    "source_file": "2021-02_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/172811509"
+  },
+  {
+    "id": "9b3aa4fd-316e-4985-a783-dfaba204458b",
+    "stock": "欢聚",
+    "ticker": "YY",
+    "market": "US",
+    "date": "2021-02-25",
+    "sentiment": "bullish",
+    "summary": "建议不要做空",
+    "quote": "不要做空的另一个例子。",
+    "source_file": "2021-02_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/171903102"
+  },
+  {
+    "id": "1b551f10-bec3-40ce-8e78-6b188bffda50",
+    "stock": "通用电气",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2021-02-25",
+    "sentiment": "bearish",
+    "summary": "经营困难",
+    "quote": "看起来日子非常难过啊。",
+    "source_file": "2021-02_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/171813221"
+  }
+]

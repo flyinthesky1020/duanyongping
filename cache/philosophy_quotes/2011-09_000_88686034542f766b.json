@@ -1,0 +1,56 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "最近有点忙啊，这么多以前觉得有点贵的股票突然一下子到了有吸引力的位置，似乎又到了该make some decision 的时候了。 要inner peace！",
+    "post_url": "https://xueqiu.com/1247347556/20408974",
+    "post_date": "2011-09-29",
+    "mentioned_stocks": [
+      "畅游"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没办法理解一个搞不懂5只股票（5个公司）的人如何可以...",
+    "post_url": "https://xueqiu.com/1247347556/20408757",
+    "post_date": "2011-09-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "呵呵，大部分人如果学peter的话，会只学到白头发的那部分，而且最后还要亏钱，何苦？ 不明白老巴的话还是不要碰股市的好。",
+    "post_url": "https://xueqiu.com/1247347556/20408528",
+    "post_date": "2011-09-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "Peter的做法实际上是属于短视，所以早早就白了少年头，投资也没法做了。80多的老巴依然威武啊，芒格87了还自己开车。",
+    "post_url": "https://xueqiu.com/1247347556/20408519",
+    "post_date": "2011-09-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "不是特别了解，感觉像一群短视的聪明人做的公司，本人不是很看好。",
+    "post_url": "https://xueqiu.com/1247347556/20408515",
+    "post_date": "2011-09-29",
+    "mentioned_stocks": [
+      "PWRD"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "看了一下配置，Kindle fire用亏本的办法卖东西抢的根本就不是ipad的市场，不过做其他pad的人可真是有点惨。",
+    "post_url": "https://xueqiu.com/1247347556/20408814",
+    "post_date": "2011-09-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

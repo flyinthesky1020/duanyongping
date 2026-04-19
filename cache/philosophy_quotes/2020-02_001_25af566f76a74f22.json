@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "关心股东是谁是歧路。",
+    "post_url": "https://xueqiu.com/1247347556/140685093",
+    "post_date": "2020-02-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "有利润之上的追求属于好的企业文化的一部分，不过这家公司的商业模式我还不太懂，买一些只是为了支持一下。",
+    "post_url": "https://xueqiu.com/1247347556/140675884",
+    "post_date": "2020-02-06",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "明天准备买点这家公司，觉得这是家有利益之上的追求的公司。",
+    "post_url": "https://xueqiu.com/1247347556/140617905",
+    "post_date": "2020-02-05",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "有利润之上的追求属于好的企业文化的一部分，不过这家公司的商业模式我还不太懂，买一些只是为了支持一下。",
+    "post_url": "https://xueqiu.com/1247347556/140675884",
+    "post_date": "2020-02-06",
+    "mentioned_stocks": [
+      "吉利德科学"
+    ],
+    "quality_score": 4
+  }
+]

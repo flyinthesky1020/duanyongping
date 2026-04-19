@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "哈，我还有朋友不知道哪根神经起了主导作用，前些年突然跑到茅台镇开起了酒厂。本来是喝茅台的人，结果开始喝起了“不比茅台差的酒”，还经常拉着朋友去喝。朋友们为了给面子还不得不说“还可以还可以”啥的，第二天早上起来后基本都不太再提这事了。哎……到底有啥想不开的",
+    "post_url": "https://xueqiu.com/1247347556/270297571",
+    "post_date": "2023-12-10",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "从苹果挖Jony也做不了苹果的哈。",
+    "post_url": "https://xueqiu.com/1247347556/270314589",
+    "post_date": "2023-12-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

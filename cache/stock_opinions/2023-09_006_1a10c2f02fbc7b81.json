@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dd47a275-0eb2-451e-85f4-b2691ff0367e",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-09-05",
+    "sentiment": "bullish",
+    "summary": "茅台联名无负面影响",
+    "quote": "我不觉得真爱喝茅台的人会因为有了酱香拿铁而开始不爱喝茅台了，所以我目前至少看不到对茅台有任何内在负面的东西",
+    "source_file": "2023-09_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/260411687"
+  }
+]

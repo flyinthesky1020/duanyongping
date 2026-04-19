@@ -1,0 +1,16 @@
+[
+  {
+    "id": "69c006ae-7fff-4854-9635-9ebaef38908a",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-07-17",
+    "sentiment": "bearish",
+    "summary": "苹果看回调或至200",
+    "quote": "回调是一定会来的，只是不知道什么时候和什么幅度 ，但不太会回到11-12块钱了，但回到200块以内是有可能的。",
+    "source_file": "2024-07_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/297639328"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "也不能说没关系，因为这个显然是仿我们产品的，估计死得比较难看。",
+    "post_url": "https://xueqiu.com/1247347556/312693527",
+    "post_date": "2024-11-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不意外的财报，继续卖put！",
+    "post_url": "https://xueqiu.com/1247347556/312660132",
+    "post_date": "2024-11-13",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 3
+  }
+]

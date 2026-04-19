@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看懂一家公司确实很难。以前没看懂，现在再看也还是没懂。搞不清楚这家公司10年后会是更好还是不如现在。",
+    "post_url": "https://xueqiu.com/1247347556/287087363",
+    "post_date": "2024-04-21",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "有息负债有时候是会致命的。",
+    "post_url": "https://xueqiu.com/1247347556/287963927",
+    "post_date": "2024-04-26",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

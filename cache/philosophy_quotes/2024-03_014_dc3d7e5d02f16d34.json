@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我认为和产品的差异化程度有关。产品差异化程度越低，行业内的企业越难赚到钱。航空公司是极致，就是因为产品差异化小。",
+    "post_url": "https://xueqiu.com/1247347556/281107558",
+    "post_date": "2024-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "人们对吃喝的东西的信任度是一个重要的差异化来源，而且这种差异不是空穴来风的。口感当然是另一个差异化的重要原因。从生意角度而言，销售渠道应该也算一种差异化吧。对买水的企业而言，能把水买成可口可乐那样全球都随处可见其实是相当难的。",
+    "post_url": "https://xueqiu.com/1247347556/281107310",
+    "post_date": "2024-03-06",
+    "mentioned_stocks": [
+      "可口可乐"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "短期风险大一些，长期没本质区别。",
+    "post_url": "https://xueqiu.com/1247347556/281102505",
+    "post_date": "2024-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "对一家公司有很多意见还会拿着？",
+    "post_url": "https://xueqiu.com/1247347556/281093296",
+    "post_date": "2024-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

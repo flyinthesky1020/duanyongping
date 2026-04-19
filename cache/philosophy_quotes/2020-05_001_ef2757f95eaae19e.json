@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "难得因为投资睡不好觉，拿着航空公司确实不踏实，总有想不透的东西。好吧，尊重老巴得想法，我也找机会撤了。",
+    "post_url": "https://xueqiu.com/1247347556/148726279",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "其实不是看不懂，是看到了没必要的风险。其实我的观点没变，觉得达美和西南是最有机会活下来的航空公司，但没人知道最后疫情会导致人们的消费习惯变化的趋势。",
+    "post_url": "https://xueqiu.com/1247347556/148726279",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "这是违规的",
+    "post_url": "https://xueqiu.com/1247347556/149257169",
+    "post_date": "2020-05-13",
+    "mentioned_stocks": [
+      "微创医疗"
+    ],
+    "quality_score": 2
+  }
+]

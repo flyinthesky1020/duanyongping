@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "在把事情做对的过程中，错误是不可避免的，是个学习的过程。每个人都有自己的学习曲线。",
+    "post_url": "https://xueqiu.com/1247347556/165613132",
+    "post_date": "2020-12-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "国有手机企业生存要难多了，除非有垄断优势。",
+    "post_url": "https://xueqiu.com/1247347556/165786781",
+    "post_date": "2020-12-14",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 3
+  }
+]

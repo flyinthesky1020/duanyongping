@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这里没有一个公式，但你真的懂的时候你会知道的。最重要的东西是你能真正忽略市场的波动，聚焦在生意上。想象你打算买一家公司，拿着10年都不上市你依然能睡好觉，那你大概就懂了。",
+    "post_url": "https://xueqiu.com/1247347556/126056764",
+    "post_date": "2019-05-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "或者倒过来也一样，当你觉得一家公司10年内肯定会有大麻烦的时候，你大概不会想买的吧？",
+    "post_url": "https://xueqiu.com/1247347556/126056764",
+    "post_date": "2019-05-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果一10年为一个时段的话，我觉得茅台大概率在任何时段会赢。",
+    "post_url": "https://xueqiu.com/1247347556/126035891",
+    "post_date": "2019-05-02",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "知道什么会发生比知道什么时候会发生要容易得多。",
+    "post_url": "https://xueqiu.com/1247347556/125999285",
+    "post_date": "2019-05-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

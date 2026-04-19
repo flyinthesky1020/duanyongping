@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b6795e14-4646-4750-985d-2613d9647a04",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2025-11-14",
+    "sentiment": "bullish",
+    "summary": "认真看特斯拉并准备买车",
+    "quote": "是时候再认真看一下Tesla了，准备尽快去买辆特斯拉的车，试试自动驾驶的感觉。",
+    "source_file": "2025-11_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/361522553"
+  }
+]

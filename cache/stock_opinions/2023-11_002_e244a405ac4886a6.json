@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c8db542d-ec2f-4788-8b51-cc9d39c59218",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-11-21",
+    "sentiment": "bullish",
+    "summary": "茅台需求不减",
+    "quote": "是啊，递减了十年了，经济环境也发生了一些变化，但喝茅台的人不见减少哈",
+    "source_file": "2023-11_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/267866852"
+  },
+  {
+    "id": "a1ffe765-588e-4bf4-a59a-536c168c6345",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-11-21",
+    "sentiment": "bullish",
+    "summary": "卖出苹果看跌期权",
+    "quote": "是的，而且已经卖了很多苹果的put了，但有些和tbill并不同步",
+    "source_file": "2023-11_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/267853484"
+  }
+]

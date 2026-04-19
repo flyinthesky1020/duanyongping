@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "买你懂的吧。 如果都不懂的话，这两个一样买一半。",
+    "post_url": "https://xueqiu.com/1247347556/309662268",
+    "post_date": "2024-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我拿苹果比老巴时间长，比重比老巴要高。需要时我是可以拿得住的。",
+    "post_url": "https://xueqiu.com/1247347556/309662222",
+    "post_date": "2024-10-25",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "卖put可能会少赚钱，但至少买入成本是低一些的。反正我每天卖1000个腾讯put会继续，比直接买股票要容易下手很多。",
+    "post_url": "https://xueqiu.com/1247347556/309662171",
+    "post_date": "2024-10-25",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我并不知道标普价格会不会掉下来，但我知道现金的购买力是一定会随着通胀而逐年下降的。投资用的是闲钱，好的投资大概率会比现金保值，到时你卖股票也是可以生活的。",
+    "post_url": "https://xueqiu.com/1247347556/309681372",
+    "post_date": "2024-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实芒格自己曾经就是个赌徒哈，他自己用margin用过头了，搞得自己差点就破产了。",
+    "post_url": "https://xueqiu.com/1247347556/309509099",
+    "post_date": "2024-10-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

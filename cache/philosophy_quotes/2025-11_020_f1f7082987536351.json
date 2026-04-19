@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "协议要求20年不可以卖。不知道能不能管用哈。",
+    "post_url": "https://xueqiu.com/1247347556/359493143",
+    "post_date": "2025-11-01",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果这个事情真的发生了，你很可能会发现你手里拿的还是苹果的东西。",
+    "post_url": "https://xueqiu.com/1247347556/359485413",
+    "post_date": "2025-11-01",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

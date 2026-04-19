@@ -1,0 +1,39 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "尽量从未来10年或更长来看。",
+    "post_url": "https://xueqiu.com/1247347556/214691428",
+    "post_date": "2022-03-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我觉得对多数人而言，买S&P500可能是比较好的选择，因为BRK对多数人毕竟还是“一家”公司，有波动的时候可能会更影响心情。虽然我认为BRK的长期表现会好过S&P500，但也不会好很多的，而拿着S&P500对多数很难理解BRK的人来说心情会好一些的。",
+    "post_url": "https://xueqiu.com/1247347556/214689687",
+    "post_date": "2022-03-20",
+    "mentioned_stocks": [
+      "伯克希尔",
+      "S&P500"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "套利可以是对的事情也可以是错的，看干什么吧。",
+    "post_url": "https://xueqiu.com/1247347556/214691428",
+    "post_date": "2022-03-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你如果看了所有关于苹果的东西，依然得不出这个结论，那只能说明你对企业还不够了解。",
+    "post_url": "https://xueqiu.com/1247347556/214684571",
+    "post_date": "2022-03-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

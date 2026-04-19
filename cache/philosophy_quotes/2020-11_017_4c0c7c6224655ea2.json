@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式显然茅台好。",
+    "post_url": "https://xueqiu.com/1247347556/163947775",
+    "post_date": "2020-11-22",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没了解过金龙鱼，不过印象中这个公司确实很多年前就在了，我当CEO的时候好像就能见到他们的广告了。",
+    "post_url": "https://xueqiu.com/1247347556/163930380",
+    "post_date": "2020-11-22",
+    "mentioned_stocks": [
+      "金龙鱼"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "顺便说一下什么叫生意模式：生意模式就是赚钱的模式，最后赚得越多的模式就应该越好。苹果现在一年的利润比中国所有互联网公司（包括腾讯）从开办以来赚得利润的总和都要多，你说腾讯的模式更好的逻辑是啥？",
+    "post_url": "https://xueqiu.com/1247347556/308677427",
+    "post_date": "2024-10-18",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯控股"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "确实买过一点顺丰，但很快就离场了，因为觉得商业模式比较辛苦，虽然企业文化还不错。",
+    "post_url": "https://xueqiu.com/1247347556/308699509",
+    "post_date": "2024-10-18",
+    "mentioned_stocks": [
+      "顺丰控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "确实买过一点顺丰，但很快就离场了，因为觉得商业模式比较辛苦，虽然企业文化还不错。",
+    "post_url": "https://xueqiu.com/1247347556/308699509",
+    "post_date": "2024-10-18",
+    "mentioned_stocks": [
+      "顺丰控股"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "A股我没那么懂，目前基本上都是茅台，加一丁丁点神华。",
+    "post_url": "https://xueqiu.com/1247347556/308687672",
+    "post_date": "2024-10-05",
+    "mentioned_stocks": [
+      "贵州茅台",
+      "中国神华"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "是的，我会买神华确实是因为张尧。我其实是先买的神华，塑化剂事件中卖掉了神华买的茅台。前几年用茅台分红买回了一点点神华，回报也蛮好的。",
+    "post_url": "https://xueqiu.com/1247347556/308699882",
+    "post_date": "2024-10-18",
+    "mentioned_stocks": [
+      "中国神华",
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

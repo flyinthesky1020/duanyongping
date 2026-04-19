@@ -1,0 +1,16 @@
+[
+  {
+    "id": "85f7f159-3c22-4385-8375-bc903a1b8829",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-03-19",
+    "sentiment": "bullish",
+    "summary": "持有茅台",
+    "quote": "我只是持有茅台，因为不了解其他公司。",
+    "source_file": "2019-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/123349564"
+  }
+]

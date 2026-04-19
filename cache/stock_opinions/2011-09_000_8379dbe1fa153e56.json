@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5c0798f5-d621-4f00-8738-70f032e5a8e4",
+    "stock": "完美世界",
+    "ticker": "PWRD",
+    "market": "US",
+    "date": "2011-09-29",
+    "sentiment": "bearish",
+    "summary": "不看好完美世界",
+    "quote": "不是特别了解，感觉像一群短视的聪明人做的公司，本人不是很看好。",
+    "source_file": "2011-09_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20408515"
+  }
+]

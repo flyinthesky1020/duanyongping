@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "有这个想法的人早就卖掉了，不会拿到今天的。好公司要惜卖！",
+    "post_url": "https://xueqiu.com/1247347556/257880537",
+    "post_date": "2023-08-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你真的打算拿10年，大概率是不会赔的，至少过去10年没人赔钱吧，但机会成本不一定合算。",
+    "post_url": "https://xueqiu.com/1247347556/257660987",
+    "post_date": "2023-08-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "没有过要减持苹果的想法。想的都是怎么能增加一点持股。",
+    "post_url": "https://xueqiu.com/1247347556/257577851",
+    "post_date": "2023-08-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不买option，包括不close。",
+    "post_url": "https://xueqiu.com/1247347556/257880511",
+    "post_date": "2023-08-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "当你考虑为卖call准备准备金，你早晚会陷入大麻烦的。",
+    "post_url": "https://xueqiu.com/1247347556/257536684",
+    "post_date": "2023-08-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实我是接受说树长不到天上去的，但为什么因此就觉得涨了很多的公司就不能再投资了呢？这是两个完全没关系的东西哈。",
+    "post_url": "https://xueqiu.com/1247347556/178940509",
+    "post_date": "2021-05-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "鱼的问题比较复杂，我跟人说了10年买苹果，然后人们老是说你发现下一个就告诉我。反正其实说了也是白说的。",
+    "post_url": "https://xueqiu.com/1247347556/179169663",
+    "post_date": "2021-05-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "老巴买苹果但不太用苹果产品，内在的理解可能会差那么一点点，所以不想有太高比例也很好理解。我觉得老巴已经太厉害了，光靠看财报和新闻就敢买这么大量。",
+    "post_url": "https://xueqiu.com/1247347556/179006340",
+    "post_date": "2021-05-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "按我的理解，接BRK很简单，买苹果和S&P500就好，表现应该比S&P500好。接苹果就不一样了，需要早上四点起床，有点难。",
+    "post_url": "https://xueqiu.com/1247347556/178972814",
+    "post_date": "2021-05-04",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦",
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

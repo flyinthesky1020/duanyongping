@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/125631167",
+    "post_date": "2019-04-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "1，钱是保健因子，就是少了不行的意思，奖金并不能调动大家的积极性。2，奖金实际上应该是种契约，是跟业绩挂钩的（所以不是老板赐给大家的），比如在某些条件前提下，企业获得的利润的20%给员工。",
+    "post_url": "https://xueqiu.com/1247347556/125626129",
+    "post_date": "2019-04-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不希望建立任何私下的联系，也不希望被人打扰，不好意思哈。",
+    "post_url": "https://xueqiu.com/1247347556/125631343",
+    "post_date": "2019-04-25",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "Costco+Disney ，这个定义有点意思，也很难找到更好的定义了。",
+    "post_url": "https://xueqiu.com/1247347556/125620644",
+    "post_date": "2019-04-25",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  }
+]

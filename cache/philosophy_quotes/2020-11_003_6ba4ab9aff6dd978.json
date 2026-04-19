@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "虽然我们在这家公司上赚了不少钱，但用过modelS之后就不再感兴趣，从此不再关注，自然对我也没价值。",
+    "post_url": "https://xueqiu.com/1247347556/164451189",
+    "post_date": "2020-11-28",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "平常心就是排除外界干扰，回到事物本源。",
+    "post_url": "https://xueqiu.com/1247347556/164451204",
+    "post_date": "2020-11-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我很喜欢看到我喜欢的好公司犯错误，因为他们的文化最终会让他们纠正错误",
+    "post_url": "https://xueqiu.com/1247347556/361313935",
+    "post_date": "2025-11-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我很喜欢看到我喜欢的好公司犯错误，因为他们的文化最终会让他们纠正错误，但错误会让我有机会再多买一些。我的苹果80%以上都是不出大屏的那三年买的。",
+    "post_url": "https://xueqiu.com/1247347556/361313935",
+    "post_date": "2025-11-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "卖出我不擅长，所以总是想尽量找到那些不需要卖的公司。",
+    "post_url": "https://xueqiu.com/1247347556/361313935",
+    "post_date": "2025-11-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你要是知道怎么考虑的话，当然还是最好要考虑一下的，不然就算了吧？这样长期（10年起算）而言至少能击败85%以上的\"投资者\"。",
+    "post_url": "https://xueqiu.com/1247347556/365931543",
+    "post_date": "2025-12-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我的意思是一个100块钱公司，10块和15块买入并没有区别。但是，如果你确定他会掉到10块钱，你当然应该等啊，不然你傻呀？！",
+    "post_url": "https://xueqiu.com/1247347556/365931059",
+    "post_date": "2025-12-13",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "你把梨子和苹果直接比较了，所以我说你的逻辑系统有问题。完全没有讥笑的意思。",
+    "post_url": "https://xueqiu.com/1247347556/365930909",
+    "post_date": "2025-12-13",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

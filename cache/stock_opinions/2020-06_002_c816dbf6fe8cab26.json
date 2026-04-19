@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e62e06b8-8e87-41f8-a7f0-be04e61c9c54",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-06-22",
+    "sentiment": "bullish",
+    "summary": "满仓茅台",
+    "quote": "自从满仓茅台后，一直处在骄傲自满的状态中，没太认真看过别的公司",
+    "source_file": "2020-06_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/152208280"
+  }
+]

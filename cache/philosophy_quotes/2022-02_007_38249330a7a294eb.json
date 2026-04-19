@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我绝对相信还有其他公司能跑过通胀，但我没办法了解。",
+    "post_url": "https://xueqiu.com/1247347556/211023294",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "第一，我不了解A股指数，我觉得老巴说的投指数基金可能是S&P500的指数基金。个人感觉要了解一个指数基金也不是件容易的事情，反正我没搞明白过。",
+    "post_url": "https://xueqiu.com/1247347556/210968491",
+    "post_date": "2022-02-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "裸空是危险的游戏，不是投资的工具，不可模仿。",
+    "post_url": "https://xueqiu.com/1247347556/210708984",
+    "post_date": "2022-02-05",
+    "mentioned_stocks": [
+      "纳指3X做空-ProShares"
+    ],
+    "quality_score": 5
+  }
+]

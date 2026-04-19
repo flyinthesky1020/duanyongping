@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ffed2f02-a975-4931-abde-eecb6735f349",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2023-03-11",
+    "sentiment": "bullish",
+    "summary": "抄巴菲特作业买入",
+    "quote": "买了一些，偶尔也抄下作业。",
+    "source_file": "2023-03_batch016",
+    "source_type": "xueqiu",
+    "chunk_index": 16,
+    "url": "https://xueqiu.com/1247347556/244211429"
+  }
+]

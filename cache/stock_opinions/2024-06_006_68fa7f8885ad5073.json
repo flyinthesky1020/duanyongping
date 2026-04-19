@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5cb69249-92af-4f2e-8afb-7ebd93e25910",
+    "stock": "阿里巴巴",
+    "ticker": "9988.HK",
+    "market": "HK",
+    "date": "2024-06-24",
+    "sentiment": "bearish",
+    "summary": "对阿里观感下降",
+    "quote": "感觉通过这个事情对阿里的感官直线下降",
+    "source_file": "2024-06_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/295015290"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "bd4f1f4b-2718-47c5-b0d3-608107d9ab4b",
+    "stock": "网易",
+    "ticker": "NTES",
+    "market": "US",
+    "date": "2012-07-04",
+    "sentiment": "bearish",
+    "summary": "对网易不利",
+    "quote": "这对网易好像不是好消息。@腾讯控股(00700)",
+    "source_file": "2012-07_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/21963204"
+  },
+  {
+    "id": "ba461fb0-8c9a-4627-99a1-776e6a5ec7fa",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-07-04",
+    "sentiment": "bearish",
+    "summary": "认为不值钱",
+    "quote": "这个好像不值钱。@苹果(AAPL)",
+    "source_file": "2012-07_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/21958409"
+  }
+]

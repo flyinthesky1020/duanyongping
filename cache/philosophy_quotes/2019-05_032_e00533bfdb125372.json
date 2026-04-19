@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "哪里都有守信用也都有不守信用的人。人以群分，能和我称得上朋友的人大概都会是守信用的人。",
+    "post_url": "https://xueqiu.com/1247347556/126629615",
+    "post_date": "2019-05-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没认真看过，也不太关心。",
+    "post_url": "https://xueqiu.com/1247347556/126620029",
+    "post_date": "2019-05-13",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "现金中性不创造任何利润，但不糟蹋利润。",
+    "post_url": "https://xueqiu.com/1247347556/285541314",
+    "post_date": "2024-04-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "这个“稳定”并没有下个月，半年，一年，三年以后如何回购的信息或者想法，颇有点像茅台的特别分红，并不知道以后会怎么样。苹果的分红及回购计划非常简单清晰，就是“现金中性”，就是不留多过经营需要的现金的意思。",
+    "post_url": "https://xueqiu.com/1247347556/285483585",
+    "post_date": "2024-04-10",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

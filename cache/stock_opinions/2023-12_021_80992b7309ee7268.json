@@ -1,0 +1,16 @@
+[
+  {
+    "id": "08fc14c6-5bad-4590-8a4e-36bd42ab7002",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2023-12-06",
+    "sentiment": "bullish",
+    "summary": "计划再卖put支持阿里",
+    "quote": "我计划再卖些put，支持一下。加上利息最好大概有年华18%的收益，最差当然就是亏了。",
+    "source_file": "2023-12_batch021",
+    "source_type": "xueqiu",
+    "chunk_index": 21,
+    "url": "https://xueqiu.com/1247347556/269550980"
+  }
+]

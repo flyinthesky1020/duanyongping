@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这个掉法不敢加仓，说明自己确实没那么懂goog。",
+    "post_url": "https://xueqiu.com/1247347556/241712640",
+    "post_date": "2023-02-09",
+    "mentioned_stocks": [
+      "谷歌C"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这个其实也从侧面说明了Google商业模式不如苹果强大。",
+    "post_url": "https://xueqiu.com/1247347556/241607743",
+    "post_date": "2023-02-08",
+    "mentioned_stocks": [
+      "Google",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "Chatgpt至少短期内会给Bing带来不小的流量的，但长期而言还是看产品。",
+    "post_url": "https://xueqiu.com/1247347556/241618285",
+    "post_date": "2023-02-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

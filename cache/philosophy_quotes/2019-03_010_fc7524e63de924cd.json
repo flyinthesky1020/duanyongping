@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "统计上来看，买期权的大概率是赔的。",
+    "post_url": "https://xueqiu.com/1247347556/123498241",
+    "post_date": "2019-03-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你真的能抓住市场的错误定价，你就已经不是小资金了。我认为“慢慢的变富”其实是最快的办法。",
+    "post_url": "https://xueqiu.com/1247347556/123498463",
+    "post_date": "2019-03-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "也许想办法从10年后的角度看？看不清就别碰。",
+    "post_url": "https://xueqiu.com/1247347556/123498129",
+    "post_date": "2019-03-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "越是迷惘的时候越是要往远处看。",
+    "post_url": "https://xueqiu.com/1247347556/123497785",
+    "post_date": "2019-03-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我没处理过你说的这种问题，也看不见这种问题。",
+    "post_url": "https://xueqiu.com/1247347556/123493626",
+    "post_date": "2019-03-21",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

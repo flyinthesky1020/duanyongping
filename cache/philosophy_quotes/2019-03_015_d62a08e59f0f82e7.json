@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "听说这三家都还不错，但我本人没研究过，没有发言权。",
+    "post_url": "https://xueqiu.com/1247347556/123265042",
+    "post_date": "2019-03-18",
+    "mentioned_stocks": [
+      "云南白药",
+      "片仔癀",
+      "同仁堂"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不好意思，你说的银行业和保险业我都不太懂，而且也懒得学了。",
+    "post_url": "https://xueqiu.com/1247347556/123264814",
+    "post_date": "2019-03-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "高毛利肯定不是充分条件，比如餐饮业都是高毛利，但问问投资价值不高。",
+    "post_url": "https://xueqiu.com/1247347556/123276113",
+    "post_date": "2019-03-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

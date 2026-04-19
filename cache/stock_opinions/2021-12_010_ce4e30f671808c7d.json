@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9a8a853a-fadb-42d9-80d7-d4e321d17d92",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2021-12-02",
+    "sentiment": "bearish",
+    "summary": "不增持，看不懂模式",
+    "quote": "从200多掉到现在我也没有任何想法想多买点，因为一直没看懂商业模式",
+    "source_file": "2021-12_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/204861044"
+  }
+]

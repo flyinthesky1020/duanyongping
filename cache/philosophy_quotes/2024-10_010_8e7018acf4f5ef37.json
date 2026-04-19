@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "其实，大部分生意都是苦生意。一般而言，产品差异化比较小的生意都有可能是苦生意。苦生意也是生意，做好了小日子也能过得去的，就像小区的那些小杂货店一样。",
+    "post_url": "https://xueqiu.com/1247347556/308861669",
+    "post_date": "2024-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "确实买过一点顺丰，但很快就离场了，因为觉得商业模式比较辛苦，虽然企业文化还不错。",
+    "post_url": "https://xueqiu.com/1247347556/308861669",
+    "post_date": "2024-10-20",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "其实这两个公司我都没办法搞透，所以也下不了重注。",
+    "post_url": "https://xueqiu.com/1247347556/308700324",
+    "post_date": "2024-10-18",
+    "mentioned_stocks": [
+      "神华",
+      "西方石油"
+    ],
+    "quality_score": 5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "当然指的是净现金，不然那是什么？当时网易有点官司，大家害怕而已。另外，净现金超过市值也未必就是好投资，关键还是看未来净现金流（折现）",
+    "post_url": "https://xueqiu.com/1247347556/214646696",
+    "post_date": "2022-03-19",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我个人理解BRK的文化一两代之内的传承问题不大，之后也会比平均好。巴菲特的家人介入的比重其实是不大的，我相信老巴会安排好的，他很习惯从长远考虑问题，所以出问题的概率肯定会远小于平均值。",
+    "post_url": "https://xueqiu.com/1247347556/214646669",
+    "post_date": "2022-03-19",
+    "mentioned_stocks": [
+      "BRK"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我觉得BRK老老实实做投资的文化是根深蒂固的，老巴退休以后也不会有太大影响，长期来说应该不会输给S&P500，但也很难赢很多。",
+    "post_url": "https://xueqiu.com/1247347556/214644274",
+    "post_date": "2022-03-19",
+    "mentioned_stocks": [
+      "BRK"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "普通人坚持做对的事情的结果是可以很不普通的！",
+    "post_url": "https://xueqiu.com/1247347556/126302350",
+    "post_date": "2019-05-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "每个人学习能力不同，会的东西也不一样，要找到对自己合适的事情做。最重要的合适往往是喜欢。",
+    "post_url": "https://xueqiu.com/1247347556/126268857",
+    "post_date": "2019-05-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你的钱有更好的去处的话。",
+    "post_url": "https://xueqiu.com/1247347556/126244019",
+    "post_date": "2019-05-07",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我对老巴的认识非常简单，就是“买股票就是买公司”，从来没变过。",
+    "post_url": "https://xueqiu.com/1247347556/192315954",
+    "post_date": "2021-07-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我是88年九月份左右去的佛山，呆了几个月就感觉不太对，很快就离开去了中山。 错了就尽快改正是非常重要的！这公司会破产我完全不意外。",
+    "post_url": "https://xueqiu.com/1247347556/189786116",
+    "post_date": "2021-07-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我们确实有这个规矩，不过OPPO和vivo之间可以，（这也间接说明这两家公司是绝对相互独立的）。我以前在佛山无线电八厂（星河音响）呆过，发现老板一堆亲属在公司里，这种现象对其他人的工作热情有毁灭性的打击。",
+    "post_url": "https://xueqiu.com/1247347556/189782553",
+    "post_date": "2021-07-07",
+    "mentioned_stocks": [
+      "OPPO",
+      "vivo"
+    ],
+    "quality_score": 4
+  }
+]

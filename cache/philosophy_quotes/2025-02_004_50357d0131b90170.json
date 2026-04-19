@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "前两条是必要条件，第三条要从未来10年以上来看。",
+    "post_url": "https://xueqiu.com/1247347556/323097607",
+    "post_date": "2025-02-11",
+    "mentioned_stocks": [
+      "比亚迪"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "大概就是个未来现金流折现的问题。芒格投 20 亿(的 1/10)在 40 出头的王传福身上，认为他未来 20年(或更长)肯定可以给出多倍回报。这么看王传福的话，当时那个价确实便宜。",
+    "post_url": "https://xueqiu.com/1247347556/323097607",
+    "post_date": "2025-02-11",
+    "mentioned_stocks": [
+      "比亚迪"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "过滤器啊！",
+    "post_url": "https://xueqiu.com/1247347556/323050210",
+    "post_date": "2025-02-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "其实也就是巴菲特干的那些事",
+    "post_url": "https://xueqiu.com/1247347556/322273727",
+    "post_date": "2025-02-04",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

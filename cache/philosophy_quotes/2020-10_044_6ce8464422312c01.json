@@ -1,0 +1,49 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不了解电视机行业，感觉产品难有差异化，是个苦生意。",
+    "post_url": "https://xueqiu.com/1247347556/160616820",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "海信视像"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不是很清楚你的熟的定义是什么，反正懂不懂自己应该有概念的。",
+    "post_url": "https://xueqiu.com/1247347556/160616743",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解电视机行业，感觉产品难有差异化，是个苦生意。",
+    "post_url": "https://xueqiu.com/1247347556/160616820",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "海信视像"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "因为两个行业我都算比较了解。",
+    "post_url": "https://xueqiu.com/1247347556/160616750",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "腾讯",
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不知道这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/160616507",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

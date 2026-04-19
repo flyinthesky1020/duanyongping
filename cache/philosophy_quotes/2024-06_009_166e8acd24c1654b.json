@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "目前30年的国债利率是4.44%，相当于22.5倍的PE，这也是持有任何公司的机会成本。短期国债的利率是5.36%，相当于18.66倍的PE。持有=买入，有点纠结了。",
+    "post_url": "https://xueqiu.com/1247347556/294604070",
+    "post_date": "2024-06-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "好的教育是昂贵的，更贵的是不好的教育。不过，我们会继续想办法降低员工子弟的入学成本的。",
+    "post_url": "https://xueqiu.com/1247347556/294604070",
+    "post_date": "2024-06-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "“慈善”有种居高临下的感觉。做公益比较容易接受，因为自己也是收益者。",
+    "post_url": "https://xueqiu.com/1247347556/294498979",
+    "post_date": "2024-06-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "Vision Pro 是个很酷的产品，但目前还不是个必需的东西。iPhone则完全不同。",
+    "post_url": "https://xueqiu.com/1247347556/294659330",
+    "post_date": "2024-06-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "股价便宜虽好，千万不要用Margin哈！",
+    "post_url": "https://xueqiu.com/1247347556/330200127",
+    "post_date": "2025-04-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "谁当皇帝还不都得让老百姓过日子？！任何时候任何市场买好公司比什么都重要。",
+    "post_url": "https://xueqiu.com/1247347556/330200127",
+    "post_date": "2025-04-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "卖put（其实买股票同时卖covered call更为直观）最重要的一点是你愿意在strike price买入这个公司。如果从十年后看回来这个价钱不错的话，这个交易就是成立的。",
+    "post_url": "https://xueqiu.com/1247347556/330245667",
+    "post_date": "2025-04-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

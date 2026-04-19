@@ -1,0 +1,30 @@
+[
+  {
+    "id": "802bcd4b-141b-4d46-afb0-dfcfb3b8bbb8",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-04-26",
+    "sentiment": "bullish",
+    "summary": "十年后看当前价便宜",
+    "quote": "简单讲，10年后今天这个价钱大概率大家都会觉得很便宜的。",
+    "source_file": "2024-04_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/287075254"
+  },
+  {
+    "id": "dae092c5-e8ee-4de6-8436-829ddb01fa00",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-04-26",
+    "sentiment": "bearish",
+    "summary": "Vision Pro长期经济价值低",
+    "quote": "Vision Pro 目前还不是必需品，相当长时间里不太会对苹果有显著经济价值的。",
+    "source_file": "2024-04_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/287815567"
+  }
+]

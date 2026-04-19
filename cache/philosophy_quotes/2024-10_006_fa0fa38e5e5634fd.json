@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买期权就是赌博，最后大概率都是会输光的，虽然总有人能先赚点钱。",
+    "post_url": "https://xueqiu.com/1247347556/309134980",
+    "post_date": "2024-10-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "补充一下，期货就是Option，你买的是衍生物，早晚大概率亏光的。你没直接用杠杆，但和用杠杆的效果是一样的。如果一点投资概念都没有的人最好还是存银行比较好一点，不然确实危险的。",
+    "post_url": "https://xueqiu.com/1247347556/309131521",
+    "post_date": "2024-10-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "好多人一直在担心茅台的销量和销价的问题，但另一帮人则一直在努力申请直购茅台的资格。我就知道有一年100亿人民币营业额以上生意的朋友申请很多年了还没批下来。",
+    "post_url": "https://xueqiu.com/1247347556/309137366",
+    "post_date": "2024-10-22",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "不到10天赚1%，而且那是个你愿意买进的价钱，why not？",
+    "post_url": "https://xueqiu.com/1247347556/309136036",
+    "post_date": "2024-10-22",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 3
+  }
+]

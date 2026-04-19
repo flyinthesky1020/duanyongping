@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "在自来水能生喝的地方，10年内50%保有量大概率不是问题。",
+    "post_url": "https://xueqiu.com/1247347556/298460789",
+    "post_date": "2024-07-22",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "10年后（也许20年）每两个手机用户里有一个用iPhone不是不可能的吧？",
+    "post_url": "https://xueqiu.com/1247347556/298391744",
+    "post_date": "2024-07-22",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得VisionPro体验超过超跑的说法不过分，但不意味着VisionPro会很快变成must have。其实我不确定vision pro最后能不能成为一个must have的产品，但我觉得大概率三五年之内应该不行。",
+    "post_url": "https://xueqiu.com/1247347556/298615215",
+    "post_date": "2024-07-23",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "今天第一次买了一些国债，6个月的年化利率居然有4.8%。买国债不是为了赚利息，而是因为本来有些现金是卖了put的，而这些现金似乎也和银行现金一样有可能会有危险。细节还在了解中，但先开始了解怎么做这件事情。买了国债其实不影响继续卖put。",
+    "post_url": "https://xueqiu.com/1247347556/298745673",
+    "post_date": "2024-07-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

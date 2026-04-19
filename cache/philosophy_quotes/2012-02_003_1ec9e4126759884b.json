@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "这个结局是由其生意模式决定的，早晚都会来的。作为投资者要尽量避开这种生意模式。",
+    "post_url": "https://xueqiu.com/1247347556/21470364",
+    "post_date": "2012-02-18",
+    "mentioned_stocks": [
+      "美的电器"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这个结局是由其生意模式决定的，早晚都会来的。作为投资者要尽量避开这种生意模式。",
+    "post_url": "https://xueqiu.com/1247347556/21470364",
+    "post_date": "2012-02-18",
+    "mentioned_stocks": [
+      "美的电器"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "靠低价得到的份额实际就是阴影本身，很难走出来的。看看诺基亚就明白了。",
+    "post_url": "https://xueqiu.com/1247347556/21470369",
+    "post_date": "2012-02-18",
+    "mentioned_stocks": [
+      "联想"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我去参加了。好像开会时间还没有排队时间长，不过挺好玩的。觉得库克是个非常好的ceo。",
+    "post_url": "https://xueqiu.com/1247347556/21491477",
+    "post_date": "2012-02-23",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

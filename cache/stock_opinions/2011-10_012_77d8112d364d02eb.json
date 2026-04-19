@@ -1,0 +1,16 @@
+[
+  {
+    "id": "241634ab-d395-4b92-a6b9-588841c7e6ad",
+    "stock": "Yahoo",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2011-10-03",
+    "sentiment": "bullish",
+    "summary": "YHOO便宜可买入",
+    "quote": "但yhoo便宜时我可以自己买啊，干嘛和别人混一起？这又不是需要壮胆的事。",
+    "source_file": "2011-10_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/20411424"
+  }
+]

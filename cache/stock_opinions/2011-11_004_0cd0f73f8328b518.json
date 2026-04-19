@@ -1,0 +1,30 @@
+[
+  {
+    "id": "185491b2-70b5-408e-994f-10a5e058d355",
+    "stock": "完美世界",
+    "ticker": "PWRD",
+    "market": "US",
+    "date": "2011-11-22",
+    "sentiment": "bearish",
+    "summary": "现金非买入理由",
+    "quote": "2.5亿现金并不能成为买的理由。",
+    "source_file": "2011-11_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/20522471"
+  },
+  {
+    "id": "d799c6d9-beaf-40cd-a54c-65cf77ae9de6",
+    "stock": "新浪",
+    "ticker": "SINA",
+    "market": "US",
+    "date": "2011-11-22",
+    "sentiment": "bearish",
+    "summary": "微博模式无投资价值",
+    "quote": "从投资的角度看，目前微博的生意模式不知道什么价有投资价值。",
+    "source_file": "2011-11_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/20522827"
+  }
+]

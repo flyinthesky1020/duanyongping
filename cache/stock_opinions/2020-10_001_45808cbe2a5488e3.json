@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b8d2f285-7040-40ce-b8c8-7c5fc95cfeba",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-10-30",
+    "sentiment": "bullish",
+    "summary": "茅台长期看好",
+    "quote": "茅台大概率还会不错",
+    "source_file": "2020-10_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/162065621"
+  },
+  {
+    "id": "0316b01e-89a2-48c5-95cb-bab946c5beb1",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2020-10-30",
+    "sentiment": "bullish",
+    "summary": "腾讯可能更好",
+    "quote": "腾讯当然有可能会更好",
+    "source_file": "2020-10_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/162065621"
+  }
+]

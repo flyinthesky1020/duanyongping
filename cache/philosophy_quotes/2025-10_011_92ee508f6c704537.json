@@ -1,0 +1,24 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "对腾讯肯定是啊，对你就不知道了。",
+    "post_url": "https://xueqiu.com/1247347556/357269594",
+    "post_date": "2025-10-18",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "现在跟ai粘上一点关系的东西都乱涨一气，这些公司很可能90%最后都会完蛋的。",
+    "post_url": "https://xueqiu.com/1247347556/357234137",
+    "post_date": "2025-10-17",
+    "mentioned_stocks": [
+      "nvda",
+      "Google",
+      "amazon"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "678770e8-b93b-48cf-82e7-5c954afedb54",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-04-08",
+    "sentiment": "bearish",
+    "summary": "苹果31倍PE估值偏高",
+    "quote": "$苹果(AAPL)$ 居然还有31倍pe！25倍以下会感觉好很多。",
+    "source_file": "2025-04_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": ""
+  }
+]

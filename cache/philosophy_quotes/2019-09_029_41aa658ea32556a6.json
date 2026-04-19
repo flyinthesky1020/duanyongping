@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "作为一个懒人，我能了解的公司很少。不过你这个问题翻译过来就是10年后（或者20年后）的某一天来看现在我应该用茅台来换哪个公司呢？假设一个礼拜后股市就关闭了，10年或20年后的某一天再开，你的决策会是什么？",
+    "post_url": "https://xueqiu.com/1247347556/132491001",
+    "post_date": "2019-09-07",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "作为一个懒人，我能了解的公司很少。",
+    "post_url": "https://xueqiu.com/1247347556/132491001",
+    "post_date": "2019-09-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "其实制造业在不同地方开设分厂的情况非常罕见，除非是很重的产品比如水或者啤酒类，不然怎么着也是愿意靠近供应链的。",
+    "post_url": "https://xueqiu.com/1247347556/132467681",
+    "post_date": "2019-09-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "平常心非常适用于需要理性的地方，但对很对人生中很多非理性的东西，我也不太懂怎么办哈。",
+    "post_url": "https://xueqiu.com/1247347556/132473876",
+    "post_date": "2019-09-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

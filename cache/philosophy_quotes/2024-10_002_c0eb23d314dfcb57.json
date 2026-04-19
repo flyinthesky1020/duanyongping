@@ -1,0 +1,72 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你有闲钱，买茅台大概率会比存银行合算，如果你是打算拿10年以上的话。这个不意味着茅台不会跌，也不意味着茅台会比别的股票涨得快。",
+    "post_url": "https://xueqiu.com/1247347556/309686434",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你觉得未来能涨十几倍甚至几十倍的公司，绝对不能卖put哈，不过这种机会也是极少的。",
+    "post_url": "https://xueqiu.com/1247347556/309686076",
+    "post_date": "2024-10-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "首先要找自己看得懂的好公司。",
+    "post_url": "https://xueqiu.com/1247347556/309683094",
+    "post_date": "2024-10-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "天下没有免费的午餐，需要搞明白才好。",
+    "post_url": "https://xueqiu.com/1247347556/309684027",
+    "post_date": "2024-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我看到有些目前高收入的人想把自己的房子抵押出去买茅台，我觉得犯不着搞这种让人睡不着觉的事情。",
+    "post_url": "https://xueqiu.com/1247347556/309684377",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不要误会了！大道没建议过任何人买茅台。",
+    "post_url": "https://xueqiu.com/1247347556/309686434",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "一般至少能满足年化15+我才会动手，不然就只好闲着，哪怕只是拿着tbill也没办法。",
+    "post_url": "https://xueqiu.com/1247347556/309685966",
+    "post_date": "2024-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "好公司一般都有点贵，直接买老是觉得有点下不了手，但卖个put，就算最后买不到股票，年化十几个百分点的收入也还是可以的嘛。",
+    "post_url": "https://xueqiu.com/1247347556/309683094",
+    "post_date": "2024-10-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

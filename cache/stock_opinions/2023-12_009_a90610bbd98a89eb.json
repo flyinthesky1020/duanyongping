@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0af15b26-64fa-4d0d-80e9-fb8ebc9c235b",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-12-13",
+    "sentiment": "bearish",
+    "summary": "苹果价格高了",
+    "quote": "苹果确实不便宜了",
+    "source_file": "2023-12_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/270780035"
+  },
+  {
+    "id": "8b6ed3b8-d3f0-4f4d-af05-06f2807bf7f9",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-12-13",
+    "sentiment": "bearish",
+    "summary": "茅台不便宜",
+    "quote": "其实他们都不便宜，但便宜没好货啊！",
+    "source_file": "2023-12_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/270775259"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果是我就算了吧，反正也学不到啥，小孩还不开心。",
+    "post_url": "https://xueqiu.com/1247347556/164589045",
+    "post_date": "2020-11-30",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "好吧，大选完就都卖了苹果的put，到期就继续卖，put给我就拿着。",
+    "post_url": "https://xueqiu.com/1247347556/164498312",
+    "post_date": "2020-11-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "应该按照事先说好的原则吧？最重要的是要有公平心。",
+    "post_url": "https://xueqiu.com/1247347556/164498001",
+    "post_date": "2020-11-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

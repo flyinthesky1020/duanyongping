@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2591ddc4-b380-44e8-9f8d-bf0421d90b7c",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-02",
+    "sentiment": "bullish",
+    "summary": "否认财务造假质疑",
+    "quote": "我不认为他们会做假账。你看看王宁的讲话你大概就能明白的。",
+    "source_file": "2026-04_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/382487426"
+  }
+]

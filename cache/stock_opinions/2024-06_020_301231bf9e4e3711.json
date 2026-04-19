@@ -1,0 +1,30 @@
+[
+  {
+    "id": "02a53cfc-c964-4e87-bc7e-64e0aca0f3ef",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-06-04",
+    "sentiment": "bullish",
+    "summary": "不想卖持有收息",
+    "quote": "不想卖但也不想闲着，就当多收一个派息哈。",
+    "source_file": "2024-06_batch020",
+    "source_type": "xueqiu",
+    "chunk_index": 20,
+    "url": "https://xueqiu.com/1247347556/292622718"
+  },
+  {
+    "id": "c4ef2fa0-f6a7-4895-9d9d-7adf0517dac1",
+    "stock": "游戏驿站",
+    "ticker": "GME",
+    "market": "US",
+    "date": "2024-06-04",
+    "sentiment": "bullish",
+    "summary": "参与一下留念",
+    "quote": "参与一下，留个“记”念。",
+    "source_file": "2024-06_batch020",
+    "source_type": "xueqiu",
+    "chunk_index": 20,
+    "url": "https://xueqiu.com/1247347556/292475125"
+  }
+]

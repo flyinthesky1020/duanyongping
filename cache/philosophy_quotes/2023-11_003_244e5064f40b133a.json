@@ -1,0 +1,59 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "过期的茅台真好喝啊！",
+    "post_url": "https://xueqiu.com/1247347556/267778919",
+    "post_date": "2023-11-20",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我说的提高指的是比例。目前好像是每年利润的50%多一点点，如果能提到比如70或80%的话就会让股东们放心很多。大部分股东们最担心的事情不就是怕公司把赚到的钱乱花掉了吗？毕竟由自己乱花掉会感觉好一点嘛。",
+    "post_url": "https://xueqiu.com/1247347556/267742281",
+    "post_date": "2023-11-20",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "作为股东，我更希望能看到的是正常分红稳定提高。苹果的办法值得借鉴。",
+    "post_url": "https://xueqiu.com/1247347556/267781767",
+    "post_date": "2023-11-20",
+    "mentioned_stocks": [
+      "贵州茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买国债不是为了赚利息，而是因为本来有些现金是卖了put的，而这些现金似乎也和银行现金一样有可能会有危险。细节还在了解中，但先开始了解怎么做这件事情。",
+    "post_url": "https://xueqiu.com/1247347556/267841924",
+    "post_date": "2023-11-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们分红基本上都是直接买成股票了。",
+    "post_url": "https://xueqiu.com/1247347556/267741210",
+    "post_date": "2023-11-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "开白噪音或者搬家。",
+    "post_url": "https://xueqiu.com/1247347556/267841427",
+    "post_date": "2023-11-21",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

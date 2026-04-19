@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实并没有一个办法知道10年后的情况，但往往更短的时间更难知道，比如塑化剂问题出现时，很难知道短期会如何，但知道应该不会影响10年后的茅台。有很多公司其实是很容易知道10年内大概率是要出问题的，比如乐视……。茅台，10年后应该还是在卖茅台吧，你需要想什么？",
+    "post_url": "https://xueqiu.com/1247347556/132770168",
+    "post_date": "2019-09-12",
+    "mentioned_stocks": [
+      "茅台",
+      "乐视"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "有很多公司其实是很容易知道10年内大概率是要出问题的，比如乐视……",
+    "post_url": "https://xueqiu.com/1247347556/132770168",
+    "post_date": "2019-09-12",
+    "mentioned_stocks": [
+      "乐视"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "月亮是价值，看见的是价格，这个比喻有点意思。",
+    "post_url": "https://xueqiu.com/1247347556/132783517",
+    "post_date": "2019-09-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

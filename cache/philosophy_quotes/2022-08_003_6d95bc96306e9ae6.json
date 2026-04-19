@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "电视机这种家电很难做出差异化，不太容易有一个好的未来。",
+    "post_url": "https://xueqiu.com/1247347556/228583111",
+    "post_date": "2022-08-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "做对的事情过程中犯的错和做错的事情导致的错误结果是完全不同性质的。",
+    "post_url": "https://xueqiu.com/1247347556/228583057",
+    "post_date": "2022-08-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "任何时候开始培养独立思考的习惯都是不晚的。至少先努力想想，然后再去问别人？",
+    "post_url": "https://xueqiu.com/1247347556/229125605",
+    "post_date": "2022-08-25",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "因为在网易博客上和大家聊茅台，导致最后成功滴说服了自己投资了很多茅台，基本上目前我们A股上就只有茅台。",
+    "post_url": "https://xueqiu.com/1247347556/228480440",
+    "post_date": "2022-08-18",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

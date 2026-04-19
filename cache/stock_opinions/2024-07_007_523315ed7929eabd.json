@@ -1,0 +1,16 @@
+[
+  {
+    "id": "862deff3-fcdc-4aa8-8fc4-a30759002162",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-07-10",
+    "sentiment": "bullish",
+    "summary": "看好苹果长期持有",
+    "quote": "还是那句话，great company 最好别卖",
+    "source_file": "2024-07_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/297058146"
+  }
+]

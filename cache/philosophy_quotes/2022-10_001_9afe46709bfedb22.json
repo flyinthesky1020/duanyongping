@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我依然不是太懂拼多多得商业模式，所以加不加仓和目前价格没啥关系，毕竟已经有很多在手了。",
+    "post_url": "https://xueqiu.com/1247347556/234017191",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "给他们10年，也许大家真能看到点啥。现在距离我说的“给他10年”的时间应该已经过去两三年了吧？那就再看个7-8年，看看我这个“风投”结果如何。",
+    "post_url": "https://xueqiu.com/1247347556/234017191",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "有些东西10年后看啥都不是，有些东西则相反。",
+    "post_url": "https://xueqiu.com/1247347556/234017870",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "强大的商业模式！",
+    "post_url": "https://xueqiu.com/1247347556/234017870",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "关于投资的书可能看得越多赚得越少。顺便说下，我研究生学的就是宏观经济，可这个和投资没啥关系啊，不然会投资的就都是那些大学教授啥的了。",
+    "post_url": "https://xueqiu.com/1247347556/234010812",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "底在哪里恐怕没人知道，但肯定比之前快了。",
+    "post_url": "https://xueqiu.com/1247347556/234009020",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a343aa9a-4846-43cf-b25f-83f47cce8f60",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2021-11-15",
+    "sentiment": "bullish",
+    "summary": "不应做空特斯拉",
+    "quote": "做空特斯拉的人们现在应该很惨啊！这是又一个不能做空的例子。",
+    "source_file": "2021-11_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/201875073"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买option长期看是不明智的。",
+    "post_url": "https://xueqiu.com/1247347556/325369494",
+    "post_date": "2025-02-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "除了政府债券外，没有任何证券可以保证在一定时间内本金是安全的。",
+    "post_url": "https://xueqiu.com/1247347556/325446567",
+    "post_date": "2025-02-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "新手买政府债券比较合适，至少比85%的人强。",
+    "post_url": "https://xueqiu.com/1247347556/325419636",
+    "post_date": "2025-02-27",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这段话我看到过，也知道CUDA有点像苹果的生态圈，但就是没办法理解这个moat到底有多宽。",
+    "post_url": "https://xueqiu.com/1247347556/325366317",
+    "post_date": "2025-02-27",
+    "mentioned_stocks": [
+      "苹果",
+      "NVDA"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这段话我看到过，也知道CUDA有点像苹果的生态圈，但就是没办法理解这个moat到底有多宽。大家说的都是眼前的事情，这也是NVDA芯片能够卖得这么贵的原因。",
+    "post_url": "https://xueqiu.com/1247347556/325366317",
+    "post_date": "2025-02-27",
+    "mentioned_stocks": [
+      "NVDA",
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "尽管没完全看懂NVDA，但我还是准备开始卖点NVDA的put了。",
+    "post_url": "https://xueqiu.com/1247347556/325225401",
+    "post_date": "2025-02-26",
+    "mentioned_stocks": [
+      "NVDA"
+    ],
+    "quality_score": 3
+  }
+]

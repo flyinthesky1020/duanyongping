@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "很多馊主意是导致你没钱的原因哈。问题是你想克服吗？",
+    "post_url": "https://xueqiu.com/1247347556/359485319",
+    "post_date": "2025-11-01",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "问题是你有苹果股票吗？",
+    "post_url": "https://xueqiu.com/1247347556/359484173",
+    "post_date": "2025-11-01",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

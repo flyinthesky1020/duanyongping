@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2cda1b1a-f8aa-4868-add9-d5f940fb2bb3",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-11-30",
+    "sentiment": "bullish",
+    "summary": "卖出put并持有",
+    "quote": "大选完就都卖了苹果的put，到期就继续卖，put给我就拿着",
+    "source_file": "2020-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/164498312"
+  }
+]

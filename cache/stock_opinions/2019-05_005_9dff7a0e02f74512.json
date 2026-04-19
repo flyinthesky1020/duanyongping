@@ -1,0 +1,72 @@
+[
+  {
+    "id": "87bd657b-42f2-4c58-82e9-af8e1179b546",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-05-29",
+    "sentiment": "bullish",
+    "summary": "茅台是好的商业模式",
+    "quote": "回复@苇_草: 这个说法我接受，比如茅台",
+    "source_file": "2019-05_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/127492762"
+  },
+  {
+    "id": "a4bef37a-2f36-4995-9e0d-1680e1c68527",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-05-29",
+    "sentiment": "bullish",
+    "summary": "苹果商业模式极好",
+    "quote": "手机在苹果手里就是个极好的商业模式",
+    "source_file": "2019-05_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/127492539"
+  },
+  {
+    "id": "641f0961-0e5f-4ff8-86b7-8d28bfb28642",
+    "stock": "谷歌",
+    "ticker": "GOOGL",
+    "market": "US",
+    "date": "2019-05-29",
+    "sentiment": "bullish",
+    "summary": "Google商业模式好",
+    "quote": "搜索最后变成Google的好的商业模式",
+    "source_file": "2019-05_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/127492539"
+  },
+  {
+    "id": "0e51cc61-abde-41ad-8cfa-573d1f7bb508",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-05-29",
+    "sentiment": "bullish",
+    "summary": "腾讯商业模式好",
+    "quote": "茅台，苹果，腾讯，可口可乐都是好的生意模式",
+    "source_file": "2019-05_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/127492539"
+  },
+  {
+    "id": "c6b8a3b9-3f3d-45cb-b059-4f4726bf500f",
+    "stock": "可口可乐",
+    "ticker": "KO",
+    "market": "US",
+    "date": "2019-05-29",
+    "sentiment": "bullish",
+    "summary": "可口可乐商业模式好",
+    "quote": "茅台，苹果，腾讯，可口可乐都是好的生意模式",
+    "source_file": "2019-05_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/127492539"
+  }
+]

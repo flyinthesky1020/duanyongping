@@ -1,0 +1,67 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不用margin的感觉如何？",
+    "post_url": "https://xueqiu.com/1247347556/219202310",
+    "post_date": "2022-05-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "而要做到'消费者导向'需要有'利润之上'的追求，或者说需要能够放弃一些短期利益去做出最好的产品去满足消费者真实的需求。",
+    "post_url": "https://xueqiu.com/1247347556/219324117",
+    "post_date": "2022-05-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "从字面上理解，'消费者导向'指的是企业在做产品决策的时候是基于考虑产品最后的消费者的体验的。'市场导向'看上去是基于现在是否好卖的。但消费者往往只是根据现有的产品来决定自己的喜好，所以经常会显得短视，如果企业总是'市场导向'的话，则陷于短视状况的概率就会相对大些。而总是注重消费者体验的公司则往往会眼光放得长远些，出'伟大产品'的概率就会大很多。没有'利润之上'的追求的公司不大会真的有'消费者导向'的文化，最后也不大可能成为'伟大的公司'。",
+    "post_url": "https://xueqiu.com/1247347556/219324117",
+    "post_date": "2022-05-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "很久以前，我有个朋友卖了一万多股苹果买了一套房子。我当时说，最好不要这样想，不然你会觉得房子很贵的。后来他告诉我，当时没明白，后来发现房子确实很贵。",
+    "post_url": "https://xueqiu.com/1247347556/219464047",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "两家公司都很有价值，但我不确定谁更高。感觉上长期而言人们对微信的依赖会更高一些，但我的感觉未必对，因为我没怎么用过抖音的产品。",
+    "post_url": "https://xueqiu.com/1247347556/219462223",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [
+      "腾讯",
+      "字节跳动"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。好像这三个一点的意思是不一样的。",
+    "post_url": "https://xueqiu.com/1247347556/219463627",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "就是看你怎么看待30倍市盈率买入30年利润每年增长率10％的企业。",
+    "post_url": "https://xueqiu.com/1247347556/219017976",
+    "post_date": "2022-05-03",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  }
+]

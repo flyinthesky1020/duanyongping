@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fe786c63-4076-4376-986e-5c6010cbbe24",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2019-03-20",
+    "sentiment": "bullish",
+    "summary": "FB是不错的公司",
+    "quote": "我个人觉得FB也是家不错的公司，生意模式和文化都不错，扎克伯格年轻有为，还能好好干很多年。",
+    "source_file": "2019-03_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/123385993"
+  }
+]

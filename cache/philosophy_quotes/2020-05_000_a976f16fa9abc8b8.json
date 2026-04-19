@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "是的，我就是看完这段后也决定跟卖了。我同意老巴的观点，这个生意变了。",
+    "post_url": "https://xueqiu.com/1247347556/150460766",
+    "post_date": "2020-05-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "黄金不产生现金流，不保值。",
+    "post_url": "https://xueqiu.com/1247347556/149492141",
+    "post_date": "2020-05-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "老巴说他是个伟大公司的收藏者。我觉得Disney应该是个可以被收藏的伟大公司。",
+    "post_url": "https://xueqiu.com/1247347556/149438857",
+    "post_date": "2020-05-15",
+    "mentioned_stocks": [
+      "迪士尼"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "现在喝茅台的领导有谁是把酒放在茅台酒的瓶子里的，一看就是不喝酒的人说的。",
+    "post_url": "https://xueqiu.com/1247347556/149470435",
+    "post_date": "2020-05-16",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

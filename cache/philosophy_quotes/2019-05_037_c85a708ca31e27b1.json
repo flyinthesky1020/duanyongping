@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "你需要先理解商业模式的定义。简单讲商业模式好的意思就是企业能够持续赚很多钱。",
+    "post_url": "https://xueqiu.com/1247347556/126088248",
+    "post_date": "2019-05-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "培训一般培训的是如何把事情做对，企业文化一般指的是要做对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/126091966",
+    "post_date": "2019-05-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我说的会赚钱的公司指的是能够长期赚钱的公司，这些公司往往有着利益之上的追求，比如苹果，就是不把利润放在最重要的地位。那些利益至上的公司最后往往没那么好。",
+    "post_url": "https://xueqiu.com/1247347556/126114122",
+    "post_date": "2019-05-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "你理解反了，老巴的意思是坏的企业文化很厉害，好的经理人也没用。",
+    "post_url": "https://xueqiu.com/1247347556/126091916",
+    "post_date": "2019-05-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "库克让乔布斯建立的企业文化更加深入，而且库克本人更加理性。",
+    "post_url": "https://xueqiu.com/1247347556/126088168",
+    "post_date": "2019-05-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

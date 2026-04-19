@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资太无聊了，找点刺激的小游戏玩一下！裸空是危险的游戏，不是投资的工具，不可模仿。",
+    "post_url": "https://xueqiu.com/1247347556/211871392",
+    "post_date": "2022-02-18",
+    "mentioned_stocks": [
+      "ProShares"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你只要一直本着不懂不做，你就会少犯错误，时间长了你的结果自然比你不懂也做要好很多，这是要做对的事情的范畴。如何搞懂是如何把事情做对的范畴，如果实在是搞不懂，就什么都别碰，把钱存银行，表现可能比大部分人强。",
+    "post_url": "https://xueqiu.com/1247347556/211866234",
+    "post_date": "2022-02-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我相信股东最后投票是会批准这个方案的。库克大概是世界上最便宜的CEO了。只要把苹果的盈利分成100家公司，人们就很容易看到，这100家公司的CEO的总的报酬会远高于库克的。",
+    "post_url": "https://xueqiu.com/1247347556/211772501",
+    "post_date": "2022-02-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

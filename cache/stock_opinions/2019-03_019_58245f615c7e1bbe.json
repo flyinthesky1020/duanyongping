@@ -1,0 +1,16 @@
+[
+  {
+    "id": "75c57282-7128-4eee-8278-b9e39243368f",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-03-15",
+    "sentiment": "bullish",
+    "summary": "腾讯长期收益看好",
+    "quote": "我觉得10年后回过头来看，腾讯赚的钱（我买的份额占的比例）应该比我存银行的利息要多。",
+    "source_file": "2019-03_batch019",
+    "source_type": "xueqiu",
+    "chunk_index": 19,
+    "url": "https://xueqiu.com/1247347556/123103083"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "7649cde9-42fa-4533-b918-203de1ee7348",
+    "stock": "达美航空",
+    "ticker": "DAL",
+    "market": "US",
+    "date": "2020-05-06",
+    "sentiment": "bearish",
+    "summary": "看空航空，准备撤了",
+    "quote": "难得因为投资睡不好觉，拿着航空公司确实不踏实，总有想不透的东西。好吧，尊重老巴得想法，我也找机会撤了。",
+    "source_file": "2020-05_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/148699049"
+  },
+  {
+    "id": "470c8130-4575-4be5-8580-c193e209f788",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-05-06",
+    "sentiment": "bullish",
+    "summary": "重仓持有，不惧下跌",
+    "quote": "持有苹果的感觉完全不一样，股价怎么掉都不会介意。还好我的大部位是苹果而不是航空公司。",
+    "source_file": "2020-05_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/148699049"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "有毛病了不是？谁能知道你为啥不安？",
+    "post_url": "https://xueqiu.com/1247347556/298291038",
+    "post_date": "2024-07-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "Ai iPhone大概率会导致一波换机潮，主要是因为iPhone太耐用，平均换机周期比较长，很多人都没啥换机的动力。Ai iPhone会给大家一个很好的换机理由。不过，换完一轮后大概又会进入相同的换机周期甚至更长的换机周期。估计未来十年内iPhone至少能卖个25亿台或者接近30亿",
+    "post_url": "https://xueqiu.com/1247347556/298273451",
+    "post_date": "2024-07-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "这个人似乎不蠢，最近还表现的还蛮勇敢，但这个人肯定是非常自私而且非常没有是非的。",
+    "post_url": "https://xueqiu.com/1247347556/298322730",
+    "post_date": "2024-07-21",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

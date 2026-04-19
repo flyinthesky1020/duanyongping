@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a823d7fc-db23-4b01-b109-f5b1b17b0818",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-01-27",
+    "sentiment": "bullish",
+    "summary": "看好苹果商业模式",
+    "quote": "在我的理解里，苹果的商业模式非常强大，未来的复利回报大概率是会高过长期美国国债的。我总是习惯把美国长期国债作为第一机会成本（就是最低的意思，我如果看不到公司的长期赢利是能超过长期国债的，我就会直接过滤掉），苹果第二",
+    "source_file": "2022-01_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/210167491"
+  }
+]

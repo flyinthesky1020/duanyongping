@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8a5ca917-c1d1-43fd-8eb0-e48c01777461",
+    "stock": "Amazon",
+    "ticker": "AMZN",
+    "market": "US",
+    "date": "2012-04-27",
+    "sentiment": "bearish",
+    "summary": "亚马逊非好投资",
+    "quote": "假设一切都按照amzn的设想发展，10年后真的做到了5000亿美金营业额，按3%纯利计算，那就是150亿。如果给他12倍pe，那就是1800亿市值，按6%折现到今天就是1005亿，刚好是今天的市值。没找到amzn这个价是个好投资的感觉，所以暂时不看了。",
+    "source_file": "2012-04_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/21754841"
+  }
+]

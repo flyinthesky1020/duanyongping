@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "好公司便宜的时候都是加仓的时机。",
+    "post_url": "https://xueqiu.com/1247347556/380534227",
+    "post_date": "2026-03-21",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "但是搞清楚谁是好公司以及是不是便宜并不容易。",
+    "post_url": "https://xueqiu.com/1247347556/380575375",
+    "post_date": "2026-03-22",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得你的想法蛮好的，闲钱买茅台大概率比存银行强。19岁买房子太早了，这么早被房子困住确实不应该的，但这个年纪能有买房子的钱是你的运气哈。",
+    "post_url": "https://xueqiu.com/1247347556/380514450",
+    "post_date": "2026-03-21",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

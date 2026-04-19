@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a4e2ed6b-fd9c-40d6-8de7-576767f47b16",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2020-12-05",
+    "sentiment": "bullish",
+    "summary": "腾讯调整带来买入机会",
+    "quote": "腾讯的“调整”给了我买入腾讯的机会。",
+    "source_file": "2020-12_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/165040789"
+  }
+]

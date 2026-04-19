@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e563b9fd-1688-4a57-90ad-4524285146d6",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2023-05-11",
+    "sentiment": "bullish",
+    "summary": "港股腾讯仍持有",
+    "quote": "是啊，港股腾讯还有不少。BRK只是换了一小部分。好公司不要轻易卖的一个很重要的原因是，卖了以后换什么！",
+    "source_file": "2023-05_batch015",
+    "source_type": "xueqiu",
+    "chunk_index": 15,
+    "url": "https://xueqiu.com/1247347556/250151295"
+  },
+  {
+    "id": "f956f9f4-5bb4-4ed6-923b-edab5bb9fc4a",
+    "stock": "网易",
+    "ticker": "NTES",
+    "market": "US",
+    "date": "2023-05-11",
+    "sentiment": "bullish",
+    "summary": "网易商业模式好",
+    "quote": "你不了解网易，也不了解运营，也不了解商业模式。",
+    "source_file": "2023-05_batch015",
+    "source_type": "xueqiu",
+    "chunk_index": 15,
+    "url": "https://xueqiu.com/1247347556/250091778"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e6d2099e-f796-4e2b-b4e2-636bb978e18d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-11-08",
+    "sentiment": "bullish",
+    "summary": "看好茅台长期",
+    "quote": "我不知道世界名酒里哪个酒不是销量大于消费量的。不用担心茅台是不是会减产的问题，该减时他们自然会减的。",
+    "source_file": "2025-11_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/359948865"
+  }
+]

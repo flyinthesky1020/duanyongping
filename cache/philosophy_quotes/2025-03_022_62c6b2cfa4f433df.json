@@ -1,0 +1,76 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "苹果价钱好我当然会选择苹果，毕竟我更理解。",
+    "post_url": "https://xueqiu.com/1247347556/325865997",
+    "post_date": "2025-03-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你大概率不如我了解NVDA。",
+    "post_url": "https://xueqiu.com/1247347556/325995561",
+    "post_date": "2025-03-04",
+    "mentioned_stocks": [
+      "NVDA"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看懂确实不容易，但关注一下是需要的。",
+    "post_url": "https://xueqiu.com/1247347556/325817891",
+    "post_date": "2025-03-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果moat够宽的话，商业模式不错。",
+    "post_url": "https://xueqiu.com/1247347556/325817891",
+    "post_date": "2025-03-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "他们的企业文化也不错，可以放点短期put，年化premium比较好。",
+    "post_url": "https://xueqiu.com/1247347556/325817891",
+    "post_date": "2025-03-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "其实就是按不错的价钱买了个油田。石油资源大概率是会紧缺的，只是不知道什么时候而已。",
+    "post_url": "https://xueqiu.com/1247347556/325865669",
+    "post_date": "2025-03-03",
+    "mentioned_stocks": [
+      "西方石油"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "苹果价钱好我当然会选择苹果，毕竟我更理解。",
+    "post_url": "https://xueqiu.com/1247347556/325865997",
+    "post_date": "2025-03-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "石油资源大概率是会紧缺的，只是不知道什么时候而已。",
+    "post_url": "https://xueqiu.com/1247347556/325865669",
+    "post_date": "2025-03-03",
+    "mentioned_stocks": [
+      "西方石油"
+    ],
+    "quality_score": 3
+  }
+]

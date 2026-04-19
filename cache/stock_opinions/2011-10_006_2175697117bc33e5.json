@@ -1,0 +1,72 @@
+[
+  {
+    "id": "b2168744-6b5c-42c7-a920-dd92d385397a",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2011-10-18",
+    "sentiment": "bullish",
+    "summary": "蚕食策略重要",
+    "quote": "“蚕食”很重要！@苹果(AAPL)",
+    "source_file": "2011-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/20428391"
+  },
+  {
+    "id": "88fbfb06-4d74-4c62-a2fd-4d9faed8c2b1",
+    "stock": "NetEase",
+    "ticker": "NTES",
+    "market": "US",
+    "date": "2011-10-18",
+    "sentiment": "bearish",
+    "summary": "负面社会评价",
+    "quote": "怪不得人们要游行。@网易(NTES)",
+    "source_file": "2011-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/20427460"
+  },
+  {
+    "id": "a0c12706-84a4-4047-93f0-a1ef60932430",
+    "stock": "General Electric",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2011-10-18",
+    "sentiment": "bearish",
+    "summary": "GE管理不善",
+    "quote": "感觉在Jeff Immelt手里GE成功地实现了从卓越到优秀。@GE航空航天(GE)",
+    "source_file": "2011-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/20426288"
+  },
+  {
+    "id": "1dfec534-b018-4efd-890d-4235b1e79c8d",
+    "stock": "Google",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2011-10-18",
+    "sentiment": "bullish",
+    "summary": "看好涨至1500",
+    "quote": "google会有1500的那天，但不是这个算法哈。@谷歌C(GOOG)",
+    "source_file": "2011-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/20426286"
+  },
+  {
+    "id": "4529d531-b929-4a91-b186-a67a817e6a52",
+    "stock": "Yahoo",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2011-10-18",
+    "sentiment": "bullish",
+    "summary": "可考虑换阿里股",
+    "quote": "呵呵，要是在200多亿市值换点阿里巴巴集团的股票倒是也可以考虑。@更名AABA(YHOO)",
+    "source_file": "2011-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/20426283"
+  }
+]

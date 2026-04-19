@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ae957244-5c7f-41d6-ad47-aa74bfcd7f1a",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-06-27",
+    "sentiment": "bullish",
+    "summary": "看好苹果",
+    "quote": "说说我喜欢苹果的一些理由。这不是论文，想到就说，没有重点和先后次序1.苹果的产品确实把用户体验或消费者导向做到极致了，对手在相当长的时间里 难以超越甚至接近",
+    "source_file": "2023-06_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/254180298"
+  }
+]

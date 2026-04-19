@@ -1,0 +1,16 @@
+[
+  {
+    "id": "02c118a4-9d0e-4f81-9fcd-662ca43ceb11",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-03-27",
+    "sentiment": "bearish",
+    "summary": "卖出看涨期权",
+    "quote": "我也卖了不少call了，手痒啊",
+    "source_file": "2012-03_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/21618795"
+  }
+]

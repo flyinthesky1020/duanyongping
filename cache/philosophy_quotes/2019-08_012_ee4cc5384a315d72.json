@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "微软也是个好公司但我了解不深。",
+    "post_url": "https://xueqiu.com/1247347556/131290592",
+    "post_date": "2019-08-16",
+    "mentioned_stocks": [
+      "微软"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我看自己关注的东西，不逛。",
+    "post_url": "https://xueqiu.com/1247347556/131161349",
+    "post_date": "2019-08-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "和搜索一样，Google用的是免费模式，就是间接收费的意思。全世界卖的Android手机里，除了在中国卖的这部分外，Google每台机都会收到钱的。",
+    "post_url": "https://xueqiu.com/1247347556/131202303",
+    "post_date": "2019-08-15",
+    "mentioned_stocks": [
+      "Google"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "苹果是我能看懂的好公司之一（很不想树立这么个懒样版），虽然肯定还有很多别的好公司我看不太懂。",
+    "post_url": "https://xueqiu.com/1247347556/317322300",
+    "post_date": "2024-12-18",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "最好就是先把钱放在银行里，等到大涨的前一天全仓买入，想想都觉得很美。",
+    "post_url": "https://xueqiu.com/1247347556/317490170",
+    "post_date": "2024-12-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我想起来2012年时有个做房地产的朋友来聊天，我说你们债务太高了，他说可是大家都这样啊，我们的债务是相对低的。我说，从三楼跳下来和从三十楼跳下来的区别真的很大吗？",
+    "post_url": "https://xueqiu.com/1247347556/317322300",
+    "post_date": "2024-12-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你到底对什么感兴趣？ 赚快钱吗？你要懂投资就不会到处问别人的吧？我建议你还是好好地做你这份工作，业余有空做点投资比较好。",
+    "post_url": "https://xueqiu.com/1247347556/317237117",
+    "post_date": "2024-12-17",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

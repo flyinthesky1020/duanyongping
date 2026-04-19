@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不是有啥超能力，就是看不懂。想不透10年以后会怎么样，包括万科，我也是想不通的，所以没有再碰过。",
+    "post_url": "https://xueqiu.com/1247347556/262417182",
+    "post_date": "2023-10-02",
+    "mentioned_stocks": [
+      "万科"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我对汽车行业不是那么了解，直觉上觉得车要做出差异化不容易，但肯定比硅片的差异化大很多。大概率未来“新能源”车企的生存状态会像目前传统车企的生存状态差不多，生意会过得去，但不是...",
+    "post_url": "https://xueqiu.com/1247347556/262450133",
+    "post_date": "2023-10-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "同质化程度会比传统车企高很多，10年后真的很难说谁会存活下来。10年也许不够长，但20年后大概率会知道结果了。",
+    "post_url": "https://xueqiu.com/1247347556/262462084",
+    "post_date": "2023-10-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

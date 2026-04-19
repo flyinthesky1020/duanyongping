@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没碰过的飘过",
+    "post_url": "https://xueqiu.com/1247347556/21597452",
+    "post_date": "2012-03-21",
+    "mentioned_stocks": [
+      "淘米(TAOM)"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "其实没必然关系。换个公司可能就不灵了。巨人分那那么多好像也没用啊。",
+    "post_url": "https://xueqiu.com/1247347556/21588378",
+    "post_date": "2012-03-19",
+    "mentioned_stocks": [
+      "苹果(AAPL)",
+      "巨人"
+    ],
+    "quality_score": 4
+  }
+]

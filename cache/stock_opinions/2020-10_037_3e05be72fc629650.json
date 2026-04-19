@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c4c854eb-7f61-4cac-a6a3-6c5577bf024b",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2020-10-09",
+    "sentiment": "bullish",
+    "summary": "看好腾讯十年后依然强大",
+    "quote": "感觉10年后腾讯应该依然强大",
+    "source_file": "2020-10_batch037",
+    "source_type": "xueqiu",
+    "chunk_index": 37,
+    "url": "https://xueqiu.com/1247347556/160613264"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "如果他们提到任何OPPO的话，他们就是不本分的。",
+    "post_url": "https://xueqiu.com/1247347556/309688162",
+    "post_date": "2024-10-25",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "拼多多还是一家初创公司，未来变数还很多。腾讯相比之下要更成熟。",
+    "post_url": "https://xueqiu.com/1247347556/309784792",
+    "post_date": "2024-10-27",
+    "mentioned_stocks": [
+      "拼多多",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "拿着现金是铁亏的，你就看着办吧。",
+    "post_url": "https://xueqiu.com/1247347556/309720793",
+    "post_date": "2024-10-26",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

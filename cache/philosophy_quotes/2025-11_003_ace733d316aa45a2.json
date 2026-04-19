@@ -1,0 +1,54 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "心中有市场就很难战胜市场。",
+    "post_url": "https://xueqiu.com/1247347556/363116439",
+    "post_date": "2025-11-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "看懂了是苦生意应该避开啊？",
+    "post_url": "https://xueqiu.com/1247347556/363061649",
+    "post_date": "2025-11-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "他很关心市场。",
+    "post_url": "https://xueqiu.com/1247347556/363071477",
+    "post_date": "2025-11-24",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "看懂了是苦生意应该避开啊？",
+    "post_url": "https://xueqiu.com/1247347556/363061649",
+    "post_date": "2025-11-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "之前我说过，过些年，做大模型的可能没几个能活下来的，但Google大概率可以。",
+    "post_url": "https://xueqiu.com/1247347556/363071839",
+    "post_date": "2025-11-24",
+    "mentioned_stocks": [
+      "Google"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得ai有可能会降低iOS生态的重要性。比如对那些主要只用微信的人们而言，微信实际上就降低了苹果生态的重要性，因为在Android上用微信和在iPhone上用微信的差异不是非常大。",
+    "post_url": "https://xueqiu.com/1247347556/363040538",
+    "post_date": "2025-11-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

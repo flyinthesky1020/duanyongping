@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我说的10年的意思是需要很长的时间，就是短时间里概率很低的意思。",
+    "post_url": "https://xueqiu.com/1247347556/295662008",
+    "post_date": "2024-06-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "Vision Pro对喜欢他的用户而言是个\"nice to have\"的产品，而 iPhone 则是 \"must have\"。Vision Pro要上升到\"must have\"我猜可能需要10年。",
+    "post_url": "https://xueqiu.com/1247347556/295662008",
+    "post_date": "2024-06-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实是因为他们想喝酒，这是个非常好的借口。我做CEO的时候就不喝酒，也没见生意有啥影响。",
+    "post_url": "https://xueqiu.com/1247347556/295662122",
+    "post_date": "2024-06-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "如果你的产品没有吸引力，喝酒不会帮任何忙的。",
+    "post_url": "https://xueqiu.com/1247347556/295664999",
+    "post_date": "2024-06-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

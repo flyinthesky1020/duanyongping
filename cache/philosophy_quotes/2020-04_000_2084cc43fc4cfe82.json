@@ -1,0 +1,75 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得这家公司商业模式一般，企业文化一般，大家卖了吧，无论亏赚，换茅台或者苹果或者腾讯都应该更好啊。当时中望股价在3块左右。大部分人很快就换了，但确实有人不舍得换，总是说会有机会的会有机会的。一转眼这么多年过去了……，机会成本刚刚的。",
+    "post_url": "https://xueqiu.com/1247347556/147862768",
+    "post_date": "2020-04-25",
+    "mentioned_stocks": [
+      "中国忠旺",
+      "贵州茅台",
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我觉得这家公司商业模式一般，企业文化一般，大家卖了吧，无论亏赚，换茅台或者苹果或者腾讯都应该更好啊。当时中望股价在3块左右。大部分人很快就换了，但确实有人不舍得换，总是说会有机会的会有机会的。一转眼这么多年过去了……，机会成本刚刚的。",
+    "post_url": "https://xueqiu.com/1247347556/147862768",
+    "post_date": "2020-04-25",
+    "mentioned_stocks": [
+      "中国忠旺",
+      "贵州茅台",
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我觉得这家公司商业模式一般，企业文化一般，大家卖了吧，无论亏赚，换茅台或者苹果或者腾讯都应该更好啊。",
+    "post_url": "https://xueqiu.com/1247347556/147862768",
+    "post_date": "2020-04-25",
+    "mentioned_stocks": [
+      "中国忠旺",
+      "贵州茅台",
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "好价格不常有，但最近刚刚有过一次了。不过，那个不重要，5年10年后看其实真的没啥。",
+    "post_url": "https://xueqiu.com/1247347556/147924170",
+    "post_date": "2020-04-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "好价格不常有，但最近刚刚有过一次了。",
+    "post_url": "https://xueqiu.com/1247347556/147924170",
+    "post_date": "2020-04-26",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我从来没买过任何国内的银行股，此话啥意思？是因为雪球上的关注吗？人们关注一个股票可能有很多种原因，喜欢只是其中一种。雪球的关注只是为了方便得到信息而已。另外，过于关注别人都关注什么本身也是缺乏独立思考的表现哈。",
+    "post_url": "https://xueqiu.com/1247347556/147924088",
+    "post_date": "2020-04-26",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "Cash is the king...",
+    "post_url": "https://xueqiu.com/1247347556/147698927",
+    "post_date": "2020-04-23",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 3
+  }
+]

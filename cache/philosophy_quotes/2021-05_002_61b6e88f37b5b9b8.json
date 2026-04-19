@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "能力圈未必需要相同，但对能力圈的理解需要差不多。",
+    "post_url": "https://xueqiu.com/1247347556/178935622",
+    "post_date": "2021-05-03",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦B"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我的意思是，接brk的CEO比接乔布斯的工作要容易很多。我觉得如果我愿意，我都能接BRK的工作（其实不是真的容易的意思），但我绝对接不了苹果。",
+    "post_url": "https://xueqiu.com/1247347556/178933892",
+    "post_date": "2021-05-03",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦B",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "投资相对而言容易些，大部分时间是在等待。而接任乔布斯是没那么轻松的。",
+    "post_url": "https://xueqiu.com/1247347556/178933892",
+    "post_date": "2021-05-03",
+    "mentioned_stocks": [
+      "苹果",
+      "伯克希尔-哈撒韦B"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我也觉得卖掉航空股没啥错。航空生意的苦日子可能还有相当长的时间，而且这种情况每隔一段时间还可能再来，这个商业模式确实没那么好。",
+    "post_url": "https://xueqiu.com/1247347556/178900910",
+    "post_date": "2021-05-02",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦B"
+    ],
+    "quality_score": 4
+  }
+]

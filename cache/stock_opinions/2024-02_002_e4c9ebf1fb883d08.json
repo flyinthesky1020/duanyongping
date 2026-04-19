@@ -1,0 +1,58 @@
+[
+  {
+    "id": "baadd478-e49b-4d48-b009-41e219744009",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-02-24",
+    "sentiment": "bullish",
+    "summary": "茅台永久持有非卖品",
+    "quote": "茅台是可以永久不卖的非卖品",
+    "source_file": "2024-02_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/278735062"
+  },
+  {
+    "id": "7b9a8980-f04e-4bab-8fdc-0024df150b5b",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-02-24",
+    "sentiment": "bearish",
+    "summary": "苹果估值不便宜",
+    "quote": "前段时间我就说过苹果确实不便宜...所以我卖了不少苹果的call",
+    "source_file": "2024-02_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": ""
+  },
+  {
+    "id": "c063b796-6623-4b54-a05a-dcfea8d8d0d6",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2024-02-24",
+    "sentiment": "bullish",
+    "summary": "石油公司有价值",
+    "quote": "从占有资源的角度看，这两家公司似乎确实是蛮有价值的",
+    "source_file": "2024-02_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/278732825"
+  },
+  {
+    "id": "88ee06f8-1cbf-4b47-b9b4-f7c9be0c87c9",
+    "stock": "雪佛龙",
+    "ticker": "CVX",
+    "market": "US",
+    "date": "2024-02-24",
+    "sentiment": "bullish",
+    "summary": "石油公司有价值",
+    "quote": "从占有资源的角度看，这两家公司似乎确实是蛮有价值的",
+    "source_file": "2024-02_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/278732825"
+  }
+]

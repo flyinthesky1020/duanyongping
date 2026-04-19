@@ -1,0 +1,30 @@
+[
+  {
+    "id": "88233a06-b465-4c79-b381-beb0e1cea8da",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-10-15",
+    "sentiment": "bullish",
+    "summary": "看好现金流信心",
+    "quote": "现金中性的意思我认为应该是苹果留够运营所需资金后，就将多余现金以回购和派现的方法还给股东。这也说明苹果对自己的未来的现金流能力很有信心。",
+    "source_file": "2019-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/134091744"
+  },
+  {
+    "id": "2138b9e7-b55b-4e92-93b2-2f2c3cceb19c",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-10-15",
+    "sentiment": "bullish",
+    "summary": "买入腾讯看好",
+    "quote": "马化腾人不错，而且年轻，微信及微信支付的影响非常大且深远。我们确实买了一点腾讯，但比例很小。",
+    "source_file": "2019-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/134087433"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0e69ea2d-70fc-4eb2-82df-96822502d90b",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-02-02",
+    "sentiment": "bullish",
+    "summary": "看好苹果，无对手",
+    "quote": "以我的水平看不出谁能在5年内打败苹果。事实上，到目前为止我还没发现苹果真正的对手，所以我很放心。",
+    "source_file": "2012-02_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/21396278"
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "投资最重要的还是要看生意模式,不然的话大家就很容易只见树木不见森林,全部盯着眼前这一个月一个季度的波动来决定买卖的行为,这样是很难做投资的。",
+    "post_url": "https://xueqiu.com/1247347556/318102716",
+    "post_date": "2024-12-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "好公司=好的生意模式+好文化+好价格",
+    "post_url": "https://xueqiu.com/1247347556/318500803",
+    "post_date": "2024-12-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "是啊，好不好喝是关键。茅台已经＂好喝＂这么多年了。居然有人非说人们买茅台是因为茅台贵，有趣，有点像说 iPhone 的用户都是为了显摆一样。消费者的眼睛是雪亮雪亮的，只要时间足够长，啥事都能明白。",
+    "post_url": "https://xueqiu.com/1247347556/318102716",
+    "post_date": "2024-12-24",
+    "mentioned_stocks": [
+      "茅台",
+      "iPhone"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "好公司=好的生意模式+好文化+好价格",
+    "post_url": "https://xueqiu.com/1247347556/318500803",
+    "post_date": "2024-12-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "对有稳定成长的公司而言，这几乎就是道简单的算术题。10%的年增长率，假设投之前的盈利是1的话，30pe就意味着投入30，第10年的回报总和就是17.5，第20年是63（如果我没算错的话）。而且，茅台10%的平均成长很可能低估了。假如你有一笔现金，长期没有使用计划，你觉得投在哪里最舒服（合算）？",
+    "post_url": "https://xueqiu.com/1247347556/318102716",
+    "post_date": "2024-12-24",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "好公司的长期，时间维度可以是很久，如果不是好公司，多久都没价值",
+    "post_url": "https://xueqiu.com/1247347556/318500803",
+    "post_date": "2024-12-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不知道你的长期是几天？好公司跟是不是回购并不是每时每刻都线性相关的。你可以看看巴菲特的BRK从开始到开始回购用了多少年你就明白了，除非你拒绝明白。",
+    "post_url": "https://xueqiu.com/1247347556/318500803",
+    "post_date": "2024-12-28",
+    "mentioned_stocks": [
+      "BRK"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "恭喜你！很多人读不明白也许是因为不想明白，毕竟每个人都是想赚快钱的。而且很多人觉得他们比我还要聪明很多并且有个非常奇怪的逻辑：他们需要赚快钱因为他们没钱。逻辑真是个好东西，概率也是。",
+    "post_url": "https://xueqiu.com/1247347556/318102716",
+    "post_date": "2024-12-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "统计上你就该亏钱！",
+    "post_url": "https://xueqiu.com/1247347556/318476280",
+    "post_date": "2024-12-27",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "目前你还是把钱存银行比较好。",
+    "post_url": "https://xueqiu.com/1247347556/318476318",
+    "post_date": "2024-12-27",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

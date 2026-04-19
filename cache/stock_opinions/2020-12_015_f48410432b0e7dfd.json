@@ -1,0 +1,30 @@
+[
+  {
+    "id": "04d5a033-4a5c-461e-889a-d11402c50805",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-12-04",
+    "sentiment": "bullish",
+    "summary": "长期看好持仓",
+    "quote": "就是现在买，10年后回头看，我不容易找到总回报更多的地方。",
+    "source_file": "2020-12_batch015",
+    "source_type": "xueqiu",
+    "chunk_index": 15,
+    "url": "https://xueqiu.com/1247347556/164997959"
+  },
+  {
+    "id": "6e78beb0-b859-4882-a9a8-68749d2988ae",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2020-12-04",
+    "sentiment": "bullish",
+    "summary": "长期看好持仓",
+    "quote": "就是现在买，10年后回头看，我不容易找到总回报更多的地方。",
+    "source_file": "2020-12_batch015",
+    "source_type": "xueqiu",
+    "chunk_index": 15,
+    "url": "https://xueqiu.com/1247347556/164997959"
+  }
+]

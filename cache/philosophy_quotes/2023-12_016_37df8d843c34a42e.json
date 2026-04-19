@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我做投资不用融资的。",
+    "post_url": "https://xueqiu.com/1247347556/270471434",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果没钱了以后股票掉了就不管了。这种事情经常发生，买了想买的股票后，有一半的机会他还会掉一会。如果为这种事情着急得话，那要着急一辈子。",
+    "post_url": "https://xueqiu.com/1247347556/270471434",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "如果手里还有钱或还能从别的地方找到钱，我可能反而会觉得兴奋，因为可以买得更便宜。比如我在10块左右开始买GE，后来一直掉到6块，我就一直很高兴地多买了很多（比前面买的还要多很多）。",
+    "post_url": "https://xueqiu.com/1247347556/270471434",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 5
+  }
+]

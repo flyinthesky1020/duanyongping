@@ -1,0 +1,44 @@
+[
+  {
+    "id": "4e24df18-c8a1-4e63-9891-00af9a2e4468",
+    "stock": "美国航空",
+    "ticker": "AAL",
+    "market": "US",
+    "date": "2020-06-11",
+    "sentiment": "bearish",
+    "summary": "看空航空股模式",
+    "quote": "新冠传染性比SARS要厉害，似乎短期内也不会像SARS那样消失，而且以后出现这种病毒的频率是有可能增加的。如果不到10年来一次，航空公司这种生意模式会非常辛苦的。",
+    "source_file": "2020-06_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/151114518"
+  },
+  {
+    "id": "7b7754c2-933e-4dba-8fdc-0a0b0f0623fd",
+    "stock": "西南航空",
+    "ticker": "LUV",
+    "market": "US",
+    "date": "2020-06-11",
+    "sentiment": "bearish",
+    "summary": "看空航空股模式",
+    "quote": "新冠传染性比SARS要厉害，似乎短期内也不会像SARS那样消失，而且以后出现这种病毒的频率是有可能增加的。如果不到10年来一次，航空公司这种生意模式会非常辛苦的。",
+    "source_file": "2020-06_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/151114518"
+  },
+  {
+    "id": "76248fba-06d4-4580-999f-ee7d588c107a",
+    "stock": "达美航空",
+    "ticker": "DAL",
+    "market": "US",
+    "date": "2020-06-11",
+    "sentiment": "bearish",
+    "summary": "看空航空股模式",
+    "quote": "新冠传染性比SARS要厉害，似乎短期内也不会像SARS那样消失，而且以后出现这种病毒的频率是有可能增加的。如果不到10年来一次，航空公司这种生意模式会非常辛苦的。",
+    "source_file": "2020-06_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/151114518"
+  }
+]

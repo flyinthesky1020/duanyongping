@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "对不懂的企业不能用，对懂的企业（商业模式，企业文化好的企业）不需要用的。精确的错误往往就是来自于这种“公式”。",
+    "post_url": "https://xueqiu.com/1247347556/354509417",
+    "post_date": "2025-09-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这是个思维模式，但真算是不靠谱的，因为变量太多，假设太多。这也是为什么商业模式和企业文化很重要的原因。",
+    "post_url": "https://xueqiu.com/1247347556/354387235",
+    "post_date": "2025-09-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "对不懂的企业不能用，对懂的企业（商业模式，企业文化好的企业）不需要用的。",
+    "post_url": "https://xueqiu.com/1247347556/354509417",
+    "post_date": "2025-09-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我觉得应该按自己的机会成本算。大部分人的机会成本其实就是银行利息或者是国债，生意人和投资人会不一样（赚的更多或者更少）。",
+    "post_url": "https://xueqiu.com/1247347556/354508772",
+    "post_date": "2025-09-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "折现率10%？！你先看看银行利息和国债的利息吧！假设你有钱的话，你会愿意把钱存银行的不到2%的利息而觉得茅台应该是10%的折现率吗？这里最关键是是茅台最后到底能赚多少钱，而你的钱存银行最后取出来到底是多少钱。",
+    "post_url": "https://xueqiu.com/1247347556/354390375",
+    "post_date": "2025-09-24",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你要万一不小心买到了个好企业的话，你还是赶紧卖了吧，免得天花板乱你的心？",
+    "post_url": "https://xueqiu.com/1247347556/354391130",
+    "post_date": "2025-09-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

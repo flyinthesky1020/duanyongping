@@ -1,0 +1,16 @@
+[
+  {
+    "id": "109b2267-9f6c-48c8-b8cb-52553e751f5d",
+    "stock": "SPY",
+    "ticker": "SPY",
+    "market": "US",
+    "date": "2024-01-06",
+    "sentiment": "bullish",
+    "summary": "看好SPY",
+    "quote": "我觉得spy就蛮好，别的我没看过。",
+    "source_file": "2024-01_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/273814804"
+  }
+]

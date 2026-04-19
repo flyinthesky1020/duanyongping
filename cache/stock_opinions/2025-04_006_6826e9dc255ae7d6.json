@@ -1,0 +1,16 @@
+[
+  {
+    "id": "98b72ce8-8df8-45a0-afdd-2b9eb8de9ed0",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2025-04-01",
+    "sentiment": "bullish",
+    "summary": "NVDA可认同共识",
+    "quote": "think different 不意味着非要和别人不一样的。在NVDA上是可以一样的。",
+    "source_file": "2025-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/329871239"
+  }
+]

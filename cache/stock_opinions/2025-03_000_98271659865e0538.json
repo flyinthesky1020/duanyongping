@@ -1,0 +1,30 @@
+[
+  {
+    "id": "10f144f9-849f-4ef3-bc0c-6cf4c6cd3d02",
+    "stock": "谷歌",
+    "ticker": "GOOGL",
+    "market": "US",
+    "date": "2025-03-31",
+    "sentiment": "bullish",
+    "summary": "考虑增加Google",
+    "quote": "我会考虑增加一点Google。Google底蕴深厚，不可小看。",
+    "source_file": "2025-03_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/329579753"
+  },
+  {
+    "id": "2a026eb6-ef4a-4d10-bb70-52d974a55494",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2025-03-31",
+    "sentiment": "bullish",
+    "summary": "有机会也会加仓",
+    "quote": "回复@True_Right: 有机会也是会加的。",
+    "source_file": "2025-03_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/329579591"
+  }
+]

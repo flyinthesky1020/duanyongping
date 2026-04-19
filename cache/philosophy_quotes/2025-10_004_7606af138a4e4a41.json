@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "大道倾向于避开苦生意的对的",
+    "post_url": "https://xueqiu.com/1247347556/358696104",
+    "post_date": "2025-10-23",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "重资产和好生意并不是绝对对立的，TSMC就是个好的例子",
+    "post_url": "https://xueqiu.com/1247347556/358696104",
+    "post_date": "2025-10-23",
+    "mentioned_stocks": [
+      "TSMC"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "商业模式最重要的还是看未来的现金流",
+    "post_url": "https://xueqiu.com/1247347556/358696104",
+    "post_date": "2025-10-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "做对的事情的过程当中是会犯很多错误的，这个过程叫学习。",
+    "post_url": "https://xueqiu.com/1247347556/358695964",
+    "post_date": "2025-10-28",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

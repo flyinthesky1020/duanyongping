@@ -1,0 +1,44 @@
+[
+  {
+    "id": "4a5a97b7-2fc3-4e0a-bd23-30e8739c9854",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-03-03",
+    "sentiment": "bullish",
+    "summary": "价好会选择苹果",
+    "quote": "苹果价钱好我当然会选择苹果，毕竟我更理解。",
+    "source_file": "2025-03_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/325865997"
+  },
+  {
+    "id": "f6def738-cd55-463c-bed4-e941192cb391",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2025-03-03",
+    "sentiment": "bullish",
+    "summary": "买了油田看好",
+    "quote": "其实就是按不错的价钱买了个油田。石油资源大概率是会紧缺的",
+    "source_file": "2025-03_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/325865669"
+  },
+  {
+    "id": "a9fc5fd5-49c9-4e92-b615-eb87efb8588b",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2025-03-03",
+    "sentiment": "bullish",
+    "summary": "卖put看涨",
+    "quote": "还没有直接买，但卖了一点put而已。今天会再卖一点。",
+    "source_file": "2025-03_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/325803007"
+  }
+]

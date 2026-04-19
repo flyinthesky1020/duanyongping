@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fbdc94c1-d244-4f2c-9d54-b233ad9e0b46",
+    "stock": "网易",
+    "ticker": "NTES",
+    "market": "US",
+    "date": "2019-04-11",
+    "sentiment": "bullish",
+    "summary": "未来能赚到大钱",
+    "quote": "网易正好是我熟悉的业务，所以能理解为什么他们未来能赚到大钱。",
+    "source_file": "2019-04_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/125023500"
+  }
+]

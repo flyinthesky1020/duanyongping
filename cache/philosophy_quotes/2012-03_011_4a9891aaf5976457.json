@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "产品文化是企业文化的一部分但不是全部。一般来讲能有挂在墙上的也比哪里都没有的强，但如果不是真的则强得有限。",
+    "post_url": "https://xueqiu.com/1247347556/21546152",
+    "post_date": "2012-03-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我想说的是不知道为什么google会去搞这个东西，和他们的主业无关啊。",
+    "post_url": "https://xueqiu.com/1247347556/21546182",
+    "post_date": "2012-03-06",
+    "mentioned_stocks": [
+      "谷歌C"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "不过分不分红和股票价值无关。",
+    "post_url": "https://xueqiu.com/1247347556/21546154",
+    "post_date": "2012-03-06",
+    "mentioned_stocks": [
+      "巨人网络"
+    ],
+    "quality_score": 3
+  }
+]

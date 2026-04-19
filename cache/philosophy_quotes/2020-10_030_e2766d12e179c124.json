@@ -1,0 +1,45 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "隔行如隔山这句话说的就是能力圈吧？你还年轻，不试试心不甘？试试就试试！？别借还不起的钱就好，最好不借钱。",
+    "post_url": "https://xueqiu.com/1247347556/160765658",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "当你需要别人指点你买的票的时候，你自己多数是在赌吧？",
+    "post_url": "https://xueqiu.com/1247347556/160769776",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [
+      "理想",
+      "小鹏"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "挺好，不用margin就好。",
+    "post_url": "https://xueqiu.com/1247347556/160770706",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "别借还不起的钱就好，最好不借钱。",
+    "post_url": "https://xueqiu.com/1247347556/160765658",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "极少人是真的在乎你的，你也别在乎别人怎么评价你就是了。",
+    "post_url": "https://xueqiu.com/1247347556/160769946",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

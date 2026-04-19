@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这是一个错的事情也可能赚钱的例子，千万不要学。如果你想学的话，说明你还没明白哈。",
+    "post_url": "https://xueqiu.com/1247347556/168968966",
+    "post_date": "2021-01-16",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这家公司我以前关注过，总觉得商业模式很差，差不多该不行了。",
+    "post_url": "https://xueqiu.com/1247347556/170066057",
+    "post_date": "2021-01-26",
+    "mentioned_stocks": [
+      "游戏驿站"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不是早就改成从10年后看回来了吗？",
+    "post_url": "https://xueqiu.com/1247347556/168353045",
+    "post_date": "2021-01-11",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

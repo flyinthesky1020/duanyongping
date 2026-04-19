@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "依然茅台为例，当时往后看十年，黑天鹅在哪里？我就是那个时候开始买茅台的。",
+    "post_url": "https://xueqiu.com/1247347556/124972881",
+    "post_date": "2019-04-10",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "老白干怎么看都不如茅台哈。",
+    "post_url": "https://xueqiu.com/1247347556/124967961",
+    "post_date": "2019-04-10",
+    "mentioned_stocks": [
+      "老白干",
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我们常说要更健康更长久，所以和不健康不长久相关的东西都是和健康度相关的东西。",
+    "post_url": "https://xueqiu.com/1247347556/124971925",
+    "post_date": "2019-04-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/210636252",
+    "post_date": "2022-02-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/210636252",
+    "post_date": "2022-02-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看不懂需要理由吗？我还以为看懂才需要理由呢。我个人完全不用FB以及FB的任何产品，但我用微信用微信支付，完全脱离不了，在我眼里他们完全不相似。",
+    "post_url": "https://xueqiu.com/1247347556/210610750",
+    "post_date": "2022-02-02",
+    "mentioned_stocks": [
+      "Meta"
+    ],
+    "quality_score": 5
+  }
+]

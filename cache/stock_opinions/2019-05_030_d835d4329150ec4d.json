@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7b05b7a5-f4d9-4dab-af96-ac2a30d1d984",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-05-04",
+    "sentiment": "bullish",
+    "summary": "认为茅台便宜",
+    "quote": "我买茅台时想过这个问题，所以买的时候已经把这些负面的东西考虑过了，然后依然觉得很便宜。",
+    "source_file": "2019-05_batch030",
+    "source_type": "xueqiu",
+    "chunk_index": 30,
+    "url": "https://xueqiu.com/1247347556/126082654"
+  }
+]

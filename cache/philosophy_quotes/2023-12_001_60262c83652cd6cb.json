@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "嘴里说着熊市牛市啥的，心里其实想的都是赚市场的钱，其实就是投机的意思。投资赚的是公司赚的钱。这两者有着很大的区别。",
+    "post_url": "https://xueqiu.com/1247347556/273042873",
+    "post_date": "2023-12-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我猜再过10年，一半以上的好电影和好的电视连续剧可能都会来自于苹果。而且，观众甚至都不会意识到这点，苹果也不会太强调这点。",
+    "post_url": "https://xueqiu.com/1247347556/273041202",
+    "post_date": "2023-12-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "太是正业了。感觉再过几年，好电影好电视里苹果出来的比例会越来越高的。非常符合苹果的生态。vision pro出来后，影视作品的空间也许还会更大一些。",
+    "post_url": "https://xueqiu.com/1247347556/273040800",
+    "post_date": "2023-12-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

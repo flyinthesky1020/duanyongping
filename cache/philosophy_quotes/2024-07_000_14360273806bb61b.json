@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我倒想听听拆股对我这种“长期股东”有啥不利的？至少100股确实对很多想投茅台的小投资者而言有点太贵了。大概相当于很多人想买瓶茅台存着，但要求一次必须买100瓶。BRK那个不一样的，那个不是民品，不是做投资的人反正也不懂，而且做投资的人懂的也很少。",
+    "post_url": "https://xueqiu.com/1247347556/298760439",
+    "post_date": "2024-07-24",
+    "mentioned_stocks": [
+      "茅台",
+      "BRK"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "年轻人从来都是不怎么喝白酒的。",
+    "post_url": "https://xueqiu.com/1247347556/298760580",
+    "post_date": "2024-07-24",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "为什么？为什么要跟一堆不认识的人在一起吃顿饭？",
+    "post_url": "https://xueqiu.com/1247347556/298762114",
+    "post_date": "2024-07-24",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

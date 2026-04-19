@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你买的时候打算拿10年而不是希望明天就卖掉去赚点快乐的话，你这么说可能是对的。不过，你这么问，哪一刻买的差别都不太大。",
+    "post_url": "https://xueqiu.com/1247347556/317020078",
+    "post_date": "2024-12-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "苹果是我能看懂的好公司之一（很不想树立这么个懒样版），虽然肯定还有很多别的好公司我看不太懂。",
+    "post_url": "https://xueqiu.com/1247347556/317236403",
+    "post_date": "2024-12-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "知道什么会发生比知道什么时候会发生要容易的多。",
+    "post_url": "https://xueqiu.com/1247347556/317020314",
+    "post_date": "2024-12-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果这个价位被call走了，我会说：I'll be back!",
+    "post_url": "https://xueqiu.com/1247347556/317236403",
+    "post_date": "2024-12-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

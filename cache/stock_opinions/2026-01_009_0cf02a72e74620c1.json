@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b0c6c0b0-806d-4687-ba87-e109cdd37fc0",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-01-14",
+    "sentiment": "bullish",
+    "summary": "i茅台释放购买力",
+    "quote": "感觉i茅台至少基本解决了两个问题：1. 假酒问题基本解决，这个释放的购买力是难以想象的。2. 价格高企问题，这个释放的购买力也是巨大的。",
+    "source_file": "2026-01_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/371101973"
+  }
+]

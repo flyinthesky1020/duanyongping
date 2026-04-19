@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dfe7e4b8-3575-48e3-8375-33f9ccbfea49",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2025-01-12",
+    "sentiment": "bullish",
+    "summary": "买入腾讯",
+    "quote": "今天买了腾讯，也买了茅台",
+    "source_file": "2025-01_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/319920992"
+  },
+  {
+    "id": "cac5e102-2f79-4d63-a174-36c4b03d0708",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-01-12",
+    "sentiment": "bullish",
+    "summary": "买入茅台",
+    "quote": "今天买了腾讯，也买了茅台",
+    "source_file": "2025-01_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/319920992"
+  }
+]

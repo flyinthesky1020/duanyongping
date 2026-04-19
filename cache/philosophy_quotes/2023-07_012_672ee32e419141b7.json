@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "多元恶化一般是主业不够强，想靠多元化找出路，结果找了一条岔路。",
+    "post_url": "https://xueqiu.com/1247347556/254915297",
+    "post_date": "2023-07-05",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "多元恶化一般是主业不够强，想靠多元化找出路，结果找了一条岔路。",
+    "post_url": "https://xueqiu.com/1247347556/254915297",
+    "post_date": "2023-07-05",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "最近老能看到苹果车的假新闻甚至假视频，但我依然很难找到苹果会推苹果车的逻辑。苹果车到底能给用户带来什么巨大的用户体验改善呢？在可预见的未来，比如5-10年内，我们大概率是不会见到那些假视频里面的苹果车的。",
+    "post_url": "https://xueqiu.com/1247347556/255100576",
+    "post_date": "2023-07-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "最近老能看到苹果车的假新闻甚至假视频，但我依然很难找到苹果会推苹果车的逻辑。苹果车到底能给用户带来什么巨大的用户体验改善呢？在可预见的未来，比如5-10年内，我们大概率是不会见到那些假视频里面的苹果车的。",
+    "post_url": "https://xueqiu.com/1247347556/255100576",
+    "post_date": "2023-07-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

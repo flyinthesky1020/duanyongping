@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9b377c7b-cade-4fb1-987b-cf7e62262106",
+    "stock": "美国天然气价ETF",
+    "ticker": "UNG",
+    "market": "US",
+    "date": "2022-12-05",
+    "sentiment": "bullish",
+    "summary": "看多天然气ETF",
+    "quote": "这个钱应该能赚着。",
+    "source_file": "2022-12_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/237116565"
+  }
+]

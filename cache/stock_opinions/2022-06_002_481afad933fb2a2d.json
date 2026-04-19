@@ -1,0 +1,16 @@
+[
+  {
+    "id": "72abfc6e-e481-4f39-808e-94f72c12f904",
+    "stock": "GE",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2022-06-13",
+    "sentiment": "bearish",
+    "summary": "GE商业模式差",
+    "quote": "GE商业模式不好。我觉得有商业模式的方式思考要容易很多。",
+    "source_file": "2022-06_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/222333159"
+  }
+]

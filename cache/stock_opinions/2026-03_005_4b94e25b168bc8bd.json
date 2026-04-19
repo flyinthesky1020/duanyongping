@@ -1,0 +1,30 @@
+[
+  {
+    "id": "95f447c2-95a5-49c2-8693-44231383c978",
+    "stock": "腾讯控股",
+    "ticker": "00700.HK",
+    "market": "HK",
+    "date": "2026-03-21",
+    "sentiment": "bullish",
+    "summary": "便宜时加仓",
+    "quote": "好公司便宜的时候都是加仓的时机。",
+    "source_file": "2026-03_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/380534227"
+  },
+  {
+    "id": "db8b5ace-49ba-45f5-8ff0-9f60fd8568d4",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-03-21",
+    "sentiment": "bullish",
+    "summary": "闲钱买茅台优于存款",
+    "quote": "我觉得你的想法蛮好的，闲钱买茅台大概率比存银行强。",
+    "source_file": "2026-03_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/380514450"
+  }
+]

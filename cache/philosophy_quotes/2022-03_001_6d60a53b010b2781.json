@@ -1,0 +1,70 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太懂高盛的商业模式，不知道什么是他们的差异化和护城河，对他们的企业文化也不太了解。简单讲，从来没打过生意上的交道，但见过里面的人似乎都蛮牛的。",
+    "post_url": "https://xueqiu.com/1247347556/215394747",
+    "post_date": "2022-03-27",
+    "mentioned_stocks": [
+      "高盛"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你是觉得看三五年更难还是更容易？如果你觉得看三五年比看10年更容易，那你一定觉得看三五天比三五年更容易。你先把这个问题搞清楚一下？",
+    "post_url": "https://xueqiu.com/1247347556/215315205",
+    "post_date": "2022-03-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们最近又买了点。和大家看到的任何消息无关，甚至和股价也没有关系，只是正好有点多余现金。总觉得从看10年的角度，拿着茅台比拿着现金存在银行要好一点点。",
+    "post_url": "https://xueqiu.com/1247347556/215469700",
+    "post_date": "2022-03-28",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "提醒一下，任何时候都不应该用margin！",
+    "post_url": "https://xueqiu.com/1247347556/215261986",
+    "post_date": "2022-03-25",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "margin是特指用股票抵押借钱。用margin是很危险的，一个回调就会逼着你卖股票，有时候真的会逼着你裸奔的。",
+    "post_url": "https://xueqiu.com/1247347556/215259573",
+    "post_date": "2022-03-25",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不太懂高盛的商业模式，不知道什么是他们的差异化和护城河...",
+    "post_url": "https://xueqiu.com/1247347556/215394747",
+    "post_date": "2022-03-27",
+    "mentioned_stocks": [
+      "高盛"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我们最近又买了点。和大家看到的任何消息无关，甚至和股价也没有关系，只是正好有点多余现金。",
+    "post_url": "https://xueqiu.com/1247347556/215469700",
+    "post_date": "2022-03-28",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "adb658fc-233a-461d-bd09-26a40b335b69",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-07-04",
+    "sentiment": "bullish",
+    "summary": "看好茅台20年回报8%+",
+    "quote": "茅台估计未来20年复合年回报应该还是会有8%或以上（这里没有扣除通胀），如果你能借到利息远低于这个数",
+    "source_file": "2019-07_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/129147426"
+  }
+]

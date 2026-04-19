@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "大道只关心自己能看懂的。只有自己看不懂的人才会到处问：你认为呢？",
+    "post_url": "https://xueqiu.com/1247347556/252194757",
+    "post_date": "2023-06-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "210以上不便宜了，我可以等等的。话说回来，要真的210被call走，我很可能会选择等等。",
+    "post_url": "https://xueqiu.com/1247347556/252220573",
+    "post_date": "2023-06-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "再卖一个同样价钱的put，等着买回来。等待期间把现金买成tbill。如果再也不回来了就傻了呗。",
+    "post_url": "https://xueqiu.com/1247347556/252215231",
+    "post_date": "2023-06-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

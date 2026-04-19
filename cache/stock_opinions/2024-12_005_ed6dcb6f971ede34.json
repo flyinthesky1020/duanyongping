@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d70d3f95-fe70-4262-945e-62f25cce86d4",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2024-12-07",
+    "sentiment": "bullish",
+    "summary": "会放一些",
+    "quote": "回复@大炳炳: 会放一些。//@大炳炳:回复@海风-123:pdd或者腾讯吧",
+    "source_file": "2024-12_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/315648440"
+  },
+  {
+    "id": "df5a3f69-f5ab-4e63-991c-133285e10885",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2024-12-07",
+    "sentiment": "bullish",
+    "summary": "会放一些",
+    "quote": "回复@大炳炳: 会放一些。//@大炳炳:回复@海风-123:pdd或者腾讯吧",
+    "source_file": "2024-12_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/315648440"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f423134d-abca-42fc-85cd-eeb3f183a970",
+    "stock": "达美航空",
+    "ticker": "DAL",
+    "market": "US",
+    "date": "2020-04-21",
+    "sentiment": "bullish",
+    "summary": "看好航空商业模式",
+    "quote": "和上次重组以前比，现在几大航空公司实际上已经是有点准垄断了，所以在可见的未来，商业模式也还是不错的。",
+    "source_file": "2020-04_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/147476112"
+  }
+]

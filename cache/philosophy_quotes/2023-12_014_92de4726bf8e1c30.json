@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "加多宝和茅台不具备可比性。差太远了，基本上是巴西队和泰国队的差别。也许更大些。",
+    "post_url": "https://xueqiu.com/1247347556/270496869",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "这个想法有点意思。是不是以前有人说他们“应该有的都有了”，指的应该是“消费者导向”和“利润之上的追求”这两条。",
+    "post_url": "https://xueqiu.com/1247347556/270498206",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "目前状态：40以下一般每天买入一万股，这就是慢慢买的意思。今天买入的价钱好像是39.6左右？先把上次卖掉的买回来再说。",
+    "post_url": "https://xueqiu.com/1247347556/270495899",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 3
+  }
+]

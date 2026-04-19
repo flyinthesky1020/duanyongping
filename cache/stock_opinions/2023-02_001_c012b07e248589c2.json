@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dc2328db-92e2-41ce-b803-e1f9270a2fda",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2023-02-24",
+    "sentiment": "bullish",
+    "summary": "买入西方石油",
+    "quote": "$西方石油(OXY)$ 买了一些，偶尔也抄下作业。",
+    "source_file": "2023-02_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": ""
+  }
+]

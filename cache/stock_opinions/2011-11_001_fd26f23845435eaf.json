@@ -1,0 +1,30 @@
+[
+  {
+    "id": "13f77fed-561d-41f1-a3f0-757e9f9c0c4e",
+    "stock": "中国神华",
+    "ticker": "601088.SH",
+    "market": "CN_A",
+    "date": "2011-11-28",
+    "sentiment": "bullish",
+    "summary": "神华不贵",
+    "quote": "从能源战略的角度看，神华不贵。",
+    "source_file": "2011-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/20538010"
+  },
+  {
+    "id": "a5387497-03ce-438a-ae25-21abceac51c8",
+    "stock": "万科A",
+    "ticker": "000002.SZ",
+    "market": "CN_A",
+    "date": "2011-11-28",
+    "sentiment": "bullish",
+    "summary": "万科现金充裕买入",
+    "quote": "如果万科净现金有300多亿，你还等什么？",
+    "source_file": "2011-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/20537147"
+  }
+]

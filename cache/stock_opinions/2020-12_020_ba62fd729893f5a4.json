@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ded0dfca-1b31-4779-aca9-573c0912c0db",
+    "stock": "Google",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2020-12-04",
+    "sentiment": "bullish",
+    "summary": "看好Google",
+    "quote": "Google是好公司，我也有一些Google，但比重小。一直很想多买些Google，但一直没等到好价钱，贪心出的错。",
+    "source_file": "2020-12_batch020",
+    "source_type": "xueqiu",
+    "chunk_index": 20,
+    "url": "https://xueqiu.com/1247347556/164983548"
+  }
+]

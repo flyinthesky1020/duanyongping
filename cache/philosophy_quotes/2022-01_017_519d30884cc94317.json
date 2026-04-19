@@ -1,0 +1,21 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "大道是非专业投资人，没有时间去投资非上市公司。非上市公司太多，商业模式也不容易搞懂，对大道而言不合算。",
+    "post_url": "https://xueqiu.com/1247347556/209598564",
+    "post_date": "2022-01-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "说个小故事。年中曾经有个年轻的朋友跟我聊到GME和AMC，说他在这两只股票赚到钱了。我说，也许你该小心了，因为这两只股票我也赚到钱了。不建议任何人做这种deal，但这种小赌马上要到期了还是感觉好玩的哈。",
+    "post_url": "https://xueqiu.com/1247347556/209521926",
+    "post_date": "2022-01-19",
+    "mentioned_stocks": [
+      "AMC娱乐",
+      "GME"
+    ],
+    "quality_score": 3
+  }
+]

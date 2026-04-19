@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e9b7518d-0a34-46ab-9e4a-3bf22ba39982",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-06-07",
+    "sentiment": "bullish",
+    "summary": "看好Vision Pro前景",
+    "quote": "我估计3-5年内，这个产品就会是个千万级的产品",
+    "source_file": "2023-06_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/252634032"
+  }
+]

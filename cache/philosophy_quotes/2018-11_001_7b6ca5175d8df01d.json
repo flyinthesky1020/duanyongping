@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你买了一个价值低估的股票，你就要等到价格达到你算出来的内在价值时卖掉，这是很难算的。但是如果你买了一个伟大的公司，你就坐那儿待着就行了。所以，找到并确实伟大的公司最重要！",
+    "post_url": "https://xueqiu.com/1247347556/116942524",
+    "post_date": "2018-11-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我说10年一般是我认为不会超过10年的意思，和那个102年的意思类似。102年的意思是超过100年。",
+    "post_url": "https://xueqiu.com/1247347556/116837917",
+    "post_date": "2018-11-14",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这是第一次看到拼多多比较完整的数据，成长真是厉害啊！但从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。",
+    "post_url": "https://xueqiu.com/1247347556/116838934",
+    "post_date": "2018-11-14",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太懂技术，照说在信号接受范围内不应该受走动影响吧，除非到了接受范围边缘？你自己和公司联系或上网查查？这种技术细节问题最好不要问我哈，我虽然是学工的，但大学毕业后来从来没碰过技术。",
+    "post_url": "https://xueqiu.com/1247347556/116838254",
+    "post_date": "2018-11-14",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "03188823-29c9-494b-bd16-d45a15a1e45f",
+    "stock": "Amazon",
+    "ticker": "AMZN",
+    "market": "US",
+    "date": "2019-09-20",
+    "sentiment": "bullish",
+    "summary": "看好亚马逊发展",
+    "quote": "我现在对amazon的看法：这是一家企业文化很强大，生意模式也日渐强大的公司，未来一年赚500亿以上是大概率事件。",
+    "source_file": "2019-09_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/133120711"
+  }
+]

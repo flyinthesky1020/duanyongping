@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我倒是没真后悔过卖掉neflix，因为看不懂他们到底怎么才能赚到比较好的利润，现在也依然没看懂。",
+    "post_url": "https://xueqiu.com/1247347556/268008561",
+    "post_date": "2023-11-22",
+    "mentioned_stocks": [
+      "NFLX"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "茅台酒质量铁律“四服从原则”已经广为人知，即产量服从质量、速度服从质量、成本服从质量、效益服从质量。",
+    "post_url": "https://xueqiu.com/1247347556/267902738",
+    "post_date": "2023-11-21",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "即使递减，喝茅台的人也很难减，因为人们会倾向少喝酒和喝好酒。",
+    "post_url": "https://xueqiu.com/1247347556/267866852",
+    "post_date": "2023-11-21",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我损失最大的投资其实是在NFLX。多年前当nflx在9块钱左右的时候，我买了200多万股，当时我觉得看得挺明白的，觉得那个价钱实在是太便宜。结果没多久就涨到20块左右，我一高兴就卖了，到现在也没想起来当时为啥卖的。上个礼拜nflx190多，按这个价钱，我等于让我们少赚了接近4个亿美金。",
+    "post_url": "https://xueqiu.com/1247347556/268019118",
+    "post_date": "2023-11-22",
+    "mentioned_stocks": [
+      "NFLX"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "是的，而且已经卖了很多苹果的put了，但有些和tbill并不同步，所以tbill到期了就继续再买tbill。tbill利息好的时候耐心也会好一点哈。",
+    "post_url": "https://xueqiu.com/1247347556/267853484",
+    "post_date": "2023-11-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

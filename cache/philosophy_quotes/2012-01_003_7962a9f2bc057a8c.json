@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我做的option和他这里说的本质上是不同的。我基本从不买option（只有roll的时候有可能），买option实际上就是投机。",
+    "post_url": "https://xueqiu.com/1247347556/21053196",
+    "post_date": "2012-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这种对待股东的态度其实正是长线投资者需要的。",
+    "post_url": "https://xueqiu.com/1247347556/21112151",
+    "post_date": "2012-01-23",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 4
+  }
+]

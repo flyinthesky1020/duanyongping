@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "大道看不懂特斯拉，所以拿不住，虽然在特斯拉上面也赚了不少钱。",
+    "post_url": "https://xueqiu.com/1247347556/204362126",
+    "post_date": "2021-11-27",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实大概没多少人比我更高兴看到苹果股价掉下来了，因为这样苹果的回购价就会更低，回购的数量就会更多，未来我们持有的比例就会自然上...",
+    "post_url": "https://xueqiu.com/1247347556/204359611",
+    "post_date": "2021-11-27",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

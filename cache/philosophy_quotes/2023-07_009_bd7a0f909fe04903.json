@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "大概7-8 年前，有个做地产的校友来找我聊天。当时问我有啥建议，我说不要借钱，不然将来早晚会有麻烦的。估计他现在肯定蛮后悔当时没听我的吧？！常在河边走，没有stop doing list早晚会湿鞋的。",
+    "post_url": "https://xueqiu.com/1247347556/255993861",
+    "post_date": "2023-07-18",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "接这把飞刀的好像直接清零了？",
+    "post_url": "https://xueqiu.com/1247347556/255993924",
+    "post_date": "2023-07-18",
+    "mentioned_stocks": [
+      "第一共和银行"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我啥都没看，就看到老巴买了二十几个百分点（西方石油）。我知道他是认真的，就跟着买了差不多100万股。我不会加码也不会花时间的，反正花时间也看不懂。",
+    "post_url": "https://xueqiu.com/1247347556/256017211",
+    "post_date": "2023-07-18",
+    "mentioned_stocks": [
+      "西方石油"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "懂老巴不算懂吗？！对某些自己没那么懂但知道老巴很懂的公司，只要不比老巴在他自己的投资组合里占的比例大，就没啥大风险。我跟老巴的东西其实也非常少，以前有过美国银行，还买过一点航空公司，现在有点西方石油，别的好像就没了。",
+    "post_url": "https://xueqiu.com/1247347556/256094713",
+    "post_date": "2023-07-19",
+    "mentioned_stocks": [
+      "美国银行",
+      "航空公司",
+      "西方石油"
+    ],
+    "quality_score": 4
+  }
+]

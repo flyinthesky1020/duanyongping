@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "预测和猜想是有很大区别的。人们会根据预测而有所行动，猜想只是好玩而已。",
+    "post_url": "https://xueqiu.com/1247347556/133914830",
+    "post_date": "2019-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我给很多朋友推荐过苹果，大家都说相信我，但坚持到现在的恐怕不到十分之一了。也许只能说明大部分人对我的信任是敌不过对市场的恐惧的，，哪怕都知道我还拿着苹果？",
+    "post_url": "https://xueqiu.com/1247347556/133928445",
+    "post_date": "2019-10-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "刚刚看到，苹果新高了。这一天早晚会来的，现在来了！怪不得你会问这个。我上次说苹果快新高了，但没说什么时候吧？",
+    "post_url": "https://xueqiu.com/1247347556/133914950",
+    "post_date": "2019-10-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "你也可以看看他们的现金流，然后想想补贴是什么意思，不要人云亦云哈。",
+    "post_url": "https://xueqiu.com/1247347556/133943710",
+    "post_date": "2019-10-12",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  }
+]

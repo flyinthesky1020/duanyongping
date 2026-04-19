@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dd1c4c47-634a-4983-965d-82d0f7e48cc3",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2020-08-05",
+    "sentiment": "bearish",
+    "summary": "清空FB卖出",
+    "quote": "今天清空了FB，算是赚了不少。由于自己不用FB的任何产品，所以对FB的理解一直没达到很透彻的地步。最近一段时间，抖音就把他吓成这个样子，说明他可能还是有弱点的。",
+    "source_file": "2020-08_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/155689295"
+  }
+]

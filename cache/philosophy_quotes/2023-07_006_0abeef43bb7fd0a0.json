@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没空了解我不了解的东西，我知道了解一个东西有多不容易。人们最好不要高估自己。",
+    "post_url": "https://xueqiu.com/1247347556/256247387",
+    "post_date": "2023-07-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "他完全不懂茅台，老是念叨树不会长到天上那种。应该说他不像大道那么懂茅台。",
+    "post_url": "https://xueqiu.com/1247347556/256327549",
+    "post_date": "2023-07-21",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "打高尔夫的时候经常会有人安慰你说：哇，差点就进了！那就是没进的意思哈。约等于就是不等于的意思，至少三石不知道。",
+    "post_url": "https://xueqiu.com/1247347556/256254451",
+    "post_date": "2023-07-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "关键是要喝好酒! 简单但不容易！",
+    "post_url": "https://xueqiu.com/1247347556/256326064",
+    "post_date": "2023-07-21",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

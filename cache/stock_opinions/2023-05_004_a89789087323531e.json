@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9bd0406a-dccb-4a2d-a288-083637c9d10a",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-05-22",
+    "sentiment": "bullish",
+    "summary": "重仓持有，无忧睡眠",
+    "quote": "苹果我基本上没啥操心的东西，从来没试过因为苹果睡不好觉的时候。",
+    "source_file": "2023-05_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/250928526"
+  }
+]

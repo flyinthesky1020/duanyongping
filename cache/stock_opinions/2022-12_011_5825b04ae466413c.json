@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9cf45e0d-1981-4ee7-97af-a73b80648e93",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-12-03",
+    "sentiment": "bullish",
+    "summary": "十年后看当前低价",
+    "quote": "虽然我们100出头就买了不少茅台，但我们1500-1800也还买了茅台啊，10年后看这个价钱应该是低价的。",
+    "source_file": "2022-12_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/236926949"
+  },
+  {
+    "id": "4c781cfc-0b7e-4a0c-b139-867be5b33bed",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-12-03",
+    "sentiment": "bullish",
+    "summary": "卖Put并长期持有",
+    "quote": "苹果我前些天还卖了不少Put，put进来的部分就买了拿着。我说的是10年！！！",
+    "source_file": "2022-12_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/236926949"
+  }
+]

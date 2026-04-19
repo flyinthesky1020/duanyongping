@@ -1,0 +1,16 @@
+[
+  {
+    "id": "10eefb50-c289-4b64-8fed-cee8b9f53dd3",
+    "stock": "Microsoft",
+    "ticker": "MSFT",
+    "market": "US",
+    "date": "2026-03-24",
+    "sentiment": "bearish",
+    "summary": "AI冲击软件业务",
+    "quote": "我不太懂微软，感觉ai对他们的软件生意会有蛮大冲击的。",
+    "source_file": "2026-03_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/380982882"
+  }
+]

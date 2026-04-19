@@ -1,0 +1,30 @@
+[
+  {
+    "id": "993cc2ef-a9da-4f76-8386-5d611cef89ae",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-03-19",
+    "sentiment": "bullish",
+    "summary": "看好新iPad销量",
+    "quote": "新ipad出来后ipad的销量提升可以很轻易消化单台成本的提高。不过，别的pad确实就不好搞了。",
+    "source_file": "2012-03_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/21586051"
+  },
+  {
+    "id": "4d9cc2db-0435-47db-b4fd-5bc7f96e45ba",
+    "stock": "Yahoo",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2012-03-19",
+    "sentiment": "bearish",
+    "summary": "不看好公司前景",
+    "quote": "用这个办法的公司自己也不会有好日子过，对已经进去了的员工也不公平。",
+    "source_file": "2012-03_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/21582884"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0742f0cf-3b68-4515-9327-839ee5cb3fec",
+    "stock": "General Electric",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2020-06-30",
+    "sentiment": "bearish",
+    "summary": "对GE没兴趣",
+    "quote": "目前GE的价钱已经到了我当年买GE的价钱，但我没啥兴趣，因为满足不了“好的商业模式”，我当年卖掉GE其实也是这个原因。",
+    "source_file": "2020-06_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/152742398"
+  }
+]

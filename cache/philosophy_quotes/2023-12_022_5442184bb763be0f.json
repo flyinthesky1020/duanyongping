@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "按未来分红预期不完整，应该是未来净现金流。",
+    "post_url": "https://xueqiu.com/1247347556/270221448",
+    "post_date": "2023-12-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "话说回来，在过去的五六年间，我其实一直都在想如何能找到卖了苹果去换的公司，哪怕是差不多也行哈。",
+    "post_url": "https://xueqiu.com/1247347556/270186920",
+    "post_date": "2023-12-08",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我其实根本就不懂groupon的生意模式，只是粗略看了一下，看不出这种公司能长期获利的理由，所以我不会买，并不是在做股价预测。",
+    "post_url": "https://xueqiu.com/1247347556/138900993",
+    "post_date": "2020-01-07",
+    "mentioned_stocks": [
+      "Groupon"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我历来认为去预测短期股价是愚蠢的，哪怕是愚蠢的股神也依然是愚蠢的。",
+    "post_url": "https://xueqiu.com/1247347556/138900993",
+    "post_date": "2020-01-07",
+    "mentioned_stocks": [
+      "Groupon"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "哈，你大概研究错地方了。如果你关注了苹果的企业文化，你可能会有不同结论的。其实我在苹果上犯过同样的错误。《基业长青》这套书专门说过乔布斯是个“报时人”， 所以大概02/03年第一次看苹果时（当时市值好像只有大约$50亿，现金也是差不多这个数），我受这本书的影响，没太认真看。",
+    "post_url": "https://xueqiu.com/1247347556/138789096",
+    "post_date": "2020-01-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "2011年一月下旬开始买苹果，目前还不到10年，但那以后在美股居然就没再找到过更想买的公司。",
+    "post_url": "https://xueqiu.com/1247347556/138738513",
+    "post_date": "2020-01-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "就是精确的错误的意思。",
+    "post_url": "https://xueqiu.com/1247347556/139749489",
+    "post_date": "2020-01-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

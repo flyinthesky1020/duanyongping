@@ -1,0 +1,64 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "最重要的是能认为苹果能持续赚钱！只要这点是确认的，价格越低越好。苹果的商业模式和企业文化决定了大概率苹果会继续非常赚钱的。",
+    "post_url": "https://xueqiu.com/1247347556/239163115",
+    "post_date": "2023-01-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "最重要的是能认为苹果能持续赚钱！只要这点是确认的，价格越低越好。苹果的商业模式和企业文化决定了大概率苹果会继续非常赚钱的。",
+    "post_url": "https://xueqiu.com/1247347556/239163115",
+    "post_date": "2023-01-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "最重要的是能认为苹果能持续赚钱！只要这点是确认的，价格越低越好。苹果的商业模式和企业文化决定了大概率苹果会继续非常赚钱的。",
+    "post_url": "https://xueqiu.com/1247347556/239163115",
+    "post_date": "2023-01-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "希望这个价位或以下能够持续一年或以上，这样苹果的回购就会更有效率。",
+    "post_url": "https://xueqiu.com/1247347556/239163115",
+    "post_date": "2023-01-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "腾讯的买盘非常强！几百万股的量很快就都拿走了。brkB其实我还不知道，还在继续换。都不是急茬。",
+    "post_url": "https://xueqiu.com/1247347556/239253634",
+    "post_date": "2023-01-04",
+    "mentioned_stocks": [
+      "腾讯控股",
+      "brkB"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "别人傻过就是你可以傻的理由吗？通用电气是个非常烂的名字，如果早年有个好牌子，也许今天也不至于落到如此地步。",
+    "post_url": "https://xueqiu.com/1247347556/239275728",
+    "post_date": "2023-01-04",
+    "mentioned_stocks": [
+      "通用电气",
+      "格力电器"
+    ],
+    "quality_score": 3
+  }
+]

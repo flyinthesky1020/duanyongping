@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果产品没有差异化，结局就是航空公司---最后整个行业没钱赚，但投入巨大。",
+    "post_url": "https://xueqiu.com/1247347556/20475053",
+    "post_date": "2011-11-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "品种少的好处之一，有问题反映快，解决也快。",
+    "post_url": "https://xueqiu.com/1247347556/20477358",
+    "post_date": "2011-11-06",
+    "mentioned_stocks": [
+      "苹果(AAPL)"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "老巴的“衍生品投机”实际上就是卖了个指数的长期的put，还不用交押金的。我认为那是投资，相对于卖保险。买put的人才是投机，也可以说是买保险。老巴的这个“亏损”是不会影响到现金流的。",
+    "post_url": "https://xueqiu.com/1247347556/20480221",
+    "post_date": "2011-11-07",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦A(BRK.A)"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "434da210-1c79-479e-9d2f-377247575aa5",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-09-28",
+    "sentiment": "bullish",
+    "summary": "增持茅台",
+    "quote": "最近增加了一些茅台。",
+    "source_file": "2022-09_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/231831703"
+  }
+]

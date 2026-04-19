@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fb0d5471-fdaf-4023-bb05-ca9846ce1c48",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-10-13",
+    "sentiment": "bullish",
+    "summary": "茅台增长将超通胀",
+    "quote": "没认真想过，但年增长应该比通胀高。",
+    "source_file": "2019-10_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/133951938"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这让我想起很多年前去松下时看到松下有很多为了未来50年的开发项目。当时的感觉是佩服加困惑。佩服的是这些有钱的大公司为了改变世界的努力，困惑的是为什么他们觉得他们可以在一个完全不熟悉的领域里大有作为。",
+    "post_url": "https://xueqiu.com/1247347556/21695470",
+    "post_date": "2012-04-16",
+    "mentioned_stocks": [
+      "松下",
+      "谷歌"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "问题是他看到了吗？事实是，可能正因为这样，松下今天的日子才很难过。我猜松下这么多年来花在研发上的钱恐怕比google有史以来赚的钱还多，但好像效果不是很好。",
+    "post_url": "https://xueqiu.com/1247347556/21696918",
+    "post_date": "2012-04-16",
+    "mentioned_stocks": [
+      "松下",
+      "谷歌"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "不过，看起来google这类公司的纠错能力要比松下这类公司强很多，调整起来快很多。",
+    "post_url": "https://xueqiu.com/1247347556/21695470",
+    "post_date": "2012-04-16",
+    "mentioned_stocks": [
+      "谷歌",
+      "松下"
+    ],
+    "quality_score": 4
+  }
+]

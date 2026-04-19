@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3cca999b-60a8-43a6-b09d-38585ffffbec",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-05-10",
+    "sentiment": "bullish",
+    "summary": "希望苹果多跌买更多",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。",
+    "source_file": "2022-05_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/219595112"
+  }
+]

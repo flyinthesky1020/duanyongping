@@ -1,0 +1,30 @@
+[
+  {
+    "id": "64009098-53a3-4301-9361-9e291de9a7e8",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-09-29",
+    "sentiment": "bullish",
+    "summary": "没有卖出想法",
+    "quote": "没有卖茅台的想法，也没有心理价位，至少目前没有。",
+    "source_file": "2024-09_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/306177596"
+  },
+  {
+    "id": "badd876a-b472-40e5-abca-552419b16909",
+    "stock": "万科A",
+    "ticker": "000002.SZ",
+    "market": "CN_A",
+    "date": "2024-09-29",
+    "sentiment": "bearish",
+    "summary": "不建议买入",
+    "quote": "问就别买！去赌场会不会更快一点？",
+    "source_file": "2024-09_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/306164995"
+  }
+]

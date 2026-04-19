@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a0376a60-961f-4f33-b594-6472672b049f",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-09-10",
+    "sentiment": "bullish",
+    "summary": "看好Apple Intelligence",
+    "quote": "Apple Intelligence绝对看好！今年是Apple intelligence 元年，有幸见证！",
+    "source_file": "2024-09_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/304133669"
+  }
+]

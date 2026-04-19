@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2f4a0335-0003-419a-b9e7-78ebc5acfe41",
+    "stock": "理想汽车",
+    "ticker": "LI",
+    "market": "US",
+    "date": "2020-10-09",
+    "sentiment": "bearish",
+    "summary": "车行业苦生意",
+    "quote": "车行业是个苦生意，不容易。",
+    "source_file": "2020-10_batch033",
+    "source_type": "xueqiu",
+    "chunk_index": 33,
+    "url": "https://xueqiu.com/1247347556/160617400"
+  }
+]

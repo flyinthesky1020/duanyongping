@@ -1,0 +1,49 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "只能说比较起我对别的公司而言，我更懂苹果。",
+    "post_url": "https://xueqiu.com/1247347556/238864872",
+    "post_date": "2022-12-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不愿意慢慢变富的人们往往也不会快快变富。",
+    "post_url": "https://xueqiu.com/1247347556/238968339",
+    "post_date": "2022-12-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "买brk的就像买个基金，相当于把钱交给巴菲特管他还完全不收手续费。其实很难理解人们宁愿买各种乱七八糟的基金，私募啥的，却不愿意买BRK。即便将来巴菲特真的退休了，BRK的文化还在的。",
+    "post_url": "https://xueqiu.com/1247347556/238960737",
+    "post_date": "2022-12-30",
+    "mentioned_stocks": [
+      "BRK",
+      "伯克希尔"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "到目前为止，我都还没有拥有任何S&P500， 因为我总是觉得我能找到更好的。",
+    "post_url": "https://xueqiu.com/1247347556/238969094",
+    "post_date": "2022-12-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "差别应该不太大，我觉得brk长期来说还是会好一点点。",
+    "post_url": "https://xueqiu.com/1247347556/238965003",
+    "post_date": "2022-12-30",
+    "mentioned_stocks": [
+      "brk"
+    ],
+    "quality_score": 3
+  }
+]

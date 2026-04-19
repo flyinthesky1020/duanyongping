@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a8802546-e167-4b6e-b1e2-27dfa55ef743",
+    "stock": "Yahoo",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2011-07-31",
+    "sentiment": "bullish",
+    "summary": "长期持有雅虎股东",
+    "quote": "作为yhoo股东，我虽然短期帐目损失可观，但从长期的角度看，我是支持马云的。",
+    "source_file": "2011-07_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20320376"
+  }
+]

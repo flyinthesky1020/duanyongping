@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我只买国家要求必须买的保险（比如车险，医疗保险等等），绝对不会去为了理财买保险。固定收入的东西长期是一定输给通胀的。",
+    "post_url": "https://xueqiu.com/1247347556/352429709",
+    "post_date": "2025-09-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "固定收入的东西长期是一定输给通胀的。",
+    "post_url": "https://xueqiu.com/1247347556/352429709",
+    "post_date": "2025-09-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你都买了保险，你肯定比我懂保险，你自己决定吧。",
+    "post_url": "https://xueqiu.com/1247347556/352425903",
+    "post_date": "2025-09-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "现在市场上的大模型很多，10年后能活下来的大概率不会超过10%，所以这是个九死一生的游戏（这是我猜的）。大家可以猜猜10年后大家还在用的主流大模型会是什么？我会猜Gemini，因为背后的Google很强大，而且已经醒了。",
+    "post_url": "https://xueqiu.com/1247347556/352426497",
+    "post_date": "2025-09-12",
+    "mentioned_stocks": [
+      "Google"
+    ],
+    "quality_score": 4
+  }
+]

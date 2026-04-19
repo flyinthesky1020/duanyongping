@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不是太了解电商（包括拼多多），但我喜欢马云身上的很多东西。",
+    "post_url": "https://xueqiu.com/1247347556/269530704",
+    "post_date": "2023-12-04",
+    "mentioned_stocks": [
+      "阿里巴巴",
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我喜欢马云身上的很多东西。过去我觉得马云很了不起，今天我依然这么觉得，和股价无关。我眼里那个马云就是那个骑着自行车随时准备逃跑但依然壮着胆子对着那几个偷井盖的大汉大吼一句的汉子。",
+    "post_url": "https://xueqiu.com/1247347556/269530704",
+    "post_date": "2023-12-04",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  }
+]

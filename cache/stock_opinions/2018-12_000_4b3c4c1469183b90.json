@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1fdc729b-0128-4089-bb01-d1879588fe95",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2018-12-21",
+    "sentiment": "bullish",
+    "summary": "苹果价格不贵",
+    "quote": "苹果似乎又到了不贵的价钱了。",
+    "source_file": "2018-12_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/117997423"
+  }
+]

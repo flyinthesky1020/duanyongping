@@ -1,0 +1,37 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "从投资的角度看，如果你真打算买一只股票（公司）拿10年，你绝不会去多付30-40%，除非脑袋坏了。",
+    "post_url": "https://xueqiu.com/1247347556/20475022",
+    "post_date": "2011-11-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没做过概念股，确实不知道。",
+    "post_url": "https://xueqiu.com/1247347556/20472799",
+    "post_date": "2011-11-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "个人理解，任何生意都不可能长久持续用Groupon。Groupon实际上是某些类新开小生意的广告平台，广告主无法常用，否则必死。Groupon的生意模式远远不如Google，很难想象其会像google那样在相当长的阶段可持续高成长。",
+    "post_url": "https://xueqiu.com/1247347556/20471080",
+    "post_date": "2011-11-03",
+    "mentioned_stocks": [
+      "Groupon",
+      "Google"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "曾经有个帖子讲不能模仿巴菲特做什么而是不做什么。",
+    "post_url": "https://xueqiu.com/1247347556/20468048",
+    "post_date": "2011-11-02",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

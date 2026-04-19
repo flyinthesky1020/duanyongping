@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a0e8ea20-0399-407a-9900-7c7481f781ba",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-09-12",
+    "sentiment": "bullish",
+    "summary": "金条换茅台",
+    "quote": "我觉得我会用金条换茅台，至少20年后回头来看，茅台应该比黄金好不少！",
+    "source_file": "2024-09_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/304571325"
+  }
+]

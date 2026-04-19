@@ -1,0 +1,16 @@
+[
+  {
+    "id": "39b67a28-9987-4c5b-8f56-746e956197f4",
+    "stock": "谷歌",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2023-02-10",
+    "sentiment": "bearish",
+    "summary": "不敢加仓，不懂",
+    "quote": "这个掉法不敢加仓，说明自己确实没那么懂goog。",
+    "source_file": "2023-02_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/241712640"
+  }
+]

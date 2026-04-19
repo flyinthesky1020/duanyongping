@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实就是一个思考习惯，尽量想长远的习惯。",
+    "post_url": "https://xueqiu.com/1247347556/164844685",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不在一线很久，不太记得具体内容，而且也不太应该对外说自己的不为清单吧？涉及到开除的条例应该是不多的。我印象中有过因为贪污被抓起来的。",
+    "post_url": "https://xueqiu.com/1247347556/164836592",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没关注过这件事情。我觉得小股东维权肯定没啥错，但茅台也许也确实是按照某些合法的规矩去做的，所以也没毛病（我没研究过，也没时间关注），那毛病出在哪里呢？也许过段时间就知道了。",
+    "post_url": "https://xueqiu.com/1247347556/164846667",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

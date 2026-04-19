@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5388a9f6-3f62-4e94-b884-a1f0cd655317",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-10-07",
+    "sentiment": "bullish",
+    "summary": "苹果无需操心",
+    "quote": "我对苹果确实完全不操心，掉多少都不往心里去。",
+    "source_file": "2022-10_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/232121742"
+  },
+  {
+    "id": "1ff1eb2c-b40f-46ae-8f30-ca79f426bd46",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-10-07",
+    "sentiment": "bearish",
+    "summary": "腾讯无法重仓",
+    "quote": "腾讯总是觉得懂得不透，下不了重手。",
+    "source_file": "2022-10_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/232121742"
+  }
+]

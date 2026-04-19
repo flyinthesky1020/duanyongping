@@ -1,0 +1,44 @@
+[
+  {
+    "id": "a232ad99-2162-4af8-8e7b-7f1d1925584b",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2021-04-28",
+    "sentiment": "bullish",
+    "summary": "卖出看涨期权或踏空",
+    "quote": "如果你只是想忙起來的话，卖covered call是个好办法，但50%以上概率你会少赚钱。",
+    "source_file": "2021-04_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/178485424"
+  },
+  {
+    "id": "cf2f7a25-4efd-4d95-827f-b3496000eb3e",
+    "stock": "顺丰",
+    "ticker": "002352.SZ",
+    "market": "CN_A",
+    "date": "2021-04-28",
+    "sentiment": "bullish",
+    "summary": "依然是很好的公司",
+    "quote": "我依然认为顺丰和Zoom都是很好的公司，但商业模式都不是最好的那种。",
+    "source_file": "2021-04_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/176761624"
+  },
+  {
+    "id": "4f97fdd3-eded-44b3-9b8c-551fb99f242a",
+    "stock": "Zoom",
+    "ticker": "ZM",
+    "market": "US",
+    "date": "2021-04-28",
+    "sentiment": "bullish",
+    "summary": "依然是很好的公司",
+    "quote": "我依然认为顺丰和Zoom都是很好的公司，但商业模式都不是最好的那种。",
+    "source_file": "2021-04_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/176761624"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "完全看不懂商业模式，无法理解为什么会有这种生意。抄作业也是要有大致理解作为前提的。",
+    "post_url": "https://xueqiu.com/1247347556/355419317",
+    "post_date": "2025-10-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "目前没有任何计划。原计划就是买个\"油田\"等个10年20年看看会发生什么。不过，如果巴菲特卖OXY我会跟。",
+    "post_url": "https://xueqiu.com/1247347556/355358651",
+    "post_date": "2025-10-02",
+    "mentioned_stocks": [
+      "OXY"
+    ],
+    "quality_score": 5
+  }
+]

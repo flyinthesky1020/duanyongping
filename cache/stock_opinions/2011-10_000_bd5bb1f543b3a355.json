@@ -1,0 +1,30 @@
+[
+  {
+    "id": "62659d35-bd8e-4d4f-b384-7c373c57d3ff",
+    "stock": "诺基亚",
+    "ticker": "NOK",
+    "market": "US",
+    "date": "2011-10-28",
+    "sentiment": "bearish",
+    "summary": "嘲讽诺基亚 irrelevant",
+    "quote": "哈哈]诺基亚？这个名字好像听过啊，是干什么的？",
+    "source_file": "2011-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20452684"
+  },
+  {
+    "id": "df5cb682-b6d4-4ec4-8eee-a9d10553acab",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2011-10-28",
+    "sentiment": "bullish",
+    "summary": "苹果产品力受认可",
+    "quote": "感觉这个有点厉害，尤其是当人们习惯用以后。",
+    "source_file": "2011-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20436406"
+  }
+]

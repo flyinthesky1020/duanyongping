@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3fef78f7-423e-46ab-8f9c-6d82f7ee7be9",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-11-23",
+    "sentiment": "bullish",
+    "summary": "看好茅台长期需求",
+    "quote": "我很怀疑年轻人不喝酒的说法。这几天正好有机会跟几个年轻人吃晚餐，每次我拿酒出来大家都是很想喝的，好酒是很难抗拒的",
+    "source_file": "2023-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/268156665"
+  }
+]

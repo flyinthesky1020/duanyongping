@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9b34c636-bd69-4dcd-9e9f-2180513a00e4",
+    "stock": "泡泡玛特",
+    "ticker": "9992.HK",
+    "market": "HK",
+    "date": "2026-01-11",
+    "sentiment": "bearish",
+    "summary": "担忧需求不可持续",
+    "quote": "我大致看过泡泡玛特，觉得他们确实蛮厉害的。不过，我依然无法理解人们为什么会需要这个东西，万一过两年大家都不要了呢？",
+    "source_file": "2026-01_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/370197456"
+  }
+]

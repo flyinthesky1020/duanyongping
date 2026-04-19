@@ -1,0 +1,59 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我搞不懂拼多多可能有点像巴菲特搞不懂微软一样。",
+    "post_url": "https://xueqiu.com/1247347556/268913300",
+    "post_date": "2023-11-29",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不应该苛求茅台的员工，苹果的员工也没几个能看懂苹果的。我们公司的员工也不会好到哪里去。",
+    "post_url": "https://xueqiu.com/1247347556/268640277",
+    "post_date": "2023-11-27",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "Peter买过两千多只股票，他的话别太当真。",
+    "post_url": "https://xueqiu.com/1247347556/268640277",
+    "post_date": "2023-11-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "看来拿着望远镜都找不到对手的年代真的过去了？",
+    "post_url": "https://xueqiu.com/1247347556/269069376",
+    "post_date": "2023-11-30",
+    "mentioned_stocks": [
+      "阿里"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "也许10年后人们会发现拿着望远镜也找不到对手的年代已...",
+    "post_url": "https://xueqiu.com/1247347556/269069376",
+    "post_date": "2023-11-30",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "计划慢慢买，把大半年前卖掉的部分买回来就好。",
+    "post_url": "https://xueqiu.com/1247347556/268803364",
+    "post_date": "2023-11-28",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

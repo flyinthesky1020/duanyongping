@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "很多人卖了茅台然后买了比如假布斯之类而且再也回不来的的东西才是真的惨了。",
+    "post_url": "https://xueqiu.com/1247347556/291444030",
+    "post_date": "2024-05-25",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "需要“定力”的东西一般来说不会是啥让人开心的东西，甚至可能是让人睡不好觉的东西。",
+    "post_url": "https://xueqiu.com/1247347556/291425502",
+    "post_date": "2024-05-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "清仓茅台不是问题，问题是拿着那笔钱都干嘛了。",
+    "post_url": "https://xueqiu.com/1247347556/291425502",
+    "post_date": "2024-05-25",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

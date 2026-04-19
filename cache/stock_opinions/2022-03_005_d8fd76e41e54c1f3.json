@@ -1,0 +1,30 @@
+[
+  {
+    "id": "e4e3e56f-ad03-468d-91bf-74e5ac1e0526",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2022-03-15",
+    "sentiment": "bullish",
+    "summary": "关注暴跌机会",
+    "quote": "希望时间能长一点点，看看是不是有啥机会！",
+    "source_file": "2022-03_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/214257569"
+  },
+  {
+    "id": "faf6dd54-41a8-4eac-886a-b3a800f2ec5f",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-03-15",
+    "sentiment": "bullish",
+    "summary": "去泡沫后回购易",
+    "quote": "现在去泡沫，腾讯的投资决策也会变得容易很多，就是个简单的回购了。",
+    "source_file": "2022-03_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/214203627"
+  }
+]

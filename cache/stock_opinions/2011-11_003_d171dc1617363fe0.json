@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0f0f7186-8d45-4e35-aa6f-bebe9774019b",
+    "stock": "完美世界",
+    "ticker": "PWRD",
+    "market": "US",
+    "date": "2011-11-23",
+    "sentiment": "bearish",
+    "summary": "担心管理层缺乏信心",
+    "quote": "我只是觉得他们自己好像对自己（的网游业务）不太有信心，而且觉得这种没信心似乎是事出有因的",
+    "source_file": "2011-11_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/20526749"
+  }
+]

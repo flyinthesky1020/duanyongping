@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "所以我说终于有个人看懂了，那三句其实是废话赚市场的钱不止是投机，且后验的事无从下手。",
+    "post_url": "https://xueqiu.com/1247347556/273045850",
+    "post_date": "2023-12-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "苹果只是在给自己的产品提供内容，不是一个单独的商业行为。",
+    "post_url": "https://xueqiu.com/1247347556/273083630",
+    "post_date": "2023-12-31",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "浙大的一直还好",
+    "post_url": "https://xueqiu.com/1247347556/273084466",
+    "post_date": "2023-12-31",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5b3e0407-6076-4ab3-96a5-c94bce642596",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-10-30",
+    "sentiment": "bullish",
+    "summary": "持有苹果不担心",
+    "quote": "苹果我基本上没啥操心的东西，从来没试过因为苹果睡不好觉的时候",
+    "source_file": "2024-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/310374538"
+  }
+]

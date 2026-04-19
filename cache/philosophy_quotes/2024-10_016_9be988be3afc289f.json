@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "明天的涨跌没人知道，但10年回头看，这个价钱大概率是好价钱，除非你还有别的更好的投资机会。",
+    "post_url": "https://xueqiu.com/1247347556/308222192",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这个不是正说明茅台商业模式强大吗？",
+    "post_url": "https://xueqiu.com/1247347556/308080810",
+    "post_date": "2024-10-14",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "股价便宜虽好，千万不要用Margin哈！",
+    "post_url": "https://xueqiu.com/1247347556/330646679",
+    "post_date": "2025-04-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "谁当皇帝还不都得让老百姓过日子？！任何时候任何市场买好公司比什么都重要。",
+    "post_url": "https://xueqiu.com/1247347556/330646679",
+    "post_date": "2025-04-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果put进来的价格从10年后看回来是便宜的价格，那这个投资就值得做，长短皆宜。",
+    "post_url": "https://xueqiu.com/1247347556/330646307",
+    "post_date": "2025-04-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "居然还有31倍pe！25倍以下会感觉好很多。",
+    "post_url": "https://xueqiu.com/1247347556/330646679",
+    "post_date": "2025-04-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "试了一下，长期一点的put的权利金不好，短期的一般，保费不好收啊。",
+    "post_url": "https://xueqiu.com/1247347556/330692061",
+    "post_date": "2025-04-07",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 3
+  }
+]

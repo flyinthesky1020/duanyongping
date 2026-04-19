@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "好的商业模式就是能够长期获得很好利润的商业模式，一般都是通过提供很好的产品或服务而来的。你说的情况还看不出商业模式好坏。",
+    "post_url": "https://xueqiu.com/1247347556/164795409",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解药企，买过一些默克但下不了重手，也拿不住。你在这个行业，应该比我有发言权。",
+    "post_url": "https://xueqiu.com/1247347556/164795288",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [
+      "默克"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "投资其实是和公司大小无关的。如果你能看懂公司未来前途光明，其实大小都一样，关键还是看你能懂什么。",
+    "post_url": "https://xueqiu.com/1247347556/164795234",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

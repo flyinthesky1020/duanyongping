@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "最近看到有些公司因为债务陷入困境。确实很难理解他们为什么要借那么多钱。我怀疑会不会机制有问题？因为只考量业绩但不限制债务，经营层自然会努力做大业绩，哪怕负债高点也没关系，因为每个同行负债都很高？我们公司严格限制债务是很有道理的，虽然明白这个道理有时候需要十...",
+    "post_url": "https://xueqiu.com/1247347556/301571968",
+    "post_date": "2024-08-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这个不是“公益”，是卖保险的生意。16%的年回报的生意应该算不错的生意了吧？",
+    "post_url": "https://xueqiu.com/1247347556/301565033",
+    "post_date": "2024-08-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "只是又开了间保险公司，赚点保费而已。",
+    "post_url": "https://xueqiu.com/1247347556/301608606",
+    "post_date": "2024-08-19",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "争取每天卖1000个puts，put进来就计划卖个call啥的。终极目标是put到1%的腾讯！争取三到五年折腾到这个目标，但不强求。",
+    "post_url": "https://xueqiu.com/1247347556/301608606",
+    "post_date": "2024-08-19",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "昨天有短期债券到期了，早上按现价买了苹果同时卖了一个180的明年三月到期的call。希望一年后还在180以下，不然就被“减持”了。成本154.8，最高获利16%+，一年保本153.8（分红一块钱）",
+    "post_url": "https://xueqiu.com/1247347556/301563808",
+    "post_date": "2024-08-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

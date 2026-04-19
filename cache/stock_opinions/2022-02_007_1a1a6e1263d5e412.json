@@ -1,0 +1,16 @@
+[
+  {
+    "id": "824d6bad-d862-468b-b612-25a4efbeeefc",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-02-03",
+    "sentiment": "bullish",
+    "summary": "苹果不晚",
+    "quote": "回复@勇敢的心_leewalter: 不晚！",
+    "source_file": "2022-02_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/210616945"
+  }
+]

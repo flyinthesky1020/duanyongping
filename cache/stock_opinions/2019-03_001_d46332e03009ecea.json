@@ -1,0 +1,30 @@
+[
+  {
+    "id": "19a8f42e-fd54-43aa-943c-d3c60e4789d4",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-03-29",
+    "sentiment": "bullish",
+    "summary": "茅台看涨至900元",
+    "quote": "$贵州茅台(SH600519)$ 850的茅台恭喜一下，下一次表达时间是900块",
+    "source_file": "2019-03_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/124061580"
+  },
+  {
+    "id": "5c7776ca-593b-453c-a3db-0649695bfcda",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-03-29",
+    "sentiment": "bullish",
+    "summary": "苹果看涨至251美元",
+    "quote": "下次恭喜苹果的时候应该是苹果251的时候",
+    "source_file": "2019-03_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/124061580"
+  }
+]

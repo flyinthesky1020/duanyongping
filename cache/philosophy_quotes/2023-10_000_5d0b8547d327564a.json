@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果能做假茅台，谁还愿意做别的假酒？",
+    "post_url": "https://xueqiu.com/1247347556/263464158",
+    "post_date": "2023-10-16",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我和“厨师”（cook）聊天时“厨师”特别提到苹果是不搞推销的。",
+    "post_url": "https://xueqiu.com/1247347556/263562574",
+    "post_date": "2023-10-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "苹果不太做推销式广告，做的基本上都是功能性或场景式广告。苹果广告见效慢点，但影响深，长期的潜移默化力量很大。",
+    "post_url": "https://xueqiu.com/1247347556/263562574",
+    "post_date": "2023-10-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买option是投机行为！我如果买option就是愚蠢！",
+    "post_url": "https://xueqiu.com/1247347556/20412677",
+    "post_date": "2011-10-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "卖naked call和做short都是属于不对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/20412661",
+    "post_date": "2011-10-04",
+    "mentioned_stocks": [
+      "雅虎"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实我怎么做不重要，重要的是什么东西不应该做哈。使用option时最重要的就是不要为option而option，只有对基本面非常明白时才有可能有时用一下。还有就是不要用margin做option。",
+    "post_url": "https://xueqiu.com/1247347556/20412652",
+    "post_date": "2011-10-04",
+    "mentioned_stocks": [
+      "雅虎"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "只有对基本面非常明白时才有可能有时用一下。",
+    "post_url": "https://xueqiu.com/1247347556/20412652",
+    "post_date": "2011-10-04",
+    "mentioned_stocks": [
+      "雅虎"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不明白最好就别碰option。",
+    "post_url": "https://xueqiu.com/1247347556/20412207",
+    "post_date": "2011-10-03",
+    "mentioned_stocks": [
+      "雅虎"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "另外，以后不叫大道的我就不复了。我们老中的文化有时候真是很别扭，无伦谁都非要在后面加个总，不舒服。",
+    "post_url": "https://xueqiu.com/1247347556/20412653",
+    "post_date": "2011-10-04",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

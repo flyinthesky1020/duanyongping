@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4ec218c9-b588-450f-90b8-c773af43f681",
+    "stock": "Costco",
+    "ticker": "COST",
+    "market": "US",
+    "date": "2025-10-16",
+    "sentiment": "bullish",
+    "summary": "Costco有宽护城河",
+    "quote": "其实Costco是有很宽的护城河的。他们只有3000个sku（动态的），这可是从数以亿计的sku里挑出来的啊！能做到这点显然是非常非常厉害的。",
+    "source_file": "2025-10_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/356666210"
+  }
+]

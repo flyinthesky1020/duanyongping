@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实是因为用了杠杆才开始变得不容易起来的。",
+    "post_url": "https://xueqiu.com/1247347556/307276774",
+    "post_date": "2024-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "卖put有时候要算好账，不小心就卖多了一点。",
+    "post_url": "https://xueqiu.com/1247347556/307258882",
+    "post_date": "2024-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "消费者导向和本分一样，必须是骨子里的东西，后天假装会是做不到的。",
+    "post_url": "https://xueqiu.com/1247347556/307266994",
+    "post_date": "2024-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "那些人都是在把自己或者自己公司往死里整，大概率时间长点他们就很难活下去了。三尺头上有神明哈！",
+    "post_url": "https://xueqiu.com/1247347556/307276487",
+    "post_date": "2024-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我问过很多普通美国人，几乎绝大多数人都已经知道TEMU了。知道建立品牌有多难的人才知道，这个真的是很牛的！",
+    "post_url": "https://xueqiu.com/1247347556/307277729",
+    "post_date": "2024-10-08",
+    "mentioned_stocks": [
+      "拼多多",
+      "TEMU"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "消费者导向和本分一样，必须是骨子里的东西，后天假装会是做不到的。",
+    "post_url": "https://xueqiu.com/1247347556/307266994",
+    "post_date": "2024-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

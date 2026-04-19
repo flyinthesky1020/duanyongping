@@ -1,0 +1,37 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "原来已经计划狠狠买些拼多多和腾讯的，但觉得市场很悲观，应该会低迷一段时间，我可以靠多卖点put来降低买入的成本，结果…。我总是说，任何的考虑市场都很可能是错的，现在就是个具体的例子。",
+    "post_url": "https://xueqiu.com/1247347556/306466316",
+    "post_date": "2024-09-30",
+    "mentioned_stocks": [
+      "拼多多",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "牛市要来了？我一直以为我们一直在牛市中呢。拿着好公司就一直是牛市，，不然就是猪市。",
+    "post_url": "https://xueqiu.com/1247347556/306464236",
+    "post_date": "2024-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "对你有任何意义吗？你想要涨的快的还是涨的久的还是只是感觉不错的？你这样看股市是很容易亏钱的。",
+    "post_url": "https://xueqiu.com/1247347556/306462342",
+    "post_date": "2024-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "哈，你看到厨房里有一只蟑螂，你还想吃那里的东西吗？",
+    "post_url": "https://xueqiu.com/1247347556/306460033",
+    "post_date": "2024-09-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

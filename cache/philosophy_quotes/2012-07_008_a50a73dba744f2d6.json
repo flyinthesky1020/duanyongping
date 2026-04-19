@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "[汗]short 股票是愚蠢的。不打算买的股票不应该卖put。",
+    "post_url": "https://xueqiu.com/1247347556/21972479",
+    "post_date": "2012-07-05",
+    "mentioned_stocks": [
+      "游戏驿站"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这个太专业了吧？我怎么可能知道？我知道的是潜力都很大。",
+    "post_url": "https://xueqiu.com/1247347556/21969205",
+    "post_date": "2012-07-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "乔布斯是把自己当用户，所以别人以为他先知先觉而已。哪一个改变游戏规则的成功的不是这样呢？",
+    "post_url": "https://xueqiu.com/1247347556/21972568",
+    "post_date": "2012-07-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

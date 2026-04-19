@@ -1,0 +1,72 @@
+[
+  {
+    "id": "34194f60-a3f7-4259-bbaa-5e5134b21cc9",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-06",
+    "sentiment": "bullish",
+    "summary": "打算买够泡泡玛特",
+    "quote": "打算买够不等于已经买了，但也不意味着没开始买",
+    "source_file": "2026-04_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/382850478"
+  },
+  {
+    "id": "44dc2b0e-d795-41bc-b1c6-f214821bf3a1",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2026-04-06",
+    "sentiment": "bullish",
+    "summary": "FSD很好",
+    "quote": "fsd确实很好，就相当于$99块/月钱请了个顶级司机",
+    "source_file": "2026-04_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/382833719"
+  },
+  {
+    "id": "944d9f7f-df73-4adc-b198-3ee07b7818b1",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-04-06",
+    "sentiment": "bullish",
+    "summary": "持有茅台",
+    "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
+    "source_file": "2026-04_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/382778933"
+  },
+  {
+    "id": "f311df4f-8dcb-49d3-96be-ff22491f2f23",
+    "stock": "网易",
+    "ticker": "09999.HK",
+    "market": "HK",
+    "date": "2026-04-06",
+    "sentiment": "bullish",
+    "summary": "持有网易",
+    "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
+    "source_file": "2026-04_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/382778933"
+  },
+  {
+    "id": "8ec328fb-cad6-4f3b-bbb1-96f4f7c49070",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2026-04-06",
+    "sentiment": "bullish",
+    "summary": "持有苹果",
+    "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
+    "source_file": "2026-04_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/382778933"
+  }
+]

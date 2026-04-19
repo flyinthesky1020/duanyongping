@@ -1,0 +1,16 @@
+[
+  {
+    "id": "46c4a836-a69f-4825-942c-5e290e675a55",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-02-25",
+    "sentiment": "bullish",
+    "summary": "茅台起飞看涨",
+    "quote": "$贵州茅台(SH600519)$ 起飞啦！",
+    "source_file": "2024-02_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": ""
+  }
+]

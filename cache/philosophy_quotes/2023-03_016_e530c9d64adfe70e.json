@@ -1,0 +1,60 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝不可能做空任何一只股票的，当然也绝不会做空茅台",
+    "post_url": "https://xueqiu.com/1247347556/244586332",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这种飞刀最好别接，确实有危险的。",
+    "post_url": "https://xueqiu.com/1247347556/244586135",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "第一共和银行"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "10年过得很快，未来来得也蛮快的。",
+    "post_url": "https://xueqiu.com/1247347556/244586332",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个价钱拿个5年或更长的时间的回报应该会不错。",
+    "post_url": "https://xueqiu.com/1247347556/244586332",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我确实在Temu上买了一些东西，确实便宜也能用但并不能帮助我搞懂他的商业模式，我没办法看懂10年或以后到底是个什么情况，所以我不会因为Temu改变我对PDD的任何看法。",
+    "post_url": "https://xueqiu.com/1247347556/244573685",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我们花了大概几千美金，理清了一些问题，最后下了重注，这些年至少赚了远超1万倍了吧。",
+    "post_url": "https://xueqiu.com/1247347556/244578711",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

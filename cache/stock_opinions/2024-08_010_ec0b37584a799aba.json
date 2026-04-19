@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5dcae81e-9330-4a4d-913e-a2672f4313a7",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2024-08-14",
+    "sentiment": "bullish",
+    "summary": "买入腾讯",
+    "quote": "刚刚买了点腾讯。没有卖put可以用，实在是折腾人，改了好几次单，每次下单连一万股都买不到。",
+    "source_file": "2024-08_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/301059817"
+  }
+]

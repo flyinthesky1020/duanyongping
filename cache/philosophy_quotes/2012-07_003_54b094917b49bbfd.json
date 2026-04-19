@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "为什么是未来3个月而不是3年？其实拿个3个亿在未来3年回购（只在便宜时回购）看起来要理性很多。",
+    "post_url": "https://xueqiu.com/1247347556/22027448",
+    "post_date": "2012-07-20",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "假设什么也没发生过，也不要管过去到过什么价，平常心去想，新东方值多少钱呢？然后你会发现，如果你不了解新东方的生意模式，其实你就没办法找到感觉",
+    "post_url": "https://xueqiu.com/1247347556/22024654",
+    "post_date": "2012-07-19",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "有那么多已经离开新东方的人说新东方的好话，俞敏洪其实干得很了不起啊，要知道这是个文人相轻的行当，相当不容易。",
+    "post_url": "https://xueqiu.com/1247347556/22024570",
+    "post_date": "2012-07-19",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "基本功就是“百亿学而思”，“成为中国中小学培训第一品牌”。到“百年学而思”就是巨大进步，因为绝大多数公司到死都不会这么想。不过，成为“受尊敬的教育机构”这句话好像稍微有一点点瑕疵，但这比“成为中国中小学培训第一品牌”要好很多",
+    "post_url": "https://xueqiu.com/1247347556/22027278",
+    "post_date": "2012-07-20",
+    "mentioned_stocks": [
+      "好未来"
+    ],
+    "quality_score": 4
+  }
+]

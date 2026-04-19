@@ -1,0 +1,16 @@
+[
+  {
+    "id": "38a55cdb-9344-4cb5-bf04-28f4fc03607d",
+    "stock": "美国天然气价ETF",
+    "ticker": "UNG",
+    "market": "US",
+    "date": "2022-12-06",
+    "sentiment": "bearish",
+    "summary": "做空天然气ETF",
+    "quote": "这个只是个反投机的小游戏。简单讲就是赌天然气不可能一直涨上去",
+    "source_file": "2022-12_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/237116678"
+  }
+]

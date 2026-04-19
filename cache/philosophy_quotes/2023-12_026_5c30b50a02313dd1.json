@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "自己对电商不太懂（包括拼多多）",
+    "post_url": "https://xueqiu.com/1247347556/269690868",
+    "post_date": "2023-12-05",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "现在好一点，至少短期国债能有5.4%，可以更有耐心一点。",
+    "post_url": "https://xueqiu.com/1247347556/269843224",
+    "post_date": "2023-12-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这也是不要把好公司卖掉的很重要的原因之一。",
+    "post_url": "https://xueqiu.com/1247347556/269843224",
+    "post_date": "2023-12-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "拿着现金更容易犯错误。",
+    "post_url": "https://xueqiu.com/1247347556/269843224",
+    "post_date": "2023-12-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "喜欢马云身上的很多东西。过去我觉得马云很了不起，今天我依然这么觉得，和股价无关。",
+    "post_url": "https://xueqiu.com/1247347556/269690868",
+    "post_date": "2023-12-05",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  }
+]

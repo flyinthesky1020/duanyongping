@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2258a42a-c370-435d-b6e3-32b732c4274f",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-04-14",
+    "sentiment": "bullish",
+    "summary": "拿分红买入腾讯",
+    "quote": "特殊分红终于到账了，果然是4/13，明天都拿去买腾讯。",
+    "source_file": "2022-04_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/217063033"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "证券公司网站为什么会亏钱呢？照说就是个收手续费的生意，难道是获客成本太高？还是手续费太低？这种生意的商业模式不是很好，产品差异化太小。",
+    "post_url": "https://xueqiu.com/1247347556/214605628",
+    "post_date": "2022-03-18",
+    "mentioned_stocks": [
+      "老虎证券"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "中概股这次暴跌估计是有什么大家伙爆仓了？希望时间能长一点点，看看是不是有啥机会！",
+    "post_url": "https://xueqiu.com/1247347556/214363321",
+    "post_date": "2022-03-16",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 3
+  }
+]

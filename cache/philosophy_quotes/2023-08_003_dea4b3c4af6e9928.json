@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这种钱是该老巴赚的，我对能源公司一头雾水，10年后到底是什么样子完全没概念。",
+    "post_url": "https://xueqiu.com/1247347556/258286820",
+    "post_date": "2023-08-14",
+    "mentioned_stocks": [
+      "西方石油"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果50年以后，在一个大报的头版头条，登载一条有关你们公司的消息，您最希望是什么样的消息？我当时直接的回答是“任何消息”。其实只要公司还有任何消息，就表示我们公司还在。",
+    "post_url": "https://xueqiu.com/1247347556/258634184",
+    "post_date": "2023-08-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "OpenAI又加宽了微软的护城河，估计短期内难有好机会了。",
+    "post_url": "https://xueqiu.com/1247347556/258266045",
+    "post_date": "2023-08-14",
+    "mentioned_stocks": [
+      "微软"
+    ],
+    "quality_score": 4
+  }
+]

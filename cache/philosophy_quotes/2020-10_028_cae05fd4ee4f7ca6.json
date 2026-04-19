@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "下次买到牛股就不卖了呗！ 老巴说卖一个伟大公司的时间是 never！",
+    "post_url": "https://xueqiu.com/1247347556/160846418",
+    "post_date": "2020-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "这个问题必然会有，没有一个绝对能够解决的办法。好的企业文化能帮很大的忙。当然，有些管理技巧也会很有用。比如，我听说amazon开会是不许用PPT的，说这样效率才高，我没试过。有兴趣去看看那些比你公司还要大很多却经营非常好的公司是怎么解决这种问题的，然后自己再找自己的办法吧。",
+    "post_url": "https://xueqiu.com/1247347556/160846264",
+    "post_date": "2020-10-13",
+    "mentioned_stocks": [
+      "Amazon"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这个思路是对的，是经营企业的方向。但是，这种企业的门槛一般巨高，相当不容易。",
+    "post_url": "https://xueqiu.com/1247347556/160845417",
+    "post_date": "2020-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "简单讲，不懂不碰。如果你需要到处找人肯定你手里拿着什么，那多半你是拿不住的。",
+    "post_url": "https://xueqiu.com/1247347556/160845176",
+    "post_date": "2020-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

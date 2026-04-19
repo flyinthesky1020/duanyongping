@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "买入=持有 或者说 持有=买入。",
+    "post_url": "https://xueqiu.com/1247347556/296471566",
+    "post_date": "2024-07-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "降低双方期望值，如果你能做到的话。",
+    "post_url": "https://xueqiu.com/1247347556/296472272",
+    "post_date": "2024-07-05",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "感觉这个价钱买入确实不便宜了。我今天卖了不少call，这个价位以上被call走我是能够接受的，毕竟利息都有5.3%/年，相当于每股十多块钱一年了，如果再卖个call走价钱的put，这一年的基本任务就完成了。",
+    "post_url": "https://xueqiu.com/1247347556/296471566",
+    "post_date": "2024-07-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "大瓶装长时间后的酒的味道是不太一样的，会好不少。",
+    "post_url": "https://xueqiu.com/1247347556/296393747",
+    "post_date": "2024-07-04",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 2
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "两斤装的茅台放了十几年后感觉非常好喝。",
+    "post_url": "https://xueqiu.com/1247347556/296466460",
+    "post_date": "2024-07-05",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 2
+  }
+]

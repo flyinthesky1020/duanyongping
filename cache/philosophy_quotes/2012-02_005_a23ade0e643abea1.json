@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "别急着跳进去适合于任何投资。太阳能是能源未来，当然值得关注，只是现在还没发现好的生意模式或特别好的企业而已。",
+    "post_url": "https://xueqiu.com/1247347556/21444915",
+    "post_date": "2012-02-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "太阳能是能源未来，当然值得关注，只是现在还没发现好的生意模式或特别好的企业而已。",
+    "post_url": "https://xueqiu.com/1247347556/21444915",
+    "post_date": "2012-02-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "其实太阳能行业是个很值得关注的行业，但别急着跳进去。",
+    "post_url": "https://xueqiu.com/1247347556/21442155",
+    "post_date": "2012-02-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这公司规模太小了，不是我能搞懂的那种。",
+    "post_url": "https://xueqiu.com/1247347556/21441955",
+    "post_date": "2012-02-13",
+    "mentioned_stocks": [
+      "天银制药"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "i have no idea about this company.",
+    "post_url": "https://xueqiu.com/1247347556/21445674",
+    "post_date": "2012-02-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

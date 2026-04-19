@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "终于把电影公司给卖了。搞个电影公司实在是个低级错误，知错能改就是好事。盈利看起来不错，烟酒一下可持续性有多高。",
+    "post_url": "https://xueqiu.com/1247347556/20368448",
+    "post_date": "2011-08-22",
+    "mentioned_stocks": [
+      "完美世界"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "这种特殊分红说明老史还是很公平的，分完他就可以用自己的钱去投自己看好的东西了。",
+    "post_url": "https://xueqiu.com/1247347556/20364601",
+    "post_date": "2011-08-18",
+    "mentioned_stocks": [
+      "巨人网络"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "没有焦点的公司早晚会有麻烦。",
+    "post_url": "https://xueqiu.com/1247347556/20380594",
+    "post_date": "2011-08-31",
+    "mentioned_stocks": [
+      "盛大"
+    ],
+    "quality_score": 4
+  }
+]

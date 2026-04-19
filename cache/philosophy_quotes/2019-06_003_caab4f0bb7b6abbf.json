@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "老子：我有三宝，一曰慈，二曰俭，三曰不敢为天下先。网上都说是老子说的，那就是我说的意思吧？",
+    "post_url": "https://xueqiu.com/1247347556/128585053",
+    "post_date": "2019-06-23",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我怎么觉得我一直都是在做投资的呢？做投资和做企业其实没啥区别，差别只是在不在一线而已嘛。投资的利润之上的追求可能体现在寻找那些有利润之上的企业上面。",
+    "post_url": "https://xueqiu.com/1247347556/128540454",
+    "post_date": "2019-06-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "亚马逊非常了不起！我也买了点亚马逊。",
+    "post_url": "https://xueqiu.com/1247347556/128565481",
+    "post_date": "2019-06-22",
+    "mentioned_stocks": [
+      "亚马逊"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个东西目前还处在不明觉厉的阶段，几十年后大概率会是个厉害的东西。",
+    "post_url": "https://xueqiu.com/1247347556/128577727",
+    "post_date": "2019-06-22",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "寻找那些有利润之上的企业",
+    "post_url": "https://xueqiu.com/1247347556/128540454",
+    "post_date": "2019-06-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

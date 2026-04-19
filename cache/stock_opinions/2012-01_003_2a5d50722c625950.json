@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dd9d4367-844e-4b8b-ab18-c95eddf9c2bb",
+    "stock": "谷歌",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2012-01-23",
+    "sentiment": "bullish",
+    "summary": "股东态度利长线投资",
+    "quote": "这种对待股东的态度其实正是长线投资者需要的",
+    "source_file": "2012-01_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/21112151"
+  },
+  {
+    "id": "b5d1c200-5598-4f8c-ac91-ac953c9d2668",
+    "stock": "新东方",
+    "ticker": "EDU",
+    "market": "US",
+    "date": "2012-01-23",
+    "sentiment": "bearish",
+    "summary": "人员成本提高非好事",
+    "quote": "那就是说是因为非通胀相对人员成本提高了？也不是啥好事",
+    "source_file": "2012-01_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/21046637"
+  }
+]

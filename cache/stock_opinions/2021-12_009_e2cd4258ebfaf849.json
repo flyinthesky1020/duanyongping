@@ -1,0 +1,44 @@
+[
+  {
+    "id": "b4cddd9c-a379-4851-b4bf-b6b8a346c8a8",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2021-12-07",
+    "sentiment": "bullish",
+    "summary": "看好苹果成长",
+    "quote": "树确实不会长到天上去，但这不会影响苹果的成长。",
+    "source_file": "2021-12_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/205308915"
+  },
+  {
+    "id": "619ae601-bc54-4735-b91c-7c3fef85912b",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2021-12-07",
+    "sentiment": "bullish",
+    "summary": "长期优于现金",
+    "quote": "从10年或以上的角度看，会大概率比拿着现金强。",
+    "source_file": "2021-12_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/205175925"
+  },
+  {
+    "id": "85f92d7b-b038-48c5-9f92-282aea9efc04",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2021-12-07",
+    "sentiment": "bullish",
+    "summary": "准备再次风投",
+    "quote": "虽然还是看不懂其商业模式，但觉得他们对农产品的支持还是非常有意义的。准备再次风投一下！",
+    "source_file": "2021-12_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/205102225"
+  }
+]

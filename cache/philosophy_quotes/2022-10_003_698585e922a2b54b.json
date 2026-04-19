@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "元宇宙是真看不懂，小扎到底想干啥？",
+    "post_url": "https://xueqiu.com/1247347556/233744364",
+    "post_date": "2022-10-26",
+    "mentioned_stocks": [
+      "Meta Platforms"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果公司还是那个公司，你因为股价跌了而卖了的这种行为其实就是投机，因为涨了又买回来也是投机。这么折腾，长期来说大概率是会少赚钱的（如果能赚到的话）。当然，因为用margin被逼着卖掉本身不算投机，那个叫逃命？",
+    "post_url": "https://xueqiu.com/1247347556/233209403",
+    "post_date": "2022-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "公司只有一个买家，其他都是过客。",
+    "post_url": "https://xueqiu.com/1247347556/233495600",
+    "post_date": "2022-10-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不懂不投，哪天搞懂了，看见便宜的还是可以投的。",
+    "post_url": "https://xueqiu.com/1247347556/20317351",
+    "post_date": "2011-07-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我说的卖call一定指的是covered的call，和市场无关但和了解有很大的关系，不了解的公司绝对不能碰任何option。",
+    "post_url": "https://xueqiu.com/1247347556/20320374",
+    "post_date": "2011-07-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你能假设比亚迪不是一家上市公司，不要受谁是股东的影响，平常心去看公司所有的方面，想象一下10年以后公司会怎么样，你自然会得出比较客观的结论的。",
+    "post_url": "https://xueqiu.com/1247347556/20318029",
+    "post_date": "2011-07-14",
+    "mentioned_stocks": [
+      "比亚迪"
+    ],
+    "quality_score": 5
+  }
+]

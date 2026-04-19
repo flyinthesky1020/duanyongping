@@ -1,0 +1,16 @@
+[
+  {
+    "id": "72a9e8da-76ce-4d9c-a35a-f18e3fa09fce",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2019-03-22",
+    "sentiment": "bullish",
+    "summary": "看好FB长期成长空间",
+    "quote": "大概就是觉得生意模式很好，企业文化也很好，扎克伯克还那么年轻，所以这个公司还会有不错的成长空间。",
+    "source_file": "2019-03_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/123613805"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ac8a693b-7010-4510-b26b-b753e9a12f29",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-11-13",
+    "sentiment": "bullish",
+    "summary": "狂卖苹果puts看涨",
+    "quote": "今天在还有余钱的账号里狂卖了不少苹果134-135的puts。到期日从这个礼拜五到两个月以后的每个礼拜五都有，希望多点被put进来。",
+    "source_file": "2022-11_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/235263902"
+  }
+]

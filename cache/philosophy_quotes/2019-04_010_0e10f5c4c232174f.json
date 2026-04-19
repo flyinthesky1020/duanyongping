@@ -1,0 +1,43 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/125247110",
+    "post_date": "2019-04-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对苹果了解比较多，对腾讯了解相对少。直觉上觉得腾讯商业模式非常不错，企业文化也还可以哈。",
+    "post_url": "https://xueqiu.com/1247347556/125247157",
+    "post_date": "2019-04-20",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我对苹果了解比较多，对腾讯了解相对少。直觉上觉得腾讯商业模式非常不错，企业文化也还可以哈。",
+    "post_url": "https://xueqiu.com/1247347556/125247157",
+    "post_date": "2019-04-20",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我对苹果了解比较多，对腾讯了解相对少。直觉上觉得腾讯商业模式非常不错，企业文化也还可以哈。",
+    "post_url": "https://xueqiu.com/1247347556/125247157",
+    "post_date": "2019-04-20",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

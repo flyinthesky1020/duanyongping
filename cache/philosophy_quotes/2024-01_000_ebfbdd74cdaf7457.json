@@ -1,0 +1,70 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "加多宝和茅台不具备可比性。差太远了，基本上是巴西队和泰国队的差别。也许更大些。",
+    "post_url": "https://xueqiu.com/1247347556/277155130",
+    "post_date": "2024-01-30",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "感觉电动车的差异化比油车还要小，价格竞争会比较厉害。",
+    "post_url": "https://xueqiu.com/1247347556/277042199",
+    "post_date": "2024-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这是我的思维方式，我大概就是这么看公司的。当你这么看公司时，很自然就重视商业模式了。",
+    "post_url": "https://xueqiu.com/1247347556/276690203",
+    "post_date": "2024-01-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我了解的公司很少，在我比较了解的公司里（年利润10亿美金以上的），我觉得未来十年总利润比过去10年总利润高的公司可能有苹果，茅台，Brk，微软，谷歌。",
+    "post_url": "https://xueqiu.com/1247347556/276690323",
+    "post_date": "2024-01-28",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "Brk",
+      "微软",
+      "谷歌"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不容易了解瓶装水的差异化到底在哪里。",
+    "post_url": "https://xueqiu.com/1247347556/276690394",
+    "post_date": "2024-01-28",
+    "mentioned_stocks": [
+      "农夫山泉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "在年利润10亿美金以上或年利润50亿人民币以上的公司里，有谁未来10年的总利润会比过去10年高？在这些企业中，有谁的未来10-20年的获利总和会比未来10年的总和高？",
+    "post_url": "https://xueqiu.com/1247347556/276690203",
+    "post_date": "2024-01-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得20年后Tesla大概率会在过苦日子，但不意味着特斯拉到时候一定在过苦日子。",
+    "post_url": "https://xueqiu.com/1247347556/277060434",
+    "post_date": "2024-01-30",
+    "mentioned_stocks": [
+      "Tesla"
+    ],
+    "quality_score": 4
+  }
+]

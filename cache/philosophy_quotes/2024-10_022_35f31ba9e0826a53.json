@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "该交的税是一定要交的，哪有什么其他途径？",
+    "post_url": "https://xueqiu.com/1247347556/307383313",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "把公司当成非上市公司，只想公司真实的现金流。",
+    "post_url": "https://xueqiu.com/1247347556/307371034",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "把公司当成非上市公司，只想公司真实的现金流。",
+    "post_url": "https://xueqiu.com/1247347556/307371034",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "找点亏钱的玩玩？",
+    "post_url": "https://xueqiu.com/1247347556/307383497",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

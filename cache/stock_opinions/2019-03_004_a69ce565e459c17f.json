@@ -1,0 +1,16 @@
+[
+  {
+    "id": "de1c3248-a904-4d4d-9737-24a20d526791",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-03-25",
+    "sentiment": "bullish",
+    "summary": "看好苹果软硬件增长",
+    "quote": "不同意。这里没有转型的问题，因为这是苹果一直都在做的事情，目前的生意已经包含在内了。当然，未来服务的增长确实会很大，但硬件产品也是会有机会的。",
+    "source_file": "2019-03_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/123755700"
+  }
+]

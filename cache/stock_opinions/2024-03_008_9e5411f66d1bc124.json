@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c464d3ba-418d-42d3-a0af-2c322a9f9bf8",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2024-03-09",
+    "sentiment": "bullish",
+    "summary": "看好英伟达继续上涨",
+    "quote": "英伟达非常厉害，产品其实有很大的差异化，堪称芯片界的苹果！nvda涨成这个样子是道理的，继续涨也非常有可能。这也是不能空一个好公司的一个例子。",
+    "source_file": "2024-03_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/281428248"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太了解纳斯达克100，但近10年QQQ确实比SPY表现好。",
+    "post_url": "https://xueqiu.com/1247347556/273936906",
+    "post_date": "2024-01-07",
+    "mentioned_stocks": [
+      "纳斯达克100",
+      "标普500",
+      "QQQ",
+      "SPY"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "狩猎是互为猎物的，是个零和游戏。投资是赚公司赚的钱。短期看有时候很像，但时间长了区别非常大。",
+    "post_url": "https://xueqiu.com/1247347556/273925534",
+    "post_date": "2024-01-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

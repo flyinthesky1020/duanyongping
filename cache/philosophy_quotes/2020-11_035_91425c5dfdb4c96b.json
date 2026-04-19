@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你说的东西我完全不懂呢。",
+    "post_url": "https://xueqiu.com/1247347556/162526186",
+    "post_date": "2020-11-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "生意能不能发展好关键且只取决于公司的产品，无他。其他只是对快慢有影响。",
+    "post_url": "https://xueqiu.com/1247347556/162511498",
+    "post_date": "2020-11-04",
+    "mentioned_stocks": [
+      "可口可乐",
+      "百事可乐"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "产品好愿意合作的人自然会多的。",
+    "post_url": "https://xueqiu.com/1247347556/162462354",
+    "post_date": "2020-11-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

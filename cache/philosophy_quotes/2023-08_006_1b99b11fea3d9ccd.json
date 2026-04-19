@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "对冲风险是投机的做法。",
+    "post_url": "https://xueqiu.com/1247347556/257173289",
+    "post_date": "2023-08-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "首先，不要卖你不想卖的价位的call。",
+    "post_url": "https://xueqiu.com/1247347556/257286223",
+    "post_date": "2023-08-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "都是基于对公司的（长期）生意的看法而不是对市场的看法。",
+    "post_url": "https://xueqiu.com/1247347556/257285476",
+    "post_date": "2023-08-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "被call走了就算了，钱可以买个Tbill同时卖个同价位的put等着put回来（对非纳税账户合适）。",
+    "post_url": "https://xueqiu.com/1247347556/257286223",
+    "post_date": "2023-08-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "收到的钱可以转成苹果的股票。不费一兵一卒可以增加一点点持股也是蛮好的哈。",
+    "post_url": "https://xueqiu.com/1247347556/257507357",
+    "post_date": "2023-08-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

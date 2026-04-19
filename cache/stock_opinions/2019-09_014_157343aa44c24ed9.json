@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e8e07ecb-25a0-49f2-b33e-e9a0eae1e787",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-09-14",
+    "sentiment": "bullish",
+    "summary": "Apple TV+策略有眼光",
+    "quote": "Apple TV+ 的做法非常有眼光，对培养用户使用习惯有很大作用。",
+    "source_file": "2019-09_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/132791743"
+  }
+]

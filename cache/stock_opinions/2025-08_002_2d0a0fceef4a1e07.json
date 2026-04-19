@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bbced78c-b387-4ec2-932c-36290f66e198",
+    "stock": "联合健康",
+    "ticker": "UNH",
+    "market": "US",
+    "date": "2025-08-14",
+    "sentiment": "bullish",
+    "summary": "恐慌卖出是捡便宜机会",
+    "quote": "我不懂保险但直觉上觉得UNH前段时间可能遇到了恐慌卖出，很可能是个捡便宜的机会？我前些天还跟朋友说如果老巴买我就跟进一些（就是卖点put的意思），看来明天起我会开始卖点put了。",
+    "source_file": "2025-08_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/347165276"
+  }
+]

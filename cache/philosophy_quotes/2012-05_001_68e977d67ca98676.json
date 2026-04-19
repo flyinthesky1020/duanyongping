@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我卖covered call是基于对未来现金流的理解，只不过用这个办法提前实现而已。",
+    "post_url": "https://xueqiu.com/1247347556/21840707",
+    "post_date": "2012-05-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "虽然我研究生学的是计量经济（也叫数量经济，不过我不算好学生），但不认为那对投资能有什么大帮助，不然投资做得好的就都是那些经济学家了。",
+    "post_url": "https://xueqiu.com/1247347556/21840641",
+    "post_date": "2012-05-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "从来没研究过波段理论，但顾名思义，做波段的人对市场是需要有猜测的。卖covered call则对市场没什么期许，只管收钱，直到被call走。",
+    "post_url": "https://xueqiu.com/1247347556/21840707",
+    "post_date": "2012-05-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不能离开基本面。买时决不能贵，不然有风险。不打算持有的股票是没有option可做的。",
+    "post_url": "https://xueqiu.com/1247347556/21829316",
+    "post_date": "2012-05-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

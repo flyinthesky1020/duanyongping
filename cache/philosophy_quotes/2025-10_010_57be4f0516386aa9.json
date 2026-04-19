@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "任何人都最好别做空。",
+    "post_url": "https://xueqiu.com/1247347556/357276236",
+    "post_date": "2025-10-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "确实比较贵了。",
+    "post_url": "https://xueqiu.com/1247347556/357273370",
+    "post_date": "2025-10-18",
+    "mentioned_stocks": [
+      "伯克希尔·哈撒韦"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我说过，两只啊。一只是茅台，另一只也是茅台。",
+    "post_url": "https://xueqiu.com/1247347556/357272042",
+    "post_date": "2025-10-18",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

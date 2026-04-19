@@ -1,0 +1,16 @@
+[
+  {
+    "id": "824bf37f-7ae3-4b82-8e18-4d2a2b192b81",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-02-28",
+    "sentiment": "bullish",
+    "summary": "明天再买点",
+    "quote": "低过我上次买的价钱了，那明天再买点。",
+    "source_file": "2022-02_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/212609979"
+  }
+]

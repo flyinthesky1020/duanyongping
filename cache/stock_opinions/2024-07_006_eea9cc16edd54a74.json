@@ -1,0 +1,30 @@
+[
+  {
+    "id": "7965b551-e50c-4849-8a19-24b014912ee6",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-07-13",
+    "sentiment": "bullish",
+    "summary": "好公司不想卖",
+    "quote": "好公司我不想卖，但也不想完全闲着，实在是太无聊了，于是卖点call。这样比单纯拿着股票似乎要好玩很多，虽然未必会多赚多少钱。",
+    "source_file": "2024-07_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/297372991"
+  },
+  {
+    "id": "ecba9fb0-19c5-4fa2-9e43-2ba7b72d0277",
+    "stock": "Opendoor",
+    "ticker": "OPEN",
+    "market": "US",
+    "date": "2024-07-13",
+    "sentiment": "bearish",
+    "summary": "商业模式不好",
+    "quote": "看着商业模式不太好，能活着都不容易。",
+    "source_file": "2024-07_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/297210818"
+  }
+]

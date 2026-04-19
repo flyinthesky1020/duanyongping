@@ -1,0 +1,51 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "2018年5月25号我跟老巴有个晚餐，席间他说到他曾经喝的是百事而不是可口可乐，因为百事当时的价钱只有可乐的一半。稍后我们谈到苹果时，我说我认为苹果的护城河比可口可乐宽，因为iPhone的平均售价是肯定高过安卓手机一倍的，但安卓基本上抢不到iPhone用户。",
+    "post_url": "https://xueqiu.com/1247347556/219575212",
+    "post_date": "2022-05-10",
+    "mentioned_stocks": [
+      "苹果",
+      "可口可乐"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "老巴买的很多东西我都不了解，也搞不懂，除了苹果。",
+    "post_url": "https://xueqiu.com/1247347556/219573133",
+    "post_date": "2022-05-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。好像这三个一点的意思是不一样的。",
+    "post_url": "https://xueqiu.com/1247347556/219575212",
+    "post_date": "2022-05-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "习惯一起喝茅台的人，你可以试试别的白酒？",
+    "post_url": "https://xueqiu.com/1247347556/219595112",
+    "post_date": "2022-05-10",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "基金经理做不了价值投资的。因为基金经理会受投资人影响，老巴不会。",
+    "post_url": "https://xueqiu.com/1247347556/219573104",
+    "post_date": "2022-05-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

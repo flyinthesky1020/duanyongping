@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "大概办法就是年年讲月月讲天天讲，而且光讲是肯定没有用的，但不讲是绝对不会变的。",
+    "post_url": "https://xueqiu.com/1247347556/270492230",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "绝大部分47年的酒都早已经不能喝了，你觉得好喝是因为你喝到的那个酒是朋友挑出来的。千万别以为47年的酒都好喝哈。听起来就像说酱香酒好喝一样，连哪个牌子都没说。",
+    "post_url": "https://xueqiu.com/1247347556/270490035",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没见过除黄峥以外的任何拼多多的员工。",
+    "post_url": "https://xueqiu.com/1247347556/270472491",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  }
+]

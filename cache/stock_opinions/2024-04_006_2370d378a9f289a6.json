@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f1326c5e-ac7f-4f11-b3e3-670b60c71e8f",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-04-02",
+    "sentiment": "bullish",
+    "summary": "一股未卖，看好未来",
+    "quote": "我们一股都没卖！",
+    "source_file": "2024-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/284660855"
+  },
+  {
+    "id": "dfcb6491-2fea-4c34-b32c-00feea79dc4b",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2024-04-02",
+    "sentiment": "bullish",
+    "summary": "卖出put表达关注",
+    "quote": "卖了100个礼拜五到期的860的put，表达一下关注（包括Ai）。不明觉厉，但确实看到厉害的地方了。",
+    "source_file": "2024-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/284654362"
+  }
+]

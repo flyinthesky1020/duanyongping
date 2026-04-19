@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "重仓不是问题，只要是自己真正懂的公司。",
+    "post_url": "https://xueqiu.com/1247347556/161742544",
+    "post_date": "2020-10-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我觉得企业领导最重要的是建立企业文化，确立什么东西不能做。如何把事情做对当然也很重要，但只要是在坚持做对的事情，时间就会站在你这边。",
+    "post_url": "https://xueqiu.com/1247347556/161696201",
+    "post_date": "2020-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "满仓不是问题，我就是个满仓主义者，大多数情况下都是满仓的，只要不用margin就好。",
+    "post_url": "https://xueqiu.com/1247347556/161695881",
+    "post_date": "2020-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我对短期趋势没概念，觉得短期内啥都可能发生，所以看长远特别重要。",
+    "post_url": "https://xueqiu.com/1247347556/161695881",
+    "post_date": "2020-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没计划买美团，还没时间研究呢。",
+    "post_url": "https://xueqiu.com/1247347556/161695881",
+    "post_date": "2020-10-25",
+    "mentioned_stocks": [
+      "美团"
+    ],
+    "quality_score": 3
+  }
+]

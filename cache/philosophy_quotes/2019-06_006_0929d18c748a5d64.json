@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我们stop doing list上很多事情都是有例子的。记得有次和台湾做代工的一个大佬吃饭聊天，他也问到为什么你们这么厉害，我说因为我们有个\"stop doing list\"...我们之所以成为我们，还因为我们那些不做的事情。",
+    "post_url": "https://xueqiu.com/1247347556/128330566",
+    "post_date": "2019-06-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "产品文化和生意模式都很好。整个企业文化方面茅台由于某些原因要不如苹果，但生意模式的强大能弥补一些。",
+    "post_url": "https://xueqiu.com/1247347556/128387571",
+    "post_date": "2019-06-18",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "产品文化和生意模式都很好。整个企业文化方面茅台由于某些原因要不如苹果，但生意模式的强大能弥补一些。",
+    "post_url": "https://xueqiu.com/1247347556/128387571",
+    "post_date": "2019-06-18",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

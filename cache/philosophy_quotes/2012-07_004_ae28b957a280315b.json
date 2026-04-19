@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "大道这4年里只真正出手了一次...如果大道只敢平均两年出手一次，凭什么“散户”可以出手更多？",
+    "post_url": "https://xueqiu.com/1247347556/22009685",
+    "post_date": "2012-07-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "公司已经把“百亿学而思”的目标变成要做“百年学而思”，把“成为中国中小学培训第一品牌”修改为“成为受尊敬的教育机构”。看来大家的基本功都不是太好啊，不过最后能悟到这点都很了不起。",
+    "post_url": "https://xueqiu.com/1247347556/22022568",
+    "post_date": "2012-07-19",
+    "mentioned_stocks": [
+      "好未来"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "以前看过俞敏洪的演讲，觉得他讲的非常好。但看了王利芬的长达4个小时的采访后，觉得俞离所谓的顶级企业家确实还有点距离，而且这个距离似乎是不会被缩短的。俞其实是个非常好的生意人，但企业大到一定程度后恐怕就有点困难了。",
+    "post_url": "https://xueqiu.com/1247347556/22022700",
+    "post_date": "2012-07-19",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "据说这次银行大跌和降息以及利率市场化有关。因为资金是紧俏商品，利率市场化应该对银行有利才对呀，看不懂。",
+    "post_url": "https://xueqiu.com/1247347556/22009666",
+    "post_date": "2012-07-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

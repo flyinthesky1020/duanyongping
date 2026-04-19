@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "除非你能很确定你未来的收入很稳定，不然还是少借点钱好，和你借钱投什么没任何关系。用margin的人都不傻，但用margin是会上瘾的，直到掉坑里为止。",
+    "post_url": "https://xueqiu.com/1247347556/303184939",
+    "post_date": "2024-08-31",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果是我，我会先还房贷，没必要的压力应该尽量避免。",
+    "post_url": "https://xueqiu.com/1247347556/303124616",
+    "post_date": "2024-08-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没兴趣看这么复杂的东西。",
+    "post_url": "https://xueqiu.com/1247347556/302994623",
+    "post_date": "2024-08-29",
+    "mentioned_stocks": [
+      "迪士尼",
+      "LVMH",
+      "Kering"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "白酒和茅台是一回事儿吗？",
+    "post_url": "https://xueqiu.com/1247347556/303019602",
+    "post_date": "2024-08-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "关我什么事？",
+    "post_url": "https://xueqiu.com/1247347556/302994892",
+    "post_date": "2024-08-29",
+    "mentioned_stocks": [
+      "Apple",
+      "Tencent"
+    ],
+    "quality_score": 3
+  }
+]

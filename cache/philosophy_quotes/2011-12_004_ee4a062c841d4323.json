@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不打算那个价买的化，就不应该卖put，否则买得更便宜有何不好？如果亏了就是亏在基本面上了，和option其实无关。赚这个保费的前提是对公司的确定性认识。",
+    "post_url": "https://xueqiu.com/1247347556/20594825",
+    "post_date": "2011-12-18",
+    "mentioned_stocks": [
+      "分众"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我做的东西和'金融'无关，不需要是高手，但需要了解公司。",
+    "post_url": "https://xueqiu.com/1247347556/20594820",
+    "post_date": "2011-12-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "卖put实际上就是为自己不拥有的东西投保。我只为自己想拥有的股票投保，但次级债是为了自己不想拥有的东西投保，看起来一样的动作，实际上意义完全不一样。",
+    "post_url": "https://xueqiu.com/1247347556/20594840",
+    "post_date": "2011-12-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "卖put的根本道理就这一条，不知道为什么会被人说得那么复杂。你已经很想买正股了，当然不会介意以更便宜的价格买。",
+    "post_url": "https://xueqiu.com/1247347556/20594830",
+    "post_date": "2011-12-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

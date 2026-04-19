@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "感觉产品上腾讯不算多元化的，他们的绝大多数产品间或多或少都是有关联或者是内在关联的。投资上似乎有点散，但仔细一想似乎也大多是有关联的。至少他们不是在追求多元化吧？",
+    "post_url": "https://xueqiu.com/1247347556/116241165",
+    "post_date": "2018-11-03",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "不知道多元化定义是什么，看着像是在同一个老板管理下的业务之间关联度很小的东西。苹果的各业务之间高度关联，显然不是一般所说的多元化。",
+    "post_url": "https://xueqiu.com/1247347556/116230063",
+    "post_date": "2018-11-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

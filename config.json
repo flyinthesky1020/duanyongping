@@ -1,0 +1,7 @@
+{
+  "provider": "openai_compatible",
+  "model": "kimi-k2.5",
+  "api_key": "sk-oUFOtEwb2ZtszyJo8hkKgiUu6ilFv4bZNImxkWXBfjT5K7Zp",
+  "base_url": "https://api.moonshot.cn/v1",
+  "concurrent_workers": 50
+}

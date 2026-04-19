@@ -1,0 +1,25 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "股价能不能再上去其实我是不知道的，但我知道我买的是什么。",
+    "post_url": "https://xueqiu.com/1247347556/20661658",
+    "post_date": "2012-01-09",
+    "mentioned_stocks": [
+      "淘宝",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "本人对GS没了解过，但买GE时确实受到了老巴的影响，不然也许当时就不敢在GE上重仓。",
+    "post_url": "https://xueqiu.com/1247347556/20658145",
+    "post_date": "2012-01-08",
+    "mentioned_stocks": [
+      "GS",
+      "GE",
+      "BAC"
+    ],
+    "quality_score": 4
+  }
+]

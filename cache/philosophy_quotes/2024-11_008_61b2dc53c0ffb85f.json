@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "假话是有短期效应的。",
+    "post_url": "https://xueqiu.com/1247347556/311586569",
+    "post_date": "2024-11-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没用过抖音，不知道区别。",
+    "post_url": "https://xueqiu.com/1247347556/311941692",
+    "post_date": "2024-11-08",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "也许你可以努力找到自己喜欢的事情去做，比如像方丈那样去野营或像我一样去打golf，但你可能需要先想办法授权别人去管你的你的工厂？",
+    "post_url": "https://xueqiu.com/1247347556/311941609",
+    "post_date": "2024-11-08",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "不太可能，社交圈完全不一样。相当于从步行距离到现代交通工具一样，长大后人的活动空间会大很多。",
+    "post_url": "https://xueqiu.com/1247347556/311494347",
+    "post_date": "2024-11-06",
+    "mentioned_stocks": [
+      "小天才"
+    ],
+    "quality_score": 3
+  }
+]

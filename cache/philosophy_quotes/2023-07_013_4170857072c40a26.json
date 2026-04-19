@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我确实不喜欢他们去投资非相关产业的任何东西，我觉得那种钱长期来说不如回购。",
+    "post_url": "https://xueqiu.com/1247347556/254876262",
+    "post_date": "2023-07-05",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "过十年再问这个问题吧。我还没听说过谁拿着茅台10年还亏钱的。",
+    "post_url": "https://xueqiu.com/1247347556/254794021",
+    "post_date": "2023-07-04",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "和行业状元关系不大。这个世界可能有几十几百个甚至更多的行业和行业状元，但商业模式好的凤毛麟角。用找行业状元的办法就会很容易去投那些商业模式不好的\"行业状元\"，那些状元很可能只是昙花一现的辉煌而已。",
+    "post_url": "https://xueqiu.com/1247347556/254550440",
+    "post_date": "2023-07-01",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "最近老能看到苹果车的假新闻甚至假视频，但我依然很难找到苹果会推苹果车的逻辑。苹果车到底能给用户带来什么巨大的用户体验改善呢？",
+    "post_url": "https://xueqiu.com/1247347556/254784505",
+    "post_date": "2023-07-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "作为一个\"坚定\"的\"价值投资者\"，你想问的问题是你投的公司有没有\"投资价值\"吗？这是你在决定投以前就要想清楚的。",
+    "post_url": "https://xueqiu.com/1247347556/254781595",
+    "post_date": "2023-07-04",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

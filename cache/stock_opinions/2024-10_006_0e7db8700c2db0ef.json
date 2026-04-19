@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d9c4fafa-35af-4950-91cf-3b529f4e48f3",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2024-10-22",
+    "sentiment": "bullish",
+    "summary": "卖出put看涨",
+    "quote": "10/30的腾讯406有要的吗？ 我刚才卖了一些10/30到期的410的put，收了4块。",
+    "source_file": "2024-10_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/309129831"
+  }
+]

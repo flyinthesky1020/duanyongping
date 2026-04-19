@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "既然你不在乎护城河，你来浪费我的时间是几个意思？",
+    "post_url": "https://xueqiu.com/1247347556/306744138",
+    "post_date": "2024-10-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "很多年前买过油气指数，后来发现那个东西是有很大时间损耗的，于是赶紧亏钱卖掉了。那时就想，有机会可以买点油气，但是不知道怎么储存。看到老巴买了西方石油后就又想起了当年的愿望：买个油田（或者一部分）是个可以实施的办法。总觉得石油资源是早晚要耗尽的资源，未来会越来越贵，但不知道未来是多久。这次抓到机会买了一点，准备拿个10年20年看看会发生什么。不是很敢重仓，属于亏得起的尝试。",
+    "post_url": "https://xueqiu.com/1247347556/306737048",
+    "post_date": "2024-10-04",
+    "mentioned_stocks": [
+      "西方石油"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "后来发现那个东西是有很大时间损耗的，于是赶紧亏钱卖掉了",
+    "post_url": "https://xueqiu.com/1247347556/306737048",
+    "post_date": "2024-10-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我只投我认为自己能看懂的。只有当你不在乎别人怎么看你看的公司时，哪怕那个人叫巴菲特，那你大概开始知道自己在干嘛了。你看不懂不等于我就看不懂，我认为我懂了也未必就一定懂了。懂不是个绝对的概念，大概就是'毛估估'懂的意思。懂不懂只有自己才知道，任何别人都很难评价。",
+    "post_url": "https://xueqiu.com/1247347556/227378386",
+    "post_date": "2022-08-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "控制风险的最好办法是深入思考。做任何事情最重要的是，你要对它有充分的了解，但是同时你要把握它的风险，就是如果它出现你预料不到的情况，你能不能够承受？",
+    "post_url": "https://xueqiu.com/1247347556/227378386",
+    "post_date": "2022-08-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "最难是什么都不做。懂投资的人的回报未必能一直比市场好，尤其是有时候能力圈内没得可投时。",
+    "post_url": "https://xueqiu.com/1247347556/227378386",
+    "post_date": "2022-08-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "腾讯对我来说确定性确实比苹果小不少，这也是现阶段一直下不了大决心多买的原因。苹果下来的时候我完全不用下决心就能下买单哈。不过，腾讯对我而言依然是非卖品，找到一个商业模式好的公司不容易。",
+    "post_url": "https://xueqiu.com/1247347556/227368626",
+    "post_date": "2022-08-06",
+    "mentioned_stocks": [
+      "腾讯",
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

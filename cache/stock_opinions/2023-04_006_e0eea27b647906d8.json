@@ -1,0 +1,58 @@
+[
+  {
+    "id": "d03b7bc5-4d06-4c47-9800-d4d600212ecc",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2023-04-06",
+    "sentiment": "bullish",
+    "summary": "卖put看涨阿里",
+    "quote": "$阿里巴巴(BABA)$ 开始思考阿里，先卖点put再说。",
+    "source_file": "2023-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": ""
+  },
+  {
+    "id": "5b1a613c-661e-4846-a71e-668dc5a3adbf",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-04-06",
+    "sentiment": "bullish",
+    "summary": "美股主要持仓",
+    "quote": "我的原话是美股主要是苹果，A股主要是茅台，港股主要是腾讯。",
+    "source_file": "2023-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/246748640"
+  },
+  {
+    "id": "62ae8133-1cd8-4c21-aa2c-e819a1716f91",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-04-06",
+    "sentiment": "bullish",
+    "summary": "A股主要持仓",
+    "quote": "我的原话是美股主要是苹果，A股主要是茅台，港股主要是腾讯。",
+    "source_file": "2023-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/246748640"
+  },
+  {
+    "id": "2dc92b29-5585-4afb-8372-74898cb37e54",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2023-04-06",
+    "sentiment": "bullish",
+    "summary": "港股主要持仓",
+    "quote": "我的原话是美股主要是苹果，A股主要是茅台，港股主要是腾讯。",
+    "source_file": "2023-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/246748640"
+  }
+]

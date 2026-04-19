@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c8de09cf-eac5-4090-8dfb-62334d615383",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2021-12-22",
+    "sentiment": "bullish",
+    "summary": "分京东股方式优于出售",
+    "quote": "感觉也不是啥坏事，就是把腾讯对持有的京东直接分给股东，由股东们决定以后是不是要继续持有吧。税的问题有点复杂，要问过税务顾问才知道。这样做也许好过腾讯把持有的公司股票直接卖掉。",
+    "source_file": "2021-12_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/206796629"
+  },
+  {
+    "id": "897b9cce-d875-4e8e-8a2f-a8bc201375f2",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2021-12-22",
+    "sentiment": "bullish",
+    "summary": "茅台仍有潜在价值",
+    "quote": "这里不合理的地方是零售价过低了，但又不知道该怎么涨。这也从侧面说明茅台还有潜在价值。",
+    "source_file": "2021-12_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/206641841"
+  }
+]

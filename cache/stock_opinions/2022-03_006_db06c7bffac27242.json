@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0cc4c94f-e41b-49ab-8928-b87e4011ff6b",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-03-13",
+    "sentiment": "bullish",
+    "summary": "考虑再买点腾讯",
+    "quote": "目前似乎闲钱也花得差不多了，但再过一两个礼拜，应该还有些苹果的put到期，到时可以考虑再买点",
+    "source_file": "2022-03_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/213963887"
+  }
+]

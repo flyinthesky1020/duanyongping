@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "实际情况多数可能会是因为在某个地方成功了，所以就觉得自己很厉害，想做更多的事情，不小心就跑到能力圈外面去了。有时候试一试也没啥错，所以这里其实还是蛮难划一条特别清楚的界限的。很多人的所谓多元化大概都是因为生意而去的，什么好赚钱就跟着去做点啥，和自己原来的用户群没啥关系。",
+    "post_url": "https://xueqiu.com/1247347556/117110260",
+    "post_date": "2018-11-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "很多人的所谓多元化大概都是因为生意而去的，什么好赚钱就跟着去做点啥，和自己原来的用户群没啥关系。举个例子：如果腾讯开始做房地产了，那就叫多元化，但如果他们买块地给自己员工盖宿舍或建自己的办公楼就不算。又比如有个群众因为自己爱好开了个网站，虽然和他以前干的事情不完全一样，也不知道在不在自己的能力圈内，所以依然不算是多元化，但可以叫做创业了。",
+    "post_url": "https://xueqiu.com/1247347556/117110260",
+    "post_date": "2018-11-20",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "关键是东西越来越好用，换机频率也在下降，而且老机器的使用寿命也非常长，到现在还能看到有人在用iPhone5/6。不过，活跃用户量还会持续成长一段时间的，但每年总销量的增长很可能会放缓。",
+    "post_url": "https://xueqiu.com/1247347556/117452920",
+    "post_date": "2018-11-27",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "OPPO就是OPPO，不想借别人的光。",
+    "post_url": "https://xueqiu.com/1247347556/117055744",
+    "post_date": "2018-11-19",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 4
+  }
+]

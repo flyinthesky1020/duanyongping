@@ -1,0 +1,44 @@
+[
+  {
+    "id": "d709a34f-879f-4138-aa05-2a516d7fc4bd",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-12-30",
+    "sentiment": "bullish",
+    "summary": "买入苹果正股",
+    "quote": "最近又陆陆续续买了苹果正股再卖call，因此积攒的t-bill的量大幅减少了。",
+    "source_file": "2023-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/273037512"
+  },
+  {
+    "id": "868fe684-4815-4213-8020-d66562d12992",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2023-12-30",
+    "sentiment": "bullish",
+    "summary": "看好腾讯长期",
+    "quote": "腾讯跟茅台都属于很不错的公司，你长期持有它们而亏了很多钱，原因可能有两个：买贵了、股价出现了非理性的波动（跌得太便宜了）。",
+    "source_file": "2023-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/273040219"
+  },
+  {
+    "id": "fd395b72-3b9c-4357-af89-4e811bcb5f70",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-12-30",
+    "sentiment": "bullish",
+    "summary": "看好茅台长期",
+    "quote": "腾讯跟茅台都属于很不错的公司，你长期持有它们而亏了很多钱，原因可能有两个：买贵了、股价出现了非理性的波动（跌得太便宜了）。",
+    "source_file": "2023-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/273040219"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "所谓要坚持做正确的事情其实就是发现错了就要坚决停止，明知是错的东西就要坚决不做，面临决策时首先考虑是非和长远而不是短期的眼前的利益。很多年后你就会体会到这样做的区别了。",
+    "post_url": "https://xueqiu.com/1247347556/123927521",
+    "post_date": "2019-03-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "FB原来的使命是“连接世界”但没有注意隐私，现在使命不变但注重隐私已经是前提了。",
+    "post_url": "https://xueqiu.com/1247347556/123932735",
+    "post_date": "2019-03-27",
+    "mentioned_stocks": [
+      "FB"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你用10年的角度看其实答案非常明显，不是吗？",
+    "post_url": "https://xueqiu.com/1247347556/123927765",
+    "post_date": "2019-03-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "好公司犯错误时往往是买入的机会。",
+    "post_url": "https://xueqiu.com/1247347556/123932735",
+    "post_date": "2019-03-27",
+    "mentioned_stocks": [
+      "FB"
+    ],
+    "quality_score": 4
+  }
+]

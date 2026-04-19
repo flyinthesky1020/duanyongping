@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e8ec6bc5-5b3e-4c78-84cb-5ec99b87bda2",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-05-01",
+    "sentiment": "bullish",
+    "summary": "看好茅台长期价值",
+    "quote": "茅台10%的平均成长很可能低估了。假如你有一笔现金，长期没有使用计划，你觉得投在哪里最舒服（合算）？",
+    "source_file": "2022-05_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/218927820"
+  }
+]

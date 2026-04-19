@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "如果卖的时候有承诺就应该这么做。对房地产这么做是啥意思不太明白。如果是表示以后也会这么做就很好，不然就是噱头。噱头的东西未来都是要吃苦头地。",
+    "post_url": "https://xueqiu.com/1247347556/20592648",
+    "post_date": "2011-12-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "没有比有钱人违法再愚蠢的事情了。",
+    "post_url": "https://xueqiu.com/1247347556/20592638",
+    "post_date": "2011-12-16",
+    "mentioned_stocks": [
+      "uhal"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我看不懂微博的商业模式，但觉得如果懂的人现在是个机会。",
+    "post_url": "https://xueqiu.com/1247347556/20592602",
+    "post_date": "2011-12-16",
+    "mentioned_stocks": [
+      "新浪(SINA)"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "耍滑头的结局都会是杯具。",
+    "post_url": "https://xueqiu.com/1247347556/20590508",
+    "post_date": "2011-12-15",
+    "mentioned_stocks": [
+      "苹果(AAPL)"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我一直觉得腾讯是不错的公司啊，就是不小心错过了不错的价钱。",
+    "post_url": "https://xueqiu.com/1247347556/20590408",
+    "post_date": "2011-12-15",
+    "mentioned_stocks": [
+      "腾讯控股(00700)"
+    ],
+    "quality_score": 3
+  }
+]

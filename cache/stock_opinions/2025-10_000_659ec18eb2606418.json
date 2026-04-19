@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5f03ee6c-c4bd-4093-8979-f9ee3a5b87f9",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-10-31",
+    "sentiment": "bullish",
+    "summary": "投苹果比例更高",
+    "quote": "其实老巴比绝大多数人懂苹果，不然他不会买了那么多的。当然，我要更懂一点点，所以投的比例也更高。",
+    "source_file": "2025-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/359410800"
+  }
+]

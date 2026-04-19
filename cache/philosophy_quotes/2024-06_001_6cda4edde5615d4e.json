@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "We don't know what we don't know.",
+    "post_url": "https://xueqiu.com/1247347556/295669473",
+    "post_date": "2024-06-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "Vision Pro对喜欢他的用户而言是个“nice to have”的产品，而 iPhone 则是 “must have”。Vision Pro要上升到“must have”我猜可能需要10年。",
+    "post_url": "https://xueqiu.com/1247347556/295672461",
+    "post_date": "2024-06-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

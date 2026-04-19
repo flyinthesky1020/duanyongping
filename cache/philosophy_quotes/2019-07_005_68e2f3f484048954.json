@@ -1,0 +1,49 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我在雪球关注的股票有很多，绝大部分都没真的关注过。",
+    "post_url": "https://xueqiu.com/1247347556/129673571",
+    "post_date": "2019-07-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不太看得懂这类问题，很多名词到底是怎么定义的我都搞不清楚，堆在一起就更不明白了。",
+    "post_url": "https://xueqiu.com/1247347556/129672047",
+    "post_date": "2019-07-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "想学会看年报应该不难，但我投资以来就没看认真看过任何年报。一般对我而言，是不是好公司在看年报以前就应该知道了。当然，我的懒人办法未必适合于别人。",
+    "post_url": "https://xueqiu.com/1247347556/129641765",
+    "post_date": "2019-07-14",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "两家好公司之间要不要换来换去取决于你自己更了解哪家而不是别人觉得哪家好。",
+    "post_url": "https://xueqiu.com/1247347556/129612171",
+    "post_date": "2019-07-14",
+    "mentioned_stocks": [
+      "FB",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我觉得根本就不该有赠品，如果有就应该是一种标准。问题反映中。",
+    "post_url": "https://xueqiu.com/1247347556/129612383",
+    "post_date": "2019-07-14",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 4
+  }
+]

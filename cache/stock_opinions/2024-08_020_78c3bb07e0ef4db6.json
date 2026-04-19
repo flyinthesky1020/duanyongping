@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8c99d982-cc68-47cc-a786-c1cb3fe4d0f3",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-08-04",
+    "sentiment": "bullish",
+    "summary": "无减持计划，看好长期",
+    "quote": "我没有减持计划，除非被call走了。主要是目前卖了以后不知道还能买什么。而且我觉得长期来说，我能接受苹果未来能给我带来的回报。",
+    "source_file": "2024-08_batch020",
+    "source_type": "xueqiu",
+    "chunk_index": 20,
+    "url": "https://xueqiu.com/1247347556/299819603"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6c9935ea-e134-48a4-b28d-7ca02566db22",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-09-28",
+    "sentiment": "bullish",
+    "summary": "欢迎股价下跌",
+    "quote": "太吓人了，苹果居然掉了两块钱？！这样掉下去，苹果回购的价钱越来越低，股东们持有的比例越来越高，真是太吓人了哈",
+    "source_file": "2023-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/262254202"
+  }
+]

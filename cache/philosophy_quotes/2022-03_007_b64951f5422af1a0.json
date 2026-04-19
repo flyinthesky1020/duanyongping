@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "打心底认同的人是不会到处问的，心里没底才会。",
+    "post_url": "https://xueqiu.com/1247347556/214203303",
+    "post_date": "2022-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "你忽略物价局了。茅台的价不是想涨就能涨的。",
+    "post_url": "https://xueqiu.com/1247347556/213968958",
+    "post_date": "2022-03-13",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "It’s a good game! If you are doing right, you’ll get there eventually.",
+    "post_url": "https://xueqiu.com/1247347556/213972115",
+    "post_date": "2022-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

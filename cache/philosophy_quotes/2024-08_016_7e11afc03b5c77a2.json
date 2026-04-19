@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "很久以前听说搜索质量取决于data base，所以用的人越多搜索效果就越好，这也是微软的Bing没办法赶上Goog的原因。这点ai实际上也改变不了吧？我要是能确定Ai改变不了我就愿意再多买goog，但我确实不确定这点。",
+    "post_url": "https://xueqiu.com/1247347556/300612546",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "Google",
+      "微软"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "也许“长期投资”这个说法有点问题，叫“投资长期”似乎不容易误解。",
+    "post_url": "https://xueqiu.com/1247347556/300611854",
+    "post_date": "2024-08-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "投资的基本功其实就是看懂企业，看懂生意，无他。",
+    "post_url": "https://xueqiu.com/1247347556/300605840",
+    "post_date": "2024-08-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

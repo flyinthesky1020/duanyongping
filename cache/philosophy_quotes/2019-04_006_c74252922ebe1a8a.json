@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "如果茅台的企业文化不够好的话，茅台走不到今天的。这不等于说茅台没一点问题。企业文化不好的公司，好的商业模式早晚是维持不了的。",
+    "post_url": "https://xueqiu.com/1247347556/125554574",
+    "post_date": "2019-04-24",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果每个人能根据自己的情况，想想10年20年后回过头来看什么是最佳方案，也许多数人会做出比较好的选择的。",
+    "post_url": "https://xueqiu.com/1247347556/125534316",
+    "post_date": "2019-04-24",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看好行业是件很困难的事情，正如我们不能说我们看好互联网行业，只要你知道那些没活到最后的企业有多大比例的话。",
+    "post_url": "https://xueqiu.com/1247347556/125532914",
+    "post_date": "2019-04-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "抄底不好玩吧？",
+    "post_url": "https://xueqiu.com/1247347556/125533198",
+    "post_date": "2019-04-24",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

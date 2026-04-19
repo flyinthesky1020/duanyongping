@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "没什么比看图看线更难的了。",
+    "post_url": "https://xueqiu.com/1247347556/250039203",
+    "post_date": "2023-05-10",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你可能专注于猜市场很多年了。试试以后忘记市场，专注研究企业？辣么多人专注于研究市场几十年都退不了休，你也许可以想想为什么？",
+    "post_url": "https://xueqiu.com/1247347556/250038246",
+    "post_date": "2023-05-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你先看完过去十多年苹果的产品发布会吧，不然讲什么也是白讲。",
+    "post_url": "https://xueqiu.com/1247347556/250039100",
+    "post_date": "2023-05-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

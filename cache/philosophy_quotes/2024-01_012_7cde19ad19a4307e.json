@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "用来卖put的部分是很小的娱乐部分。当然，不懂的话，“娱乐”部分很可能会变得一点都不好玩。",
+    "post_url": "https://xueqiu.com/1247347556/273593143",
+    "post_date": "2024-01-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我是一个满仓主义者，我管的投资里美股主要在苹果，A股主要在茅台，港股主要是腾讯。",
+    "post_url": "https://xueqiu.com/1247347556/273593143",
+    "post_date": "2024-01-04",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "$Peloton Interactive(PTON)$ 我试过这家产品，好像没啥特别的。",
+    "post_url": "https://xueqiu.com/1247347556/273598158",
+    "post_date": "2024-01-04",
+    "mentioned_stocks": [
+      "Peloton Interactive"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "看着苹果涨上去的时候还是有点小担心的，感觉非要努力找到别的目标才好。还好苹果又回来了，估计下一年的小日子应该也还过得去了。",
+    "post_url": "https://xueqiu.com/1247347556/273591011",
+    "post_date": "2024-01-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

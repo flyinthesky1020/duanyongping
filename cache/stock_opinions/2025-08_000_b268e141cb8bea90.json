@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3be73aea-c469-4a4e-9985-42d1cd1b2bb8",
+    "stock": "Palantir",
+    "ticker": "PLTR",
+    "market": "US",
+    "date": "2025-08-31",
+    "sentiment": "bearish",
+    "summary": "不建议碰,太贵",
+    "quote": "我觉得目前太贵了，至少机会成本很高，我不建议碰。现阶段蚂蚁熊兵很厉害，小心点比较好。",
+    "source_file": "2025-08_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/348588330"
+  }
+]

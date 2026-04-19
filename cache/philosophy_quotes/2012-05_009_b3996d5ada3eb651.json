@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "要学会什么是好生意，最好的办法就是去做个生意，别的办法都要比这个慢而且不扎实。",
+    "post_url": "https://xueqiu.com/1247347556/21794071",
+    "post_date": "2012-05-10",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我说的是别人在这么“估”，和我没关系。我只考虑拥有这个生意的代价和回报，市场怎么反应是别人的事。",
+    "post_url": "https://xueqiu.com/1247347556/21790265",
+    "post_date": "2012-05-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

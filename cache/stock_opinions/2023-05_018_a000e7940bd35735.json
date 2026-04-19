@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3e9357c5-4813-4fdb-93db-d1b0a9a2856c",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-05-08",
+    "sentiment": "bullish",
+    "summary": "苹果是好生意",
+    "quote": "回复@学习守财: 苹果啊！//@学习守财:回复@用户9095991473:对好生意的要求大道是有点高，符合大道对好生意理解少之又少，那么大道对好生意的判断要求？",
+    "source_file": "2023-05_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/249801510"
+  }
+]

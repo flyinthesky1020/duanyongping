@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6272862e-b4a8-44c1-b3aa-55600b0e96f6",
+    "stock": "伯克希尔哈撒韦",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2019-03-15",
+    "sentiment": "bullish",
+    "summary": "建议买入Brk",
+    "quote": "那你可以买Brka/b,然后好好做你的生意去",
+    "source_file": "2019-03_batch022",
+    "source_type": "xueqiu",
+    "chunk_index": 22,
+    "url": "https://xueqiu.com/1247347556/123086470"
+  }
+]

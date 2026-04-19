@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂医药股，也不太看老巴买什么。",
+    "post_url": "https://xueqiu.com/1247347556/165041234",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解这个行业，直觉上觉得是个苦生意。",
+    "post_url": "https://xueqiu.com/1247347556/165042978",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不懂医药股，也不太看老巴买什么。",
+    "post_url": "https://xueqiu.com/1247347556/165041234",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不了解这个行业，直觉上觉得是个苦生意。",
+    "post_url": "https://xueqiu.com/1247347556/165042978",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我不知道苹果在搞什么，但确实相信苹果产品最终都会是精品。",
+    "post_url": "https://xueqiu.com/1247347556/165041274",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

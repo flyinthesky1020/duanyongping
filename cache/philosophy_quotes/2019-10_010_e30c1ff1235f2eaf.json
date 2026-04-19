@@ -1,0 +1,91 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "护城河就是竞争优势，好的商业模式一般都有很强大的护城河。护城河不是一成不变的，看懂护城河对投资很重要。企业文化对建立和维护护城河有不可或缺的作用。",
+    "post_url": "https://xueqiu.com/1247347556/133628192",
+    "post_date": "2019-10-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "企业文化来自创始人，不是做出来的。好的企业文化就是做对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/133614442",
+    "post_date": "2019-10-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我从来没认为我投网易是逆向投资，我投苹果或茅台也不是为求稳。我投资的标准非常简单，就是在我自己能理解的范围内找长期回报较高的公司去持有。",
+    "post_url": "https://xueqiu.com/1247347556/133614442",
+    "post_date": "2019-10-02",
+    "mentioned_stocks": [
+      "网易",
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没看懂的公司比较容易鉴别，就是股价一掉你就想卖，涨一点点你也想卖的那种。看懂的那种大概就是怎么涨你都不想卖，大掉时你会全力再买进的那种。我的意思是看懂并买进的那种公司最好的状态就是不想卖。",
+    "post_url": "https://xueqiu.com/1247347556/133614442",
+    "post_date": "2019-10-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "估值高了卖，等估值低了再买，我也想这样做，谁不想赚差价啊，但这么做的结果基本上都是瞎忙半天还少赚了，所以以后就不再想干这种事情了。知其不可为也很重要。",
+    "post_url": "https://xueqiu.com/1247347556/133614442",
+    "post_date": "2019-10-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "会赚钱的公司指的是能够长期赚钱的公司，这些公司往往有着利益之上的考量和追求。",
+    "post_url": "https://xueqiu.com/1247347556/133614442",
+    "post_date": "2019-10-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我现在也会每天看下股价，但心情不会受不好的影响。掉很多我会想着有没有机会加仓，涨很多我也可以开心一下嘛，所以涨跌都是好事。",
+    "post_url": "https://xueqiu.com/1247347556/133614442",
+    "post_date": "2019-10-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我认为长期来讲，苹果未来赚的钱只会比现在多。不需要算的公司我才投的。",
+    "post_url": "https://xueqiu.com/1247347556/133614442",
+    "post_date": "2019-10-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这两个公司都不错，买什么或怎么分配取决于自己更了解哪个公司。",
+    "post_url": "https://xueqiu.com/1247347556/133627957",
+    "post_date": "2019-10-03",
+    "mentioned_stocks": [
+      "苹果",
+      "FB"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不贪则很难被骗哈，如果只是想着赚快钱有时候是危险的。",
+    "post_url": "https://xueqiu.com/1247347556/133629560",
+    "post_date": "2019-10-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

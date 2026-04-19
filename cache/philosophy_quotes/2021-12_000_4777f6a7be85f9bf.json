@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得苹果应该是非卖品，最好别卖，不然很难找到类似的好公司买。茅台基本同理。这两家公司拿着长期而言大概率是可以抗通胀的。我觉得可乐不如苹果，我跟老巴也说过我的这个观点，就是苹果的护城河比可口可乐宽。",
+    "post_url": "https://xueqiu.com/1247347556/207531139",
+    "post_date": "2021-12-30",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "可口可乐"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "90%的身家都在一家公司了，那一定很懂这家公司吧？我不能就拼多多提供意见，因为我还不太理解拼多多的商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/207530572",
+    "post_date": "2021-12-30",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得从现在往后10年看，拿着苹果战胜通胀应该还是大概率事件",
+    "post_url": "https://xueqiu.com/1247347556/207530572",
+    "post_date": "2021-12-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这个逻辑不一定对，那么多人在直播，为什么薇娅那么厉害？这个有点像董明珠觉得自己卖手机也一定行的味道，这种自信很可能是来自于不了解。",
+    "post_url": "https://xueqiu.com/1247347556/207533082",
+    "post_date": "2021-12-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

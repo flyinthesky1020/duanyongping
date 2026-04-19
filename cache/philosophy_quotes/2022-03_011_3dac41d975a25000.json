@@ -1,0 +1,56 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "从200多掉到现在我也没有任何想法想多买点，因为一直没看懂商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/213365538",
+    "post_date": "2022-03-07",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "理性就是想长远啊。",
+    "post_url": "https://xueqiu.com/1247347556/213362170",
+    "post_date": "2022-03-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不用margin就不用害怕，不然就祝你好运了。",
+    "post_url": "https://xueqiu.com/1247347556/213360485",
+    "post_date": "2022-03-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "一般来讲，当我买一只股票时，一定会有个买的理由，同时也要看到负面的东西。当买的理由消失了或重要的负面东西增加到我不能接受的时候，我就会离场。太贵了有时会成为离场的理由",
+    "post_url": "https://xueqiu.com/1247347556/213438423",
+    "post_date": "2022-03-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你买的是公司的话，股价掉对你的影响是什么？如果你买的不是公司的话，那你买的是什么？举个小李子，对，就是真的很帅的那个。比如苹果的股价掉了，但盈利不变，那同样盈利可以回购的股数就多了。",
+    "post_url": "https://xueqiu.com/1247347556/213365100",
+    "post_date": "2022-03-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "比如苹果的股价掉了，但盈利不变，那同样盈利可以回购的股数就多了。",
+    "post_url": "https://xueqiu.com/1247347556/213365100",
+    "post_date": "2022-03-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

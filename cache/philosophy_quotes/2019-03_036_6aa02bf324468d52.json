@@ -1,0 +1,72 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我投资也犯过错，以后也还会犯。以前犯错可能是因为做了错的事情，也可能是在做对的事情过程中犯的错。以后我犯的错的大概绝大多数会是把事情做对的能力上的问题。",
+    "post_url": "https://xueqiu.com/1247347556/122931024",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我投资也犯过错，以后也还会犯。以前犯错可能是因为做了错的事情，也可能是在做对的事情过程中犯的错。以后我犯的错的大概绝大多数会是把事情做对的能力上的问题。",
+    "post_url": "https://xueqiu.com/1247347556/122931024",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "一般从三个方面：商业模式，企业文化，以及买入价钱。这里买入价钱其实没那么重要。",
+    "post_url": "https://xueqiu.com/1247347556/122926770",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "一般从三个方面：商业模式，企业文化，以及买入价钱。这里买入价钱其实没那么重要。",
+    "post_url": "https://xueqiu.com/1247347556/122926770",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "一般从三个方面：商业模式，企业文化，以及买入价钱。这里买入价钱其实没那么重要。",
+    "post_url": "https://xueqiu.com/1247347556/122926770",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "投入全副身家去买一家公司的前提是你自己已经认为你足够了解这家公司了。这家公司我不了解，提不了建议。",
+    "post_url": "https://xueqiu.com/1247347556/122923907",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解格力。",
+    "post_url": "https://xueqiu.com/1247347556/122926114",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [
+      "格力"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我买茅台或苹果不是因为他们分红，而是因为他们是好公司。腾讯同理。",
+    "post_url": "https://xueqiu.com/1247347556/122928644",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 4
+  }
+]

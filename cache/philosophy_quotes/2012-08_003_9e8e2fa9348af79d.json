@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "都不知道是啥就感兴趣？",
+    "post_url": "https://xueqiu.com/1247347556/22099184",
+    "post_date": "2012-08-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "那特斯拉是干啥的？",
+    "post_url": "https://xueqiu.com/1247347556/22078552",
+    "post_date": "2012-08-03",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我没有减持计划，除非被call走了。主要是目前卖了以后不知道还能买什么。而且我觉得长期来说，我能接受苹果未来能给我带来的回报。",
+    "post_url": "https://xueqiu.com/1247347556/299819603",
+    "post_date": "2024-08-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买call赌财报是件非常困难的事情。",
+    "post_url": "https://xueqiu.com/1247347556/299779342",
+    "post_date": "2024-08-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "主要是目前卖了以后不知道还能买什么。",
+    "post_url": "https://xueqiu.com/1247347556/299819603",
+    "post_date": "2024-08-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不用margin买了自己喜欢的生意，为什么会焦虑？苹果掉的时候我会焦虑吗？茅台掉了这么多我会焦虑吗？当你觉得焦虑的时候就说明你没搞懂",
+    "post_url": "https://xueqiu.com/1247347556/300424345",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "苹果",
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不用margin买了自己喜欢的生意，为什么会焦虑？",
+    "post_url": "https://xueqiu.com/1247347556/300424345",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我在决定买茅台时就知道茅台的优点和缺点了。我猜到这种事情早晚会发生的，只是不知道什么时候而已。那些因此雀跃的股东们高兴的是什么呢？希望股价大涨然后卖掉吗？如果不卖的话，以后分红的钱又少了一个去处，多烦？",
+    "post_url": "https://xueqiu.com/1247347556/300430439",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "大道其实也很没耐心，也很想赚快钱。理性应该是思考的结果，耐心感觉像是个性或者叫性格。",
+    "post_url": "https://xueqiu.com/1247347556/300423173",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "大概是怕经济下滑导致以后喝不起茅台了吧？我觉得如果经济下滑的话，短期是会有点影响的，但过些年年份酒的利润会更好哈。",
+    "post_url": "https://xueqiu.com/1247347556/300416308",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

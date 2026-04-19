@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "是的，是建立在想透了生意的基础上。当然，以为想透了不等于就真的想透了。",
+    "post_url": "https://xueqiu.com/1247347556/256224883",
+    "post_date": "2023-07-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "赌一般指的是48%赢面的下注，90%以上赢面的下注我一般称之为投资。",
+    "post_url": "https://xueqiu.com/1247347556/256234951",
+    "post_date": "2023-07-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不想把大家引入歧途。我不靠卖option赚钱，确实只是好玩（是个能赚钱但会少赚钱的办法）。我这十年赚钱的办法非常简单，就是买了苹果。",
+    "post_url": "https://xueqiu.com/1247347556/256231210",
+    "post_date": "2023-07-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这是我的期望值，我管投资这二十年的实际结果要比这个好一些。",
+    "post_url": "https://xueqiu.com/1247347556/256239263",
+    "post_date": "2023-07-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我管的投资如果能有年化12%我就满意了，这个做法大概率可以满足这点。",
+    "post_url": "https://xueqiu.com/1247347556/256224883",
+    "post_date": "2023-07-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

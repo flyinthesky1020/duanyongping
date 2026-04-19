@@ -1,0 +1,59 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "1年10倍，10年2倍，先激进后保守很可能是个事实。因为谁不想1年10倍啊，把钱亏得差不多后自然就想1年2倍了吧？能1年10倍的人第二年肯定也是想10倍的。",
+    "post_url": "https://xueqiu.com/1247347556/379523239",
+    "post_date": "2026-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "确实没必要比较，我反映一下。",
+    "post_url": "https://xueqiu.com/1247347556/380043548",
+    "post_date": "2026-03-18",
+    "mentioned_stocks": [
+      "OPPO",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "有一天我们也有可能在这个行业生存不下去的，gphone的差异化未来会越来越难。当然，我们也有可能会成为生存下来的不多的几家之一。",
+    "post_url": "https://xueqiu.com/1247347556/379249751",
+    "post_date": "2026-03-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "看上去这种稳赚5%的生意是有大把人抢的，茅台是先把这个机会给老经销商的意思？",
+    "post_url": "https://xueqiu.com/1247347556/379416263",
+    "post_date": "2026-03-13",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂电力行业。",
+    "post_url": "https://xueqiu.com/1247347556/380043370",
+    "post_date": "2026-03-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "OEM也有做得很好的，比如台积电。关键还是看你自己擅长什么。",
+    "post_url": "https://xueqiu.com/1247347556/380043333",
+    "post_date": "2026-03-18",
+    "mentioned_stocks": [
+      "台积电"
+    ],
+    "quality_score": 4
+  }
+]

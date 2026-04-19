@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "神华看上去有点吸引力，但我对能源产业不是太了解。",
+    "post_url": "https://xueqiu.com/1247347556/163440235",
+    "post_date": "2020-11-16",
+    "mentioned_stocks": [
+      "神华"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "想学就可以，只要努力看远一点就好。",
+    "post_url": "https://xueqiu.com/1247347556/163440212",
+    "post_date": "2020-11-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "除非你知道你在等什么，否则你在等什么",
+    "post_url": "https://xueqiu.com/1247347556/163341660",
+    "post_date": "2020-11-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "纠结买点，也是没看懂的表现，否则你在纠结啥？也应列入stop doinglist",
+    "post_url": "https://xueqiu.com/1247347556/163341660",
+    "post_date": "2020-11-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我总有一天会全仓S&P500的，但目前还没买过，因为我觉得我还可以比S&P500表现好一点点。等库克退休后我就开始考虑如何转到S&P500的。",
+    "post_url": "https://xueqiu.com/1247347556/240171024",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我觉得我还可以比S&P500表现好一点点。",
+    "post_url": "https://xueqiu.com/1247347556/240171024",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "等库克退休后我就开始考虑如何转到S&P500的。",
+    "post_url": "https://xueqiu.com/1247347556/240171024",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "步步高的促销别动队确实有过莫名其妙加班加点的时期，被我无意发现后马上叫停了。当时别动队的主管跟我说，昨天晚上加班到两点多，今天一早大家就又投入工作了。我问，有什么紧急的事情吗？得到的回答是：我们日常工作就是这样。我马上问：你打算干多久？这么工作，谁也不可能坚持太久的！",
+    "post_url": "https://xueqiu.com/1247347556/240168173",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [
+      "步步高"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "步步高的促销别动队确实有过莫名其妙加班加点的时期，被我无意发现后马上叫停了。当时别动队的主管跟我说，昨天晚上加班到两点多，今天一早大家就又投入工作了。我问，有什么紧急的事情吗？得到的回答是：我们日常工作就是这样。我马上问：你打算干多久？这么工作，谁也不可能坚持太久的！",
+    "post_url": "https://xueqiu.com/1247347556/240168173",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [
+      "步步高"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "被我无意发现后马上叫停了。当时别动队的主管跟我说，昨天晚上加班到两点多，今天一早大家就又投入工作了。我问，有什么紧急的事情吗？得到的回答是：我们日常工作就是这样。我马上问：你打算干多久？这么工作，谁也不可能坚持太久的！",
+    "post_url": "https://xueqiu.com/1247347556/240168173",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [
+      "步步高"
+    ],
+    "quality_score": 4
+  }
+]

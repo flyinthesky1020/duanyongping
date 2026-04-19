@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "越是迷惘的时候越是要往远处看，10年20年后会是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/126992500",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "勿以恶小而为之。",
+    "post_url": "https://xueqiu.com/1247347556/126991393",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我也不明白，但我也不会买这种高负债的公司。",
+    "post_url": "https://xueqiu.com/1247347556/126992569",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [
+      "绿城中国"
+    ],
+    "quality_score": 3
+  }
+]

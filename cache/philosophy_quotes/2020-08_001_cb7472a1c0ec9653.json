@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "持有=买入，目前这个价位让我买入确实蛮难的，直接卖出也还有点难，就卖个call吧。",
+    "post_url": "https://xueqiu.com/1247347556/157471868",
+    "post_date": "2020-08-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "忍不住想起苹果好几年前有几年的PE在扣掉现金后只有6-7倍的样子，那时候流传着“树能长到天上去？” “苹果已经没有了创新”。",
+    "post_url": "https://xueqiu.com/1247347556/157471868",
+    "post_date": "2020-08-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "持有=买入，目前这个价位让我买入确实蛮难的，直接卖出也还有点难，就卖个call吧。",
+    "post_url": "https://xueqiu.com/1247347556/157471868",
+    "post_date": "2020-08-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我也觉得西南航空公司是最优秀的航空公司，但依然觉得他们未来的日子不好过。",
+    "post_url": "https://xueqiu.com/1247347556/156918135",
+    "post_date": "2020-08-17",
+    "mentioned_stocks": [
+      "西南航空"
+    ],
+    "quality_score": 4
+  }
+]

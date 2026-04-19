@@ -1,0 +1,59 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你不妨分一半去买那些你搞不懂的东西，反正你至少有一半的钱长期看来回报应该还可以。",
+    "post_url": "https://xueqiu.com/1247347556/327592071",
+    "post_date": "2025-03-16",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "到1400你也没买，到1000你也不会买的。因为到了1000的时候，看着就像要到500的样子。看不懂公司的炒票是件很折磨人的事情吧？",
+    "post_url": "https://xueqiu.com/1247347556/327460037",
+    "post_date": "2025-03-14",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "是非问题都是大问题。",
+    "post_url": "https://xueqiu.com/1247347556/327484842",
+    "post_date": "2025-03-14",
+    "mentioned_stocks": [
+      "VIVO"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "定投不用margin就好，这是个省心的办法，以十年为周期来看你大概率是可以战胜通胀的。",
+    "post_url": "https://xueqiu.com/1247347556/327514932",
+    "post_date": "2025-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "定投不用margin就好，这是个省心的办法，以十年为周期来看你大概率是可以战胜通胀的。",
+    "post_url": "https://xueqiu.com/1247347556/327514932",
+    "post_date": "2025-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "没事，你拿利息我拿股息就好。",
+    "post_url": "https://xueqiu.com/1247347556/327479116",
+    "post_date": "2025-03-14",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

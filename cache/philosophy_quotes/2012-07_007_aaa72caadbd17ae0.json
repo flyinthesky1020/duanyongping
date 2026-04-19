@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "android phone的量应该比iphone还大，但app上花的钱只有iphone的30分之一，这是没法逆转的了。",
+    "post_url": "https://xueqiu.com/1247347556/21998715",
+    "post_date": "2012-07-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太关注技术的，不太清楚你问的东西。",
+    "post_url": "https://xueqiu.com/1247347556/21978011",
+    "post_date": "2012-07-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解动向，但跟陈义红是以前的球友。",
+    "post_url": "https://xueqiu.com/1247347556/21973058",
+    "post_date": "2012-07-05",
+    "mentioned_stocks": [
+      "中国动向"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "国营企业如果碰上类似格力董姐这种还是可以好一段时间的，但没有持续的好办法。",
+    "post_url": "https://xueqiu.com/1247347556/21972590",
+    "post_date": "2012-07-05",
+    "mentioned_stocks": [
+      "格力"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "不是很了解广药的治理结构和文化。但如果机制不对，即使像塔山这样的东西也会不行的。",
+    "post_url": "https://xueqiu.com/1247347556/21972587",
+    "post_date": "2012-07-05",
+    "mentioned_stocks": [
+      "广药"
+    ],
+    "quality_score": 4
+  }
+]

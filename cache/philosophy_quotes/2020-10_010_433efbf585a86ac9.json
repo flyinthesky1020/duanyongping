@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "看上去你也就这条路了吧？最好别再借钱了。",
+    "post_url": "https://xueqiu.com/1247347556/161507791",
+    "post_date": "2020-10-22",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我最大的弱点可能是个子比较矮，所以就不打篮球呗。",
+    "post_url": "https://xueqiu.com/1247347556/161456976",
+    "post_date": "2020-10-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "指示,指导, 协商,授权,放权，never out of control。",
+    "post_url": "https://xueqiu.com/1247347556/161432590",
+    "post_date": "2020-10-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d83f96ed-be52-4628-b293-55d647acfac5",
+    "stock": "美团",
+    "ticker": "3690.HK",
+    "market": "HK",
+    "date": "2020-10-09",
+    "sentiment": "bullish",
+    "summary": "打算投资美团",
+    "quote": "我没投美团，目前也打算投，只是开始关注这家公司。",
+    "source_file": "2020-10_batch031",
+    "source_type": "xueqiu",
+    "chunk_index": 31,
+    "url": "https://xueqiu.com/1247347556/160631142"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "需要看书去学本分的人都是功利的，逻辑上我很难想出例外。学也好、教也罢，功利之心是分不清是非对错的。",
+    "post_url": "https://xueqiu.com/1247347556/251303758",
+    "post_date": "2023-05-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太理解日本商社的商业模式，感觉是个日本文化的产物，别的地方没见过成功的例子。不知道是不是有点像20-30年前满地的xx贸易公司？巴菲特先生可能是看报表发现的机会吧。",
+    "post_url": "https://xueqiu.com/1247347556/251281553",
+    "post_date": "2023-05-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "是的，做正确的事情会少折腾很多。",
+    "post_url": "https://xueqiu.com/1247347556/251169607",
+    "post_date": "2023-05-23",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "apple store那里面的不叫销售，他们只是服务而已。我还在苹果店里帮着卖过东西呢。有说中文的顾客在里面问起，我就帮着解释了一下，于是人家就买了。话说回来，销售本来就是服务，叫卖的那种销售确实不容易，商业模式很差。",
+    "post_url": "https://xueqiu.com/1247347556/251104009",
+    "post_date": "2023-05-22",
+    "mentioned_stocks": [
+      "Apple"
+    ],
+    "quality_score": 4
+  }
+]

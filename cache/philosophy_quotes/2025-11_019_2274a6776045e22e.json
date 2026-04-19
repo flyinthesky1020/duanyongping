@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "绝对不可以，我自己都不知道关注啥了。有时候还会关注烂公司，就想看看他们的结局。",
+    "post_url": "https://xueqiu.com/1247347556/359536656",
+    "post_date": "2025-11-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "买股票就是买公司。如果把美国当成一家公司，你需要用整个市值去把美股买下来，那参考这个就很有用。这种东西对个股并没有意义，因为好的公司是可以比整体成长快很多的。",
+    "post_url": "https://xueqiu.com/1247347556/359532010",
+    "post_date": "2025-11-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "只要飞天不变，别的影响都不大。",
+    "post_url": "https://xueqiu.com/1247347556/359534556",
+    "post_date": "2025-11-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "苹果也很本分的。",
+    "post_url": "https://xueqiu.com/1247347556/359545316",
+    "post_date": "2025-11-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 2
+  }
+]

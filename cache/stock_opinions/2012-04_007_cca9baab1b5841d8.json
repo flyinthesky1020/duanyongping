@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7d22be44-a779-4e82-9553-dfa9e6d75670",
+    "stock": "雅虎",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2012-04-12",
+    "sentiment": "bearish",
+    "summary": "建议不要碰",
+    "quote": "回复 @阿拉丁的神灯: 你还是不要碰的好。",
+    "source_file": "2012-04_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/21676069"
+  }
+]

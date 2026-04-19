@@ -1,0 +1,16 @@
+[
+  {
+    "id": "373bd8ec-6708-4d00-a487-67b3e4086de4",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-12-31",
+    "sentiment": "bullish",
+    "summary": "长期持有苹果",
+    "quote": "这是我管的一个账号上的苹果。这么多年几乎没怎么动过，全靠打球赚的钱哈。",
+    "source_file": "2025-12_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/368680308"
+  }
+]

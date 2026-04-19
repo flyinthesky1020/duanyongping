@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "0%！",
+    "post_url": "https://xueqiu.com/1247347556/361349877",
+    "post_date": "2025-11-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "是时候再认真看一下Tesla了，准备尽快去买辆特斯拉的车，试试自动驾驶的感觉。",
+    "post_url": "https://xueqiu.com/1247347556/361522553",
+    "post_date": "2025-11-13",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "ai很厉害的，不过认真看过我东西的人都知道我只在雪球上发言。",
+    "post_url": "https://xueqiu.com/1247347556/361455108",
+    "post_date": "2025-11-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

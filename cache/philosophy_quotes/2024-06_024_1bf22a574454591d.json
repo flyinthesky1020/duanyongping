@@ -1,0 +1,70 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "目前tbill的PE是18.66，无风险。苹果PE是30上下，有很好的商业模式，大家觉得Ai会给苹果带来新的一轮成长。",
+    "post_url": "https://xueqiu.com/1247347556/292779648",
+    "post_date": "2024-06-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "其实丢了iPhone只是经济损失而已，你可以马上去买一个新的，几乎所有资料都可以马上复原的。别人捡到你的iPhone也没啥用。",
+    "post_url": "https://xueqiu.com/1247347556/292683953",
+    "post_date": "2024-06-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "当时压力很大，责任很大，决心也很大。那个眼神可能是当时的决心。现在回过头来看，当时的决策是对的，但当时并不知道，相当不容易。",
+    "post_url": "https://xueqiu.com/1247347556/292773721",
+    "post_date": "2024-06-05",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实这就是慢慢变富的概念，这个call基本上肯定是赚的。我在雪球晒过的call有亏过的吗？当然，这个做法其实是不该学的，因为账号规模不一样，但我知道大概率长期我会赢。",
+    "post_url": "https://xueqiu.com/1247347556/292683039",
+    "post_date": "2024-06-04",
+    "mentioned_stocks": [
+      "游戏驿站"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这个做法其实是不该学的，因为账号规模不一样，我做的交易不怕短期的大幅波动（因为占的比例极小），但我知道大概率长期我会赢。",
+    "post_url": "https://xueqiu.com/1247347556/292683039",
+    "post_date": "2024-06-04",
+    "mentioned_stocks": [
+      "游戏驿站"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "不想卖但也不想闲着，就当多收一个派息哈。",
+    "post_url": "https://xueqiu.com/1247347556/292773194",
+    "post_date": "2024-06-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "有这种问题的人都不是真正iPhone的用户。",
+    "post_url": "https://xueqiu.com/1247347556/292683953",
+    "post_date": "2024-06-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

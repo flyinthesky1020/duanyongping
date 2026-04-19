@@ -1,0 +1,21 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这和开口要钱没啥区别哈。自己搞不懂的投资是很难赚到钱的。",
+    "post_url": "https://xueqiu.com/1247347556/351619960",
+    "post_date": "2025-09-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这是我告诉巴菲特先生我觉得苹果的商业模式比可口可乐好的原因。",
+    "post_url": "https://xueqiu.com/1247347556/351435465",
+    "post_date": "2025-09-07",
+    "mentioned_stocks": [
+      "苹果",
+      "可口可乐"
+    ],
+    "quality_score": 5
+  }
+]

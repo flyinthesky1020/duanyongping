@@ -1,0 +1,30 @@
+[
+  {
+    "id": "b08ca501-21b6-41e5-9b9f-5786d6a920c0",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2024-10-18",
+    "sentiment": "bullish",
+    "summary": "腾讯将重回6000亿",
+    "quote": "腾讯早晚会再上6000亿的。",
+    "source_file": "2024-10_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/308677427"
+  },
+  {
+    "id": "53bbcbd0-b8af-473d-ba10-beb94f4f007a",
+    "stock": "GE",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2024-10-18",
+    "sentiment": "bearish",
+    "summary": "不买GE商业模式差",
+    "quote": "放到今天我也不会再买的。GE的商业模式没那么好。",
+    "source_file": "2024-10_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/308532982"
+  }
+]

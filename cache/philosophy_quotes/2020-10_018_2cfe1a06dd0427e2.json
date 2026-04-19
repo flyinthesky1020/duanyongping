@@ -1,0 +1,60 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你应该已经知道什么是对的事情或者说你已经知道什么是不对的事情了。你是希望我告诉你该做对的事情还是不对的事情吗？",
+    "post_url": "https://xueqiu.com/1247347556/161143401",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你应该已经知道什么是对的事情或者说你已经知道什么是不对的事情了。",
+    "post_url": "https://xueqiu.com/1247347556/161143401",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果谁真想让我看某个公司，起码你得觉得这家公司商业模式和企业文化都很好，我或许愿意花点时间看一看，不然就免了吧。",
+    "post_url": "https://xueqiu.com/1247347556/161143498",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "如果谁真想让我看某个公司，起码你得觉得这家公司商业模式和企业文化都很好，我或许愿意花点时间看一看，不然就免了吧。",
+    "post_url": "https://xueqiu.com/1247347556/161143498",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果苹果一直这个价钱，十来年后我可能就是苹...",
+    "post_url": "https://xueqiu.com/1247347556/161143974",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太可能通过一个代码就能了解一个公司的。如果谁真想让我看某个公司，起码你得觉得这家公司商业模式和企业文化都很好，我或许愿意花点时间看一看，不然就免了吧。",
+    "post_url": "https://xueqiu.com/1247347556/161143498",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "择时非常难，我非常不擅长。如果资金是在我喜欢的公司大掉的时候，我会非常舒服地把钱放进去。但如果刚好在公司近期涨了很多的时候或者是近期可能有些大事件的时候，我可能会选择稍微等一下。",
+    "post_url": "https://xueqiu.com/1247347556/161145245",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

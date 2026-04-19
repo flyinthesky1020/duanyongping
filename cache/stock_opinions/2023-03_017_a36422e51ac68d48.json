@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0f350034-5c53-4ed6-85b8-be1b929ec832",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2023-03-09",
+    "sentiment": "bullish",
+    "summary": "跟随巴菲特买入",
+    "quote": "我啥都没看，就看到老巴买了二十几个百分点。我知道他是认真的，就跟着买了差不多100万股。",
+    "source_file": "2023-03_batch017",
+    "source_type": "xueqiu",
+    "chunk_index": 17,
+    "url": "https://xueqiu.com/1247347556/244099797"
+  }
+]

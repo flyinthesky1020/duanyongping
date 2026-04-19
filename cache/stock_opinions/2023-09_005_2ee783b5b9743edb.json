@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ad8499ca-e518-4ead-ba62-e1b65c44c074",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-09-10",
+    "sentiment": "bullish",
+    "summary": "股东支持酱香拿铁",
+    "quote": "作为股东，我愿意投票支持酱香拿铁这个产品。我没那么理解茅台冰激淋，但我愿意给酱香拿铁加分！",
+    "source_file": "2023-09_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/260422131"
+  }
+]

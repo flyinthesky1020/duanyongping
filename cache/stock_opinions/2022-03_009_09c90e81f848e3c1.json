@@ -1,0 +1,16 @@
+[
+  {
+    "id": "050bc1b2-fff9-4613-a8c7-86ae359d1ff0",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-03-07",
+    "sentiment": "bullish",
+    "summary": "会买苹果不犹豫",
+    "quote": "我会买苹果，完全不犹豫。我更了解苹果。",
+    "source_file": "2022-03_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/213358933"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fae60435-60f0-44fe-bece-0d746c9b77ab",
+    "stock": "迪士尼",
+    "ticker": "DIS",
+    "market": "US",
+    "date": "2020-05-29",
+    "sentiment": "bullish",
+    "summary": "迪士尼为可收藏伟大公司",
+    "quote": "我觉得Disney应该是个可以被收藏的伟大公司。",
+    "source_file": "2020-05_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/149490982"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "好的商业模式的很简单，就是利润和净现金流一直都是杠杠的，而且竞争对手哪怕很长的时间里也很难抢。你可以自己想想谁的生意是很难抢的？然后再想想为什么？",
+    "post_url": "https://xueqiu.com/1247347556/160679888",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "买股票就是买公司，所以不懂不碰。要搞懂企业的道理很简单，真懂非常难。",
+    "post_url": "https://xueqiu.com/1247347556/160679524",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "比如茅台，过去30年里不管你在酒前酒后，左侧右侧买，10年后看都是好投资，但用margin买的还是有可能要裸奔的。所以，不懂不碰，不用margin就是stop...",
+    "post_url": "https://xueqiu.com/1247347556/160679524",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "比如茅台，过去30年里不管你在酒前酒后，左侧右侧买，10年后看都是好投资",
+    "post_url": "https://xueqiu.com/1247347556/160679524",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "笼统地讲，就是企业行事是是利益还是以是非为标准。如果凡事是以利益为准绳的，我就不太喜欢。",
+    "post_url": "https://xueqiu.com/1247347556/160664452",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "其实我也没有一个所谓的格式或公式去判别一个公司的企业文化，不过，我经常会用拟人化的角度去想一家公司。我不想打交道的人我也不想投资他们的公司。",
+    "post_url": "https://xueqiu.com/1247347556/160662405",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

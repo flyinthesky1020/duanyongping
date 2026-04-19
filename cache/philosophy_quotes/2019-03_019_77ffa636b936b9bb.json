@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "现在老巴也说的是企业文化了。",
+    "post_url": "https://xueqiu.com/1247347556/123187745",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [
+      "伯克希尔"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "当我看到想买的公司在合适价钱时，想不出留现金的理由。老巴经常有现金的原因和他的生意模式有关。",
+    "post_url": "https://xueqiu.com/1247347556/123187396",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [
+      "伯克希尔"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我同意跑赢指数非常难，所以适当机会下应该就可以直接买指数。但这是对美股而言，其他股市我不太了解。",
+    "post_url": "https://xueqiu.com/1247347556/123187219",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [
+      "伯克希尔"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "当我看到想买的公司在合适价钱时，想不出留现金的理由。",
+    "post_url": "https://xueqiu.com/1247347556/123187396",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

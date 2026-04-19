@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "清仓茅台不是问题，问题是拿着那笔钱都干嘛了。绝大部分人很可能是躲过了和尚但没躲过庙？",
+    "post_url": "https://xueqiu.com/1247347556/273291312",
+    "post_date": "2024-01-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "比茅台亏得少的地方也不好找吧？",
+    "post_url": "https://xueqiu.com/1247347556/273296477",
+    "post_date": "2024-01-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "关键是事先不知道。",
+    "post_url": "https://xueqiu.com/1247347556/273296887",
+    "post_date": "2024-01-02",
+    "mentioned_stocks": [
+      "银行股"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "哈，你没回答卖了茅台买了啥的问题。",
+    "post_url": "https://xueqiu.com/1247347556/273296542",
+    "post_date": "2024-01-02",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

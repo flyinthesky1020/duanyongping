@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5f03986a-fddb-4894-8a75-2fbfc5a7d8cd",
+    "stock": "海信视像",
+    "ticker": "600060.SH",
+    "market": "CN_A",
+    "date": "2020-10-09",
+    "sentiment": "bearish",
+    "summary": "电视行业苦生意",
+    "quote": "我不了解电视机行业，感觉产品难有差异化，是个苦生意。",
+    "source_file": "2020-10_batch035",
+    "source_type": "xueqiu",
+    "chunk_index": 35,
+    "url": "https://xueqiu.com/1247347556/160616820"
+  }
+]

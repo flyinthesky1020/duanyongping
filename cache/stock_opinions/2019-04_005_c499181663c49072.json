@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6f0eaf30-e128-43fc-9361-9f598374b645",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-04-24",
+    "sentiment": "bullish",
+    "summary": "茅台企业文化与模式可持续",
+    "quote": "如果茅台的企业文化不够好的话，茅台走不到今天的。这不等于说茅台没一点问题。企业文化不好的公司，好的商业模式早晚是维持不了的。",
+    "source_file": "2019-04_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/125527209"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "491211f5-923d-4ec7-8e2c-3e1d41a02a0d",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2022-12-20",
+    "sentiment": "bearish",
+    "summary": "看空特斯拉",
+    "quote": "我依然觉得特斯拉未来是个苦生意，商业模式不是那么好，尽管他们做成这样已经很了不起了。",
+    "source_file": "2022-12_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/238280049"
+  }
+]

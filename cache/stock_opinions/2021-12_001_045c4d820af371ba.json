@@ -1,0 +1,44 @@
+[
+  {
+    "id": "537b7469-1a69-4034-b2fa-0f22520124bf",
+    "stock": "格力电器",
+    "ticker": "000651.SZ",
+    "market": "CN_A",
+    "date": "2021-12-29",
+    "sentiment": "bullish",
+    "summary": "困难时对优秀企业有信心",
+    "quote": "他们（格力、平安、万科）在各自行业里算是最健康的企业了，不太会乱来，长期而言，如果他们都无法生存，那么相关行业将“不复存在”。所以，在最困难时，需要对优秀企业多份信心！",
+    "source_file": "2021-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/207476342"
+  },
+  {
+    "id": "e210986d-2d52-4b08-8e26-38e2d348e652",
+    "stock": "万科A",
+    "ticker": "000002.SZ",
+    "market": "CN_A",
+    "date": "2021-12-29",
+    "sentiment": "bullish",
+    "summary": "困难时对优秀企业有信心",
+    "quote": "他们（格力、平安、万科）在各自行业里算是最健康的企业了，不太会乱来，长期而言，如果他们都无法生存，那么相关行业将“不复存在”。所以，在最困难时，需要对优秀企业多份信心！",
+    "source_file": "2021-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/207476342"
+  },
+  {
+    "id": "113de48e-980b-4175-81bd-7cc41326544e",
+    "stock": "中国平安",
+    "ticker": "601318.SH",
+    "market": "CN_A",
+    "date": "2021-12-29",
+    "sentiment": "bullish",
+    "summary": "困难时对优秀企业有信心",
+    "quote": "他们（格力、平安、万科）在各自行业里算是最健康的企业了，不太会乱来，长期而言，如果他们都无法生存，那么相关行业将“不复存在”。所以，在最困难时，需要对优秀企业多份信心！",
+    "source_file": "2021-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/207476342"
+  }
+]

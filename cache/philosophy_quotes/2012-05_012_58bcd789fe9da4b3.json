@@ -1,0 +1,29 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "喜诗糖果是好的生意模式。比如情人节你到商店给太太买点喜诗糖果，商店说没这个牌子，但有喜词糖果，然后你说\"那我去隔壁看看\"。你去商店想买台iphone5，商店说缺货，但有gphone6，然后你说我等iphone5。",
+    "post_url": "https://xueqiu.com/1247347556/21762871",
+    "post_date": "2012-05-01",
+    "mentioned_stocks": [
+      "喜诗糖果",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不是很相信顾客会有\"品牌忠诚度\"，顾客忠诚的是品牌后面的东西，不然假的会卖的和真的一个价还会卖得一样好。",
+    "post_url": "https://xueqiu.com/1247347556/21765340",
+    "post_date": "2012-05-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "卖put的坏处是有时候不小心就卖多了，会用到margin。买股卖call不费脑子，没钱了就消停了。",
+    "post_url": "https://xueqiu.com/1247347556/21762711",
+    "post_date": "2012-05-01",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

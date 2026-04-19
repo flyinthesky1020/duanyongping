@@ -1,0 +1,56 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我觉得学别人最重要的不是人家干什么和怎么干，而是原则的问题，尤其是什么东西不能干的问题。",
+    "post_url": "https://xueqiu.com/1247347556/20423300",
+    "post_date": "2011-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你这种学法大概真的会学到糟粕，因为你不可能拥有任何一个人的所有信息，而且能力圈和经历往往大不一样所以你还是在按你自己想像的东西学。",
+    "post_url": "https://xueqiu.com/1247347556/20423300",
+    "post_date": "2011-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "一般而言，人们（经常包括本人在内）会很喜欢找这类借口来阻止自己学习。",
+    "post_url": "https://xueqiu.com/1247347556/20423978",
+    "post_date": "2011-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "这个方法本意是好的，希望杜绝假东西，但好像有点太粗太急的意思。看来淘宝的假冒东西很不好搞啊，但没考虑好小商家的承受能力确实有点那个。",
+    "post_url": "https://xueqiu.com/1247347556/20423293",
+    "post_date": "2011-10-13",
+    "mentioned_stocks": [
+      "淘宝"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不过，这不是需要我操心的事。如果是大问题他们自己一定会解决的。如果只是良药的副作用，则只能靠身体好了。",
+    "post_url": "https://xueqiu.com/1247347556/20423308",
+    "post_date": "2011-10-13",
+    "mentioned_stocks": [
+      "淘宝"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "这个方法本意是好的，希望杜绝假东西，但好像有点太粗太急的意思。",
+    "post_url": "https://xueqiu.com/1247347556/20423293",
+    "post_date": "2011-10-13",
+    "mentioned_stocks": [
+      "淘宝"
+    ],
+    "quality_score": 2
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "首先，为了短期诱惑做明知不对的事情并不是\"一个刚毕业的大学生\"的专利，第二，既然对你那么有诱惑，你为什么要改呢？第三，你大概需要知道这样做的后果，然后比较权衡选择。几十年后你会成为你本该成为的那个人的。",
+    "post_url": "https://xueqiu.com/1247347556/244213848",
+    "post_date": "2023-03-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我只偶尔抄一下巴菲特的作业，纯属好玩。我知道他关注石油很久了，这么认真出手显然是认真看过了，我不太会看得比他明白的。有些东西我可能能看得更明白，比如IBM，比如苹果。",
+    "post_url": "https://xueqiu.com/1247347556/244211429",
+    "post_date": "2023-03-11",
+    "mentioned_stocks": [
+      "西方石油",
+      "IBM",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "经常见到有人说\"流动性危机\"，不用margin的人们大概很难理解这个词到底是什么意思。",
+    "post_url": "https://xueqiu.com/1247347556/244213924",
+    "post_date": "2023-03-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

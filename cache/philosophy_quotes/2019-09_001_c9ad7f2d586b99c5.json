@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "合作伙伴是你自己选的，本分的意思就是要做正确的事情，包括选对的合作伙伴。",
+    "post_url": "https://xueqiu.com/1247347556/133522462",
+    "post_date": "2019-09-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "老巴的文化还在，会持续好多年的，肯定比基金的平均回报好，应该能比S&P好一点点，以每十年记哈。",
+    "post_url": "https://xueqiu.com/1247347556/133531038",
+    "post_date": "2019-09-29",
+    "mentioned_stocks": [
+      "BRK"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "老巴的文化还在，会持续好多年的，肯定比基金的平均回报好，应该能比S&P好一点点，以每十年记哈。",
+    "post_url": "https://xueqiu.com/1247347556/133531038",
+    "post_date": "2019-09-29",
+    "mentioned_stocks": [
+      "BRK"
+    ],
+    "quality_score": 4
+  }
+]

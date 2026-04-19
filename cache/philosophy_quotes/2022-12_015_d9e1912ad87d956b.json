@@ -1,0 +1,37 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不要做空，不用杠杆，不去借钱。",
+    "post_url": "https://xueqiu.com/1247347556/236926642",
+    "post_date": "2022-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "投资买公司首先看生意模式...决定重仓苹果茅台也得益于巴菲特的教诲，因为这两家企业生意模式强大。",
+    "post_url": "https://xueqiu.com/1247347556/236926642",
+    "post_date": "2022-12-02",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不懂不碰；不要做空，不用杠杆，不去借钱。从见巴菲特，以后我犯错误的机会明显下降，因为不懂不做。",
+    "post_url": "https://xueqiu.com/1247347556/236926642",
+    "post_date": "2022-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我那20%身价这十年应该涨了不少哈，所以看懂老巴非常值钱。",
+    "post_url": "https://xueqiu.com/1247347556/236926529",
+    "post_date": "2022-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

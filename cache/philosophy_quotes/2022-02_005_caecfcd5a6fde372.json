@@ -1,0 +1,24 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "回复@biubiubiu阿花: 就是这个事情后就决定卖了。",
+    "post_url": "https://xueqiu.com/1247347556/211095783",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [
+      "Meta",
+      "Facebook"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "才看到，原来是人们怕打仗。打仗就不用手机了吗？当然，打仗不好，生灵涂炭……。",
+    "post_url": "https://xueqiu.com/1247347556/211265692",
+    "post_date": "2022-02-11",
+    "mentioned_stocks": [
+      "苹果",
+      "AAPL"
+    ],
+    "quality_score": 3
+  }
+]

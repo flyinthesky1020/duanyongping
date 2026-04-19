@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我只关注那些我容易搞懂的，比如苹果，比如可乐，所以这十几年我也就看懂了很少的几家公司。",
+    "post_url": "https://xueqiu.com/1247347556/220139453",
+    "post_date": "2022-05-16",
+    "mentioned_stocks": [
+      "苹果",
+      "可乐"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "细节很重要但无法预估。企业文化好其实就是犯错的概率低而已。所以这其实是道概率题。",
+    "post_url": "https://xueqiu.com/1247347556/220096551",
+    "post_date": "2022-05-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。好像这三个一点的意思是不一样的。",
+    "post_url": "https://xueqiu.com/1247347556/220139453",
+    "post_date": "2022-05-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

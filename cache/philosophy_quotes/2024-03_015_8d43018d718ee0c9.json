@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我认为和产品的差异化程度有关。产品差异化程度越低，行业内的企业越难赚到钱。航空公司是极致，就是因为产品差异化小。",
+    "post_url": "https://xueqiu.com/1247347556/280892913",
+    "post_date": "2024-03-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "买茅台都超过10年了，琢磨时间肯定还要早很多的。",
+    "post_url": "https://xueqiu.com/1247347556/280786019",
+    "post_date": "2024-03-04",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "10多年前曾经盛传苹果要推电视机，有业内资深人士甚至告诉我他已经看到样机了。我说，你可能不太了解苹果，样机不说明任何问题。同理，差不多的时期，有人问我iPhone会不会出大屏，我说一定会的。尽管后来还是等了三年。",
+    "post_url": "https://xueqiu.com/1247347556/280489665",
+    "post_date": "2024-03-01",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

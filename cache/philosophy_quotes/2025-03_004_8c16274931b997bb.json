@@ -1,0 +1,35 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "追求最大回报那是神仙干的事情，好过你的机会成本的投资其实都是不错的投资哈。",
+    "post_url": "https://xueqiu.com/1247347556/328558714",
+    "post_date": "2025-03-23",
+    "mentioned_stocks": [
+      "腾讯",
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这里最关键的是92.5这个价格是否够便宜，这个完全取决于投资者对这家公司生意的理解。我个人觉得NVDA这家公司其实很厉害，这个价钱我敢拿着。",
+    "post_url": "https://xueqiu.com/1247347556/328728914",
+    "post_date": "2025-03-24",
+    "mentioned_stocks": [
+      "NVDA",
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不知道什么样的结果可以让你“惊喜”，尽管试试。别说30年，你能坚持三年都不容易的。",
+    "post_url": "https://xueqiu.com/1247347556/328465274",
+    "post_date": "2025-03-21",
+    "mentioned_stocks": [
+      "英伟达",
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

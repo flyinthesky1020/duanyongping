@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "大多数东西10年后啥都不是，但确实有些东西10年后会变化很大，还也有些东西几十年后和几十年前一样。自己去找吧，人生酸甜苦辣咸都在里面了。",
+    "post_url": "https://xueqiu.com/1247347556/234020552",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "承受不了这点跌幅的人们本来就不应该碰股市。再说，股市上历年统计显示大部分人都是亏钱的。这个统计其实很怪异，因为长期来说，股市一直是涨的（比如用10年段看，过去几十年的每个10年段股市可能都是涨的），但为什么80%以上的人们会是亏损的呢？",
+    "post_url": "https://xueqiu.com/1247347556/234018701",
+    "post_date": "2022-10-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "强大的商业模式！",
+    "post_url": "https://xueqiu.com/1247347556/234097527",
+    "post_date": "2022-10-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "保持受捐者的尊严和帮助受捐者一样重要！虽然人们总是把慈善公益放一起说，但我总觉得公益和慈善是有点区别的...公益的说法感觉比较平等，是人人一起干且和人人都有关的事。慈善的说法有点居高临下的味道。",
+    "post_url": "https://xueqiu.com/1247347556/234167117",
+    "post_date": "2022-10-31",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d330bec2-b57b-44a8-9f0f-3cdbf36855c0",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-08-06",
+    "sentiment": "bullish",
+    "summary": "继续卖出put看涨",
+    "quote": "日拱一卒！最近很多苹果的put过期了，继续拱。苹果下来的时候我完全不用下决心就能下买单哈。",
+    "source_file": "2022-08_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": ""
+  },
+  {
+    "id": "35407c25-f7a3-407b-83a6-f0a906bfb956",
+    "stock": "腾讯控股",
+    "ticker": "00700.HK",
+    "market": "HK",
+    "date": "2022-08-06",
+    "sentiment": "bullish",
+    "summary": "非卖品并计划加仓",
+    "quote": "腾讯对我而言依然是非卖品，找到一个商业模式好的公司不容易。我猜未来几年内我还会有机会进一步加仓腾讯的",
+    "source_file": "2022-08_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/227368626"
+  }
+]

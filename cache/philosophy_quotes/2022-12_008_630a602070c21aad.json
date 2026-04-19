@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "总觉得这家公司有点意思，但隔行如隔山，没办法下重注哈。",
+    "post_url": "https://xueqiu.com/1247347556/237823104",
+    "post_date": "2022-12-13",
+    "mentioned_stocks": [
+      "Moderna"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我这里从来没有幕后消息。",
+    "post_url": "https://xueqiu.com/1247347556/237822449",
+    "post_date": "2022-12-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这次分红不少，准备到时都再买了茅台吧。",
+    "post_url": "https://xueqiu.com/1247347556/237915038",
+    "post_date": "2022-12-14",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

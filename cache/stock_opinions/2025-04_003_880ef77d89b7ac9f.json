@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f25f535a-783e-4794-857f-c03f3a601101",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-04-04",
+    "sentiment": "bearish",
+    "summary": "苹果31倍PE偏高",
+    "quote": "$苹果(AAPL)$ 居然还有31倍pe！25倍以下会感觉好很多。",
+    "source_file": "2025-04_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": ""
+  },
+  {
+    "id": "488aa98b-a76f-437e-8261-c12a814eaf52",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2025-04-04",
+    "sentiment": "bullish",
+    "summary": "阿里70多元便宜",
+    "quote": "70多块钱的阿里确实便宜的，对吧？",
+    "source_file": "2025-04_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/330193586"
+  }
+]

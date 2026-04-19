@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "A股除了茅台外，还有没有类似的商业模式特别好，拿个十年都不用睡不好觉的公司？请列举理由哈。",
+    "post_url": "https://xueqiu.com/1247347556/124749837",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "A股除了茅台外，还有没有类似的商业模式特别好，拿个十年都不用睡不好觉的公司？请列举理由哈。",
+    "post_url": "https://xueqiu.com/1247347556/124749837",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "只要投放的边际效益还是正的，继续投放就有道理。只要现金流还是正的，那就安全。现在是培养用户使用习惯的阶段，怎么投都不算过分（其实甚至包括现金流负一点点）。",
+    "post_url": "https://xueqiu.com/1247347556/124749791",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不过，从投资的角度看，目前确实不容易看懂公司未来到底能赚多少钱，所以要投也只能算是风投哈。",
+    "post_url": "https://xueqiu.com/1247347556/124749791",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  }
+]

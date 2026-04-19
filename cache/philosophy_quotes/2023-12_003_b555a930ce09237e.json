@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "每个人都是根据自己的机会成本做决定，不能怪任何别人的。",
+    "post_url": "https://xueqiu.com/1247347556/272642039",
+    "post_date": "2023-12-27",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个说法没问题，如果你有更好的投资标的的话。按10年算。",
+    "post_url": "https://xueqiu.com/1247347556/272680874",
+    "post_date": "2023-12-27",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一直在投资腾讯啊，只是投的比较少而已。有些顾虑挥之不去，只好慢慢来了。",
+    "post_url": "https://xueqiu.com/1247347556/272649155",
+    "post_date": "2023-12-27",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "（卖option）能不能增厚利润不是很确定，但下手难度减少了不少，内心没那么折腾，受市场影响会降低一些。",
+    "post_url": "https://xueqiu.com/1247347556/272649984",
+    "post_date": "2023-12-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "显然那不是我喜欢的东西。",
+    "post_url": "https://xueqiu.com/1247347556/272650516",
+    "post_date": "2023-12-27",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "肯定不是天生的，就像库里不是天生就能投三分一样。",
+    "post_url": "https://xueqiu.com/1247347556/272994810",
+    "post_date": "2023-12-27",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

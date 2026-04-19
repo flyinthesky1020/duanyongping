@@ -1,0 +1,16 @@
+[
+  {
+    "id": "54b9cf2a-9121-4f1f-86ea-72649197524d",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2023-08-17",
+    "sentiment": "bearish",
+    "summary": "停止卖put/不懂能源股",
+    "quote": "大道的西方石油之旅大致结束了，这个价位以上不再增加卖put，静等到期。这种钱是该老巴赚的，我对能源公司一头雾水，10年后到底是什么样子完全没概念。",
+    "source_file": "2023-08_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/258286820"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4fa1848d-aa69-47c4-9be3-d1f358c30ef6",
+    "stock": "腾讯控股",
+    "ticker": "TCEHY",
+    "market": "US",
+    "date": "2022-08-01",
+    "sentiment": "bullish",
+    "summary": "37.37美元买入10万股",
+    "quote": "刚刚$37.37再买了10万股。如果能到$30以下，我会再多买一些。",
+    "source_file": "2022-08_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": ""
+  }
+]

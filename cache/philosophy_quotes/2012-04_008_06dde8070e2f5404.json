@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "IPO时可以说得过去，因为那是明示在先，投资人可以选择。现在则是他们利用手里的投票权进一步扩大自己的投票权，似乎本质上不同。我灰常稀饭google的\"don't be evil\"，但这事好像闻到点evil的味道。",
+    "post_url": "https://xueqiu.com/1247347556/21688419",
+    "post_date": "2012-04-13",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "股票是由每个买家自己\"定价\"的，到你\"自己\"觉得便宜的时候才可以买，实际上和市场（别人）无关。啥时你能看懂这句话，你的股票生涯基本上就很有机会持续赚钱了。如果看不懂其实也没关系，因为大概85%的人是永远看不懂这句话的，这也是这些人早晚会亏在股市上的根本原因。",
+    "post_url": "https://xueqiu.com/1247347556/21688365",
+    "post_date": "2012-04-13",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你们只要把这公司想象成一家非上市公司，没有股价的变化就明白了。不过，绝大多数人大概做不到这点。客观讲，没办法将一家公司看成非上市公司来投资的话，最后多数是会亏钱的。",
+    "post_url": "https://xueqiu.com/1247347556/21688112",
+    "post_date": "2012-04-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "坏公司总能不断找到\"好的\"投资方向，所以从来不分有意义的红。好的公司最终会找不到投资方向，只能把钱分给股东，除了有巴菲特管理的伯克希尔哈撒韦。",
+    "post_url": "https://xueqiu.com/1247347556/21688247",
+    "post_date": "2012-04-13",
+    "mentioned_stocks": [
+      "伯克希尔哈撒韦"
+    ],
+    "quality_score": 4
+  }
+]

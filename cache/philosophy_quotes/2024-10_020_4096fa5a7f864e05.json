@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "你说的是大聪明？",
+    "post_url": "https://xueqiu.com/1247347556/307462455",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "会有影响，但不重要。如果腾讯不行了，和抖音无关。马化腾人不错，而且年轻，微信及微信支付的影响非常大且...",
+    "post_url": "https://xueqiu.com/1247347556/307477813",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "赚不到的概率很低。",
+    "post_url": "https://xueqiu.com/1247347556/307474634",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "马化腾人不错，而且年轻，微信及微信支付的影响非常大且...",
+    "post_url": "https://xueqiu.com/1247347556/307477813",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "赚不到的概率很低。",
+    "post_url": "https://xueqiu.com/1247347556/307474634",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "闲钱指的是三五年以上不需要用的钱",
+    "post_url": "https://xueqiu.com/1247347556/307470517",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

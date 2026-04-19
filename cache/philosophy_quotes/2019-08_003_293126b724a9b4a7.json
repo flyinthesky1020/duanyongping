@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解伊利。",
+    "post_url": "https://xueqiu.com/1247347556/131892862",
+    "post_date": "2019-08-27",
+    "mentioned_stocks": [
+      "伊利股份"
+    ],
+    "quality_score": 2
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "喜诗糖果确实好吃，虽然不太敢吃。可口可乐不知道，因为我不太喝。",
+    "post_url": "https://xueqiu.com/1247347556/131907381",
+    "post_date": "2019-08-27",
+    "mentioned_stocks": [
+      "喜诗糖果",
+      "可口可乐"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "他们本身有很多现金，而且现金流也很好，不知道为什么要借钱，也许是外汇的需求？也许是长期债券太便宜？",
+    "post_url": "https://xueqiu.com/1247347556/132041104",
+    "post_date": "2019-08-29",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "基本上拼多多从一开始就如此，不会因为股价涨了而感觉有啥变化。",
+    "post_url": "https://xueqiu.com/1247347556/132063973",
+    "post_date": "2019-08-29",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我一点都不意外茅台会这样。",
+    "post_url": "https://xueqiu.com/1247347556/132059903",
+    "post_date": "2019-08-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 2
+  }
+]

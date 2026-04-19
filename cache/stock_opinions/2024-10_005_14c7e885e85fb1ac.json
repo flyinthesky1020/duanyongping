@@ -1,0 +1,30 @@
+[
+  {
+    "id": "073585a4-a0f0-4b73-9e32-5bb358d80aaa",
+    "stock": "腾讯控股",
+    "ticker": "00700.HK",
+    "market": "HK",
+    "date": "2024-10-22",
+    "sentiment": "bullish",
+    "summary": "卖出Put看涨",
+    "quote": "不到10天赚1%，而且那是个你愿意买进的价钱，why not？",
+    "source_file": "2024-10_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/309136036"
+  },
+  {
+    "id": "c7de1e61-5739-4d49-ad46-a5631695e3f6",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-10-22",
+    "sentiment": "bullish",
+    "summary": "茅台需求强劲",
+    "quote": "好多人一直在担心茅台的销量和销价的问题，但另一帮人则一直在努力申请直购茅台的资格",
+    "source_file": "2024-10_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/309137366"
+  }
+]

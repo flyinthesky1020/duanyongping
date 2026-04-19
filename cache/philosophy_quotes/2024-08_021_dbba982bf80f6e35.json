@@ -1,0 +1,80 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "当你觉得焦虑的时候就说明你没搞懂你买的生意，那你就该离场了。买了不懂的生意是很容易焦虑的，也很难拿住。",
+    "post_url": "https://xueqiu.com/1247347556/300404225",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不用margin买了自己喜欢的生意，为什么会焦虑？苹果掉的时候我会焦虑吗？茅台掉了这么多我会焦虑吗？",
+    "post_url": "https://xueqiu.com/1247347556/300404225",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得目前这个价格买入茅台，十年二十年后回头看应该至少不会输给通胀，大概率会赢大盘",
+    "post_url": "https://xueqiu.com/1247347556/300403629",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "千万不要把短期内需要用的钱拿到赌场或者“股场”赌一把去赚点快钱啥的。",
+    "post_url": "https://xueqiu.com/1247347556/300403629",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果不懂，作业是抄不了的。如果懂了，不需要抄。投资非常简单，就是买生意。搞懂投资唯一的办法就是搞懂生意。当然，对搞不懂生意的人们理财是另外一个办法，比如买S&P500指数或者QQQ这类指数。",
+    "post_url": "https://xueqiu.com/1247347556/300400134",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "假设我们拥有整个茅台，每天现金流杠杠的，你在坚守啥？",
+    "post_url": "https://xueqiu.com/1247347556/300401408",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "买了一个好生意一直拿着真的会觉得很难受吗？",
+    "post_url": "https://xueqiu.com/1247347556/300401408",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "买了一个好生意一直拿着真的会觉得很难受吗？",
+    "post_url": "https://xueqiu.com/1247347556/300401408",
+    "post_date": "2024-08-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

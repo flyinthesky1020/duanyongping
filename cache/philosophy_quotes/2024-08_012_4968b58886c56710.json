@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你在错误的路上取得了稳定的收益，这是你缺乏安全感的原因。",
+    "post_url": "https://xueqiu.com/1247347556/301060033",
+    "post_date": "2024-08-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "可能还有一个：你打算让谁赚你的钱？这些人其实比例最高，远高过其他类。",
+    "post_url": "https://xueqiu.com/1247347556/301059867",
+    "post_date": "2024-08-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我这个量用市价买？你确定你知道市价是什么意思吗？我买的时候一般都用ask的价钱，但腾讯成交量小，老是需要改价钱。",
+    "post_url": "https://xueqiu.com/1247347556/301060445",
+    "post_date": "2024-08-14",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "喜欢茅台的人因为价钱的原因会喝其他酒的比例我猜是高于iPhone用户转用android用户的比例的。",
+    "post_url": "https://xueqiu.com/1247347556/288831125",
+    "post_date": "2024-05-05",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我当时确实卖了一些行权价格比较高的call，其实就是想断了想卖股票的念头，不管收多少钱总比单拿着股票划算，就当是多收一点分红哈。我觉得我能多收一份分红也蛮好的，万一被call走也是件可以接受的事情。",
+    "post_url": "https://xueqiu.com/1247347556/288823208",
+    "post_date": "2024-05-05",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6b6c2ed3-5d30-4b40-a70c-07d7673e0809",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-07-23",
+    "sentiment": "bearish",
+    "summary": "股价不便宜",
+    "quote": "我想说的是，如果真是只能这样的话，苹果的股价其实并不便宜，这也是我最近卖了很多call的原因。",
+    "source_file": "2024-07_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/298324246"
+  }
+]

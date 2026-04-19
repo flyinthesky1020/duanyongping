@@ -1,0 +1,16 @@
+[
+  {
+    "id": "62877b7e-ccc7-4845-9538-8932c99a84db",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-11-30",
+    "sentiment": "bullish",
+    "summary": "超过是必然的",
+    "quote": "超过是必然的，多久不知道。@苹果(AAPL)",
+    "source_file": "2022-11_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/236657100"
+  }
+]

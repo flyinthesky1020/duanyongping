@@ -1,0 +1,54 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "制度是强制性的，文化则不完全是，所以建立好的企业文化非常难，破坏起来非常容易。",
+    "post_url": "https://xueqiu.com/1247347556/116455329",
+    "post_date": "2018-11-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "没有管理公司很快就会完蛋的。所谓好的企业文化是能管到制度管不过来的东西，不是个神秘的咒语。",
+    "post_url": "https://xueqiu.com/1247347556/116452525",
+    "post_date": "2018-11-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "简单讲，没有差异化的产品是很难长期赚到大钱的。苹果之所以赚到大钱，是因为苹果是卖iPhone的，其他同理哈。简单讲一下差异化：就是用户需要但其他竞争对手满足不了的某些东西。",
+    "post_url": "https://xueqiu.com/1247347556/116297974",
+    "post_date": "2018-11-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太懂银行，那时候直觉上不觉得民生银行是个好投资，但说不出道理。",
+    "post_url": "https://xueqiu.com/1247347556/116291721",
+    "post_date": "2018-11-04",
+    "mentioned_stocks": [
+      "民生银行"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "实际情况多数可能会是因为在某个地方成功了，所以就觉得自己很厉害，想做更多的事情，不小心就跑到能力圈外面去了。有时候试一试也没啥错，所以这里其实还是蛮难划一条特别清楚的界限的。很多人的所谓多元化大概都是因为生意而去的，什么好赚钱就跟着去做点啥，和自己原来的...",
+    "post_url": "https://xueqiu.com/1247347556/116243439",
+    "post_date": "2018-11-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "很多所谓厉害的人其实仅仅是因为他们一直在老老实实做他们该做的事情而已，单看每件事情是很难看出来他们厉害在哪里的。",
+    "post_url": "https://xueqiu.com/1247347556/116300417",
+    "post_date": "2018-11-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

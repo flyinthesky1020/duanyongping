@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "茅台还是那个茅台！这不够吗？",
+    "post_url": "https://xueqiu.com/1247347556/303519791",
+    "post_date": "2024-09-03",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "只要你把这两手的投资当成存了银行了，10年20年后你会觉得你做了一个正确的决定的。",
+    "post_url": "https://xueqiu.com/1247347556/303519791",
+    "post_date": "2024-09-03",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "等3年，5年都等不了，投资和悟道很像。需要耐心，需要真的相信。",
+    "post_url": "https://xueqiu.com/1247347556/303519791",
+    "post_date": "2024-09-03",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

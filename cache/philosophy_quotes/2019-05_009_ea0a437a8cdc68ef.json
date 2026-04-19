@@ -1,0 +1,39 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "什么时候意识到要做对的事情都不晚。不过，满脑子只有利益没有对错的人们确实是很难从原来的坑里出来的。",
+    "post_url": "https://xueqiu.com/1247347556/127370695",
+    "post_date": "2019-05-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "什么时候意识到要做对的事情都不晚。不过，满脑子只有利益没有对错的人们确实是很难从原来的坑里出来的。",
+    "post_url": "https://xueqiu.com/1247347556/127370695",
+    "post_date": "2019-05-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我通常比较集中于比较了解的公司，比如苹果，茅台。但也会买一些自己觉得不错但又觉得有些了解不那么透的公司，这种公司放的比例一般会很小。",
+    "post_url": "https://xueqiu.com/1247347556/127319413",
+    "post_date": "2019-05-26",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我不了解其他白酒股，买茅台时就知道早晚会发生类似的事情，但个人认为最终会解决。",
+    "post_url": "https://xueqiu.com/1247347556/127352812",
+    "post_date": "2019-05-27",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

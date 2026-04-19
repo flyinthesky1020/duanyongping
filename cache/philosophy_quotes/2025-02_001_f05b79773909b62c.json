@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我知道目前NVDA的护城河是CUDA，也知道CUDA的生态有点像苹果。我也早就看到黄说的目前别的芯片白给都比NVDA提供的方案贵，也看到黄说的10年后算力会是百万倍的增长。但10年后就不能有别的替代方案吗？",
+    "post_url": "https://xueqiu.com/1247347556/324961765",
+    "post_date": "2025-02-25",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "NVDA很难看懂的并不是短期的增长，而是长期的护城河到底是什么。10年后的NVDA肯定还在，但还是目前的市场地位吗？",
+    "post_url": "https://xueqiu.com/1247347556/325196615",
+    "post_date": "2025-02-26",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "10年后的NVDA肯定还在，但还是目前的市场地位吗？也看到黄说的10年后算力会是百万倍的增长。但10年后就不能有别的替代方案吗？",
+    "post_url": "https://xueqiu.com/1247347556/324961765",
+    "post_date": "2025-02-25",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "尽管没完全看懂NVDA，但我还是准备开始卖点NVDA的put了。ai值得关注，NVDA其实是个很不错的公司。",
+    "post_url": "https://xueqiu.com/1247347556/325196615",
+    "post_date": "2025-02-26",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 3
+  }
+]

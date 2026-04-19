@@ -1,0 +1,41 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "在我心里，像陈明永，沈炜或黄峥他们最后有啥成就我都不会太意外的，啥都成不了我才会觉得意外！",
+    "post_url": "https://xueqiu.com/1247347556/113820069",
+    "post_date": "2018-09-14",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我曾经一直认为jobs是个报时人，最近突然觉得只有jobs的苹果是不可能成为今天这个样子的。今天的苹果，jobs的作用已经不是那么大了。就算jobs不打算再回来，今天的苹果也会靠惯性向前的。",
+    "post_url": "https://xueqiu.com/1247347556/113759818",
+    "post_date": "2018-09-09",
+    "mentioned_stocks": [
+      "苹果",
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这个我不懂，粗看我也觉得有些道理吧。比如我喝53度就觉得有点太烈。也许可以试试43度？",
+    "post_url": "https://xueqiu.com/1247347556/113644619",
+    "post_date": "2018-09-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你认为该减少一些的话，为什么不是全部呢？如果你觉得你拥有的公司太贵了你就该都卖了，除非留点做纪念，不然留一部分赌市场再涨一点吗？老巴当年是看着自己手里的东西而不是看着市场吧？",
+    "post_url": "https://xueqiu.com/1247347556/113639224",
+    "post_date": "2018-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

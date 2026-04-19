@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "总而言之，事情的对错比别人怎么看要重要的多。",
+    "post_url": "https://xueqiu.com/1247347556/232663536",
+    "post_date": "2022-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "绝大多数人都像你一样，总是努力地为自己找借口而不是找本质或原因。",
+    "post_url": "https://xueqiu.com/1247347556/232663536",
+    "post_date": "2022-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看书多和懂投资是两件线性无关的事情。喜欢看书只是一个爱好，不一定就是一个优点。",
+    "post_url": "https://xueqiu.com/1247347556/232663454",
+    "post_date": "2022-10-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我依然看不懂这个商业模式，没办法想象五年十年以后会是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/232662736",
+    "post_date": "2022-10-13",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  }
+]

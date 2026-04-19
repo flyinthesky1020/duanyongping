@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1e9c8ae0-da3b-4714-a6a5-b53364529178",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2018-11-16",
+    "sentiment": "bullish",
+    "summary": "看好苹果长期价值",
+    "quote": "我个人理解苹果的好日子还远远没有到头呢，现在一年净利润已经接近$600亿了，未来我们持有的比例就会自然上升",
+    "source_file": "2018-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/116806825"
+  },
+  {
+    "id": "364d5502-8450-44f2-a34b-25246184b74d",
+    "stock": "Tesla",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2018-11-16",
+    "sentiment": "bearish",
+    "summary": "看空特斯拉",
+    "quote": "我对这家公司不再信任，也看不出他们怎么能够赚钱，说其股价会变零只是一种形象的表述",
+    "source_file": "2018-11_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/116806521"
+  }
+]

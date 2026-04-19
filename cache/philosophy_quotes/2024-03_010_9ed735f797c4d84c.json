@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "哪怕你这次赚钱了，你这个做法累积下来大概率是亏钱的。",
+    "post_url": "https://xueqiu.com/1247347556/281445928",
+    "post_date": "2024-03-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "确实从来没上过头。概率上铁输的游戏怎么会上头呢？",
+    "post_url": "https://xueqiu.com/1247347556/281436107",
+    "post_date": "2024-03-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "目前看，一时半会儿好像很难。可能需要10年？",
+    "post_url": "https://xueqiu.com/1247347556/281448950",
+    "post_date": "2024-03-09",
+    "mentioned_stocks": [
+      "NVDA"
+    ],
+    "quality_score": 3
+  }
+]

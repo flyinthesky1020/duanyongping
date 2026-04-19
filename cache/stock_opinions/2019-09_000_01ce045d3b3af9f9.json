@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9d2e24f2-60ae-4cf7-8452-535f6a4e4b05",
+    "stock": "标普500",
+    "ticker": "SPY",
+    "market": "US",
+    "date": "2019-09-30",
+    "sentiment": "bullish",
+    "summary": "看好标普500",
+    "quote": "S&P 蛮好的，300没研究过。",
+    "source_file": "2019-09_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/133583462"
+  },
+  {
+    "id": "906fddad-8fa4-482d-a24a-9f07aa962463",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-09-30",
+    "sentiment": "bullish",
+    "summary": "长期看好苹果业绩",
+    "quote": "我认为长期来讲，苹果未来赚的钱只会比现在多。",
+    "source_file": "2019-09_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/133577914"
+  }
+]

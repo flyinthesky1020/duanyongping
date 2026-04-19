@@ -1,0 +1,16 @@
+[
+  {
+    "id": "703757b0-fd0d-4a63-8ca1-e15e12b73344",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-01-20",
+    "sentiment": "bullish",
+    "summary": "看好直销与提价能力",
+    "quote": "提高直销比例以后，大家才能真正看到茅台的实力和提价能力。我觉得茅台零售价格至少是可以跟上通胀的。",
+    "source_file": "2026-01_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/372156832"
+  }
+]

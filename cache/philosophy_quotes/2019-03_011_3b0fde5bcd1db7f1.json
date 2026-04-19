@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "赶脚这个行业很苦，坡不短但经常有没雪的地方。",
+    "post_url": "https://xueqiu.com/1247347556/123418782",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "目前74%的美国人民的买东西的首选已经是亚马逊了（今天网上看到的），所以说新零售确实很恐怖。不过这个行业非常有可能会变的赢家通吃，或者是几个大头垄断，很多企业搞的现象也许持续不了太久。",
+    "post_url": "https://xueqiu.com/1247347556/123418921",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [
+      "亚马逊",
+      "拼多多"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "建议你看看基业长青和优秀到卓越这两本书，我是翻过这两本书后才对企业文化理的比较清了。",
+    "post_url": "https://xueqiu.com/1247347556/123418851",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "那只是个思维方式。芒格说他从来没见巴菲特算过。我其实也没认真算过，从来都是毛估估的。姚明往那里一站，谁都能看出来他比我重，难道还要用磅秤后才知道？",
+    "post_url": "https://xueqiu.com/1247347556/123386686",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没有。最近老巴提了一句，所以我开始想想，准备花几年时间想，因为银行确实不可替代，但实体银行会不会被替代还不知道呢。",
+    "post_url": "https://xueqiu.com/1247347556/123418753",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "没有。最近老巴提了一句，所以我开始想想，准备花几年时间想，因为银行确实不可替代，但实体银行会不会被替代还不知道呢。",
+    "post_url": "https://xueqiu.com/1247347556/123418753",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

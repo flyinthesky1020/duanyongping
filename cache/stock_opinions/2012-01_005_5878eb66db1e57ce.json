@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a884a751-ab8d-4cd1-acbf-f0a2adba5e13",
+    "stock": "UNG",
+    "ticker": "UNG",
+    "market": "US",
+    "date": "2012-01-09",
+    "sentiment": "bearish",
+    "summary": "UNG将归零不可买",
+    "quote": "ung就是个投机的工具，早晚是会变成0的，根据不打算拿10年的股票就不应该拿10天的原理，一定不能买",
+    "source_file": "2012-01_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/20663346"
+  }
+]

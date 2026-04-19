@@ -1,0 +1,49 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不懂制药，没听说过这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/21441932",
+    "post_date": "2012-02-13",
+    "mentioned_stocks": [
+      "天银制药"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "现在应该还有200-300%的利润吧？但老巴说了他不会卖的，10年以后就不好说了。",
+    "post_url": "https://xueqiu.com/1247347556/21434315",
+    "post_date": "2012-02-12",
+    "mentioned_stocks": [
+      "比亚迪"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你所了解的东西是客观的，不会因人而异。市场的内在逻辑指得是什么？投资最重要的一点实际上就是能够忽略市场。",
+    "post_url": "https://xueqiu.com/1247347556/21437204",
+    "post_date": "2012-02-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "呵呵，最重要的不是认识，是ignore的能力。",
+    "post_url": "https://xueqiu.com/1247347556/21441431",
+    "post_date": "2012-02-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "那么说我买的那点新浪也算犯错误了？本人是很理性看待这个问题的。记得当年刚刚知道老巴买了比亚迪时很是纠结了一阵要不要给他发个email说说我的看法，但后来想通了这其实不是他的典型投资，所以从来没对他说过啥。",
+    "post_url": "https://xueqiu.com/1247347556/21437889",
+    "post_date": "2012-02-13",
+    "mentioned_stocks": [
+      "新浪",
+      "比亚迪"
+    ],
+    "quality_score": 3
+  }
+]

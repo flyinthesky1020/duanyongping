@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c266c952-7108-4b96-a36c-49a1e2ada7e7",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-12-20",
+    "sentiment": "bullish",
+    "summary": "分红买入茅台",
+    "quote": "回复@天空会黑我不灰: 当然啊！//@天空会黑我不灰:回复@时间的陈酿:@大道无形我有型 大道又用分红买茅台了吗",
+    "source_file": "2023-12_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/271771847"
+  }
+]

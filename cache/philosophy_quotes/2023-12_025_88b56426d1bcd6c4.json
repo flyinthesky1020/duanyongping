@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这是最合理的办法，价格由市场决定。买家的钱也是市场来的，不过是卖产品赚的钱。只要时间足够长，产品赚的钱会最终反映在股价上的。",
+    "post_url": "https://xueqiu.com/1247347556/269889185",
+    "post_date": "2023-12-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我的意思是大家不要想跳进来赌个反弹。",
+    "post_url": "https://xueqiu.com/1247347556/269869932",
+    "post_date": "2023-12-06",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "腾讯不能卖put，难下手很多。南非大股东大概率是会在未来相当长的时间里一直减持的，要是能卖点put的话就好了。",
+    "post_url": "https://xueqiu.com/1247347556/269869932",
+    "post_date": "2023-12-06",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 3
+  }
+]

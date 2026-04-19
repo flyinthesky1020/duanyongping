@@ -1,0 +1,96 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "难得因为投资睡不好觉，拿着航空公司确实不踏实，总有想不透的东西。好吧，尊重老巴得想法，我也找机会撤了。",
+    "post_url": "https://xueqiu.com/1247347556/148695782",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "看来是自己内心的投机小心思躁动了一下。想着航空公司不会破产，两年回到正常运营以及正常股价，那就比苹果快了。可是仔细一想，就算是恢复正常运营了，代价也可能非常大，股价未必会回去哈。",
+    "post_url": "https://xueqiu.com/1247347556/148700903",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "航空公司",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "持有航空公司难受的地方是，不知道时间到底站在哪一边。持有苹果的感觉完全不一样，股价怎么掉都不会介意。",
+    "post_url": "https://xueqiu.com/1247347556/148699049",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "航空公司",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "其实不是看不懂，是看到了没必要的风险。其实我的观点没变，觉得达美和西南是最有机会活下来的航空公司，但没人知道最后疫情会导致人们的消费习惯变化的趋势。",
+    "post_url": "https://xueqiu.com/1247347556/148726277",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "达美航空",
+      "西南航空"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "其实不是看不懂，是看到了没必要的风险。其实我的观点没变，觉得达美和西南是最有机会活下来的航空公司，但没人知道最后疫情会导致人们的消费习惯变化的趋势。",
+    "post_url": "https://xueqiu.com/1247347556/148726277",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "达美航空",
+      "西南航空"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不过我还没看懂他们的moat有多宽。",
+    "post_url": "https://xueqiu.com/1247347556/148620831",
+    "post_date": "2020-05-05",
+    "mentioned_stocks": [
+      "Zoom Video通讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "Zoom企业文化确实蛮好的，所以产品有竞争力不意外。",
+    "post_url": "https://xueqiu.com/1247347556/148620831",
+    "post_date": "2020-05-05",
+    "mentioned_stocks": [
+      "Zoom Video通讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "持有苹果的感觉完全不一样，股价怎么掉都不会介意。",
+    "post_url": "https://xueqiu.com/1247347556/148699049",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我对找到办法对付疫情是乐观的，但无法知道什么时候以及最后会用什么方式来结束或共存。持有航空公司难受的地方是，不知道时间到底站在哪一边。",
+    "post_url": "https://xueqiu.com/1247347556/148699049",
+    "post_date": "2020-05-06",
+    "mentioned_stocks": [
+      "航空公司"
+    ],
+    "quality_score": 4
+  }
+]

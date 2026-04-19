@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你爸爸说的我们知道什么不能做这个说法是非常对的，这就是我们的stop doing list，就是所谓的不为清单。",
+    "post_url": "https://xueqiu.com/1247347556/123347343",
+    "post_date": "2019-03-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我只是持有茅台，因为不了解其他公司。欢迎大家告诉我一些生意模式好，企业文化也好，而且价钱也不贵的公司，我有时间时可以一起研究。",
+    "post_url": "https://xueqiu.com/1247347556/123349564",
+    "post_date": "2019-03-19",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我喜欢迪士尼游乐园，但看不懂其他部分。奢侈品我不懂。",
+    "post_url": "https://xueqiu.com/1247347556/302947251",
+    "post_date": "2024-08-29",
+    "mentioned_stocks": [
+      "迪士尼"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式很苦，最好别碰。",
+    "post_url": "https://xueqiu.com/1247347556/302846286",
+    "post_date": "2024-08-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "是的，是有点意外，也许是商业模式确实非常厉害的原因。希望公司成长能稍微放缓一些，护城河能更宽一点。",
+    "post_url": "https://xueqiu.com/1247347556/302845277",
+    "post_date": "2024-08-28",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "是的，我大部分苹果的股票其实都是通过卖put的办法买进来的。",
+    "post_url": "https://xueqiu.com/1247347556/302844398",
+    "post_date": "2024-08-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

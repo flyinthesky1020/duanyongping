@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "西蒙斯是个看图看线的高手？你信他么？",
+    "post_url": "https://xueqiu.com/1247347556/383535856",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "泡泡玛特这家公司的产品确实很有意思，founder也是个很有意思的人，他们能做到今天这样很了不起，但我看不懂10年后公司会怎样。",
+    "post_url": "https://xueqiu.com/1247347556/383493421",
+    "post_date": "2026-04-11",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "那是因为你没看懂。",
+    "post_url": "https://xueqiu.com/1247347556/383488473",
+    "post_date": "2026-04-11",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  }
+]

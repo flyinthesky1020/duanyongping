@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c6355750-b20d-4f05-ab4e-8bb43c5dce49",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2026-02-03",
+    "sentiment": "bullish",
+    "summary": "看好腾讯长期价值",
+    "quote": "想想10年后腾讯能赚多少钱吧。",
+    "source_file": "2026-02_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/374768304"
+  }
+]

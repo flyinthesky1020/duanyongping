@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果用3年的眼光看就不会担心短期预测的结果。",
+    "post_url": "https://xueqiu.com/1247347556/21688485",
+    "post_date": "2012-04-13",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你用10年的眼光来看，他们那几个人为获得这些增加的投票权付出了什么没有？看起来像是10年后即使他们一直在卖股票，他们的控制权依然不会发生大的变化。感觉上有点问题，觉得他们在这里动脑筋是对自己没信心的表现。很难想象这公司30年后的结构会是什么样的。",
+    "post_url": "https://xueqiu.com/1247347556/21689168",
+    "post_date": "2012-04-13",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 5
+  }
+]

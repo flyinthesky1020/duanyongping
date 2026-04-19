@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "投资其实不需要学。买股票就是买公司，懂公司就可以了。等你懂的时候就懂了。能看明白老巴的东西就可以做投资了，看不懂的话就多看几遍吧。",
+    "post_url": "https://xueqiu.com/1247347556/123841114",
+    "post_date": "2019-03-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "没啥特别办法，我猜，但经常做不对的事情可能会有一天日子会不太好过的。",
+    "post_url": "https://xueqiu.com/1247347556/123806264",
+    "post_date": "2019-03-26",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "骨子里的东西最重要。...是啊，好不好喝是关键。茅台已经＂好喝＂这么多年了。居然有人非说人们买茅台是因为...",
+    "post_url": "https://xueqiu.com/1247347556/123801636",
+    "post_date": "2019-03-26",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "37倍pe确实不便宜，说明大家对微信的期望很高啊。没有所谓对大家都合理的增速，因为每个人都有自己的机会成本。我觉得10年内能保持15%就很好了。",
+    "post_url": "https://xueqiu.com/1247347556/123841177",
+    "post_date": "2019-03-26",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

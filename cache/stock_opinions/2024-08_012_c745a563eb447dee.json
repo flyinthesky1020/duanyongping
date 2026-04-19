@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8a811203-fc0c-4a83-9d38-c3e92404fe9c",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-08-11",
+    "sentiment": "bullish",
+    "summary": "苹果商业模式很好",
+    "quote": "大道不太可能说苹果的商业模式比Google好，但大道更理解苹果的商业模式，知道这是个很好的商业模式。",
+    "source_file": "2024-08_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/300626476"
+  }
+]

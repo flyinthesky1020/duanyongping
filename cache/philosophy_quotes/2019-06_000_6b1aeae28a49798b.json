@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "哦，那好像是知道的。但就投资而言没概念。",
+    "post_url": "https://xueqiu.com/1247347556/128861605",
+    "post_date": "2019-06-27",
+    "mentioned_stocks": [
+      "冈本"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我想说的是除非你知道等什么，不然你在等什么？",
+    "post_url": "https://xueqiu.com/1247347556/128810182",
+    "post_date": "2019-06-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你知道等什么，不然就不应该等",
+    "post_url": "https://xueqiu.com/1247347556/128810182",
+    "post_date": "2019-06-27",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

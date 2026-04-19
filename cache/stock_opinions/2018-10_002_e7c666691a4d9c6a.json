@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7fe5d414-28cc-42a0-9a03-afdeb65858d9",
+    "stock": "腾讯控股",
+    "ticker": "00700.HK",
+    "market": "HK",
+    "date": "2018-10-16",
+    "sentiment": "bullish",
+    "summary": "已投部分腾讯",
+    "quote": "最近确实已经投了一些了，但比例还很小。",
+    "source_file": "2018-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/115078120"
+  }
+]

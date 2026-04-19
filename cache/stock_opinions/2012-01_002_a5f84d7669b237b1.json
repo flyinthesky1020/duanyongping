@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9ac372f3-9dd6-40ae-9902-2f736f82d3b8",
+    "stock": "Yahoo",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2012-01-26",
+    "sentiment": "bullish",
+    "summary": "雅虎利润良好估值低",
+    "quote": "其实作为一个市值几乎为0的公司而言，这个利润蛮好的了。",
+    "source_file": "2012-01_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/21159881"
+  }
+]

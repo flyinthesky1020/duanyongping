@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我回答不了，因为我不知道什么是周期股。",
+    "post_url": "https://xueqiu.com/1247347556/125055032",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我习惯围绕着两个方面看公司，商业模式和企业文化，短期的东西尽量避免，反正你也看不懂，比如你觉得苹果犯的那个错误啥的。",
+    "post_url": "https://xueqiu.com/1247347556/125054896",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我习惯围绕着两个方面看公司，商业模式和企业文化，短期的东西尽量避免，反正你也看不懂，比如你觉得苹果犯的那个错误啥的。",
+    "post_url": "https://xueqiu.com/1247347556/125054896",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我习惯围绕着两个方面看公司，商业模式和企业文化，短期的东西尽量避免，反正你也看不懂，比如你觉得苹果犯的那个错误啥的。",
+    "post_url": "https://xueqiu.com/1247347556/125054896",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

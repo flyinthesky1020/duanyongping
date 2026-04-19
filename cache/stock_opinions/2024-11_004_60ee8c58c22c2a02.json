@@ -1,0 +1,16 @@
+[
+  {
+    "id": "55114084-40f1-4539-9d09-fadb4604df1c",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2024-11-13",
+    "sentiment": "bullish",
+    "summary": "卖put做多腾讯",
+    "quote": "trump上台后很多人会担心新的贸易战，所以很多外资会卖中国公司的股票，这也是能买到好点价钱的机会。卖put目前非常适合（如果你打算买这家公司的前提下）",
+    "source_file": "2024-11_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/312466527"
+  }
+]

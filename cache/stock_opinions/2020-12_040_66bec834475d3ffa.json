@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e51e922c-579d-45dd-b4d5-474a2afeb7eb",
+    "stock": "券商",
+    "ticker": "券商",
+    "market": "UNKNOWN",
+    "date": "2020-12-02",
+    "sentiment": "bearish",
+    "summary": "不看好券商股",
+    "quote": "我对券商不了解，感觉产品差异化不太大，护城河不太宽，不是我喜欢的生意。",
+    "source_file": "2020-12_batch040",
+    "source_type": "xueqiu",
+    "chunk_index": 40,
+    "url": "https://xueqiu.com/1247347556/164788982"
+  }
+]

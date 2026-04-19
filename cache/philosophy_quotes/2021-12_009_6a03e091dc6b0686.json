@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我依然很难理解苹果怎么做苹果车，但我确实很希望看到苹果车会出现。",
+    "post_url": "https://xueqiu.com/1247347556/205863534",
+    "post_date": "2021-12-13",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "卖put的原则很简单，就是从未来看（比方说10年）不打算在这个价格买入的公司就不应该卖put。",
+    "post_url": "https://xueqiu.com/1247347556/205844942",
+    "post_date": "2021-12-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "原则只有一个，从10年后看回来，目前这个决定对吗？其实涨的时候补仓和跌的时候补仓并不一定有区别，如果你是从10年后看回来的话。我说每一次的意思是，有钱就卖个put的，和涨跌其实并不是真的有关系，但和你对10年或更长的前景有着绝对的关联关系。",
+    "post_url": "https://xueqiu.com/1247347556/205658512",
+    "post_date": "2021-12-10",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

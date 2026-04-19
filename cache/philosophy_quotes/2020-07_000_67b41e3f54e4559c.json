@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂银行，不知道10年后会是什么样子。懂银行的可以说说？",
+    "post_url": "https://xueqiu.com/1247347556/155512023",
+    "post_date": "2020-07-31",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我不懂银行，不知道10年后会是什么样子。懂银行的可以说说？",
+    "post_url": "https://xueqiu.com/1247347556/155512023",
+    "post_date": "2020-07-31",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "小赌怡情一下，今天上午卖了100个特斯拉这个礼拜五到期的2500的call，收了8万多。这种行为绝对不可模仿哈！",
+    "post_url": "https://xueqiu.com/1247347556/154897088",
+    "post_date": "2020-07-23",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "naked call最好不要碰！",
+    "post_url": "https://xueqiu.com/1247347556/154278223",
+    "post_date": "2020-07-16",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "新高不意外，但拆股有点意外，因为我知道苹果不会为了股价涨去做这件事情。",
+    "post_url": "https://xueqiu.com/1247347556/155397532",
+    "post_date": "2020-07-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

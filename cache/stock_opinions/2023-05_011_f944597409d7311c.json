@@ -1,0 +1,16 @@
+[
+  {
+    "id": "57578067-5703-4eb4-9a57-a54295768dbf",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-05-15",
+    "sentiment": "bullish",
+    "summary": "商业模式优于可口可乐",
+    "quote": "增持苹果好理解，毕竟商业模式比可口可乐还要强大嘛",
+    "source_file": "2023-05_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/250450967"
+  }
+]

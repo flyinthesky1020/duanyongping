@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2771f565-8999-40b6-8e7b-99383ccc4758",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-01-29",
+    "sentiment": "bullish",
+    "summary": "未发现担心事项",
+    "quote": "到目前为止我还没有发现特别让我担心的东西，还在努力发现中。",
+    "source_file": "2012-01_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/21364284"
+  }
+]

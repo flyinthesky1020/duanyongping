@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "想想10年后腾讯能赚多少钱吧。",
+    "post_url": "https://xueqiu.com/1247347556/374768304",
+    "post_date": "2026-02-03",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "不作恶是什么意思？你连这个都没想过？",
+    "post_url": "https://xueqiu.com/1247347556/374771705",
+    "post_date": "2026-02-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "要钱还是找你爸妈吧，我该说的都说过了。",
+    "post_url": "https://xueqiu.com/1247347556/374773084",
+    "post_date": "2026-02-03",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "你看看苹果？",
+    "post_url": "https://xueqiu.com/1247347556/374713299",
+    "post_date": "2026-02-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 2
+  }
+]

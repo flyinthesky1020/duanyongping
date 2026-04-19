@@ -1,0 +1,44 @@
+[
+  {
+    "id": "704bcca4-35f2-4692-bc25-b4d388c9ec16",
+    "stock": "AMR Corp",
+    "ticker": "AMR",
+    "market": "US",
+    "date": "2011-12-29",
+    "sentiment": "bearish",
+    "summary": "航空股将清零",
+    "quote": "航空股很难不被清零。",
+    "source_file": "2011-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/20634173"
+  },
+  {
+    "id": "234bd715-33e8-4372-a4da-b545a42c280c",
+    "stock": "京东",
+    "ticker": "JD",
+    "market": "UNKNOWN",
+    "date": "2011-12-29",
+    "sentiment": "bearish",
+    "summary": "京东模式不美妙",
+    "quote": "这么低的margin和这么点营业额要用这么多人啊[汗]，这个生意模式看起来不是很美妙。",
+    "source_file": "2011-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/20626316"
+  },
+  {
+    "id": "54dc8235-8100-43c0-8ccf-60399fdc7678",
+    "stock": "沃尔玛",
+    "ticker": "WMT",
+    "market": "US",
+    "date": "2011-12-29",
+    "sentiment": "bearish",
+    "summary": "沃尔玛难有作为",
+    "quote": "印象中amzn的模式不错，但wmt恐怕很难再有更大作为了。",
+    "source_file": "2011-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/20629953"
+  }
+]

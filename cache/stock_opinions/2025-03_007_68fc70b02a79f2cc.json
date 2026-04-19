@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ef20ac34-60a9-4d6b-96b6-c8920169c055",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-03-16",
+    "sentiment": "bullish",
+    "summary": "持有拿股息",
+    "quote": "没事，你拿利息我拿股息就好。",
+    "source_file": "2025-03_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/327479116"
+  },
+  {
+    "id": "0c26e112-4bdf-4039-8d48-000937132438",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2025-03-16",
+    "sentiment": "bullish",
+    "summary": "看好集中持有",
+    "quote": "确实太集中了！你不妨分一半去买那些你搞不懂的东西，反正你至少有一半的钱长期看来回报应该还可以。",
+    "source_file": "2025-03_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/327592071"
+  }
+]

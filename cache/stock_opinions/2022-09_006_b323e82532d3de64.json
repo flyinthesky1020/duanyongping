@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4347cb7a-1193-469b-a6d6-8b7cec0d5601",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-09-07",
+    "sentiment": "bullish",
+    "summary": "更了解苹果，不愿换仓",
+    "quote": "不觉得应该用苹果去换腾讯，因为我更了解苹果",
+    "source_file": "2022-09_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/229838068"
+  }
+]

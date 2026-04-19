@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ecfd3468-96be-4106-ac59-09854fcb577b",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-06-23",
+    "sentiment": "bullish",
+    "summary": "看好AI iPhone换机潮",
+    "quote": "看着很实用，大概率会有一波很长的换机潮。我估计至少3-5年内iPhone的销量会同比上升，因为iPhone实在是太耐用了，正常情况下换机周期比较长。",
+    "source_file": "2024-06_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/294805679"
+  }
+]

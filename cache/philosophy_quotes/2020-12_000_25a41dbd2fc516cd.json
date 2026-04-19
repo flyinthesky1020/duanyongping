@@ -1,0 +1,66 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "没忍住，刚刚顺手卖了200个今天到期的750的call，收了1 块多一点/个。小赌怡情，不要模仿。",
+    "post_url": "https://xueqiu.com/1247347556/166154194",
+    "post_date": "2020-12-18",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "什么人会没事呆在电动车上？电动车出租车司机？",
+    "post_url": "https://xueqiu.com/1247347556/166779354",
+    "post_date": "2020-12-25",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "定义？就是尽量往远处看的意思吧。",
+    "post_url": "https://xueqiu.com/1247347556/166678709",
+    "post_date": "2020-12-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "还是从未来看回来，没啥别的办法。",
+    "post_url": "https://xueqiu.com/1247347556/166572237",
+    "post_date": "2020-12-23",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "还是从未来看回来，没啥别的办法。",
+    "post_url": "https://xueqiu.com/1247347556/166572237",
+    "post_date": "2020-12-23",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我们就是觉得没有比更健康，更长久更有意义的事情了。",
+    "post_url": "https://xueqiu.com/1247347556/166677724",
+    "post_date": "2020-12-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我们就是觉得没有比更健康更长久更有意义的东西了。",
+    "post_url": "https://xueqiu.com/1247347556/166677714",
+    "post_date": "2020-12-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

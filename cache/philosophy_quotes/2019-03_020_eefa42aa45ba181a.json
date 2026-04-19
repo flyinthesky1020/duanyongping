@@ -1,0 +1,55 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我同意好公司不逃顶。",
+    "post_url": "https://xueqiu.com/1247347556/123187074",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "你的理解是对的。另外，好的商业模式都有很好的护城河，别人很难抢走他的生意。",
+    "post_url": "https://xueqiu.com/1247347556/123161287",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [
+      "茅台",
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式，企业文化，合理价格。",
+    "post_url": "https://xueqiu.com/1247347556/123165936",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "商业模式，企业文化，合理价格。",
+    "post_url": "https://xueqiu.com/1247347556/123165936",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "你好好看下苹果的企业文化？",
+    "post_url": "https://xueqiu.com/1247347556/123166018",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "兴奋剂当然是有用的。",
+    "post_url": "https://xueqiu.com/1247347556/123165863",
+    "post_date": "2019-03-17",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  }
+]

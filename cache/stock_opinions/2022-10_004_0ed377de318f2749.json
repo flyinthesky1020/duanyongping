@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b62cc36b-70e0-4137-a2dc-53e3acb60c77",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-10-15",
+    "sentiment": "bullish",
+    "summary": "买入茅台",
+    "quote": "今天确实买茅台了。刚刚发现还有点人民币闲钱，就买了茅台。长期来说，比方在银行里合算的概率比较大。",
+    "source_file": "2022-10_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/232663992"
+  }
+]

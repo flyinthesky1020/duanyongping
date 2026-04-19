@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "我一直说“本分”是对自己的要求，而不是对别人的照妖镜。",
+    "post_url": "https://xueqiu.com/1247347556/244088681",
+    "post_date": "2023-03-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我啥都没看，就看到老巴买了二十几个百分点。我知道他是认真的，就跟着买了差不多100万股。我不会加码也不会花时间的，反正花时间也看不懂。那么多人看了那么久苹果还是一头雾水，凭什么我能很快看懂这个？不过，我看懂老巴了，所以跟点好玩。我很难在这个公司上赚到大钱的",
+    "post_url": "https://xueqiu.com/1247347556/244099797",
+    "post_date": "2023-03-09",
+    "mentioned_stocks": [
+      "西方石油"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "其实就是“买股票就是买公司，买公司就是买其未来现金流”的意思。这里不过是举了一个未来现金流的用途的例子而已。",
+    "post_url": "https://xueqiu.com/1247347556/244062320",
+    "post_date": "2023-03-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你确认你一直在想但确实又想不太明白的话，最好的办法也许就是买S&P500，然后该干嘛干嘛去？对很多人而言，花太多时间在“投资”上不值得，这和你的学历没关系。",
+    "post_url": "https://xueqiu.com/1247347556/243988174",
+    "post_date": "2023-03-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "其实就是只有赚钱的公司才能有钱买自己",
+    "post_url": "https://xueqiu.com/1247347556/243706869",
+    "post_date": "2023-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

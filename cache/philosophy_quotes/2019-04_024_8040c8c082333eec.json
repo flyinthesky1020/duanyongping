@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "能力圈是：诚实对自己，知之为知之，不知为不知。有这样的态度，然后如果能看懂一个东西，那它就是在我能力圈内，否则就不是。",
+    "post_url": "https://xueqiu.com/1247347556/124636051",
+    "post_date": "2019-04-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你认为苹果未来20年以上的年利润只多不少，而你又没别的办法赚到6%以上的年利润，那你就可以买苹果了。",
+    "post_url": "https://xueqiu.com/1247347556/124633974",
+    "post_date": "2019-04-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "比如目前的苹果，市值扣掉净现金后，大约8000亿左右，年利润500亿左右。",
+    "post_url": "https://xueqiu.com/1247347556/124633974",
+    "post_date": "2019-04-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "一般情况下我也是通过公开渠道了解的。现在网络这么发达，几乎所有东西都能找到，但自己需要会辨别。比如苹果，你可以看下苹果所有的产品发布会，你再对照一下同期别的同行的你就会知道区别。企业主页也是一个了解的途径。新闻要小心，因为作者往往带有观点，如果你不明白，很可能会把你带沟里去。",
+    "post_url": "https://xueqiu.com/1247347556/124633117",
+    "post_date": "2019-04-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

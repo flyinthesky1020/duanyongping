@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dfdb4d9e-efab-426e-a70c-5c081de39e9c",
+    "stock": "Zynga",
+    "ticker": "ZNGA",
+    "market": "US",
+    "date": "2011-09-26",
+    "sentiment": "bearish",
+    "summary": "估值过高",
+    "quote": "140亿的估值显然太高了。@Zynga(ZNGA)",
+    "source_file": "2011-09_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/20404758"
+  },
+  {
+    "id": "5228c398-eb0c-4ef2-bde0-b1be3942c638",
+    "stock": "京东",
+    "ticker": "JD",
+    "market": "UNKNOWN",
+    "date": "2011-09-26",
+    "sentiment": "bearish",
+    "summary": "长期吃苦头",
+    "quote": "京东那个搞法长期是要吃苦头的。",
+    "source_file": "2011-09_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/20404757"
+  }
+]

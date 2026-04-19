@@ -1,0 +1,33 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "居然亏着钱就急急忙忙上市了。这种情况居然还有这么多人买，大家买的是什么呢？我认为，groupon也算是难得一见的很容易看出来未来不会太好的公司，只要想象一下什么人可能持续用就可以明白了。反正我实在是想不出来什么样的生意可以持续作为groupon的客户。",
+    "post_url": "https://xueqiu.com/1247347556/21416567",
+    "post_date": "2012-02-08",
+    "mentioned_stocks": [
+      "Groupon"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这个点评很好，至少说明不要碰pwrd和game了。玩家的眼睛是雪亮雪亮滴。",
+    "post_url": "https://xueqiu.com/1247347556/21420684",
+    "post_date": "2012-02-09",
+    "mentioned_stocks": [
+      "完美世界",
+      "盛大游戏"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "呵呵，他说的这几条都有道理，但其实老巴唯一错的地方是对byd说得有点太多。老巴“投”byd其实只是花小钱给芒格一个面子，或者说是个犯错误的机会。",
+    "post_url": "https://xueqiu.com/1247347556/21433315",
+    "post_date": "2012-02-12",
+    "mentioned_stocks": [
+      "比亚迪"
+    ],
+    "quality_score": 3
+  }
+]

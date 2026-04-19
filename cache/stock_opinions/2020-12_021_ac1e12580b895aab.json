@@ -1,0 +1,16 @@
+[
+  {
+    "id": "95b8f12f-628f-4de6-84f0-b575b6c84ada",
+    "stock": "亚马逊",
+    "ticker": "AMZN",
+    "market": "US",
+    "date": "2020-12-04",
+    "sentiment": "bearish",
+    "summary": "认为亚马逊太贵",
+    "quote": "太贵了点//@大道无形我有型:回复@华疯癫:我觉得amazon是个好公司，但似乎太过了点，所以只是买了一点点。",
+    "source_file": "2020-12_batch021",
+    "source_type": "xueqiu",
+    "chunk_index": 21,
+    "url": "https://xueqiu.com/1247347556/164926050"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没啥要补充的。不过，我不了解券商，我觉得券商的差异化应该比光伏大。",
+    "post_url": "https://xueqiu.com/1247347556/164795751",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "行业很大但差异化不大，需要投入很多，投入期也可能很长很长。物流公司里，亚马逊似乎非常强大，20多年的持续投入也确实形成了自己的护城河。",
+    "post_url": "https://xueqiu.com/1247347556/164795572",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [
+      "亚马逊"
+    ],
+    "quality_score": 4
+  }
+]

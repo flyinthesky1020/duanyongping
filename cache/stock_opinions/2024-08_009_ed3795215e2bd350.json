@@ -1,0 +1,30 @@
+[
+  {
+    "id": "702efe66-c0d4-459a-976f-b6a116314064",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2024-08-15",
+    "sentiment": "bullish",
+    "summary": "刚刚买入腾讯",
+    "quote": "刚刚买了点 腾讯。没有卖put可以用，实在是折腾人，改了好几次单，每次下单连一万股都买不到。",
+    "source_file": "2024-08_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": ""
+  },
+  {
+    "id": "d2fb15b6-33ee-4642-877e-3f85ff1c30d0",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-08-15",
+    "sentiment": "bullish",
+    "summary": "生意值得收藏",
+    "quote": "我不知道谁会涨得更多更快，但我觉得这两个生意都不错，都值得收藏。",
+    "source_file": "2024-08_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/301080201"
+  }
+]

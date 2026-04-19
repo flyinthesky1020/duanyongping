@@ -1,0 +1,51 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我自己能看懂的公司也是非常少的，看不懂当然只能放弃了。个人认为，看懂一家公司不会比读一个本科更容易。不过，花很多时间去看那些看不懂的公司是不合算的。",
+    "post_url": "https://xueqiu.com/1247347556/122885588",
+    "post_date": "2019-03-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我在老巴那里学到的非常重要的一点就是先看商业模式，除非你喜欢这家公司的商业模式，不然就不再往下看了，这样能省很多时间。",
+    "post_url": "https://xueqiu.com/1247347556/122885588",
+    "post_date": "2019-03-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这主要取决于你真的懂哪个。先假设他们都是非上市公司，如果你能从未来10年或二十年回到现在，你会选哪个？如果你说完全不知道，那你就一个都不要选。",
+    "post_url": "https://xueqiu.com/1247347556/122923183",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [
+      "茅台",
+      "中国平安",
+      "腾讯控股",
+      "阿里巴巴"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我其实并不懂通常意义上的估值，就是所谓股价应该是多少的那种估值。我一般只是想象如果某个公司是个非上市企业，我用目前的市值去拥有这家公司和我其他的机会比较，哪个在未来10年或20年得到的可能回报更高。",
+    "post_url": "https://xueqiu.com/1247347556/122842572",
+    "post_date": "2019-03-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我买茅台或苹果不是因为他们分红，而是因为他们是好公司。腾讯同理。",
+    "post_url": "https://xueqiu.com/1247347556/122923281",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

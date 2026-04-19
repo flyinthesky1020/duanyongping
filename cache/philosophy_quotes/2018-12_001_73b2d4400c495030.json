@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "主要取决于你买多少量，如果一次性把你能（打算）买的都买了，那抄到底就是好运气。你赚到的大部分财富大概不太会来自于抄底的。",
+    "post_url": "https://xueqiu.com/1247347556/117804903",
+    "post_date": "2018-12-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我认为游戏公司给消费者提供好游戏和别的公司提供好产品没有任何差别，不存在良知的问题。我们不认为有人沉醉于麻将是麻将的错吧？我们也不会认为有人喝醉酒是酒的错吧？我们也不认为有人在赌场倾家荡产是赌场的错吧？那为什么我们会认为有人沉迷游戏是游戏的错呢？",
+    "post_url": "https://xueqiu.com/1247347556/117652275",
+    "post_date": "2018-12-01",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "印象中好像只有网易不需要收，以前的CEO Ted干了一件很漂亮的事情，几十年下来会为股东省很多钱。",
+    "post_url": "https://xueqiu.com/1247347556/117652275",
+    "post_date": "2018-12-01",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 3
+  }
+]

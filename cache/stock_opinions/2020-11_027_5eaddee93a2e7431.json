@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f213c288-29dc-43b0-bbb5-439514b987c4",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-11-06",
+    "sentiment": "bullish",
+    "summary": "大跌加码/长期看好",
+    "quote": "苹果每次大跌的时候我都会加码，每一次！想到10年后的时候，自己喜欢的股票大跌怎么会心情不好呢？",
+    "source_file": "2020-11_batch027",
+    "source_type": "xueqiu",
+    "chunk_index": 27,
+    "url": "https://xueqiu.com/1247347556/162696134"
+  }
+]

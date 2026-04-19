@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这个掉法不敢加仓，说明自己确实没那么懂goog。",
+    "post_url": "https://xueqiu.com/1247347556/242324955",
+    "post_date": "2023-02-16",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我知道银行是干什么的，但觉得这个商业模式很难理解，因为有很多贷款，始终搞不清风险到底在哪里。其实国内银行普遍很着很便宜，但看着也很深的样子。",
+    "post_url": "https://xueqiu.com/1247347556/242192822",
+    "post_date": "2023-02-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "很多人以为是狩猎，其实是农夫种田。",
+    "post_url": "https://xueqiu.com/1247347556/242316800",
+    "post_date": "2023-02-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

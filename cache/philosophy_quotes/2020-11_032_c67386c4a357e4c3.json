@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "简单讲，你的问题是三年后卖出腾讯还是现在卖出会更合算？我其实不知道答案，但概率上我觉得三年后卖出可能会划算一些。",
+    "post_url": "https://xueqiu.com/1247347556/162749649",
+    "post_date": "2020-11-07",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "绝对不会。",
+    "post_url": "https://xueqiu.com/1247347556/162739648",
+    "post_date": "2020-11-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没太跟踪细节，也看不出你说的关联性。",
+    "post_url": "https://xueqiu.com/1247347556/162739668",
+    "post_date": "2020-11-07",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 2
+  }
+]

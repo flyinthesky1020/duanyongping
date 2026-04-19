@@ -1,0 +1,21 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我早年提出的“敢为天下后”的意思是，如果发现适合自己做的产品，即便后也是可以做的。适合这点很难。比如发现“搜索”很好但现在去做大概率是完蛋的。",
+    "post_url": "https://xueqiu.com/1247347556/163645848",
+    "post_date": "2020-11-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "95年以前跟umc打过不少交道。当年觉得UMC不如TSMC专注。这些年没再关注过了。",
+    "post_url": "https://xueqiu.com/1247347556/163645749",
+    "post_date": "2020-11-18",
+    "mentioned_stocks": [
+      "UMC",
+      "TSMC"
+    ],
+    "quality_score": 2
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "想公司，想生意，想10年20年后公司是什么。不要理会市场，你永远不会明白疯子在想什么的。",
+    "post_url": "https://xueqiu.com/1247347556/282009525",
+    "post_date": "2024-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "日本甚至有存在了上千年的生意，你可能完全没听说过，但你可以肯定那不是什么好生意。生存时间长和是不是好生意没有必然联系。",
+    "post_url": "https://xueqiu.com/1247347556/282010397",
+    "post_date": "2024-03-13",
+    "mentioned_stocks": [
+      "四大国有银行"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "想象力丰富一般不是坏事，但对投资而言则未必是好事。",
+    "post_url": "https://xueqiu.com/1247347556/282010790",
+    "post_date": "2024-03-13",
+    "mentioned_stocks": [
+      "东方甄选"
+    ],
+    "quality_score": 3
+  }
+]

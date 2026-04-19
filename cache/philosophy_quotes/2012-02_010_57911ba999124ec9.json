@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "以我的水平看不出谁能在5年内打败苹果。事实上，到目前为止我还没发现苹果真正的对手，所以我很放心。",
+    "post_url": "https://xueqiu.com/1247347556/21396278",
+    "post_date": "2012-02-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "从买股票就是买公司的角度看，我和老巴的投资风格绝对一样！当然，水平可能有差别，运气也不一样，能力圈也不同。",
+    "post_url": "https://xueqiu.com/1247347556/21396273",
+    "post_date": "2012-02-02",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我现在就回答不了，也不关心。",
+    "post_url": "https://xueqiu.com/1247347556/21393959",
+    "post_date": "2012-02-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "找人看主要是看资产，不是看真假。美国这点好，假的概率小。Uhal的资产情况很复杂，花了很久（几个礼拜）才全面搞明白。",
+    "post_url": "https://xueqiu.com/1247347556/21391634",
+    "post_date": "2012-02-01",
+    "mentioned_stocks": [
+      "Uhal"
+    ],
+    "quality_score": 3
+  }
+]

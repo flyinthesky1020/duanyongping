@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不知道这家公司，所以不会。",
+    "post_url": "https://xueqiu.com/1247347556/128234693",
+    "post_date": "2019-06-14",
+    "mentioned_stocks": [
+      "猎豹移动"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "一直重仓拿着茅台的人们可不这么认为。",
+    "post_url": "https://xueqiu.com/1247347556/128254850",
+    "post_date": "2019-06-15",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果你在买一个公司时是打算拥有这家公司的话，你自然会有答案。",
+    "post_url": "https://xueqiu.com/1247347556/128189243",
+    "post_date": "2019-06-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

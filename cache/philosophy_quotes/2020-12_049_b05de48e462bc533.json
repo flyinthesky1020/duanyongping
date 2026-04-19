@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我看到的顺丰是非常聚焦在他要做的事情上的，有利润之上的追求。",
+    "post_url": "https://xueqiu.com/1247347556/164791507",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不了解，直觉像是一个不容易的生意。",
+    "post_url": "https://xueqiu.com/1247347556/164789614",
+    "post_date": "2020-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

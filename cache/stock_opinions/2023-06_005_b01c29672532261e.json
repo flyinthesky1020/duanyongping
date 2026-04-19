@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3ff5fcd6-cf84-40c7-9699-2fc783be3ea4",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-06-04",
+    "sentiment": "bullish",
+    "summary": "并不想卖苹果",
+    "quote": "我卖210的call的意思是，其实我并不想卖苹果，但在这个时点这个价钱万一真的卖掉了我也接受，反正闲着也是闲着，至少我还能收个分红的钱。",
+    "source_file": "2023-06_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/252254105"
+  }
+]

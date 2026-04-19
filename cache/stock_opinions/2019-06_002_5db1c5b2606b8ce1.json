@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cfb5d01c-572f-4b18-9007-aa97674c1ef1",
+    "stock": "亚马逊",
+    "ticker": "AMZN",
+    "market": "US",
+    "date": "2019-06-24",
+    "sentiment": "bullish",
+    "summary": "买入亚马逊",
+    "quote": "亚马逊非常了不起！我也买了点亚马逊。",
+    "source_file": "2019-06_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/128565481"
+  }
+]

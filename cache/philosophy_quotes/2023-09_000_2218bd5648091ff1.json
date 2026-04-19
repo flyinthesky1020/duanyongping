@@ -1,0 +1,47 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "根本就没有所谓的“卖put的策略”！”卖put的策略“和卖苹果的put是两回事。千万别以为看到大道卖了苹果的put就以为找到发财术了。敢卖苹果的put是建立在对苹果的生意的了解之上的。不了解的公司千万别碰，你要是卖了乐视的put就血本无归了。",
+    "post_url": "https://xueqiu.com/1247347556/262323964",
+    "post_date": "2023-09-28",
+    "mentioned_stocks": [
+      "苹果",
+      "乐视"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "首先，从十年的角度看，170的苹果其实不贵（功夫全在这里）",
+    "post_url": "https://xueqiu.com/1247347556/262323856",
+    "post_date": "2023-09-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你要用了margin就是另外一回事情了。很多人在卖put的时候是不知不觉中就用了margin了，时间长了就湿鞋了。",
+    "post_url": "https://xueqiu.com/1247347556/262324328",
+    "post_date": "2023-09-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你难受是有道理的。国债不是margin，但其他股票是！你连这个都搞不清楚，给你苦头吃是应该的。",
+    "post_url": "https://xueqiu.com/1247347556/262323964",
+    "post_date": "2023-09-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你说的对，不过走下自家后门比较容易原谅自己。",
+    "post_url": "https://xueqiu.com/1247347556/262316825",
+    "post_date": "2023-09-28",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

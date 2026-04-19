@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "便宜的东西经常是更贵的。",
+    "post_url": "https://xueqiu.com/1247347556/312898303",
+    "post_date": "2024-11-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我在的时候小霸王其实很厉害的，95年的时候利润应该比联想或者海尔高，而且没债务。",
+    "post_url": "https://xueqiu.com/1247347556/312694017",
+    "post_date": "2024-11-13",
+    "mentioned_stocks": [
+      "小霸王",
+      "联想",
+      "海尔"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我们在1995年因为某些原因不得不从头开始了一次。reset这里可以解释为重新来或者叫清零。",
+    "post_url": "https://xueqiu.com/1247347556/312816172",
+    "post_date": "2024-11-13",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不动如山！反正也不明白怎么动",
+    "post_url": "https://xueqiu.com/1247347556/312694243",
+    "post_date": "2024-11-13",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你确实恐惧了，“买了一些周的卖put动作”？都到了语无伦次的程度了？“笃信”的人是不会恐惧的，赌徒会！我没啥建议给赌徒们。我试过劝赌徒不要再赌了，但从来没成功过。反正你也还是要继续这样做并承受后果的，我只能祝你好运，毕竟隔壁张三曾经赌对过一次。投资本是件愉快的事情，只要有恐惧就...",
+    "post_url": "https://xueqiu.com/1247347556/326550207",
+    "post_date": "2025-03-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "多元化就是产品之间无关联。",
+    "post_url": "https://xueqiu.com/1247347556/326553385",
+    "post_date": "2025-03-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "30年前我对UMC的人说，未来TSMC会远厉害过UMC和三星，因为TSMC非常专注，而且只专注在代工上。UMC那时候有自己的design house，三星也是一样。",
+    "post_url": "https://xueqiu.com/1247347556/326503152",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [
+      "TSMC",
+      "UMC",
+      "三星"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "to C的生意容易理解，因为你能直接看到产品，to B有点难，除非你刚好是使用者。",
+    "post_url": "https://xueqiu.com/1247347556/326503392",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "毕竟微信有 15 年左右了，它大概率是会被颠覆的（当然也可能是被自己颠覆），时间而已。主要是现在科技发展太快，说不定被颠覆的时间也会很快。",
+    "post_url": "https://xueqiu.com/1247347556/326552483",
+    "post_date": "2025-03-08",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "一月很多put过期后，空出了很多cash。美股如此贵，还有人这么在折腾，t-bill利息也降了下来，有点不好办哈。开始想想TSM。35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。现在开始关注。能够满仓是件很愉快的事情，空仓多少有点难受。",
+    "post_url": "https://xueqiu.com/1247347556/326505863",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [
+      "TSM"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。",
+    "post_url": "https://xueqiu.com/1247347556/326505863",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [
+      "TSM"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这个主要取决于苹果最后能够给用户提供什么样的体验。我觉得机器人是有机会的，因为很容易和iPhone连为一体，进入苹果的生态圈。",
+    "post_url": "https://xueqiu.com/1247347556/326549630",
+    "post_date": "2025-03-08",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

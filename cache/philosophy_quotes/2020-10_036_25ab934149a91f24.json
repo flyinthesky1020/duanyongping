@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "早期我买过创维，后来意识到他们的商业模式不太好后就退出了。这些年没再关注过这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/160654226",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [
+      "创维"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我投错的案例很少，都是源于碰了自己以为懂了的东西，但意识到其实不是时就退出了，经常还是赚着钱时就退了，比如Tesla，比如航空公司等。",
+    "post_url": "https://xueqiu.com/1247347556/160653932",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [
+      "Tesla",
+      "航空公司"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我投错的案例很少，都是源于碰了自己以为懂了的东西，但意识到其实不是时就退出了，经常还是赚着钱时就退了，比如Tesla，比如航空公司等。",
+    "post_url": "https://xueqiu.com/1247347556/160653932",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [
+      "Tesla",
+      "航空公司"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "有平常心的人们才更容易赢，才更有机会成功。胸无大志是相对于好大喜功说的。",
+    "post_url": "https://xueqiu.com/1247347556/160654338",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我们是一起成长的，在一起工作很多年了。",
+    "post_url": "https://xueqiu.com/1247347556/160653971",
+    "post_date": "2020-10-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

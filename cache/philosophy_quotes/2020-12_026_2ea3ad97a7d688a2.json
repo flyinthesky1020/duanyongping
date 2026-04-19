@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我大概属于不明觉厉吧，就是发现很多微软的用户离不开微软。不过，我没买过微软，大概是因为我不怎么用电脑吧。",
+    "post_url": "https://xueqiu.com/1247347556/164982274",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [
+      "微软"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我觉得amazon是个好公司，但似乎太过了点，所以只是买了一点点。太贵了点。",
+    "post_url": "https://xueqiu.com/1247347556/164926050",
+    "post_date": "2020-12-03",
+    "mentioned_stocks": [
+      "amazon"
+    ],
+    "quality_score": 4
+  }
+]

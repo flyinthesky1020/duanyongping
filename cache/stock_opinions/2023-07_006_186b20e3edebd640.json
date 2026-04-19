@@ -1,0 +1,16 @@
+[
+  {
+    "id": "91985b13-fa3a-434f-9bd7-af01bf424801",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-07-20",
+    "sentiment": "bearish",
+    "summary": "苹果估值偏高上涨难",
+    "quote": "我不太相信苹果会从此一飞冲天，毕竟已经三十多倍pe了。",
+    "source_file": "2023-07_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/256217745"
+  }
+]

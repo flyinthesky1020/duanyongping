@@ -1,0 +1,67 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "腾讯，阿里看了半天还是看不透，下不了重手。看来只能买短期国债（5.35%）看着（随时可以卖苹果的put）。",
+    "post_url": "https://xueqiu.com/1247347556/270005477",
+    "post_date": "2023-12-07",
+    "mentioned_stocks": [
+      "腾讯",
+      "阿里巴巴",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "苹果现在也不便宜了，这个价位卖put似乎不是很踏实。腾讯，阿里看了半天还是看不透，下不了重手。",
+    "post_url": "https://xueqiu.com/1247347556/270005477",
+    "post_date": "2023-12-07",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯",
+      "阿里巴巴"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "很多option就要到期，苹果现在也不便宜了，这个价位卖put似乎不是很踏实。看来只能买短期国债（5.35%）看着（随时可以卖苹果的put）。作为一个'满仓主义者'很少经历非满仓状态，有点不太习惯。",
+    "post_url": "https://xueqiu.com/1247347556/270005477",
+    "post_date": "2023-12-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "刚刚看了一圈，商业模式稍微好点儿的pe都非常高，这还是在国债利率这么高的时候。这是有泡沫了吗？",
+    "post_url": "https://xueqiu.com/1247347556/269939536",
+    "post_date": "2023-12-06",
+    "mentioned_stocks": [
+      "苹果",
+      "微软",
+      "亚马逊"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我只是象征性支持，新东方当时也是象征性支持的。阿里要想再现辉煌不容易，面临的问题和困难很多，不确定性很大，但机会可能还在。",
+    "post_url": "https://xueqiu.com/1247347556/270159376",
+    "post_date": "2023-12-08",
+    "mentioned_stocks": [
+      "新东方",
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "经常拿着现金大概率会被通胀打败的。",
+    "post_url": "https://xueqiu.com/1247347556/270065288",
+    "post_date": "2023-12-07",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

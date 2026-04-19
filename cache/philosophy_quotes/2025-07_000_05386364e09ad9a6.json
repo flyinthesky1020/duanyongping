@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "道就是“做对的事情和把事情做对”，就是理性想长远想本质。",
+    "post_url": "https://xueqiu.com/1247347556/343861522",
+    "post_date": "2025-07-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "看懂未来现金流折现就好，哪个角度都一样。",
+    "post_url": "https://xueqiu.com/1247347556/343502867",
+    "post_date": "2025-07-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "但投资不是关于你是不是看走眼了，而是你是不是有看懂的好公司你下了重注。他要一直没有看走眼过，他早就是世界首富的好多倍了哈。",
+    "post_url": "https://xueqiu.com/1247347556/344310407",
+    "post_date": "2025-07-26",
+    "mentioned_stocks": [
+      "携程"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "知道什么事情会发生远比知道什么时候会发生要容易得多。",
+    "post_url": "https://xueqiu.com/1247347556/344888262",
+    "post_date": "2025-07-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

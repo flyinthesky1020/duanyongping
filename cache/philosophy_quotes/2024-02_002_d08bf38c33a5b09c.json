@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "茅台没有替代品的意思是我不了解A股的其他公司，你理解错了。",
+    "post_url": "https://xueqiu.com/1247347556/278735062",
+    "post_date": "2024-02-14",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "目前美国短期国债利息在5.3-5.4%，50多倍PE是不可接受的，30倍已经有点高了。",
+    "post_url": "https://xueqiu.com/1247347556/278734592",
+    "post_date": "2024-02-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "目前美国短期国债利息在5.3-5.4%，50多倍PE是不可接受的，30倍已经有点高了。",
+    "post_url": "https://xueqiu.com/1247347556/278734592",
+    "post_date": "2024-02-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "投资：你买的是公司未来现金流的折现。",
+    "post_url": "https://xueqiu.com/1247347556/376449922",
+    "post_date": "2026-02-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "看着账户准备随时赶紧逃的这种，就是在投机。",
+    "post_url": "https://xueqiu.com/1247347556/376449922",
+    "post_date": "2026-02-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "问的都是投机，投资的人自己就默默地投了。",
+    "post_url": "https://xueqiu.com/1247347556/376449922",
+    "post_date": "2026-02-18",
+    "mentioned_stocks": [
+      "美团",
+      "英伟达"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "股价跌了，你开心，因为可以买得更便宜。哪怕跌30%、40%，你甚至想加仓。",
+    "post_url": "https://xueqiu.com/1247347556/376449922",
+    "post_date": "2026-02-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果真的懂了这个企业，你不会受市场的影响。越到后头就越不容易受影响。",
+    "post_url": "https://xueqiu.com/1247347556/376449922",
+    "post_date": "2026-02-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果你的产品没有太多的差异化，应战是必然的，为了生存！核战争就是这个意思啊！",
+    "post_url": "https://xueqiu.com/1247347556/376319485",
+    "post_date": "2026-02-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

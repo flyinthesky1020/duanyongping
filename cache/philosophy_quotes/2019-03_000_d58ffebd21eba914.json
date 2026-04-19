@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "个人认为最重要的是你自己要有是非观，要有长远的看法。凡事如果你能想着10年20年，你大概就不会那么困惑了。",
+    "post_url": "https://xueqiu.com/1247347556/124232339",
+    "post_date": "2019-03-31",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "大道曾经观察过，很多人在等电梯或坐电梯时都是低头看手机的，那谁来看广告呢？所以这个属于不在能力圈内的事情，看不懂。",
+    "post_url": "https://xueqiu.com/1247347556/124199176",
+    "post_date": "2019-03-31",
+    "mentioned_stocks": [
+      "分众传媒"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "没有人是绝对完美的，但本分和正直让我坦然。其实你做的那些选择留给你的并不是舒服，只是暂时逃避了问题或得到一点点眼前的好处，但很可能会因此失去内心的平静。我没有碰到过为了承诺失去身价的情况，虽然遵守诺言应该和大小无关。",
+    "post_url": "https://xueqiu.com/1247347556/124161320",
+    "post_date": "2019-03-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我认为golf更难的原因是，golf你不能说这杆我还没想好，所以我现在不想打。投资你永远都可以说，我还没想好，我不想做什么。",
+    "post_url": "https://xueqiu.com/1247347556/124145484",
+    "post_date": "2019-03-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

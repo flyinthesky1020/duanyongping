@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你想要赚快钱的建议吗？",
+    "post_url": "https://xueqiu.com/1247347556/345383555",
+    "post_date": "2025-08-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我也觉得卖掉航空股没啥错。航空生意的苦日子可能还有相当长的时间，而且这种情况每隔一段时间还可能再来，这个商业模式确实没那么好。",
+    "post_url": "https://xueqiu.com/1247347556/345374914",
+    "post_date": "2021-05-02",
+    "mentioned_stocks": [
+      "航空股"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果未来某天大跌到遍地是黄金但不知道哪个是雷的时候，我会优先考虑S&P500。",
+    "post_url": "https://xueqiu.com/1247347556/345374914",
+    "post_date": "2021-05-02",
+    "mentioned_stocks": [
+      "S&P500"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "老巴说：我们不会让你亏钱的。",
+    "post_url": "https://xueqiu.com/1247347556/345374914",
+    "post_date": "2021-05-02",
+    "mentioned_stocks": [
+      "BRK"
+    ],
+    "quality_score": 3
+  }
+]

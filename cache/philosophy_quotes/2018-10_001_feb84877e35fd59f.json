@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实无非就是要做对的事情。出50个机种显然是不对的，有时候一个不对的事情就会要了他们的命啊，结果也证实了这点。",
+    "post_url": "https://xueqiu.com/1247347556/115531501",
+    "post_date": "2018-10-22",
+    "mentioned_stocks": [
+      "诺基亚"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我认为游戏公司给消费者提供好游戏和别的公司提供好产品没有任何差别，不存在良知的问题。我们不认为有人沉醉于麻将是麻将的错吧？我们也不会认为有人喝醉酒是酒的错吧？我们也不认为有人在赌场倾家荡产是赌场的错吧？那为什么我们会认为有人沉迷游戏是游戏的错呢？",
+    "post_url": "https://xueqiu.com/1247347556/115218377",
+    "post_date": "2018-10-17",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "诺基亚不是用户导向的，你看到的这个现象其实是他们的内在文化的外在表现。",
+    "post_url": "https://xueqiu.com/1247347556/115531180",
+    "post_date": "2018-10-22",
+    "mentioned_stocks": [
+      "诺基亚"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们买茅台时（大概是12-13年），那时是不知道两三年内茅台会怎么样的，但我可以大概率肯定，茅台10年后会不错。",
+    "post_url": "https://xueqiu.com/1247347556/115528524",
+    "post_date": "2018-10-22",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  }
+]

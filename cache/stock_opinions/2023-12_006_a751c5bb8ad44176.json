@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7b9395ef-05b8-4e77-b4d6-23fc98fd6384",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2023-12-22",
+    "sentiment": "bullish",
+    "summary": "逢低买入腾讯",
+    "quote": "老规矩，掉一次买一点点，慢慢来。感觉新规不会影响大家花在游戏上的总时间。诱导式充值确实不厚道，能限制一下会更健康。",
+    "source_file": "2023-12_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": ""
+  }
+]

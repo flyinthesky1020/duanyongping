@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8df99a0f-2d5b-4127-bcb0-ea2df2f5906f",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-12-14",
+    "sentiment": "bullish",
+    "summary": "iPhone 12 pro max效果好",
+    "quote": "iPhone 12 pro max 照片和录像的效果确实非常好！@苹果(AAPL)",
+    "source_file": "2020-12_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/165785798"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1d5b2cb5-c359-45d3-849d-89146f1b8dc5",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-08-21",
+    "sentiment": "bearish",
+    "summary": "看空苹果",
+    "quote": "$苹果(AAPL)$ 估计这种时候奋不顾身跳进来买的人多数应该是空头吧？",
+    "source_file": "2020-08_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/157290486"
+  },
+  {
+    "id": "779154ed-5c85-4f35-8f06-38d0a9f05d13",
+    "stock": "西南航空",
+    "ticker": "LUV",
+    "market": "US",
+    "date": "2020-08-17",
+    "sentiment": "bearish",
+    "summary": "西南航空未来艰难",
+    "quote": "我也觉得西南航空公司是最优秀的航空公司，但依然觉得他们未来的日子不好过。",
+    "source_file": "2020-08_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/156918135"
+  },
+  {
+    "id": "8bcfb9ca-f72e-4396-94a7-83e4409237bf",
+    "stock": "达美航空",
+    "ticker": "DAL",
+    "market": "US",
+    "date": "2020-08-16",
+    "sentiment": "bearish",
+    "summary": "清空达美看空航空业",
+    "quote": "终于在上个礼拜清空了达美。确实像老巴说的那样，这个生意可能已经变了。买股票就是买公司，航空公司的生意可能会在相当长的时间里很挣扎，不是我能搞明白的。",
+    "source_file": "2020-08_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/156774243"
+  }
+]

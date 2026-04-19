@@ -1,0 +1,16 @@
+[
+  {
+    "id": "97b2ad1f-7452-42c4-8b01-845181a8cf6a",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-04-30",
+    "sentiment": "bullish",
+    "summary": "加仓苹果看涨",
+    "quote": "我加了。584进马上卖个585的5月19号到期的call，收15块多，3个礼拜不到3%的保费，不收白不收。put给我就再卖个call或者就留着，反正600块以下怎么着都行",
+    "source_file": "2012-04_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/21760308"
+  }
+]

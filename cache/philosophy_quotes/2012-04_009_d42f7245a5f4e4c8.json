@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "所谓价值投资者追求的是价值，与其是否热门无关。所有真正好公司都有热门的那一天。最关键是平常心去看一家公司到底价值何在，不要理市场的冷热。",
+    "post_url": "https://xueqiu.com/1247347556/21669819",
+    "post_date": "2012-04-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你不应该卖put，一看就知道你不懂option。",
+    "post_url": "https://xueqiu.com/1247347556/21675213",
+    "post_date": "2012-04-10",
+    "mentioned_stocks": [
+      "雅虎"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你还是不要碰的好。",
+    "post_url": "https://xueqiu.com/1247347556/21676069",
+    "post_date": "2012-04-10",
+    "mentioned_stocks": [
+      "雅虎"
+    ],
+    "quality_score": 3
+  }
+]

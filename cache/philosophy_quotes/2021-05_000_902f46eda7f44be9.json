@@ -1,0 +1,63 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我很喜欢Zoom这家公司的文化，也很欣赏the founder and CEO Eric。但是，我一直没能下手投资Zoom，因为一直无法理解这家公司的估值。其实在Zoom不到100块的时候我就开始关注Zoom了，但没能想透10年后这家公司到底会是什么样子。投资就是这样，搞懂一样东西还是需要一些缘分的。",
+    "post_url": "https://xueqiu.com/1247347556/181292575",
+    "post_date": "2021-05-30",
+    "mentioned_stocks": [
+      "Zoom Video通讯(ZM)"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不懂商业模式的意思是不知道公司未来是不是能长期有好的利润，护城河是什么。大多数公司的商业模式不容易看明白或者看上去未来很难有好的利润。",
+    "post_url": "https://xueqiu.com/1247347556/179715586",
+    "post_date": "2021-05-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我也觉得卖掉航空股没啥错。航空生意的苦日子可能还有相当长的时间，而且这种情况每隔一段时间还可能再来，这个商业模式确实没那么好。",
+    "post_url": "https://xueqiu.com/1247347556/179172683",
+    "post_date": "2021-05-06",
+    "mentioned_stocks": [
+      "航空股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "没能想透10年后这家公司到底会是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/181292575",
+    "post_date": "2021-05-30",
+    "mentioned_stocks": [
+      "Zoom Video通讯(ZM)"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我很喜欢Zoom这家公司的文化，也很欣赏the founder and CEO Eric。",
+    "post_url": "https://xueqiu.com/1247347556/181292575",
+    "post_date": "2021-05-30",
+    "mentioned_stocks": [
+      "Zoom Video通讯(ZM)"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我这10年说的大概就是苹果，茅台。说过一点腾讯，从来没推荐过拼多多，毕竟商业模式我还看不懂。",
+    "post_url": "https://xueqiu.com/1247347556/179295869",
+    "post_date": "2021-05-08",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "腾讯",
+      "拼多多"
+    ],
+    "quality_score": 4
+  }
+]

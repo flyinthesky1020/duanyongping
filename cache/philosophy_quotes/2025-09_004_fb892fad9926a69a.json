@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资者需要“客观”，“乐观”是有可能害死人的哈。",
+    "post_url": "https://xueqiu.com/1247347556/354532582",
+    "post_date": "2025-09-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我没提供利润预期，我不觉得茅台未来20年的利润会这么悲观。我只是随便举个例子，让大家看看怎么用公式而已。有空大家可以根据自己对茅台生意的理解带入任意数字，然后你能看到很多不同的结果。",
+    "post_url": "https://xueqiu.com/1247347556/354529640",
+    "post_date": "2025-09-25",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "企业价值本身确实和每个人的机会成本没有直接关系，但是不是决定投某家公司是和自己的机会成本直接相关的。其实理论上每个人都应该去投对自己回报最高的投资（长期而言），但事实上很多人根本就不知道自己再干什么。",
+    "post_url": "https://xueqiu.com/1247347556/354528493",
+    "post_date": "2025-09-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "DCF模型很好啊，帮助你理解企业的未来现金流的量化，但变量太多，不如毛估估准。",
+    "post_url": "https://xueqiu.com/1247347556/354519689",
+    "post_date": "2025-09-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

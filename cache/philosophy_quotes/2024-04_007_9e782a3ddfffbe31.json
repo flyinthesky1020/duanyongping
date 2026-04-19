@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "做对的事情，把事情做对",
+    "post_url": "https://xueqiu.com/1247347556/284783912",
+    "post_date": "2024-04-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "卖了100个礼拜五到期的860的put，表达一下关注（包括Ai）。不明觉厉，但确实看到厉害的地方了。",
+    "post_url": "https://xueqiu.com/1247347556/284664399",
+    "post_date": "2024-04-02",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不知道，就是关注一下。",
+    "post_url": "https://xueqiu.com/1247347556/284654362",
+    "post_date": "2024-04-02",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我们一股都没卖！",
+    "post_url": "https://xueqiu.com/1247347556/284660855",
+    "post_date": "2024-04-02",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

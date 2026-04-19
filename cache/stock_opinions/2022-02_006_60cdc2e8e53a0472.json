@@ -1,0 +1,16 @@
+[
+  {
+    "id": "53d79a9f-51c4-4183-bdba-aadf5f1fe5b2",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-02-06",
+    "sentiment": "bullish",
+    "summary": "卖出put看涨苹果",
+    "quote": "2/4 170的put到期了20多k个，下个礼拜继续，今天因为打球去了没空下单，明后天有空时下单",
+    "source_file": "2022-02_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/210687530"
+  }
+]

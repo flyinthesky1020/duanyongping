@@ -1,0 +1,44 @@
+[
+  {
+    "id": "0a25aab9-b221-483a-b1bf-4e399faeaf50",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-03-13",
+    "sentiment": "bullish",
+    "summary": "建议买入茅台",
+    "quote": "存银行没那么折腾，要不就买茅台吧。最好等茅台再掉一点。有人说茅台有可能会掉到800-1000，你就存着钱等着。",
+    "source_file": "2025-03_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/327102903"
+  },
+  {
+    "id": "eae145f1-a515-482a-b5cc-8d17925b2af5",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2025-03-13",
+    "sentiment": "bullish",
+    "summary": "看好腾讯未来盈利",
+    "quote": "现在已经能赚这么多了？那未来肯定更多啊。",
+    "source_file": "2025-03_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/326989736"
+  },
+  {
+    "id": "29362c84-4f51-4fe1-8142-a9aeb446856c",
+    "stock": "波音",
+    "ticker": "BA",
+    "market": "US",
+    "date": "2025-03-13",
+    "sentiment": "bearish",
+    "summary": "看空波音未来",
+    "quote": "卖飞机的，合并了麦道之后干了些很奇怪的事情，以后麻烦比较大。",
+    "source_file": "2025-03_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/326983370"
+  }
+]

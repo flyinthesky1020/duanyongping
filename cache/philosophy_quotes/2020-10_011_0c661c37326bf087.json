@@ -1,0 +1,63 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解这两家公司。",
+    "post_url": "https://xueqiu.com/1247347556/161421776",
+    "post_date": "2020-10-21",
+    "mentioned_stocks": [
+      "招商银行",
+      "美的集团"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不是我能搞懂的行业和企业。",
+    "post_url": "https://xueqiu.com/1247347556/161419485",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不是很了解。",
+    "post_url": "https://xueqiu.com/1247347556/161418655",
+    "post_date": "2020-10-21",
+    "mentioned_stocks": [
+      "蚂蚁集团"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "投资最重要是要了解公司，了解生意，这个大学里教的不多。数学能力到中学就够了。",
+    "post_url": "https://xueqiu.com/1247347556/161418833",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "投资如果真懂了是不需要花太多时间的，机会该出现时就会出现的。",
+    "post_url": "https://xueqiu.com/1247347556/161421770",
+    "post_date": "2020-10-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "以后不要跟他们谈股票。",
+    "post_url": "https://xueqiu.com/1247347556/161419452",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我觉得你还是好好做生意的好。",
+    "post_url": "https://xueqiu.com/1247347556/161421770",
+    "post_date": "2020-10-21",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "全部是基于短期利益。",
+    "post_url": "https://xueqiu.com/1247347556/131885908",
+    "post_date": "2019-08-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我没仔细看过，但知道苹果的目标就是要做到现金平衡，意思就是除了留有必要的现金外，其余会全部返还给股东。苹果的现金流很强，可以预期在未来很长的时间里，苹果都会继续回购和派现。",
+    "post_url": "https://xueqiu.com/1247347556/131732364",
+    "post_date": "2019-08-25",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你可以通过pe看到过去的盈利能力，但投资的关键是看未来。",
+    "post_url": "https://xueqiu.com/1247347556/131710813",
+    "post_date": "2019-08-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

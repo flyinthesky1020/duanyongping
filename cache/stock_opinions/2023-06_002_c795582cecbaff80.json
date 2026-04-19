@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7217cbe3-9b8d-481a-b860-e0282a51d878",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-06-13",
+    "sentiment": "bullish",
+    "summary": "跟着茅台吃香喝辣",
+    "quote": "我相信跟着茅台走会吃香的、喝辣的",
+    "source_file": "2023-06_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/253097622"
+  }
+]

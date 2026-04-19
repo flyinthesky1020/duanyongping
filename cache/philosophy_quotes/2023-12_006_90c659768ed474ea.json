@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "游戏的本质是大家需要找地方消耗时间，网上游戏是最便宜能获得快...我想清楚这点的时候还没有网易呢。",
+    "post_url": "https://xueqiu.com/1247347556/272096249",
+    "post_date": "2023-12-22",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "以前我觉的梦幻蛮好的，巨人的游戏比较急功近利。",
+    "post_url": "https://xueqiu.com/1247347556/272095071",
+    "post_date": "2023-12-22",
+    "mentioned_stocks": [
+      "巨人"
+    ],
+    "quality_score": 3
+  }
+]

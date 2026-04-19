@@ -1,0 +1,41 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我猜他可能觉得苹果更容易懂一点吧。",
+    "post_url": "https://xueqiu.com/1247347556/163580380",
+    "post_date": "2020-11-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "在我看来Amazon, google应该算，其他两个我没那么了解。",
+    "post_url": "https://xueqiu.com/1247347556/163564728",
+    "post_date": "2020-11-17",
+    "mentioned_stocks": [
+      "Amazon",
+      "google",
+      "facebook",
+      "京东"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "伟大公司的价值我也不太会估，所以买了不要轻易卖就好。最重要是如何确定其是伟大公司。",
+    "post_url": "https://xueqiu.com/1247347556/163543053",
+    "post_date": "2020-11-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "所以买了不要轻易卖就好。",
+    "post_url": "https://xueqiu.com/1247347556/163543053",
+    "post_date": "2020-11-17",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "03882958-5a80-4828-b6a0-eeab3e00cf7f",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-01-12",
+    "sentiment": "bullish",
+    "summary": "长期持有苹果",
+    "quote": "我这十年赚钱的办法非常简单，就是买了苹果，然后拿着。",
+    "source_file": "2022-01_batch016",
+    "source_type": "xueqiu",
+    "chunk_index": 16,
+    "url": "https://xueqiu.com/1247347556/208708796"
+  },
+  {
+    "id": "6da1e79c-4f1c-4b82-bf11-7848135d9217",
+    "stock": "新东方",
+    "ticker": "EDU",
+    "market": "US",
+    "date": "2022-01-12",
+    "sentiment": "bullish",
+    "summary": "看涨新东方",
+    "quote": "我卖点新东方的put其实很像风投，就是赌虚岁已经60的俞敏洪不会就此倒下，至于他最后能干成什么我是不知道的。总觉得俞敏洪是条汉子，象征性支持一下。",
+    "source_file": "2022-01_batch016",
+    "source_type": "xueqiu",
+    "chunk_index": 16,
+    "url": "https://xueqiu.com/1247347556/208549049"
+  },
+  {
+    "id": "d0587314-bc35-4d0e-a558-8f7196736adf",
+    "stock": "Meta Platforms",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2022-01-12",
+    "sentiment": "bearish",
+    "summary": "清仓FB",
+    "quote": "进入2022年后的第一个交易日，我终于把FB都处理光了。因为税务的原因，留了一些FB。",
+    "source_file": "2022-01_batch016",
+    "source_type": "xueqiu",
+    "chunk_index": 16,
+    "url": "https://xueqiu.com/1247347556/208355237"
+  }
+]

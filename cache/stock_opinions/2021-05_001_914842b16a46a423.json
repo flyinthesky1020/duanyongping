@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2742371c-84e9-43ea-bf3e-e6843b432079",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2021-05-06",
+    "sentiment": "bullish",
+    "summary": "建议买入苹果",
+    "quote": "接BRK很简单，买苹果和S&P500就好，表现应该比S&P500好。",
+    "source_file": "2021-05_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/178972814"
+  }
+]

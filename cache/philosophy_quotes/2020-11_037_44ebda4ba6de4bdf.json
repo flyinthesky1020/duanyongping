@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "想10年后，相对于你自己的机会成本。",
+    "post_url": "https://xueqiu.com/1247347556/162318124",
+    "post_date": "2020-11-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这和是不是个人投资者无关。我不了解你说的这三家公司。如果你需要问别人该不该投的话，一般来说你就是还不够了解。",
+    "post_url": "https://xueqiu.com/1247347556/162232055",
+    "post_date": "2020-11-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "下单呗，把你的买入价放在那里，到了自然给你。不过，当股价真掉到你想要的价格时如果你感到害怕就说明你其实不了解这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/162229010",
+    "post_date": "2020-11-01",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我只知道茅台碰巧做了茅台53度飞天，但没认真看过细节。茅台在季克良年代形成的产品文化很强大，后继者是不敢改的。",
+    "post_url": "https://xueqiu.com/1247347556/162228705",
+    "post_date": "2020-11-01",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

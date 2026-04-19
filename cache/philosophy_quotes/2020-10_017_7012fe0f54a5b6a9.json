@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不知道顺丰未来的盈利能力，但确实觉得顺丰是家好公司。顺丰企业文化感觉蛮不错的，但商业模式（未来盈利能力）我还不完全看得懂。",
+    "post_url": "https://xueqiu.com/1247347556/161145698",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "也许是雪球吧？从2011年开始买苹果后，我基本上只在雪球上看点信息啥的，实际上也没看到啥，所以才一直拿着苹果的。",
+    "post_url": "https://xueqiu.com/1247347556/161147198",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "你如果是苹果用户就能明白。哪个iPhone用户家里不是一抽屉的充电器？",
+    "post_url": "https://xueqiu.com/1247347556/161149876",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我没太多看法，只是觉得他们最后想赚钱都不容易。看10年再说吧。",
+    "post_url": "https://xueqiu.com/1247347556/161145463",
+    "post_date": "2020-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

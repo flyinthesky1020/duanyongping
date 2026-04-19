@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "本分不是照妖镜，本分是用来检视自己的。",
+    "post_url": "https://xueqiu.com/1247347556/347662244",
+    "post_date": "2025-08-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "大道对没有现金流的东西不感兴趣。",
+    "post_url": "https://xueqiu.com/1247347556/348107799",
+    "post_date": "2025-08-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂保险但直觉上觉得UNH前段时间可能遇到了恐慌卖出...隔行如隔山，下不了重手赚不到啥钱。",
+    "post_url": "https://xueqiu.com/1247347556/347311809",
+    "post_date": "2025-08-15",
+    "mentioned_stocks": [
+      "联合健康"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "秘诀就是理性想长远想本质的思维习惯。",
+    "post_url": "https://xueqiu.com/1247347556/347312216",
+    "post_date": "2025-08-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

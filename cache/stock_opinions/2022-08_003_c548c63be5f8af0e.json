@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5b00152e-6b2f-4758-996f-d58c9452967d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-08-18",
+    "sentiment": "bullish",
+    "summary": "目前A股仅持有茅台",
+    "quote": "基本上目前我们A股上就只有茅台",
+    "source_file": "2022-08_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/228480440"
+  },
+  {
+    "id": "0aa791f0-8f64-4412-bedd-28ece8e90060",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-08-18",
+    "sentiment": "bullish",
+    "summary": "苹果是非卖品",
+    "quote": "苹果是非卖品，只是1月时涨的太快了",
+    "source_file": "2022-08_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/227607039"
+  }
+]

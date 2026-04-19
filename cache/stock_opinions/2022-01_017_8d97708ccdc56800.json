@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3f78d2e4-75ee-4577-8800-e14a7262163a",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-01-07",
+    "sentiment": "bullish",
+    "summary": "170美元十年视角不贵",
+    "quote": "从十年的角度看，170的苹果其实不贵（功夫全在这里），然后就好玩了。",
+    "source_file": "2022-01_batch017",
+    "source_type": "xueqiu",
+    "chunk_index": 17,
+    "url": "https://xueqiu.com/1247347556/208342996"
+  }
+]

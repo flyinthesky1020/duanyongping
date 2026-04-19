@@ -1,0 +1,16 @@
+[
+  {
+    "id": "02234738-d9c5-4d69-8362-7d2068e7ceb7",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2025-11-19",
+    "sentiment": "bullish",
+    "summary": "开始投资特斯拉",
+    "quote": "面对他的那么多厉害的产品我上个礼拜和这个礼拜已经开始投点在特斯拉上了",
+    "source_file": "2025-11_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/362407734"
+  }
+]

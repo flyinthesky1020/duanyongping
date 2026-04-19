@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ab7d2b60-6054-49de-88ef-773de4d05351",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-03-13",
+    "sentiment": "bullish",
+    "summary": "看好茅台",
+    "quote": "我买茅台或苹果不是因为他们分红，而是因为他们是好公司。",
+    "source_file": "2019-03_batch029",
+    "source_type": "xueqiu",
+    "chunk_index": 29,
+    "url": "https://xueqiu.com/1247347556/122928644"
+  },
+  {
+    "id": "8c191f4d-f0c7-4d3e-808f-7e3d0a44c559",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-03-13",
+    "sentiment": "bullish",
+    "summary": "看好苹果",
+    "quote": "我买茅台或苹果不是因为他们分红，而是因为他们是好公司。",
+    "source_file": "2019-03_batch029",
+    "source_type": "xueqiu",
+    "chunk_index": 29,
+    "url": "https://xueqiu.com/1247347556/122928644"
+  },
+  {
+    "id": "0199a9d6-2c61-4079-afd0-da9c65dbc583",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-03-13",
+    "sentiment": "bullish",
+    "summary": "看好腾讯",
+    "quote": "腾讯同理。",
+    "source_file": "2019-03_batch029",
+    "source_type": "xueqiu",
+    "chunk_index": 29,
+    "url": "https://xueqiu.com/1247347556/122928644"
+  }
+]

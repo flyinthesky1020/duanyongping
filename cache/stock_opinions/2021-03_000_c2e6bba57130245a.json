@@ -1,0 +1,16 @@
+[
+  {
+    "id": "38e77f28-7e36-4bef-bd43-2522ceb91891",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2021-03-31",
+    "sentiment": "bullish",
+    "summary": "买入茅台",
+    "quote": "身边很多朋友知道我买茅台",
+    "source_file": "2021-03_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/173683208"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c275c624-12b6-42e0-94e4-8c46b4bba84d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-12-02",
+    "sentiment": "bullish",
+    "summary": "建议加仓",
+    "quote": "加仓吧，反正10年后回头看也是个不错的选择。",
+    "source_file": "2020-12_batch032",
+    "source_type": "xueqiu",
+    "chunk_index": 32,
+    "url": "https://xueqiu.com/1247347556/164825677"
+  },
+  {
+    "id": "72580872-2c31-4ba1-84f1-8cac206c8efb",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-12-02",
+    "sentiment": "bullish",
+    "summary": "建议加仓",
+    "quote": "加仓吧，反正10年后回头看也是个不错的选择。",
+    "source_file": "2020-12_batch032",
+    "source_type": "xueqiu",
+    "chunk_index": 32,
+    "url": "https://xueqiu.com/1247347556/164825677"
+  },
+  {
+    "id": "ea265c64-3b74-4369-aa41-2532d2029739",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2020-12-02",
+    "sentiment": "bullish",
+    "summary": "建议加仓",
+    "quote": "加仓吧，反正10年后回头看也是个不错的选择。",
+    "source_file": "2020-12_batch032",
+    "source_type": "xueqiu",
+    "chunk_index": 32,
+    "url": "https://xueqiu.com/1247347556/164825677"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "谷歌商业模式和企业文化都不错。FB企业文化似乎有点问题，商业模式我没那么懂。",
+    "post_url": "https://xueqiu.com/1247347556/210609944",
+    "post_date": "2022-02-02",
+    "mentioned_stocks": [
+      "谷歌",
+      "FB"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "为什么？就是觉得不太喜欢了呗。看到扎克伯格在国会作证时说的话后，我就粉转路了。",
+    "post_url": "https://xueqiu.com/1247347556/210610339",
+    "post_date": "2022-02-02",
+    "mentioned_stocks": [
+      "Meta",
+      "FB"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我从来没说过我不看好拼多多，我一直说的是我看不懂这个商业模式到底如何赚钱。我今天依然没看懂，但没有不看好的意思，希望你的中文和我的中文都没毛病。",
+    "post_url": "https://xueqiu.com/1247347556/210585803",
+    "post_date": "2022-02-01",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "FB企业文化似乎有点问题，商业模式我没那么懂。",
+    "post_url": "https://xueqiu.com/1247347556/210609944",
+    "post_date": "2022-02-02",
+    "mentioned_stocks": [
+      "FB"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "看到扎克伯格在国会作证时说的话后，我就粉转路了。",
+    "post_url": "https://xueqiu.com/1247347556/210610339",
+    "post_date": "2022-02-02",
+    "mentioned_stocks": [
+      "Meta",
+      "FB"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "还好我的FB都处理掉了，再碰的概率应该也极小。",
+    "post_url": "https://xueqiu.com/1247347556/210609675",
+    "post_date": "2022-02-02",
+    "mentioned_stocks": [
+      "FB"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "谷歌商业模式和企业文化都不错。",
+    "post_url": "https://xueqiu.com/1247347556/210609944",
+    "post_date": "2022-02-02",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 3
+  }
+]

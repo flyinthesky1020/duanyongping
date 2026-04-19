@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我其实没怎么做过“善事”，不喜欢的事情我会尽量避免做。",
+    "post_url": "https://xueqiu.com/1247347556/219600345",
+    "post_date": "2022-05-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。好像这三个一点的意思是不一样的。",
+    "post_url": "https://xueqiu.com/1247347556/219689847",
+    "post_date": "2022-05-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。好像这三个一点的意思是不一样的。",
+    "post_url": "https://xueqiu.com/1247347556/219689847",
+    "post_date": "2022-05-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

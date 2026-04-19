@@ -1,0 +1,30 @@
+[
+  {
+    "id": "529287b3-5f88-441c-b3a1-87db9a60eee1",
+    "stock": "GE",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2022-06-09",
+    "sentiment": "bearish",
+    "summary": "不会买/商业模式差",
+    "quote": "放在今天我不会买这两家公司，因为商业模式不够好。",
+    "source_file": "2022-06_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/222238939"
+  },
+  {
+    "id": "5dbd992c-7ef0-4fdf-bd79-51608228b4de",
+    "stock": "创维",
+    "ticker": "0751.HK",
+    "market": "HK",
+    "date": "2022-06-09",
+    "sentiment": "bearish",
+    "summary": "不会买/商业模式差",
+    "quote": "放在今天我不会买这两家公司，因为商业模式不够好。",
+    "source_file": "2022-06_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/222238939"
+  }
+]

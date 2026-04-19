@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "主要是看不懂10年后。",
+    "post_url": "https://xueqiu.com/1247347556/240197658",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "因为我觉得很长的时间里，苹果的表现会比S&P500好，哪怕是库克退休以后。",
+    "post_url": "https://xueqiu.com/1247347556/240196937",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你是说买过1000多只票的那个林奇？他买过1000多只股票，肯定会有很多想法的。",
+    "post_url": "https://xueqiu.com/1247347556/240188560",
+    "post_date": "2023-01-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

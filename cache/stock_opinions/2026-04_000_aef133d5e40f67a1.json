@@ -1,0 +1,16 @@
+[
+  {
+    "id": "72e51d42-580a-4d7d-9e29-61793d6a5d58",
+    "stock": "泡泡玛特",
+    "ticker": "9992.HK",
+    "market": "HK",
+    "date": "2026-04-13",
+    "sentiment": "bullish",
+    "summary": "卖put建仓看好",
+    "quote": "真实的原因是：我是个满仓主义者，绝大部分钱都已经在其他的投资上了。尽管如此，我可以先卖些put，同时考虑用哪些投资去换（机会成本）。我不在乎股价因此就涨上去了，我少赚点就当做公益哈，反正我赚到钱也是拿来做公益的。如果put不进来，我还是能赚到premium的，如果put进来，我觉得我会赚到更",
+    "source_file": "2026-04_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/383774318"
+  }
+]

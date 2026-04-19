@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实这个很好理解。作为苹果的股东，你是希望苹果股价涨呢还是跌呢？如果你真打算拿10年以上的话。",
+    "post_url": "https://xueqiu.com/1247347556/281253491",
+    "post_date": "2024-03-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你真的每周买入put，你真的会很惨的。买option会很容易亏钱的，时间不站在你这边。",
+    "post_url": "https://xueqiu.com/1247347556/281115505",
+    "post_date": "2024-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "对卖水的企业而言，能把水卖成可口可乐那样全球都随处可见其实是相当难的。",
+    "post_url": "https://xueqiu.com/1247347556/281113876",
+    "post_date": "2024-03-06",
+    "mentioned_stocks": [
+      "可口可乐"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "人们对吃喝的东西的信任度是一个重要的差异化来源，而且这种差异不是空穴来风的。口感当然是另一个差异。",
+    "post_url": "https://xueqiu.com/1247347556/281113876",
+    "post_date": "2024-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "差异化的定义不是不一样。",
+    "post_url": "https://xueqiu.com/1247347556/281113047",
+    "post_date": "2024-03-06",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

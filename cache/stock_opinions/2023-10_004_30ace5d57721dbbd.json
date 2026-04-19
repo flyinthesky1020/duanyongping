@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3585007e-a505-430e-990b-30d5d5d3faee",
+    "stock": "万科",
+    "ticker": "000002.SZ",
+    "market": "CN_A",
+    "date": "2023-10-03",
+    "sentiment": "bearish",
+    "summary": "不再持有回避",
+    "quote": "不是有啥超能力，就是看不懂。想不透10年以后会怎么样，包括万科，我也是想不通的，所以没有再碰过。",
+    "source_file": "2023-10_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/262417182"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不需要算的公司我才投的。",
+    "post_url": "https://xueqiu.com/1247347556/126927123",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我认为长期来讲，苹果未来赚的钱只会比现在多。",
+    "post_url": "https://xueqiu.com/1247347556/126927123",
+    "post_date": "2019-05-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果看不懂就不要碰投资。",
+    "post_url": "https://xueqiu.com/1247347556/126908999",
+    "post_date": "2019-05-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果不碰投资的话，至少你比大多数人的投资表现要好的，因为据说85%的人都是亏钱的，这还没算他们的时间成本和机会成本。",
+    "post_url": "https://xueqiu.com/1247347556/126908999",
+    "post_date": "2019-05-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不推荐人买股票，我觉得如果你需要问人该不该买的时候那就还没到你能买的时候。",
+    "post_url": "https://xueqiu.com/1247347556/123385993",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [
+      "Facebook"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我个人觉得FB也是家不错的公司，生意模式和文化都不错，扎克伯格年轻有为，还能好好干很多年。",
+    "post_url": "https://xueqiu.com/1247347556/123385993",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [
+      "Facebook"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我个人觉得FB也是家不错的公司，生意模式和文化都不错，扎克伯格年轻有为，还能好好干很多年。",
+    "post_url": "https://xueqiu.com/1247347556/123385993",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [
+      "Facebook"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "当时卖的时候大概赚了100多倍，如果没卖到现在可能有500倍了。所以不要轻易卖掉好公司哈。",
+    "post_url": "https://xueqiu.com/1247347556/123382378",
+    "post_date": "2019-03-20",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "具体没啥意思，就是想投机了，没按规矩来。",
+    "post_url": "https://xueqiu.com/1247347556/123375755",
+    "post_date": "2019-03-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

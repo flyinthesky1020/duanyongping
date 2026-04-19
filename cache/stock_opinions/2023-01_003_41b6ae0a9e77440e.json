@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8aa21f56-0e1f-4479-9283-753fc3804cb2",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-01-16",
+    "sentiment": "bullish",
+    "summary": "长期看好苹果表现",
+    "quote": "因为我觉得很长的时间里，苹果的表现会比S&P500好，哪怕是库克退休以后。",
+    "source_file": "2023-01_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/240196937"
+  }
+]

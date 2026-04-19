@@ -1,0 +1,6 @@
+flask>=3.0
+anthropic>=0.25
+openai>=1.30
+yfinance>=0.2.40
+akshare>=1.14
+pandas>=2.0

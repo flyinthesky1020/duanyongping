@@ -1,0 +1,16 @@
+[
+  {
+    "id": "12790a7a-4a7b-4d9e-94d7-42df7f0d93b9",
+    "stock": "海底捞",
+    "ticker": "6862.HK",
+    "market": "HK",
+    "date": "2024-09-02",
+    "sentiment": "bearish",
+    "summary": "餐饮苦生意",
+    "quote": "餐饮几乎都是苦生意，高标准化的可能还不错，比如麦当劳啥的。",
+    "source_file": "2024-09_batch025",
+    "source_type": "xueqiu",
+    "chunk_index": 25,
+    "url": "https://xueqiu.com/1247347556/303268417"
+  }
+]

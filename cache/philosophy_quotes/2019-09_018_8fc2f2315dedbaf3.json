@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不知道你是想炒股还是想投资呢？从一开始就想着要过一辈子的，什么是你不能忍受的，什么是你一辈子都希望有的，这么想的人错的概率就会小一些。",
+    "post_url": "https://xueqiu.com/1247347556/132802772",
+    "post_date": "2019-09-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不知道你是想炒股还是想投资呢？从一开始就想着要过一辈子的，什么是你不能忍受的，什么是你一辈子都希望有的，这么想的人错的概率就会小一些。",
+    "post_url": "https://xueqiu.com/1247347556/132802772",
+    "post_date": "2019-09-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没关注过烟草公司。",
+    "post_url": "https://xueqiu.com/1247347556/132791640",
+    "post_date": "2019-09-13",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "Apple TV+ 的做法非常有眼光，对培养用户使用习惯有很大作用。",
+    "post_url": "https://xueqiu.com/1247347556/132791743",
+    "post_date": "2019-09-13",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "288f94eb-8ebf-4024-aa9f-3baf9f0556be",
+    "stock": "Tesla",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2018-09-20",
+    "sentiment": "bearish",
+    "summary": "看空特斯拉",
+    "quote": "这些年我真是“乌鸦嘴”啊，说谁不行谁最后差不多就是不行啊。这回轮到特斯拉了哈。",
+    "source_file": "2018-09_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/114068330"
+  }
+]

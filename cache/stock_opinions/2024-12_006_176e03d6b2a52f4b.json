@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dec7b1bd-c457-48cc-a4b9-af64cd5794aa",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-12-05",
+    "sentiment": "bearish",
+    "summary": "价格费解，不愿加仓",
+    "quote": "继续卖点call，put已经有段时间卖不下手了。大概率会主要放在T-bill上等个好点的价钱买回来，除非能有新发现。持有=买入，这个价钱区间确实有点费解",
+    "source_file": "2024-12_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/315648430"
+  }
+]

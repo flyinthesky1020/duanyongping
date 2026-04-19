@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "算不算的想法很简单，就是今天用茅台换，10年后后不后悔？！",
+    "post_url": "https://xueqiu.com/1247347556/124776875",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "除非你真的了解这个公司，觉得他们未来投资还会很厉害，不然有点不太踏实。这种投资要花点时间，了解包括税务方面的影响。",
+    "post_url": "https://xueqiu.com/1247347556/124760071",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

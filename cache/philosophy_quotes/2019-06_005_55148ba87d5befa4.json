@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "好的生意模式，好的企业文化，时间足够长的话回报大概率是好的。",
+    "post_url": "https://xueqiu.com/1247347556/128479588",
+    "post_date": "2019-06-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "好的生意模式，好的企业文化，时间足够长的话回报大概率是好的。",
+    "post_url": "https://xueqiu.com/1247347556/128479588",
+    "post_date": "2019-06-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "好的生意模式，好的企业文化，时间足够长的话回报大概率是好的。",
+    "post_url": "https://xueqiu.com/1247347556/128479588",
+    "post_date": "2019-06-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "那时产品质量法还没出来，国家还没有硬性要求厂家必须在产品包装上打上地址。当时我们只是希望万一机器出问题时用户能找到我们，和质量法要求的意思不谋而合。",
+    "post_url": "https://xueqiu.com/1247347556/128479414",
+    "post_date": "2019-06-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没找到可靠的办法看这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/128465820",
+    "post_date": "2019-06-19",
+    "mentioned_stocks": [
+      "中国神华"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "一般来说，我总是努力去提醒人们不要做什么，但多数人最后总是会回到问我\"那我该干嘛？\"，大概只有很少的人看明白了，我们干过啥对你能干啥不会有太多帮助的。",
+    "post_url": "https://xueqiu.com/1247347556/128387810",
+    "post_date": "2019-06-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

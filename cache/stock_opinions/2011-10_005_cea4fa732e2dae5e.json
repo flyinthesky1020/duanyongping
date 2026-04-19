@@ -1,0 +1,30 @@
+[
+  {
+    "id": "44599926-55ec-4439-86b9-8237f8059797",
+    "stock": "Walmart",
+    "ticker": "WMT",
+    "market": "US",
+    "date": "2011-10-20",
+    "sentiment": "bearish",
+    "summary": "不看好沃尔玛电商",
+    "quote": "沃尔玛做电商象当年的康赔做直销。电商营业额还不到2%。",
+    "source_file": "2011-10_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/20429584"
+  },
+  {
+    "id": "c8e3e154-d56b-41d2-bc4b-4aefe4724f28",
+    "stock": "Google",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2011-10-20",
+    "sentiment": "bullish",
+    "summary": "看好谷歌至1500",
+    "quote": "google会有1500的那天，但不是这个算法哈。",
+    "source_file": "2011-10_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/20429193"
+  }
+]

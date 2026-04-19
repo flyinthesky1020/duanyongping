@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "我会不会这么做取决于是否这么承诺过。在地产这个行当我没概念，直觉觉得不应该承诺，因为不应该把自己的信誉压在无法控制的事情上。这个做法有一天会信誉破产的。当然，很多人并不在乎＂有一天＂这种事。",
+    "post_url": "https://xueqiu.com/1247347556/20592675",
+    "post_date": "2011-12-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "马云可以重新组织一个管理team。最重要的是要重建文化。",
+    "post_url": "https://xueqiu.com/1247347556/20592789",
+    "post_date": "2011-12-16",
+    "mentioned_stocks": [
+      "YHOO"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "也许可能我太严肃了，因为大部分老中会觉得这可能是个善意的玩笑，但我真觉得这是个愚蠢的小聪明想法。",
+    "post_url": "https://xueqiu.com/1247347556/20592807",
+    "post_date": "2011-12-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "在地产这个行当我没概念，直觉觉得不应该承诺...",
+    "post_url": "https://xueqiu.com/1247347556/20592675",
+    "post_date": "2011-12-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

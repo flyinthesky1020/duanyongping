@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8f63e10e-6942-4cc9-a3d2-82fa3123f644",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-07-03",
+    "sentiment": "bullish",
+    "summary": "长期看好茅台",
+    "quote": "从十年或更长的时间跨度而言，你觉得有什么比茅台更好的吗？",
+    "source_file": "2024-07_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/296230110"
+  }
+]

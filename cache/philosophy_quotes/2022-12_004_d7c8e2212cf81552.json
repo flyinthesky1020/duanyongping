@@ -1,0 +1,41 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "我觉得“市值管理”的说法有点问题，感觉茅台做了一件对的事情，但用了不太对的说法，文化上会让人觉得市值是可以管理的。苹果的说法很简单，叫做“保持现金中性”，就是留够现金，多余的都还给股东。茅台这样做绝对是应该点赞的。",
+    "post_url": "https://xueqiu.com/1247347556/238515972",
+    "post_date": "2022-12-23",
+    "mentioned_stocks": [
+      "贵州茅台",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我依然觉得特斯拉未来是个苦生意，商业模式不是那么好，尽管他们做成这样已经很...",
+    "post_url": "https://xueqiu.com/1247347556/238515912",
+    "post_date": "2022-12-23",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你以为你知道的什么，但其实你不知道你不知道什么。",
+    "post_url": "https://xueqiu.com/1247347556/238515972",
+    "post_date": "2022-12-23",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "苹果的说法很简单，叫做“保持现金中性”，就是留够现金，多余的都还给股东。",
+    "post_url": "https://xueqiu.com/1247347556/238515972",
+    "post_date": "2022-12-23",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

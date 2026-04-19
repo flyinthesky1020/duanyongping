@@ -1,0 +1,44 @@
+[
+  {
+    "id": "8bddba59-65f3-40a3-81b6-83061814f81e",
+    "stock": "创维集团",
+    "ticker": "0751.HK",
+    "market": "HK",
+    "date": "2018-10-30",
+    "sentiment": "bearish",
+    "summary": "没兴趣买入",
+    "quote": "无意中发现又回到了这个价钱，但居然没兴趣，就像对ge没兴趣一样",
+    "source_file": "2018-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/116020999"
+  },
+  {
+    "id": "048aa8c1-c03e-4c7a-8c18-b46e201db5d3",
+    "stock": "GE",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2018-10-30",
+    "sentiment": "bearish",
+    "summary": "对GE没兴趣",
+    "quote": "就像对ge没兴趣一样",
+    "source_file": "2018-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/116020999"
+  },
+  {
+    "id": "0a8b8174-7a11-4248-9f7a-a7801fda254d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2018-10-30",
+    "sentiment": "bullish",
+    "summary": "现在买入比存银行好",
+    "quote": "个人观点，现在买入过10年看显然大概率会比存银行好",
+    "source_file": "2018-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/115848226"
+  }
+]

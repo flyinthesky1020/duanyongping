@@ -1,0 +1,33 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "以前对商业模式的重要性没那么理解，现在是会把商业模式放在第一顺位的，是作为最重要的过滤器，过不去的就不看了，省下无数时间！你觉得我的观点没变是因为你自己没变。其实你也可以推衍一下，当时我如果不买创维或万科而是买了茅台或苹果，结果会是更好还是更好呢？",
+    "post_url": "https://xueqiu.com/1247347556/207466902",
+    "post_date": "2021-12-29",
+    "mentioned_stocks": [
+      "创维",
+      "万科",
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这些年主要修炼高尔夫。对高尔夫的理解越来越好，但身体对球的控制越来越差，所以基本上球没啥进步但钱没少赚。我可能是世界上靠打高尔夫赚钱最多的人了，因为如果我不打球的时候就可能去跑去买进卖出股票了，那会少赚很多钱的。以上话纯属玩笑，爱明白不明白。",
+    "post_url": "https://xueqiu.com/1247347556/207463377",
+    "post_date": "2021-12-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "严格讲，A股里投了茅台后确实就没认真看过其他的公司，所以没有看不上的意思。",
+    "post_url": "https://xueqiu.com/1247347556/207446961",
+    "post_date": "2021-12-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

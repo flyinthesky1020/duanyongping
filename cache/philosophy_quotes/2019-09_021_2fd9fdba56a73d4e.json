@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "用10年看就明白了。今天你看茅台，你觉得120买的和180买的有多大区别？当然，你如果知道茅台会到120则不一样。很久以前我说过，苹果400块很便宜，500块也很便宜，到600时我依然说还是很便宜（在1/7之前），现在看是不是就容易明白了？",
+    "post_url": "https://xueqiu.com/1247347556/132727343",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我们当年买茅台就是从大概180左右开始买的（塑化剂事件），买的时候还在和一堆人吃饭时聊起过，结果当时有人还说，现在买太早了，我说，现在就已经很便宜了，买了再说，继续掉的话，有现金就继续买，结果一直买到120。",
+    "post_url": "https://xueqiu.com/1247347556/132728270",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "什么是不对的没那么难。",
+    "post_url": "https://xueqiu.com/1247347556/132730276",
+    "post_date": "2019-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

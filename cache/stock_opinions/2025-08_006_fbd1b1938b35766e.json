@@ -1,0 +1,16 @@
+[
+  {
+    "id": "289d87e4-7b0e-435d-b083-525780625b4c",
+    "stock": "伯克希尔-哈撒韦B",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2025-08-05",
+    "sentiment": "bullish",
+    "summary": "看好BRK.B",
+    "quote": "今天卖了不少BRK的put，看上去这个价格不贵了，希望买进来拿着，应该比S&P500合算。",
+    "source_file": "2025-08_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/345537741"
+  }
+]

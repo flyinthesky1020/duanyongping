@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4970f68f-1025-4b21-bf70-ff336a9000a8",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-10-15",
+    "sentiment": "bullish",
+    "summary": "茅台长期价值看好",
+    "quote": "明天的涨跌没人知道，但10年回头看，这个价钱大概率是好价钱，除非你还有别的更好的投资机会。",
+    "source_file": "2024-10_batch013",
+    "source_type": "xueqiu",
+    "chunk_index": 13,
+    "url": "https://xueqiu.com/1247347556/308223991"
+  }
+]

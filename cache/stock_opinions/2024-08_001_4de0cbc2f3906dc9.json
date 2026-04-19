@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c2f0801f-a22c-4248-b68d-642167a7de7b",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-08-29",
+    "sentiment": "bullish",
+    "summary": "持有苹果股票",
+    "quote": "我大部分苹果的股票其实都是通过卖put的办法买进来的。",
+    "source_file": "2024-08_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/302844398"
+  },
+  {
+    "id": "2be8cf53-4ea3-4a5a-bc7b-01281409b88c",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2024-08-29",
+    "sentiment": "bullish",
+    "summary": "看好拼多多商业模式",
+    "quote": "是的，是有点意外，也许是商业模式确实非常厉害的原因。希望公司成长能稍微放缓一些，护城河能更宽一点。",
+    "source_file": "2024-08_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/302821281"
+  }
+]

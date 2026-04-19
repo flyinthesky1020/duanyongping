@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "现金流不是什么神秘的东西，简单讲就是：假设去年我口袋里只有半毛钱，经过一年奋斗后，我现在口袋里有了一万零半毛钱，那我去年一年的净现金流就是一万块钱。现金流简单讲就是你帐面增加对的现金，这里甚至包括你借来的钱，但你...",
+    "post_url": "https://xueqiu.com/1247347556/123797453",
+    "post_date": "2019-03-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "短期问题我不了解，服务的成长是用户总量增加加上用户单位消费直接增加以及间接增加（流量费）。我认为以后会继续增加。",
+    "post_url": "https://xueqiu.com/1247347556/123756458",
+    "post_date": "2019-03-25",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "是啊，好不好喝是关键。茅台已经＂好喝＂这么多年了。居然有人非说人们买茅台是因为茅...",
+    "post_url": "https://xueqiu.com/1247347556/123798820",
+    "post_date": "2019-03-25",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "第一步，搞懂企业文化和商业模式，毛估估企业未来盈利都是对的，虽然我还真没太认真地算过。",
+    "post_url": "https://xueqiu.com/1247347556/161253246",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "第一步，搞懂企业文化和商业模式，毛估估企业未来盈利都是对的，虽然我还真没太认真地算过。",
+    "post_url": "https://xueqiu.com/1247347556/161253246",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我个人认为不管什么原因，买到了那些特别好的公司最好别因为短期pe高一点点就卖了。",
+    "post_url": "https://xueqiu.com/1247347556/161253246",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "其实我从来没算过。如果你非要算的话，你用三十年算算试试？算完再折现到今天？由于利率和成长率都是不确定的，大家可以根据自己的猜测来决定，最后的结果再比较一下你自己手里的其他机会，包括存银行，你大概能决定你自己该不该买茅台。",
+    "post_url": "https://xueqiu.com/1247347556/161253193",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "假设有人按今天的价钱把整个茅台变现了后全部存进银行，我觉得未来十年他能收到的利息总和是大概率会低于茅台本身经营所带来的净现金流总和的。至于股价会怎么走是没人知道的。",
+    "post_url": "https://xueqiu.com/1247347556/161247058",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "假设有人按今天的价钱把整个茅台变现了后全部存进银行，我觉得未来十年他能收到的利息总和是大概率会低于茅台本身经营所带来的净现金流总和的。",
+    "post_url": "https://xueqiu.com/1247347556/161247058",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "凡是员工见到领导就战战兢兢的公司，时间长了都会出问题的。因为这种公司员工大多都会慢慢变得没有担待，凡事希望交给上级去决定，效率慢慢会降低。除非这种公司的产品非常聚焦，大老板确实可以照顾到所有大方面，不然早晚会出问题的。",
+    "post_url": "https://xueqiu.com/1247347556/114149003",
+    "post_date": "2018-09-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我当时一直都说，从来没见过企业多元化成功的例子，GE是个例外。现在看来，时间长了都不行哈。",
+    "post_url": "https://xueqiu.com/1247347556/114115023",
+    "post_date": "2018-09-20",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我是看着基业长青的书和韦尔奇的书买的ge哈。杰克韦尔奇说他们的企业文化里最重要的一条就是integrity,他还说过不少企业文化的东西，结果后来我发现在GE网站上居然都找不到。当然，还有一个很重要的原因是，GE的生意太复杂，我看不懂。再就是，我有点怀疑这家公司cooking book",
+    "post_url": "https://xueqiu.com/1247347556/114114235",
+    "post_date": "2018-09-20",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。",
+    "post_url": "https://xueqiu.com/1247347556/114149007",
+    "post_date": "2018-09-21",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "苹果有足够的资金准备足够多的货源，现在网上预定也方便了，排队这种盛会经历过后就够了，上面三个原因导致外界是无法从排队人的多少来判断销量的好坏的。",
+    "post_url": "https://xueqiu.com/1247347556/114149054",
+    "post_date": "2018-09-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

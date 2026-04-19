@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2346f859-89f6-46cf-9e55-fdcd7fffcf6f",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-02-12",
+    "sentiment": "bullish",
+    "summary": "战争恐惧下仍看好",
+    "quote": "才看到，原来是人们怕打仗。打仗就不用手机了吗？当然，打仗不好，生灵涂炭……。",
+    "source_file": "2022-02_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/211265692"
+  },
+  {
+    "id": "1d20aed0-18f5-4b0d-9c3d-f8abb2cbb39a",
+    "stock": "Meta",
+    "ticker": "META",
+    "market": "US",
+    "date": "2022-02-12",
+    "sentiment": "bearish",
+    "summary": "不喜欢企业文化",
+    "quote": "是的，我有点不太喜欢他们的企业文化。我生活在硅谷，确实也听到和看到一些让我喜欢不起来的东西。",
+    "source_file": "2022-02_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/211094128"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "73bb9bd2-444a-4b2c-8248-9c1bdd48916d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-04-08",
+    "sentiment": "bullish",
+    "summary": "茅台商业模式优异难替代",
+    "quote": "似乎拿茅台换还是有点难，有机会我再看看",
+    "source_file": "2019-04_batch015",
+    "source_type": "xueqiu",
+    "chunk_index": 15,
+    "url": "https://xueqiu.com/1247347556/124791870"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "任何人搞搭售都是短视的。",
+    "post_url": "https://xueqiu.com/1247347556/368877483",
+    "post_date": "2026-01-03",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "没抓到比较好。10年后Open Ai还不知道能不能活着呢。",
+    "post_url": "https://xueqiu.com/1247347556/368886817",
+    "post_date": "2026-01-03",
+    "mentioned_stocks": [
+      "OpenAI"
+    ],
+    "quality_score": 4
+  }
+]

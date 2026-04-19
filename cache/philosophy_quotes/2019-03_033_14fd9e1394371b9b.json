@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "长期来说，存银行很难有5%的利息，所以茅台长期的回报能到20pe或更好的的，茅台就不贵了。",
+    "post_url": "https://xueqiu.com/1247347556/123009075",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我一般都是满仓的。好不容易碰上的好公司不要轻易因为价钱可能高了一点点就卖掉了。比如，很多人问我，茅台700多了你怎么还不卖呢？这些人大多可能300多就已经卖掉了，其实一直后悔中呢。",
+    "post_url": "https://xueqiu.com/1247347556/123009188",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解直销，只要不是传销就好。不试试是不知道合不合适的。",
+    "post_url": "https://xueqiu.com/1247347556/123009210",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "腾讯钱多，确实做了很多投资，但我没有具体看过，无法评价。",
+    "post_url": "https://xueqiu.com/1247347556/123009033",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  }
+]

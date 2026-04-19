@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "可口可乐以前是5分钱一罐。",
+    "post_url": "https://xueqiu.com/1247347556/372965379",
+    "post_date": "2026-01-25",
+    "mentioned_stocks": [
+      "可口可乐",
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "拉菲和康帝就不是一个级别的酒。茅台早就走向世界了，因为茅台的客户走向世界了。",
+    "post_url": "https://xueqiu.com/1247347556/372935507",
+    "post_date": "2026-01-25",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

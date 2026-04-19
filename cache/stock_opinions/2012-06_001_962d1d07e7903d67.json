@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8bc3ded1-d069-484b-bef7-d272faf813fe",
+    "stock": "奇虎360",
+    "ticker": "QIHU",
+    "market": "US",
+    "date": "2012-06-13",
+    "sentiment": "bearish",
+    "summary": "绝对不敢碰360",
+    "quote": "同感啊，绝对不敢碰",
+    "source_file": "2012-06_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/21901749"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "60cf9ee1-7cc1-4bc5-837f-846a7587fee7",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-08-03",
+    "sentiment": "bullish",
+    "summary": "卖掉是错误",
+    "quote": "我也同意卖掉苹果可能是个错误",
+    "source_file": "2025-08_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/345374225"
+  },
+  {
+    "id": "7884477b-fb18-40f0-b7e1-1588f252193a",
+    "stock": "谷歌",
+    "ticker": "GOOGL",
+    "market": "US",
+    "date": "2025-08-03",
+    "sentiment": "bullish",
+    "summary": "优先于标普500",
+    "quote": "优先顺序在苹果，Google，Brk后面",
+    "source_file": "2025-08_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/345374225"
+  },
+  {
+    "id": "f14cfcff-5a35-4cda-b981-1050e2f1dc33",
+    "stock": "伯克希尔-哈撒韦B",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2025-08-03",
+    "sentiment": "bullish",
+    "summary": "优先于标普500",
+    "quote": "优先顺序在苹果，Google，Brk后面",
+    "source_file": "2025-08_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/345374225"
+  }
+]

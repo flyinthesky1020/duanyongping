@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果你关注生意本身，你到时就会知道的，没有一个公式可以借用。",
+    "post_url": "https://xueqiu.com/1247347556/160797097",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我开始买苹果时苹果市值大概310/7/4=11块左右（分了两次股，1:7，1:4），这些年还有不少分红。那个时候就不停地有人跟我说难道树还能长到天上去？连芒格当时也说过他们不会买苹果。",
+    "post_url": "https://xueqiu.com/1247347556/160797097",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "培养孩子难多了，因为孩子不是招聘来的，可以不讲道理，也不拿你工资。不知道你的培养员工的定义是什么？一般来讲，招聘员工很重要，招聘的时候合适性和合格性都很重要。到了公司里后员工的努力工作和员工在公司的成长机会也是相辅相成的。",
+    "post_url": "https://xueqiu.com/1247347556/160790149",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "养成看问题本质的习惯，没啥别的办法，也不觉得有啥用，除了犯错误小点少点外。",
+    "post_url": "https://xueqiu.com/1247347556/160775041",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太知道怎么建朋友圈，也不知道你为什么要这么做。个人认为建朋友圈对投资而言肯定是没啥用的。",
+    "post_url": "https://xueqiu.com/1247347556/160772173",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "it's not about how much market value they have or had, it's about how much money they are making or able to make. maybe people should check that how much money they were making when they reached 500b, then people will understand why they dropped.",
+    "post_url": "https://xueqiu.com/1247347556/21520918",
+    "post_date": "2012-02-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "亚马逊是不错，但美国物流环境好。京东需要建自己的物流，我有点不太懂。目前京东这个规模依然亏钱，感觉商业模式不是太理想，但没太认真研究过。",
+    "post_url": "https://xueqiu.com/1247347556/21514937",
+    "post_date": "2012-02-28",
+    "mentioned_stocks": [
+      "京东",
+      "亚马逊"
+    ],
+    "quality_score": 3
+  }
+]

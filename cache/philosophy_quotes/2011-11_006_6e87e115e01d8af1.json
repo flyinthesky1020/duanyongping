@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "有社会意义的东西未必能赚钱，比如航空业。想靠新浪赚大钱的想法太投机的，至少我不认为这是个好的投资标的，除非哪天能看出来微博的生意模式是好的生意模式。",
+    "post_url": "https://xueqiu.com/1247347556/20522344",
+    "post_date": "2011-11-22",
+    "mentioned_stocks": [
+      "新浪"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买股票的行为并不都是投资行为，但重仓则不同。",
+    "post_url": "https://xueqiu.com/1247347556/20522400",
+    "post_date": "2011-11-22",
+    "mentioned_stocks": [
+      "新浪"
+    ],
+    "quality_score": 4
+  }
+]

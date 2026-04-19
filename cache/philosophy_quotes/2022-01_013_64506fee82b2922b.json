@@ -1,0 +1,62 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "多行夜路必遇鬼的意思是你不会每次遇上的。",
+    "post_url": "https://xueqiu.com/1247347556/209772792",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/209772807",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "投资苹果，投资优秀的商业模式。苹果所处的行业确实是个变化很快的行业。虽然我认为苹果在竞争中已经处于一个非常有利的位置，但我还是会很关切哪些变化有可能会改变苹果的地位。",
+    "post_url": "https://xueqiu.com/1247347556/209746433",
+    "post_date": "2022-01-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "从11年前的这一天决定投苹果开始，这些年表现都还不错，过去的一年表现也很好，犒劳一下自己。",
+    "post_url": "https://xueqiu.com/1247347556/209748184",
+    "post_date": "2022-01-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没啥建议，你要不懂投资，其实都是一样的，你要懂投资其实也没啥区别。",
+    "post_url": "https://xueqiu.com/1247347556/209772807",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/209772807",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "当然有信仰，比如\"买股票就是买公司\"。",
+    "post_url": "https://xueqiu.com/1247347556/209728358",
+    "post_date": "2022-01-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

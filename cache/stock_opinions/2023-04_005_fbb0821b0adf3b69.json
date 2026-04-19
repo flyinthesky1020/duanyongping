@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f9bfb07e-c49b-412e-9a80-a9c09dd70ac9",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2023-04-06",
+    "sentiment": "bullish",
+    "summary": "开始思考阿里卖put",
+    "quote": "开始思考阿里，先卖点put再说。",
+    "source_file": "2023-04_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/246758528"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我只关注那些我容易搞懂的，比如苹果，比如可乐，所以这十几年我也就看懂了很少的几家公司。",
+    "post_url": "https://xueqiu.com/1247347556/220746713",
+    "post_date": "2022-05-23",
+    "mentioned_stocks": [
+      "苹果",
+      "可口可乐"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不知道prosus，没听说过。",
+    "post_url": "https://xueqiu.com/1247347556/220670377",
+    "post_date": "2022-05-22",
+    "mentioned_stocks": [
+      "prosus",
+      "腾讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "对一个公司而言，去找到（开发）能够长期满足用户需求的产品就是做正确的事情。如何找到是如何把事情做对的范畴。",
+    "post_url": "https://xueqiu.com/1247347556/220596888",
+    "post_date": "2022-05-21",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "茅台有实力做任何尝试，但希望一旦发现不对要能尽快收手。",
+    "post_url": "https://xueqiu.com/1247347556/220596888",
+    "post_date": "2022-05-21",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。好像这三个一点的意思是不一样的。",
+    "post_url": "https://xueqiu.com/1247347556/220222644",
+    "post_date": "2022-05-17",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "直觉上觉得这个产品不是个好产品，而且感觉太发散了。",
+    "post_url": "https://xueqiu.com/1247347556/220596888",
+    "post_date": "2022-05-21",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "当时Yahoo拿着40%的阿里，却只有100多亿市值，比白送还便宜，所以当时想着的是，只要他们不瞎折腾就好，但他们就是瞎折腾了。",
+    "post_url": "https://xueqiu.com/1247347556/220734282",
+    "post_date": "2022-05-23",
+    "mentioned_stocks": [
+      "Yahoo",
+      "阿里"
+    ],
+    "quality_score": 3
+  }
+]

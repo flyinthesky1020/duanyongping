@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "房地产确实不是我熟悉的生意，从来没碰过。",
+    "post_url": "https://xueqiu.com/1247347556/123134552",
+    "post_date": "2019-03-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我投资的标准很简单：商业模式，企业文化，合理价钱。所以当商业模式和企业文化不错的公司价钱也不错时，我就会有兴趣。",
+    "post_url": "https://xueqiu.com/1247347556/123126525",
+    "post_date": "2019-03-16",
+    "mentioned_stocks": [
+      "腾讯",
+      "FB"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我投资的标准很简单：商业模式，企业文化，合理价钱。所以当商业模式和企业文化不错的公司价钱也不错时，我就会有兴趣。",
+    "post_url": "https://xueqiu.com/1247347556/123126525",
+    "post_date": "2019-03-16",
+    "mentioned_stocks": [
+      "腾讯",
+      "FB"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "生意模式好，企业文化好，基本上你就可以简单地希望他们会正常增长，所以给个五年十年的，有增长不奇怪啊。关键是要看懂生意和商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/123126533",
+    "post_date": "2019-03-16",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我投腾讯和FB没找过任何内部高管聊，虽然我其实也认识腾讯的高管（球友）。我投资的标准很简单：商业模式，企业文化，合理价钱。",
+    "post_url": "https://xueqiu.com/1247347556/123126525",
+    "post_date": "2019-03-16",
+    "mentioned_stocks": [
+      "腾讯",
+      "FB"
+    ],
+    "quality_score": 4
+  }
+]

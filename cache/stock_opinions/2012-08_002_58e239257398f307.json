@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7d1e67e5-dd56-4a8a-bc78-5ceaaff34997",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2012-08-13",
+    "sentiment": "bearish",
+    "summary": "对特斯拉没兴趣",
+    "quote": "回复@sylvieluk: 和tesla无关，只是评一下那个标题。不过，我本人确实对特斯拉没兴趣。",
+    "source_file": "2012-08_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/22105245"
+  }
+]

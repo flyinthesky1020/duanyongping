@@ -1,0 +1,30 @@
+[
+  {
+    "id": "79d5726c-2f21-44e1-8b0c-fec8923a323b",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2011-10-23",
+    "sentiment": "bullish",
+    "summary": "iPhone4S需求极旺",
+    "quote": "iphone4s能卖多少完全取决于他们能生产多少。",
+    "source_file": "2011-10_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/20432635"
+  },
+  {
+    "id": "68eadf0a-a3fd-4df8-92e1-c2cf18868319",
+    "stock": "谷歌",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2011-10-23",
+    "sentiment": "bullish",
+    "summary": "看好佩奇改革",
+    "quote": "Larry Page上台后马上就砍掉了不少没用的产品，果然厉害！",
+    "source_file": "2011-10_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/20432671"
+  }
+]

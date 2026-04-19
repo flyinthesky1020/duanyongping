@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f6255d3d-e8f7-4027-a245-a94da6309220",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-12-02",
+    "sentiment": "bullish",
+    "summary": "重仓茅台生意模式强",
+    "quote": "决定重仓苹果茅台也得益于巴菲特的教诲，因为这两家企业生意模式强大。",
+    "source_file": "2022-12_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/236926642"
+  },
+  {
+    "id": "4ce6f0f6-4e87-4522-9ae5-b4240562fd68",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-12-02",
+    "sentiment": "bullish",
+    "summary": "重仓苹果生意模式强",
+    "quote": "决定重仓苹果茅台也得益于巴菲特的教诲，因为这两家企业生意模式强大。",
+    "source_file": "2022-12_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/236926642"
+  }
+]

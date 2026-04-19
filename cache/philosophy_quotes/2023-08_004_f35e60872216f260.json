@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "微软护城河非常强，可惜我以前没看不懂。这两年有点懂了，但一直没机会哈。",
+    "post_url": "https://xueqiu.com/1247347556/258157034",
+    "post_date": "2023-08-13",
+    "mentioned_stocks": [
+      "微软"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "微软护城河非常强，可惜我以前没看不懂。这两年有点懂了，但一直没机会哈。",
+    "post_url": "https://xueqiu.com/1247347556/258157034",
+    "post_date": "2023-08-13",
+    "mentioned_stocks": [
+      "微软"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "说说有啥风险？如果你真打算拿10年的话？股市人性哪里疯狂了？假装投资对你没啥好处！",
+    "post_url": "https://xueqiu.com/1247347556/257925648",
+    "post_date": "2023-08-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "估计有点难？目前在哪里投机呢？",
+    "post_url": "https://xueqiu.com/1247347556/257921519",
+    "post_date": "2023-08-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "你觉得什么样的人才会去战战兢兢地平仓呢？",
+    "post_url": "https://xueqiu.com/1247347556/257880566",
+    "post_date": "2023-08-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

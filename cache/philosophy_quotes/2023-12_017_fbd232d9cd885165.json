@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "没有喜欢喝茅台的人，哪来的用茅台请客送礼的？为什么君子兰只能流行很短的时间？",
+    "post_url": "https://xueqiu.com/1247347556/270447449",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "“苹果公司CEO蒂姆·库克上个月曾表示，他已决定从公司内部寻找自己的继任者，目前正在努力为董事会提供几个选项。”从内部寻找继任者非常重要，外部找人难度可能要大一万倍。",
+    "post_url": "https://xueqiu.com/1247347556/270449987",
+    "post_date": "2023-12-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

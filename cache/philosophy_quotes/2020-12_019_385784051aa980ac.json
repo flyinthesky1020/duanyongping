@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "就是现在买，10年后回头看，我不容易找到总回报更多的地方。",
+    "post_url": "https://xueqiu.com/1247347556/164997959",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "炒股票的确实会有这个问题，但花钱买公司的那些人自然知道，不然他们买什么？",
+    "post_url": "https://xueqiu.com/1247347556/164997959",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "非常感谢但我不收礼的。",
+    "post_url": "https://xueqiu.com/1247347556/164992833",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这是广告学里面的东西。据说可口可乐早年也被质疑过为什么还要打广告，于是做了一个实验：在一个很小的欧洲国家停了一年广告，结果当年相对其他国家或地区的销量下降了很多。",
+    "post_url": "https://xueqiu.com/1247347556/164991005",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [
+      "可口可乐"
+    ],
+    "quality_score": 3
+  }
+]

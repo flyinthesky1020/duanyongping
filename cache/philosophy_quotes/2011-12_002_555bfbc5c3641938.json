@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "不好的生意模式也是有机会在一段时间里赚钱的，但赚起来累，效率差，持久性不好。需要用很多人（相对营业额和利润而言）是不好的模式的一个特征。另外，短期内增加很多人往往也是很危险的（比如一年内在一万多人的基础上增加两万多人），当然有些公司可能会是例外，虽然我还没见过例。",
+    "post_url": "https://xueqiu.com/1247347556/20628665",
+    "post_date": "2011-12-28",
+    "mentioned_stocks": [
+      "京东"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "公司的价值取决于其未来的净现金流（的折现）。账上的现金在\"未来\"不一定还在，所以不能简单用现金来衡量，除非马上清算。",
+    "post_url": "https://xueqiu.com/1247347556/20626336",
+    "post_date": "2011-12-27",
+    "mentioned_stocks": [
+      "人人"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果这是你能力圈里的事你不需要问我，如果不是，问谁都没用。",
+    "post_url": "https://xueqiu.com/1247347556/20624365",
+    "post_date": "2011-12-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不知道世界名酒里哪个酒不是销量大于消费量的。不用担心茅台是不是会减产的问题，该减时他们自然会减的。",
+    "post_url": "https://xueqiu.com/1247347556/359948865",
+    "post_date": "2025-11-04",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "既然是投机哪有太冒险这个说法？",
+    "post_url": "https://xueqiu.com/1247347556/359935300",
+    "post_date": "2025-11-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我没运营过非盈利组织，觉得那个比公司要难。",
+    "post_url": "https://xueqiu.com/1247347556/359936533",
+    "post_date": "2025-11-04",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

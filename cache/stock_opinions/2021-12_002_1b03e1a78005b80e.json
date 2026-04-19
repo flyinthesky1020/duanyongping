@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b9589956-703c-4b78-a217-d9779b8c416e",
+    "stock": "万科A",
+    "ticker": "000002.SZ",
+    "market": "CN_A",
+    "date": "2021-12-29",
+    "sentiment": "bearish",
+    "summary": "商业模式不够好",
+    "quote": "如果时光能够倒流，我大概不会买创维或者万科，我觉得他们的商业模式都不够好。",
+    "source_file": "2021-12_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/207412645"
+  }
+]

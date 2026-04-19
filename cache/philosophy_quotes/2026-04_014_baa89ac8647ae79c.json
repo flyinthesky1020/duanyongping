@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "股价严重高估的时候我会想拿着现金的，虽然我是个满仓主义者。",
+    "post_url": "https://xueqiu.com/1247347556/382486957",
+    "post_date": "2026-04-02",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我觉得比特币更难理解吧？",
+    "post_url": "https://xueqiu.com/1247347556/382486815",
+    "post_date": "2026-04-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "NBA球队没人时打算几年内就赚回来的，就像上市公司。",
+    "post_url": "https://xueqiu.com/1247347556/382486815",
+    "post_date": "2026-04-02",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我猜这大概是他们一直在开店的原因之一吧。",
+    "post_url": "https://xueqiu.com/1247347556/382358258",
+    "post_date": "2026-04-01",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "以前是因为拿着网易股票，有个了解公司的理由。",
+    "post_url": "https://xueqiu.com/1247347556/382354299",
+    "post_date": "2026-04-01",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 4
+  }
+]

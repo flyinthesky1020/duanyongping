@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资太无聊了，找点刺激的小游戏玩一下！裸空是危险的游戏，不是投资的工具，不可模仿。",
+    "post_url": "https://xueqiu.com/1247347556/211882392",
+    "post_date": "2022-02-18",
+    "mentioned_stocks": [
+      "纳指3X做空-ProShares"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "其实对库克而言，给他多少薪水或收入大概都不会影响他在苹果工作的积极性的，因为他热爱这份工作！但是，薪水或收入体现的是公平。库克的收入是由苹果的薪酬委员会决定的，我猜库克并没有太计较。",
+    "post_url": "https://xueqiu.com/1247347556/212048757",
+    "post_date": "2022-02-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "好公司不要轻易卖出。",
+    "post_url": "https://xueqiu.com/1247347556/211946323",
+    "post_date": "2022-02-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

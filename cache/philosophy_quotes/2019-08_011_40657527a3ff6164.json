@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不花时间看别人怎么操作。",
+    "post_url": "https://xueqiu.com/1247347556/131322768",
+    "post_date": "2019-08-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "怎么看着像炒股票的？如果你看到一家一年未来一年赚300亿的公司现在1000多亿卖出来，你为什么要等？等什么？比如当时的茅台。如果你不知道一家市值1000亿的公司未来的利润情况如何，那你又在等什么？",
+    "post_url": "https://xueqiu.com/1247347556/131290638",
+    "post_date": "2019-08-16",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "坚持做对的事情对有所成帮助很大，但有所成和碌碌无为不是简单的对立关系。每个人的生活方式不同。",
+    "post_url": "https://xueqiu.com/1247347556/131337730",
+    "post_date": "2019-08-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你见过几个大学财金类专业的老师或学生懂这个的？不信你问问他们投资的情况？真懂的人不太可能不碰投资，大概率也会结果好的。",
+    "post_url": "https://xueqiu.com/1247347556/131337756",
+    "post_date": "2019-08-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

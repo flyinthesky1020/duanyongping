@@ -1,0 +1,60 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不了解",
+    "post_url": "https://xueqiu.com/1247347556/125024990",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "网易正好是我熟悉的业务，所以能理解为什么他们未来能赚到大钱。你如果能找到你认为未来能赚到大钱的公司，目前的状况是不重要的。关键还是你自己是否确实能看明白。",
+    "post_url": "https://xueqiu.com/1247347556/125023500",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你如果能找到你认为未来能赚到大钱的公司，目前的状况是不重要的。",
+    "post_url": "https://xueqiu.com/1247347556/125023500",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "对苹果，你分析的很细节了，也许太细了。还是那两点：商业模式，企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/125023591",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "对苹果，你分析的很细节了，也许太细了。还是那两点：商业模式，企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/125023591",
+    "post_date": "2019-04-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "酒这个行业确实不错，毛利高但新牌子少（其实很久没见过新牌子了，哪怕有些很有实力想建新品牌的公司好像也没啥办法）从这个角度看，老白干也是有点价值的。",
+    "post_url": "https://xueqiu.com/1247347556/124975859",
+    "post_date": "2019-04-10",
+    "mentioned_stocks": [
+      "老白干"
+    ],
+    "quality_score": 4
+  }
+]

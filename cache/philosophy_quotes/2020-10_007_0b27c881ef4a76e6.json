@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我的过滤器里有商业模式和企业文化两项，过不去的我就大概看不到了。Uhal某种角度属于烟蒂。",
+    "post_url": "https://xueqiu.com/1247347556/161631023",
+    "post_date": "2020-10-24",
+    "mentioned_stocks": [
+      "UHAL"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我的过滤器里有商业模式和企业文化两项，过不去的我就大概看不到了。Uhal某种角度属于烟蒂。",
+    "post_url": "https://xueqiu.com/1247347556/161631023",
+    "post_date": "2020-10-24",
+    "mentioned_stocks": [
+      "UHAL"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "除了Costco，别的都没去过。Costco你看下芒格的论述，我没那么了解。",
+    "post_url": "https://xueqiu.com/1247347556/161631102",
+    "post_date": "2020-10-24",
+    "mentioned_stocks": [
+      "Costco"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "其实两者都重要，属于短期利益和长期利益的关系。你作为销售，怎么做取决于你的老板或你们的企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/161631072",
+    "post_date": "2020-10-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得创业最重要的是创业者会觉得自己的产品或想法能够提供点别人提供不了的东西。如果只是想做生意，成功的概率会小很多。供需失衡的“赛场”大概没人可以在创业前就“选到”的，就算碰上了也很快会掉进红海。举个简单的例子：茅台的供不应求可不是一个创业者创业前计划好的。",
+    "post_url": "https://xueqiu.com/1247347556/161602682",
+    "post_date": "2020-10-23",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不知道，没买过。直觉上觉得没本质差别。",
+    "post_url": "https://xueqiu.com/1247347556/161631152",
+    "post_date": "2020-10-24",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

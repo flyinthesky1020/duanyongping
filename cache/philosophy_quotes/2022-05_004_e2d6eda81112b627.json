@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我猜巴菲特对“苹果的护城河比可口可乐的宽”这个观点肯定也是印象深刻的。",
+    "post_url": "https://xueqiu.com/1247347556/219837113",
+    "post_date": "2022-05-12",
+    "mentioned_stocks": [
+      "苹果",
+      "可口可乐"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。好像这三个一点的意思是不一样的。这个不是谜语。三个一点的单位都不一样。第一个指的是价格，第二个指的是时间，第三个指的是股数。现在第一个似乎实现了，第二个如果也实现的话，苹果就可以用同样金额买到更多的量。",
+    "post_url": "https://xueqiu.com/1247347556/219810808",
+    "post_date": "2022-05-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

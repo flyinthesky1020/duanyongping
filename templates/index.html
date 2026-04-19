@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>大道无形我有型 · 段永平投资思想</title>
+  <link rel="stylesheet" href="/static/css/style.css">
+  <!-- ECharts -->
+  <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+  <!-- Three.js -->
+  <script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+</head>
+<body>
+
+<!-- ── Header ── -->
+<header id="app-header">
+  <div class="header-inner">
+    <div class="header-brand">
+      <span class="brand-cn">大道无形我有型</span>
+      <span class="brand-sub">段永平 · 投资思想全记录 2011–2026</span>
+    </div>
+    <nav class="header-nav">
+      <button class="nav-btn active" data-tab="home">首页</button>
+      <button class="nav-btn" data-tab="timeline">年度脉络</button>
+      <button class="nav-btn" data-tab="philosophy">投资理念</button>
+      <button class="nav-btn" data-tab="stocks">提及股票</button>
+    </nav>
+  </div>
+</header>
+
+<!-- ── Main Content ── -->
+<main id="app-main">
+
+  <!-- ── HOME TAB: 3D Word Cloud ── -->
+  <div id="tab-home" class="tab-panel active">
+    <div id="wordcloud-wrap">
+      <canvas id="wordcloud-canvas"></canvas>
+      <div id="wordcloud-intro">
+        <div class="intro-quote">"人一辈子能做好一件事就非常了不起了。"</div>
+        <div class="intro-hint">点击词云中的词探索思想</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── TIMELINE TAB ── -->
+  <div id="tab-timeline" class="tab-panel" hidden>
+    <div class="phi-layout">
+      <div id="timeline-nav">
+        <div class="phi-nav-title">年度脉络</div>
+        <div id="timeline-nav-list"></div>
+      </div>
+      <div id="timeline-content">
+        <div id="timeline-detail"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── PHILOSOPHY TAB ── -->
+  <div id="tab-philosophy" class="tab-panel" hidden>
+    <div class="phi-layout">
+      <!-- Left nav -->
+      <div id="phi-nav">
+        <div class="phi-nav-title">投资理念</div>
+        <div id="phi-nav-list"></div>
+      </div>
+      <!-- Right content -->
+      <div id="phi-content">
+        <div id="phi-detail"></div>
+        <div id="phi-stocks-section" hidden>
+          <div class="section-title">代表性股票</div>
+          <div id="phi-stocks-grid"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── STOCKS TAB ── -->
+  <div id="tab-stocks" class="tab-panel" hidden>
+    <div class="stocks-toolbar">
+      <input id="stocks-search" type="text" placeholder="搜索股票名称或代码..." autocomplete="off">
+      <div class="market-filters">
+        <button class="mf-btn active" data-market="ALL">全部</button>
+        <button class="mf-btn" data-market="CN_A">A股</button>
+        <button class="mf-btn" data-market="HK">港股</button>
+        <button class="mf-btn" data-market="US">美股</button>
+      </div>
+    </div>
+    <div id="stocks-list"></div>
+  </div>
+
+</main>
+
+<!-- ── Chart Modal ── -->
+<div id="chart-modal" hidden>
+  <div id="chart-modal-overlay"></div>
+  <div id="chart-modal-content">
+    <div id="chart-modal-header">
+      <div id="chart-modal-title"></div>
+      <button id="chart-modal-close">✕</button>
+    </div>
+    <div id="chart-container"></div>
+    <div id="chart-stats"></div>
+    <div id="chart-opinions-list"></div>
+  </div>
+</div>
+
+<script src="/static/js/app.js"></script>
+<script src="/static/js/wordcloud.js"></script>
+<script src="/static/js/chart.js"></script>
+<script src="/static/js/timeline.js"></script>
+<script src="/static/js/philosophy.js"></script>
+<script src="/static/js/stocks.js"></script>
+</body>
+</html>

@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这种飞刀最好别接，确实有危险的。",
+    "post_url": "https://xueqiu.com/1247347556/244357585",
+    "post_date": "2023-03-13",
+    "mentioned_stocks": [
+      "第一共和银行"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "券商的差异化一般很小而且转换成本也很小，所以一般来说很难是特别好的投资标的。",
+    "post_url": "https://xueqiu.com/1247347556/244357066",
+    "post_date": "2023-03-13",
+    "mentioned_stocks": [
+      "嘉信理财"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我一个满仓主义者，银行不太会放很多的，除非转账需要。",
+    "post_url": "https://xueqiu.com/1247347556/244245746",
+    "post_date": "2023-03-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "以前都没听说过这家银行，这次才知道这家银行居然规模不小。",
+    "post_url": "https://xueqiu.com/1247347556/244245746",
+    "post_date": "2023-03-12",
+    "mentioned_stocks": [
+      "硅谷银行"
+    ],
+    "quality_score": 3
+  }
+]

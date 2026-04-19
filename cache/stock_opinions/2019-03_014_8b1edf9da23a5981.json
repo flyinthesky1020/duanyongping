@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9573ec70-2369-42c7-b090-f9910eae4bf6",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-03-18",
+    "sentiment": "bullish",
+    "summary": "看好茅台",
+    "quote": "我了解A股很少，目前就只是关注了茅台，其他有曾经关心过的，但都觉得没茅台好。",
+    "source_file": "2019-03_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/123246649"
+  }
+]

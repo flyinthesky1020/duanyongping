@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2546348a-c060-4682-8a32-d120a9656b85",
+    "stock": "通用汽车",
+    "ticker": "GM",
+    "market": "US",
+    "date": "2012-05-17",
+    "sentiment": "bearish",
+    "summary": "生意模式不好",
+    "quote": "买通用汽车有点费解，生意模式可不太好啊，感觉像个雪茄烟蒂。",
+    "source_file": "2012-05_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/21808411"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ff5bba21-d949-4241-b928-a9e8eb4b2539",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-01-13",
+    "sentiment": "bullish",
+    "summary": "苹果价值创造高/CEO薪酬便宜",
+    "quote": "如果我是这家公司的“老板”，我觉得一年给10个亿也是便宜的不行了。公司一年赚1000个亿，10个亿才不过1%！大家可以统计一下所有的上市公司，看看赚到1000亿总和后CEO们的薪水和奖励的总额是多少。",
+    "source_file": "2023-01_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/240011322"
+  },
+  {
+    "id": "e983930b-1e51-419b-8a36-8f7b5b9dd240",
+    "stock": "Zoom",
+    "ticker": "ZM",
+    "market": "US",
+    "date": "2023-01-13",
+    "sentiment": "bearish",
+    "summary": "Zoom商业模式差/难投资",
+    "quote": "他们都是很难的生意。商业模式不好的生意也是生意。在有个好领导的时期，有时候苦生意也能做得还不错，但对投资而言比较难。",
+    "source_file": "2023-01_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/240010825"
+  }
+]

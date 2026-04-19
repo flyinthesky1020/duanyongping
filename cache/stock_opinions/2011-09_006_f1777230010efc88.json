@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b82696e8-33c2-41d6-a3a1-fb83fd6953b3",
+    "stock": "美国银行",
+    "ticker": "BAC",
+    "market": "US",
+    "date": "2011-09-06",
+    "sentiment": "bullish",
+    "summary": "跟投美银",
+    "quote": "上一次跟老巴买了富国，这次跟了点美银，也算是个学习的过程，希望学费是负的哈。",
+    "source_file": "2011-09_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/20384840"
+  }
+]

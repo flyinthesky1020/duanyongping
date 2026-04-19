@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "道可学，术要练。道指的就是“做对的事情”或者说“不做不对的事情”或者说“发现错了马上改--不管多大的代价都是最小的代价”。",
+    "post_url": "https://xueqiu.com/1247347556/240036152",
+    "post_date": "2023-01-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我个人以为价值投资的“术”就是如何研究企业未来现金流（折现）的问题。老巴的“护城河”、好的管理团队等都属于“术”的范畴。",
+    "post_url": "https://xueqiu.com/1247347556/240036152",
+    "post_date": "2023-01-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "汽车多少还是可以做出一些差异化的，所以汽车企业可能能活的稍微好一点。电池应该很难有差异化，所以最后的结局多是价格和规模的竞争。",
+    "post_url": "https://xueqiu.com/1247347556/240034808",
+    "post_date": "2023-01-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "在有好产品的前提下，渠道会变得没那么重要。最好的渠道就是像苹果店这种模式，渠道完全和公司文化吻合，不然就是尽量超这个方向努力。",
+    "post_url": "https://xueqiu.com/1247347556/240036152",
+    "post_date": "2023-01-14",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

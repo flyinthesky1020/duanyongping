@@ -1,0 +1,47 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "健身行业差异化很小，替代品很多，成本还很重，作为生意的商业模式是非常差的。但苹果的生态圈里有健康这个因子，这个因子会慢慢显示他的粘性的。",
+    "post_url": "https://xueqiu.com/1247347556/273757695",
+    "post_date": "2024-01-05",
+    "mentioned_stocks": [
+      "Peloton Interactive",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "苹果在建立生态中也许可以通过买这种小公司买到一些人才和技术以及专利，以及别的我不太清楚的东西。苹果肯定不会为了买点营业额或者利润啥的去收购的。",
+    "post_url": "https://xueqiu.com/1247347556/273757622",
+    "post_date": "2024-01-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "据说85-90%的人在股市上都是亏钱的，另外可能还有5%的人打平？这些人为什么不买S&P500呢？长期来讲至少也是接近10%的复合年回报吧（大致，自己没真的研究过）。问题是这85-90%的人也都觉得自己能打败S&P500？他们可能既不了解S&P500，也不了解他们自己？",
+    "post_url": "https://xueqiu.com/1247347556/273755154",
+    "post_date": "2024-01-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "对在股市上老是亏钱的人们而言，买进标普500可能是个好的办法，就当存银行了，利息还高。",
+    "post_url": "https://xueqiu.com/1247347556/273776934",
+    "post_date": "2024-01-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我理解的指数基金指的就是标普500，大家都买标普500的话其实应该是不受影响的。其它指数基金指的是什么我不知道。",
+    "post_url": "https://xueqiu.com/1247347556/273773897",
+    "post_date": "2024-01-05",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

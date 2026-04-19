@@ -1,0 +1,43 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "从未来现金流折现的角度看，这公司的未来有点不太靠谱，最值钱的未来都会被不懂事会卖掉，所以最后不会成为特别好的投资。",
+    "post_url": "https://xueqiu.com/1247347556/21412265",
+    "post_date": "2012-02-07",
+    "mentioned_stocks": [
+      "YHOO"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我不知道，但知道收购的成功率一般都很低。只有具有很强企业文化的公司收购的成功概率才可能比较高点，比如google，比如ge等。",
+    "post_url": "https://xueqiu.com/1247347556/21405869",
+    "post_date": "2012-02-06",
+    "mentioned_stocks": [
+      "Google",
+      "GE"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "所有上面的人都换光了，谁会玩命为这家公司负责呢？",
+    "post_url": "https://xueqiu.com/1247347556/21411780",
+    "post_date": "2012-02-07",
+    "mentioned_stocks": [
+      "YHOO"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "刚刚知道他们居然已经买了几家公司了。对国内喜欢买公司的公司还是小心为上。",
+    "post_url": "https://xueqiu.com/1247347556/21405839",
+    "post_date": "2012-02-06",
+    "mentioned_stocks": [
+      "畅游"
+    ],
+    "quality_score": 3
+  }
+]

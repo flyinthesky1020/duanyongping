@@ -1,0 +1,16 @@
+[
+  {
+    "id": "212682ab-2dab-4ac4-bc4a-60cea97af48d",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2024-04-10",
+    "sentiment": "bearish",
+    "summary": "担忧阿里现状",
+    "quote": "这才是让人担心的事情。",
+    "source_file": "2024-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/285555330"
+  }
+]

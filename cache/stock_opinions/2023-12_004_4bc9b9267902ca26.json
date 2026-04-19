@@ -1,0 +1,30 @@
+[
+  {
+    "id": "31baec03-d211-4d45-b946-8a1cd9625039",
+    "stock": "腾讯控股",
+    "ticker": "TCEHY",
+    "market": "US",
+    "date": "2023-12-25",
+    "sentiment": "bearish",
+    "summary": "不重仓腾讯因股数增加",
+    "quote": "这或许就是大道一直不重仓腾讯的缘由吧？//@大道无形我有型: 原因之一吧。我们买的到底是什么很重要。",
+    "source_file": "2023-12_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/272333829"
+  },
+  {
+    "id": "3ee65d6c-131a-499c-a486-cee39c52c9c0",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-12-25",
+    "sentiment": "bullish",
+    "summary": "茅台不必慢慢买",
+    "quote": "茅台没必要那么腻腻歪歪的吧？",
+    "source_file": "2023-12_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/272333500"
+  }
+]

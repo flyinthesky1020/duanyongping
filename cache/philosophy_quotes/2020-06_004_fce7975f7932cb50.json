@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实和投资一样，你如果能避免亏钱，想不赚钱很难。能平常心避免打+2也是件简单但不容易的事情。",
+    "post_url": "https://xueqiu.com/1247347556/151203557",
+    "post_date": "2020-06-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "企业的本分首先是企业家的本分，这是企业家必须具备的基本素质。本分体现着企业家的道德风范，有自己的原则。",
+    "post_url": "https://xueqiu.com/1247347556/151403712",
+    "post_date": "2020-06-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "新冠传染性比SARS要厉害，似乎短期内也不会像SARS那样消失，而且以后出现这种病毒的频率是有可能增加的。如果不到10年来一次，航空公司这种生意模式会非常辛苦的。",
+    "post_url": "https://xueqiu.com/1247347556/151114518",
+    "post_date": "2020-06-08",
+    "mentioned_stocks": [
+      "航空公司"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我也不会和蔡振华比乒乓球，我可以和他比打高尔夫，他肯定打不过我。",
+    "post_url": "https://xueqiu.com/1247347556/151403685",
+    "post_date": "2020-06-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "平常心其实就是理性思考的习惯，应该是后天养成的。只要你能理性思考，耐心自然就有了，或者说，没耐心是理性不够的表现。",
+    "post_url": "https://xueqiu.com/1247347556/151203577",
+    "post_date": "2020-06-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "钱是保健因子不是激励因子，给多了没用，给少了不行（绝大多数人在这点上都错了，因为钱不是万能的，当然没钱也是万万不能的）。激励因子实际上就是不要让人心委屈了，要让人觉...",
+    "post_url": "https://xueqiu.com/1247347556/134280050",
+    "post_date": "2019-10-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "需要好的产品以及很长的时间。",
+    "post_url": "https://xueqiu.com/1247347556/134279040",
+    "post_date": "2019-10-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "对喜欢茅台的人来说，茅台就是好酒。你让不喝茅台人盲品是没有任何意义的。",
+    "post_url": "https://xueqiu.com/1247347556/134279022",
+    "post_date": "2019-10-18",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "找个好公司不容易。不要为了那一点点premium失去拥有好公司的机会。",
+    "post_url": "https://xueqiu.com/1247347556/134223385",
+    "post_date": "2019-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不建议卖option！",
+    "post_url": "https://xueqiu.com/1247347556/134215613",
+    "post_date": "2019-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

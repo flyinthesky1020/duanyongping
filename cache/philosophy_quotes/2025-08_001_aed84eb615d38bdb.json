@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这家公司有点意思，值得关注，但我认真看了一下还是看不太懂。我觉得目前太贵了，至少机会成本很高，我不建议碰。",
+    "post_url": "https://xueqiu.com/1247347556/348588330",
+    "post_date": "2025-08-22",
+    "mentioned_stocks": [
+      "Palantir(PLTR)"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这家公司有点意思，值得关注，但我认真看了一下还是看不太懂。我觉得目前太贵了，至少机会成本很高，我不建议碰。",
+    "post_url": "https://xueqiu.com/1247347556/348588330",
+    "post_date": "2025-08-22",
+    "mentioned_stocks": [
+      "Palantir(PLTR)"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "fact is有人可以copy茅台吗？有人可以copy可口可乐吗……？",
+    "post_url": "https://xueqiu.com/1247347556/348161081",
+    "post_date": "2025-08-20",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "比航空公司的差异化要小。",
+    "post_url": "https://xueqiu.com/1247347556/348306494",
+    "post_date": "2025-08-21",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

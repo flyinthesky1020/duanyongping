@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ee253c73-e933-415a-9a0b-edb53868d993",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-11-26",
+    "sentiment": "bullish",
+    "summary": "持有并加仓茅台",
+    "quote": "从12年跟大道买茅台一直拿到今天不断加仓",
+    "source_file": "2020-11_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/164321674"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7b8d594e-f41a-4d55-9f8e-1f4ab3dcc5f4",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2011-10-24",
+    "sentiment": "bullish",
+    "summary": "看好苹果",
+    "quote": "顶@苹果(AAPL)",
+    "source_file": "2011-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/20433077"
+  }
+]

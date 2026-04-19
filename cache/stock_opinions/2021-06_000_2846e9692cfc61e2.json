@@ -1,0 +1,30 @@
+[
+  {
+    "id": "18931b94-7c54-4dd0-8cac-0779181c1ad1",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2021-06-29",
+    "sentiment": "bullish",
+    "summary": "看好茅台品质保障",
+    "quote": "买茅台的时候想清楚了的非常重要的一点：这类事情在国营的茅台发生的概率比在私营企业要低很多，因为大概没有人敢动茅台53度飞天的工艺。",
+    "source_file": "2021-06_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/187752484"
+  },
+  {
+    "id": "a940b0ac-6d3d-4421-b8b3-8aae2e0dbc4b",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2021-06-29",
+    "sentiment": "bullish",
+    "summary": "苹果厉害",
+    "quote": "$苹果(AAPL)$ 厉害！",
+    "source_file": "2021-06_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": ""
+  }
+]

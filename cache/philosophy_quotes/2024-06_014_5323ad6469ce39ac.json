@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我们电子产品行业要是碰上不好卖的时候，后果是很严重的。茅台碰上不好卖的时候，只是被动地又多了一些年份酒而已（以后赚得更多）。",
+    "post_url": "https://xueqiu.com/1247347556/293924911",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "你说的这些公司我只投了苹果，别的都没碰过，连可口可乐我也没碰过。我觉得苹果的商业模式比可口可乐要强。",
+    "post_url": "https://xueqiu.com/1247347556/293938889",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂什么叫金融属性。茅台确实具有存储增值属性。",
+    "post_url": "https://xueqiu.com/1247347556/293938598",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "市场短期是投票器，长期是称重机，所以市场还是那个市场，茅台也还是那个茅台。",
+    "post_url": "https://xueqiu.com/1247347556/293924772",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个学校严格讲不算非营利组织，因为这所学校是为了给我们公司的员工子弟多一个选择，虽然财务上看着要亏钱，但公司很可能是有长远利益的。",
+    "post_url": "https://xueqiu.com/1247347556/293938952",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "目前30年的国债利率是4.44%，相当于22.5倍的PE，这也是持有任何公司的机会成本。短期国债的利率是5.36%，相当于18.66倍的PE。持有=买入，有点纠结了。",
+    "post_url": "https://xueqiu.com/1247347556/293938993",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

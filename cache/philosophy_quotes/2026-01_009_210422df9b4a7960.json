@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "是的，我大三时看到德鲁克这句话时感觉非常震撼，受益终身哈。",
+    "post_url": "https://xueqiu.com/1247347556/372157443",
+    "post_date": "2026-01-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我个人对拆股很中性，不觉得长期会对股价有实质性影响。",
+    "post_url": "https://xueqiu.com/1247347556/372317513",
+    "post_date": "2026-01-21",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

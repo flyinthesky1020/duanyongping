@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "债务是个危险的东西，和margin差不多。经营企业中的债务有时候更危险，因为资产往往是很难变现的，危险来临的时候跑都很难跑。发展慢一点会健康很多的。",
+    "post_url": "https://xueqiu.com/1247347556/284197344",
+    "post_date": "2024-03-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "他们确实厉害！我在想10年20年后会怎么样呢？很难想清楚但他们至少不是那种借了很多钱的公司。",
+    "post_url": "https://xueqiu.com/1247347556/284199905",
+    "post_date": "2024-03-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这是我的本行啊！",
+    "post_url": "https://xueqiu.com/1247347556/284075041",
+    "post_date": "2024-03-28",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得折叠手机很可能就是个小众市场，苹果已经有mini iPad了，折叠手机的作用会更小。当然，很多东西是要试过才知道的，没人真有个水晶球。",
+    "post_url": "https://xueqiu.com/1247347556/283884909",
+    "post_date": "2024-03-27",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

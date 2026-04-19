@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你段叔叔从来没挺过茅台或者任何股票！",
+    "post_url": "https://xueqiu.com/1247347556/305960434",
+    "post_date": "2024-09-26",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不知道“坚信”是什么意思。",
+    "post_url": "https://xueqiu.com/1247347556/305963780",
+    "post_date": "2024-09-26",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我们不知道的是当茅台180的时候，还会掉到100吗？我们知道的是180的茅台已经很便宜的，有钱就先买了。万一真掉到100了，有闲钱再买没有就跟自己无关了。",
+    "post_url": "https://xueqiu.com/1247347556/305887255",
+    "post_date": "2024-09-26",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  }
+]

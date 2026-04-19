@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9d33a744-11d8-45f3-8af0-cc4b7176fa00",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-10-08",
+    "sentiment": "bullish",
+    "summary": "建议买入茅台",
+    "quote": "如果你有现金，想想放在银行20年还是现在买成茅台的区别吧。如果你想不明白，那你还要继续想哈。",
+    "source_file": "2020-10_batch039",
+    "source_type": "xueqiu",
+    "chunk_index": 39,
+    "url": "https://xueqiu.com/1247347556/160570284"
+  }
+]

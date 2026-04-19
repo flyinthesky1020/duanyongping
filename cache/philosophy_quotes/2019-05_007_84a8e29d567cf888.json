@@ -1,0 +1,41 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "所谓商业模式好的意思就是长期能赚很多钱且能持续，非要搞个文邹邹的语言来不完整形容么？",
+    "post_url": "https://xueqiu.com/1247347556/127491773",
+    "post_date": "2019-05-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "碰上一个好的商业模式感觉是要非常好的运气的，但运气背后有很厚的企业文化背景。搜索最后变成Google的好的商业模式，所以肯定不能简单地说搜索是个好的商业模式。手机在苹果手里就是个极好的商业模式，在我们手里也是，但很多做手机的公司都倒下了或者根本做不起来。酒也是个典型的例子，茅台厉害...",
+    "post_url": "https://xueqiu.com/1247347556/127492539",
+    "post_date": "2019-05-29",
+    "mentioned_stocks": [
+      "Google",
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "碰上一个好的商业模式感觉是要非常好的运气的，但运气背后有很厚的企业文化背景。",
+    "post_url": "https://xueqiu.com/1247347556/127492539",
+    "post_date": "2019-05-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这种生意，能活下来就不错了，和苹果茅台这种生意模式不能相提并论的。",
+    "post_url": "https://xueqiu.com/1247347556/127467970",
+    "post_date": "2019-05-29",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

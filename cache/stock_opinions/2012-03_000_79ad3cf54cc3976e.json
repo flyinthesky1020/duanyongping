@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5f29452e-c29d-4987-88ac-b3c35f7138af",
+    "stock": "EA",
+    "ticker": "EA",
+    "market": "US",
+    "date": "2012-03-31",
+    "sentiment": "bullish",
+    "summary": "计划买入EA股份",
+    "quote": "我们已经达成协议，下礼拜买100股，前提是他要写一封email给我，告诉我买ea的理由",
+    "source_file": "2012-03_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/21648160"
+  },
+  {
+    "id": "d0c4ef31-a6d1-4257-b22e-bd16ed59b0ad",
+    "stock": "Nintendo",
+    "ticker": "NTDOY",
+    "market": "US",
+    "date": "2012-03-31",
+    "sentiment": "bearish",
+    "summary": "看空任天堂前景",
+    "quote": "突然想到前段时间新闻里看到任天堂ceo讲的坚决不做手机游戏的说法，感觉任天堂也快了（小朋友好像对ds已经没啥兴趣了）",
+    "source_file": "2012-03_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/21647488"
+  }
+]

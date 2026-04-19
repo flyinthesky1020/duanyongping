@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我现在对MRNA有点兴趣，但这不属于我能力圈内的东西。小赌怡情，逼下自己，希望一年内我可以大致看明白这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/209069645",
+    "post_date": "2022-01-15",
+    "mentioned_stocks": [
+      "Moderna"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对摩德纳感兴趣的原因是觉得这家公司非常专注—企业文化不错（未来不知道），产品也是刚需—商业模式还可以（不确定），同时我也不确定未来的变化，对这个行业一无所知（当然媒体上大家能看到的我也能看到）。所以这种投资是不敢下重注的...",
+    "post_url": "https://xueqiu.com/1247347556/209112480",
+    "post_date": "2022-01-16",
+    "mentioned_stocks": [
+      "Moderna"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "所以这种投资是不敢下重注的，因为自己对公司10年后会是什么样...",
+    "post_url": "https://xueqiu.com/1247347556/209112480",
+    "post_date": "2022-01-16",
+    "mentioned_stocks": [
+      "Moderna"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我对摩德纳感兴趣的原因是觉得这家公司非常专注—企业文化不错（未来不知道）...",
+    "post_url": "https://xueqiu.com/1247347556/209112480",
+    "post_date": "2022-01-16",
+    "mentioned_stocks": [
+      "Moderna"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "产品也是刚需—商业模式还可以（不确定）...",
+    "post_url": "https://xueqiu.com/1247347556/209112480",
+    "post_date": "2022-01-16",
+    "mentioned_stocks": [
+      "Moderna"
+    ],
+    "quality_score": 3
+  }
+]

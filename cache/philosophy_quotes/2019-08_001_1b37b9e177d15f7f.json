@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不了解这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/132135907",
+    "post_date": "2019-08-31",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "到最后会落在一个比例区间里，目前确实有点太大，不太合理。",
+    "post_url": "https://xueqiu.com/1247347556/132132056",
+    "post_date": "2019-08-31",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "其实多数好酒都有这个特点，但其他好酒都比茅台还要贵不少，所以茅台很可能是最便宜的好酒。",
+    "post_url": "https://xueqiu.com/1247347556/132115352",
+    "post_date": "2019-08-30",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

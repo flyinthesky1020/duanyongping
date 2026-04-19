@@ -1,0 +1,33 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "其实没那么重要。他大概率很难比我了解阿里。",
+    "post_url": "https://xueqiu.com/1247347556/270780488",
+    "post_date": "2023-12-13",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "很多年前有人问我买啥股票好，我给推荐了网易。我在电话上花了不少时间说为什么网易很便宜，结果人家自己搞了个游戏公司还上了市。费尽千辛万苦的结果似乎远不如直接买网易股票哈。",
+    "post_url": "https://xueqiu.com/1247347556/270781673",
+    "post_date": "2023-12-13",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "融创也如日中天过？你说的是谁的天？",
+    "post_url": "https://xueqiu.com/1247347556/270776719",
+    "post_date": "2023-12-13",
+    "mentioned_stocks": [
+      "融创",
+      "阿里"
+    ],
+    "quality_score": 3
+  }
+]

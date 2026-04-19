@@ -1,0 +1,16 @@
+[
+  {
+    "id": "48405476-e209-4ea8-a3b5-20deba95cb21",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2011-11-12",
+    "sentiment": "bullish",
+    "summary": "看好iPhone4s销量反驳空头",
+    "quote": "确实是胡扯，iphone4s在美国到现在还是每天都断货。估计是空头着急了？",
+    "source_file": "2011-11_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/20488001"
+  }
+]

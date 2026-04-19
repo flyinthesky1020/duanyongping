@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你在哪里看到段总的判断了？人家根本没看别的公司，怎么判断？",
+    "post_url": "https://xueqiu.com/1247347556/152365420",
+    "post_date": "2020-06-24",
+    "mentioned_stocks": [
+      "万科A"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "持有=买入是个fact，看不看得明白是你的造化。",
+    "post_url": "https://xueqiu.com/1247347556/152322336",
+    "post_date": "2020-06-24",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

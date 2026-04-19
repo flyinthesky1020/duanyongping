@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "当你还需要问别人可不可以出手的时候就表示你绝对不应该出手，因为你其实不知道你在干什么。",
+    "post_url": "https://xueqiu.com/1247347556/22185151",
+    "post_date": "2012-08-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你能保证马上全部变现的话就可以，不然最好别碰，除非你能看懂其未来。",
+    "post_url": "https://xueqiu.com/1247347556/22185138",
+    "post_date": "2012-08-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这只是个时间问题，同时也让三星很难受，因为这会逼着三星不停地追加投资在设备上，最后赚一堆过时的设备。也许不用10年，三星的日子就会比现在那些日本的老牌家电公司难受。",
+    "post_url": "https://xueqiu.com/1247347556/22185134",
+    "post_date": "2012-08-30",
+    "mentioned_stocks": [
+      "三星"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我对私下交流没兴趣，这里的人们都是把自己认为有价值的东西拿出来聊的。",
+    "post_url": "https://xueqiu.com/1247347556/22184909",
+    "post_date": "2012-08-30",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

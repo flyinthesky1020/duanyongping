@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不懂什么叫系统风险，好公司便宜的时候应该尽量多买点，岂有卖掉之理呢？",
+    "post_url": "https://xueqiu.com/1247347556/113598055",
+    "post_date": "2018-09-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "开始时决定投10%，后来越看越明白，慢慢就几乎都变成苹果了",
+    "post_url": "https://xueqiu.com/1247347556/113510501",
+    "post_date": "2018-09-09",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "哈，我们确实也有自己的体会，悟出来不容易，你能一下子体会到那绝对是你的造化，多数人做不到的。",
+    "post_url": "https://xueqiu.com/1247347556/113630447",
+    "post_date": "2018-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "知不易行更难。",
+    "post_url": "https://xueqiu.com/1247347556/113635969",
+    "post_date": "2018-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  }
+]

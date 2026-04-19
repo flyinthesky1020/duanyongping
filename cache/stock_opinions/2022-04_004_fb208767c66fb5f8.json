@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ed4a2720-8e02-455b-8119-c3d484ec3009",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2022-04-06",
+    "sentiment": "bullish",
+    "summary": "看好茅台电商转型",
+    "quote": "i茅台这个主意非常好，用户至少知道上哪里去买真酒，应该给管理层一点掌声！！！道理上来说，供求平衡的价格是比较接近合理的，目前这种中签率说明茅台零售价不是很合理。",
+    "source_file": "2022-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/216313081"
+  },
+  {
+    "id": "168e9c20-94d0-4260-80d0-660121c2e02c",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-04-06",
+    "sentiment": "bullish",
+    "summary": "看好苹果支付前景",
+    "quote": "Apple Pay在很多国家里已经慢慢普及开了，国内慢慢也会越来越多人用的，但因为有微信等支付的原因，估计要慢很多，但10年后也许也会很普及的。",
+    "source_file": "2022-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/216010265"
+  }
+]

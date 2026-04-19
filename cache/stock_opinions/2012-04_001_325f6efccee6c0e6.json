@@ -1,0 +1,16 @@
+[
+  {
+    "id": "87f777ce-4b38-42ad-8a38-88d04595817e",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-04-30",
+    "sentiment": "bullish",
+    "summary": "看好苹果中国增长",
+    "quote": "那要看怎么定义爆发。也许用成长会更贴切。ipad或许可以用爆发，但ipad可能会爆发很久滴",
+    "source_file": "2012-04_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/21755128"
+  }
+]

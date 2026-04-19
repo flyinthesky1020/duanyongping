@@ -1,0 +1,34 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "没有任何具体信息，我能给啥建议？看上去商业模式不太好的样子。",
+    "post_url": "https://xueqiu.com/1247347556/133646498",
+    "post_date": "2019-10-04",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这个办法太费时间，不好。我理解的所谓“石头下翻金子”其实是小概率事件，是可遇不可求的。",
+    "post_url": "https://xueqiu.com/1247347556/133645250",
+    "post_date": "2019-10-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没概念。",
+    "post_url": "https://xueqiu.com/1247347556/133636678",
+    "post_date": "2019-10-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看不下去有两种情况：1，看懂了。2，没看懂。",
+    "post_url": "https://xueqiu.com/1247347556/133636438",
+    "post_date": "2019-10-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

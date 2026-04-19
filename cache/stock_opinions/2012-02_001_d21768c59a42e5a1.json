@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5ab792fe-87c6-4694-bbd5-11c0a4899846",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-02-28",
+    "sentiment": "bullish",
+    "summary": "苹果股价未来将显便宜",
+    "quote": "终于快到5000亿了[哈哈]。也许几年后很多人会觉得这个价钱好便宜啊。",
+    "source_file": "2012-02_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/21505405"
+  }
+]

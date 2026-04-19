@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "真实内在逻辑是：从10年后看回来，151.8的台积电你愿不愿意买？",
+    "post_url": "https://xueqiu.com/1247347556/326608735",
+    "post_date": "2025-03-09",
+    "mentioned_stocks": [
+      "台积电"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你不知道这是什么你不应该跟的，不然你早晚会亏回去的。",
+    "post_url": "https://xueqiu.com/1247347556/326572888",
+    "post_date": "2025-03-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。现在开始关注。",
+    "post_url": "https://xueqiu.com/1247347556/326608735",
+    "post_date": "2025-03-09",
+    "mentioned_stocks": [
+      "TSM"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。",
+    "post_url": "https://xueqiu.com/1247347556/326608735",
+    "post_date": "2025-03-09",
+    "mentioned_stocks": [
+      "TSM"
+    ],
+    "quality_score": 3
+  }
+]

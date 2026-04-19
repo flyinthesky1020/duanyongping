@@ -1,0 +1,43 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "360可以卸载了？你试试吧，如果真可以我就可以开始考虑看看360. 不过我相信那个什么是改不了什么的。",
+    "post_url": "https://xueqiu.com/1247347556/21901646",
+    "post_date": "2012-06-13",
+    "mentioned_stocks": [
+      "奇虎360"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "腾讯可以卸得很干净，360的卸不清的，至少去年还是如此。",
+    "post_url": "https://xueqiu.com/1247347556/21901737",
+    "post_date": "2012-06-13",
+    "mentioned_stocks": [
+      "腾讯",
+      "奇虎360"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "360更讨厌，想卸都卸不掉，只能重装系统。",
+    "post_url": "https://xueqiu.com/1247347556/21901614",
+    "post_date": "2012-06-13",
+    "mentioned_stocks": [
+      "奇虎360"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "同感啊，绝对不敢碰。",
+    "post_url": "https://xueqiu.com/1247347556/21901749",
+    "post_date": "2012-06-13",
+    "mentioned_stocks": [
+      "奇虎360"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "闲钱指的是三五年以上不需要用的钱。“哪怕亏光了”是赌徒的想法。亏钱是会影响生活的，至少会影响心情，对绝大多数人而言。",
+    "post_url": "https://xueqiu.com/1247347556/307462158",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "买好公司拿着比啥都强，其次是买债券，然后是存银行。我觉得10年20年后看买茅台比存银行大概率会好。",
+    "post_url": "https://xueqiu.com/1247347556/307454334",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "产品很难有差异化。",
+    "post_url": "https://xueqiu.com/1247347556/307452114",
+    "post_date": "2024-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

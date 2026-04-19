@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "学巴菲特最重要和人们能够学的东西其实是他不做什么！绝大多数人学的是相反的东西，就是他在做什么，那是没办法学的，因为每个人的能力圈不同。",
+    "post_url": "https://xueqiu.com/1247347556/20432595",
+    "post_date": "2011-10-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "巴菲特说知道自己能力圈有多大比能力圈有多大要重要的多。当然，能力圈的大小也是可以学的，但那是每个人自己的经历包括学历等，巴菲特不教这个。",
+    "post_url": "https://xueqiu.com/1247347556/20432595",
+    "post_date": "2011-10-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "iphone4s能卖多少完全取决于他们能生产多少。",
+    "post_url": "https://xueqiu.com/1247347556/20432635",
+    "post_date": "2011-10-22",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

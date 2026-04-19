@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "两个方面：1.是否能赚到钱（匹配价格的利润）。2.如果能赚到钱，是否有护城河。",
+    "post_url": "https://xueqiu.com/1247347556/215026525",
+    "post_date": "2022-03-23",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我说我不懂这个商业模式不是不知道他们做的是什么样的生意，而是说我没办法看懂10年后这个公司会是什么样子。很早我就说过，我觉得拼多多赚到100-200亿人民币应该是有机会的，但未来到底会怎么样我看不懂。电商不是一个容易看懂的行业，很难知道10年后谁会是最后的赢家。",
+    "post_url": "https://xueqiu.com/1247347556/215025016",
+    "post_date": "2022-03-23",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我说我不懂这个商业模式不是不知道他们做的是什么样的生意，而是说我没办法看懂10年后这个公司会是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/215025016",
+    "post_date": "2022-03-23",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "未来现金流折现指的是一种思维方式，估值就是毛估估的。",
+    "post_url": "https://xueqiu.com/1247347556/215021511",
+    "post_date": "2022-03-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

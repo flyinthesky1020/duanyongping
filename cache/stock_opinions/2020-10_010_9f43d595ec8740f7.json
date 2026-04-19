@@ -1,0 +1,16 @@
+[
+  {
+    "id": "874dad88-3f52-444b-850c-f5c9ba1777eb",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-10-20",
+    "sentiment": "bullish",
+    "summary": "茅台酒价格要涨",
+    "quote": "银行定存有4%？那茅台酒的价格应该要涨了，怪不得批零差价那么大。我的意思是谷歌40年的债券都已经只有2.25%了，4%三年的定期说明通胀率未来可能会更高一些，所以商品很可能会涨价哈。",
+    "source_file": "2020-10_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/161366231"
+  }
+]

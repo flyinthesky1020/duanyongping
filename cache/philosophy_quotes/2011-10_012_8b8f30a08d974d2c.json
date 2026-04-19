@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "垄断不算还有啥能算？不过行政垄断不是好的商业行为而已。",
+    "post_url": "https://xueqiu.com/1247347556/20417084",
+    "post_date": "2011-10-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果不懂的话，什么价都可能高因为过几天来个坏消息说谁谁可能没决定买等等。总而言之，不懂不做，不要跟消息走，跟着理解走。",
+    "post_url": "https://xueqiu.com/1247347556/20416338",
+    "post_date": "2011-10-07",
+    "mentioned_stocks": [
+      "Yahoo"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不了解的不要乱跟风，不然就成了高吸低抛了。",
+    "post_url": "https://xueqiu.com/1247347556/20416273",
+    "post_date": "2011-10-07",
+    "mentioned_stocks": [
+      "Yahoo"
+    ],
+    "quality_score": 3
+  }
+]

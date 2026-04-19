@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "希望这个价位或以下能够持续一年或以上，这样苹果的回购就会更有效率。",
+    "post_url": "https://xueqiu.com/1247347556/239155796",
+    "post_date": "2023-01-03",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯",
+      "Brk/B"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "找你想做的工作，比方说钱多活少离家近？最好想想10年20年后你想注意啥。",
+    "post_url": "https://xueqiu.com/1247347556/239037438",
+    "post_date": "2023-01-01",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

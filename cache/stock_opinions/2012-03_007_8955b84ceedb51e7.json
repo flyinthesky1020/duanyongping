@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fdc4ccc5-9f71-495b-ba97-02631a822549",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-03-08",
+    "sentiment": "bullish",
+    "summary": "现在买苹果不晚",
+    "quote": "回复 @天行者: 也许现在也不太晚。//@天行者:我也订了，屏幕很期待。这些年买了大概十件苹果的产品了，如果早点下定决心买苹果的股票就好了。",
+    "source_file": "2012-03_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/21551018"
+  }
+]

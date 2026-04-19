@@ -1,0 +1,16 @@
+[
+  {
+    "id": "64a10654-7348-43de-82e5-b98777fcf9bb",
+    "stock": "绿城中国",
+    "ticker": "3900.HK",
+    "market": "HK",
+    "date": "2019-05-20",
+    "sentiment": "bearish",
+    "summary": "不买高负债公司",
+    "quote": "我也不明白，但我也不会买这种高负债的公司。",
+    "source_file": "2019-05_batch017",
+    "source_type": "xueqiu",
+    "chunk_index": 17,
+    "url": "https://xueqiu.com/1247347556/126992569"
+  }
+]

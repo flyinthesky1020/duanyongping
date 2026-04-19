@@ -1,0 +1,33 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看明白网易是因为我正好懂这个行业，但我没有一个能看懂初创公司的通则，不然我就发达啦",
+    "post_url": "https://xueqiu.com/1247347556/126409186",
+    "post_date": "2019-05-09",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不知道啊，所以我错过了亚马逊也错过了腾讯早期。",
+    "post_url": "https://xueqiu.com/1247347556/126407685",
+    "post_date": "2019-05-09",
+    "mentioned_stocks": [
+      "亚马逊",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我觉得David Haigh所言，是非常糟糕的主意。David Haigh的“高见”，绝对是茅台快速成为百亿市值的秘诀。",
+    "post_url": "https://xueqiu.com/1247347556/126490696",
+    "post_date": "2019-05-10",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "需要看书去学本分的人都是功利的的，逻辑上我很难想出例外",
+    "post_url": "https://xueqiu.com/1247347556/249591453",
+    "post_date": "2023-05-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "苹果的财报总是这么无聊，不看也罢。今天上午我加入其他会员打了一场golf，结果打完九个洞人家说，我要先回去了，因为苹果要出财报。我心想，苹果财报有啥好看的，还是打球要紧吧。",
+    "post_url": "https://xueqiu.com/1247347556/249591314",
+    "post_date": "2023-05-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

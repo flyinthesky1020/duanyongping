@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资上开始时和大家一样，想通买股票就是买公司后基本上就顺了。早年顺了以后也干过傻事，做空亏掉了不少利润，还好改正的比较快。",
+    "post_url": "https://xueqiu.com/1247347556/160680358",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "不评论友商。（红包已退回）",
+    "post_url": "https://xueqiu.com/1247347556/160687075",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "事实上我们也会经常有点小变形的，发现了就改。利益导向就像打球时的加力，是个心魔，克服不容易。好的企业文化对克服这个心魔作用很大。",
+    "post_url": "https://xueqiu.com/1247347556/160685302",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我知道抖音影响力非常大，但自己没怎么用过，试过几次，没太找到乐趣，但偶尔看到别人转的抖音的东西还是蛮喜欢的。张一鸣能把公司产品做成这样，显然是极度厉害的，但具体我没跟踪过。",
+    "post_url": "https://xueqiu.com/1247347556/160680200",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [
+      "抖音"
+    ],
+    "quality_score": 3
+  }
+]

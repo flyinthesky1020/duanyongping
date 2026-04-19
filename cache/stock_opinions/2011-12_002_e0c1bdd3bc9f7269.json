@@ -1,0 +1,30 @@
+[
+  {
+    "id": "11c75aac-faa5-47e5-add3-30eda3cc3939",
+    "stock": "京东",
+    "ticker": "JD",
+    "market": "US",
+    "date": "2011-12-27",
+    "sentiment": "bearish",
+    "summary": "生意模式不美妙",
+    "quote": "这么低的margin和这么点营业额要用这么多人啊[汗]，这个生意模式看起来不是很美妙。",
+    "source_file": "2011-12_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/20625065"
+  },
+  {
+    "id": "2f020a29-ade7-4249-ae05-cfc8d3c1e2a7",
+    "stock": "美国银行",
+    "ticker": "BAC",
+    "market": "US",
+    "date": "2011-12-27",
+    "sentiment": "bullish",
+    "summary": "老巴deal非常好",
+    "quote": "老巴这个deal怎么看都是个非常好的deal，若干年后大概会赚翻了。",
+    "source_file": "2011-12_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/20624932"
+  }
+]

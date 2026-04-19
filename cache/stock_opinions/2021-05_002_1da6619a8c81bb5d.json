@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ff98cb78-4e4b-4dab-8a7f-d246ac30da98",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2021-05-03",
+    "sentiment": "bullish",
+    "summary": "卖掉苹果是错误",
+    "quote": "我也同意卖掉苹果可能是个错误。",
+    "source_file": "2021-05_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/178900910"
+  }
+]

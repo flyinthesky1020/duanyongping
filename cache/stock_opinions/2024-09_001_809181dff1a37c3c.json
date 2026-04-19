@@ -1,0 +1,16 @@
+[
+  {
+    "id": "6916af8b-cb6e-4e96-8ce1-83047ab46f2d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-09-30",
+    "sentiment": "bullish",
+    "summary": "茅台200元具投资价值",
+    "quote": "这不是个问你愿意130还是160还是200块买茅台的问题！这里其实说的是如果你觉得茅台将来会每股赚20块/年（假设），现在股价200块，你愿意买吗？",
+    "source_file": "2024-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/306228105"
+  }
+]

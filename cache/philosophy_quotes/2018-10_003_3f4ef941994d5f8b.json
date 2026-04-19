@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我是2011年1月下旬开始买苹果的，也就是你说的这个时间过了不到一年。一晃也快八年了。",
+    "post_url": "https://xueqiu.com/1247347556/115035708",
+    "post_date": "2018-10-14",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "长长的坡，厚厚的雪！",
+    "post_url": "https://xueqiu.com/1247347556/115014935",
+    "post_date": "2018-10-14",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "愤怒一下，然后平常心回归本源，该干嘛干嘛，不要因为愤怒做出任何决定。",
+    "post_url": "https://xueqiu.com/1247347556/114891439",
+    "post_date": "2018-10-11",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我认为游戏公司给消费者提供好游戏和别的公司提供好产品没有任何差别，不存在良知的问题。我们不认为有人沉醉于麻将是麻将的错吧？我们也不会认为有人喝醉酒是酒的错吧？我们也不认为有人在赌场倾家荡产是赌场的错吧？那为什么我们会认为有人沉迷游戏是游戏的错呢？",
+    "post_url": "https://xueqiu.com/1247347556/115035708",
+    "post_date": "2018-10-14",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "企业成长的过程当中会有很多磨难的，这个不算什么。",
+    "post_url": "https://xueqiu.com/1247347556/114802764",
+    "post_date": "2018-10-10",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  }
+]

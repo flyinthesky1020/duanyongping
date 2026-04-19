@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7ae5a002-f0db-41a9-aaa2-2aaec2385f9c",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2026-02-09",
+    "sentiment": "bullish",
+    "summary": "看好特斯拉产品与投资",
+    "quote": "$特斯拉(TSLA)$ FSD确实好用，model Y开起来也没啥不舒服的，现在开特斯拉已经是我的首选了。",
+    "source_file": "2026-02_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": ""
+  }
+]

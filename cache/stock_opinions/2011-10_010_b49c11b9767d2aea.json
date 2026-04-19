@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fe5c2c93-3318-4b2e-abbc-5ada315f5e34",
+    "stock": "尚德电力",
+    "ticker": "STP",
+    "market": "US",
+    "date": "2011-10-07",
+    "sentiment": "bearish",
+    "summary": "避开太阳能硅片企业",
+    "quote": "生产太阳能硅片的企业投起来要小心，因为他们的产品没什么差异化，最后都是价格战，没人能有好的利润，属于要避开的企业。尚德的东西看不懂",
+    "source_file": "2011-10_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/20415812"
+  },
+  {
+    "id": "4ae853e0-7d87-413b-8179-bc3146dd4876",
+    "stock": "CDC软件",
+    "ticker": "CDCS",
+    "market": "US",
+    "date": "2011-10-07",
+    "sentiment": "bearish",
+    "summary": "CDC为烂公司",
+    "quote": "10年前买网易时就顺便看过这家烂公司，很意外这公司能扛到现在才破产。@CDC软件(CDCS)",
+    "source_file": "2011-10_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/20415712"
+  }
+]

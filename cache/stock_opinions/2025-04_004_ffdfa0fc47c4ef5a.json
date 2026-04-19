@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f8240ce4-2c9c-40a3-8e3b-8a7017576acb",
+    "stock": "谷歌",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2025-04-03",
+    "sentiment": "bullish",
+    "summary": "加仓Google",
+    "quote": "不过我确实加仓Goog了。近期应该还会继续。",
+    "source_file": "2025-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/330036907"
+  },
+  {
+    "id": "05df05cb-f871-4e18-8f50-4c3948647403",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-04-03",
+    "sentiment": "bearish",
+    "summary": "31倍PE估值偏高",
+    "quote": "居然还有31倍pe！25倍以下会感觉好很多。",
+    "source_file": "2025-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": ""
+  }
+]

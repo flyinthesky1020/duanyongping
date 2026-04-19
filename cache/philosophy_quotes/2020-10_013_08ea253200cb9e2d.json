@@ -1,0 +1,69 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "经营中借钱和买股票用margin没啥本质区别，常用最后大概率都会倒在上面的。",
+    "post_url": "https://xueqiu.com/1247347556/161290508",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "消费者导向这个想法很自然的。设计产品不是简单希望用户买，而是要想到人家买回去干嘛。有些人的生意不太好或者没办法长期好的原因往往是太在意眼前生意而忽略了用户的真实需求。",
+    "post_url": "https://xueqiu.com/1247347556/161335201",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我觉得你可能是产品不行。我们当年是觉得产品不错了才敢压身价的。",
+    "post_url": "https://xueqiu.com/1247347556/161285320",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "没哪个公司是完美的。",
+    "post_url": "https://xueqiu.com/1247347556/161332000",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "早期会想，现在确实没太想过，就当非上市公司拿着。",
+    "post_url": "https://xueqiu.com/1247347556/161331559",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没关注过别的。",
+    "post_url": "https://xueqiu.com/1247347556/161331798",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [
+      "腾讯",
+      "网易"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不太了解",
+    "post_url": "https://xueqiu.com/1247347556/161287892",
+    "post_date": "2020-10-19",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "至始至终就不会去想这个问题，而是只关注公司未来的现金流，只关注公司未来的年利润，只要利润好就投，管它股价能到多少。",
+    "post_url": "https://xueqiu.com/1247347556/161331559",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

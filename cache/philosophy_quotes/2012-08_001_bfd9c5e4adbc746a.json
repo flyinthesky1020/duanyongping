@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你的数据都对而且七年内盈利都不下降的话，你就对了，但也未必就能赚钱，因为第八年还可能亏钱。所以除非你能看到更长，不然其实没人知道结果。",
+    "post_url": "https://xueqiu.com/1247347556/22181314",
+    "post_date": "2012-08-29",
+    "mentioned_stocks": [
+      "格力电器"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "观其行。",
+    "post_url": "https://xueqiu.com/1247347556/22174399",
+    "post_date": "2012-08-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "感觉还是不喜欢apol的双CEO，两个来自于华尔街的CEO。",
+    "post_url": "https://xueqiu.com/1247347556/22179454",
+    "post_date": "2012-08-29",
+    "mentioned_stocks": [
+      "APOL"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "干我什么事？",
+    "post_url": "https://xueqiu.com/1247347556/22169107",
+    "post_date": "2012-08-27",
+    "mentioned_stocks": [
+      "中移动",
+      "中电信",
+      "中联通"
+    ],
+    "quality_score": 3
+  }
+]

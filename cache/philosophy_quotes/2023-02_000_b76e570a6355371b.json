@@ -1,0 +1,39 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实我觉得我从来没做过翻小石子儿的事情。",
+    "post_url": "https://xueqiu.com/1247347556/243233140",
+    "post_date": "2023-02-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我觉得设定投资目标是件蛮愚蠢的事情。我的意思是：当你有了每年增长多少百分比的目标之后，你早晚会做出很愚蠢的事情。",
+    "post_url": "https://xueqiu.com/1247347556/243225829",
+    "post_date": "2023-02-28",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "哈，见过大道不走小路。",
+    "post_url": "https://xueqiu.com/1247347556/243133075",
+    "post_date": "2023-02-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "IBM我没碰，当时就觉得巴菲特也有可能会犯错。老巴买的所有公司我都会看一眼，大部分看不懂，有些觉得有点道理的就跟一点，好玩而已，到目前为止还没有因为抄作业赚过大钱，因为不敢下重注。",
+    "post_url": "https://xueqiu.com/1247347556/242975503",
+    "post_date": "2023-02-25",
+    "mentioned_stocks": [
+      "IBM",
+      "西方石油"
+    ],
+    "quality_score": 4
+  }
+]

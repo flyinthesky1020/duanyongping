@@ -1,0 +1,33 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我知道瑞幸但没喝过，不知道蜜雪，无法评价。",
+    "post_url": "https://xueqiu.com/1247347556/330011367",
+    "post_date": "2025-04-02",
+    "mentioned_stocks": [
+      "瑞幸咖啡",
+      "蜜雪冰城"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "future is a mystery，我也不知道他们能不能保持这种增长的。我猜他们大概率会有一定增长。",
+    "post_url": "https://xueqiu.com/1247347556/330011565",
+    "post_date": "2025-04-02",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "think different 不意味着非要和别人不一样的。在NVDA上是可以一样的。",
+    "post_url": "https://xueqiu.com/1247347556/329871239",
+    "post_date": "2025-04-01",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 3
+  }
+]

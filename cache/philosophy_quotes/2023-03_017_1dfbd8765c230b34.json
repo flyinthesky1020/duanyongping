@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这种飞刀最好别接，确实有危险的。",
+    "post_url": "https://xueqiu.com/1247347556/244567787",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "第一共和银行"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "股票是你自己的资产，银行只是代管。用了margin时就不一样了，因为你将股票抵押给银行了。",
+    "post_url": "https://xueqiu.com/1247347556/244479977",
+    "post_date": "2023-03-14",
+    "mentioned_stocks": [
+      "嘉信理财"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我买茅台的时候好像市盈率也不高吧？我不太记得，只是关注商业模式了。pe太高不买多数情况下是对的，我也不喜欢买PE高的公司，除非看到未来了。",
+    "post_url": "https://xueqiu.com/1247347556/244498786",
+    "post_date": "2023-03-14",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "券商的差异化一般很小而且转换成本也很小，所以一般来说很难是特别好的投资标的。",
+    "post_url": "https://xueqiu.com/1247347556/244479977",
+    "post_date": "2023-03-14",
+    "mentioned_stocks": [
+      "嘉信理财"
+    ],
+    "quality_score": 5
+  }
+]

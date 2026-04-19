@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "It's nothing wrong to put all his fortune into just one place. However, the problem was that he had put everything in a wrong place.",
+    "post_url": "https://xueqiu.com/1247347556/20493670",
+    "post_date": "2011-11-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "诺基亚CEO斯蒂芬·埃洛普（Stephen Elop）今日表示，公司当前的发展方针为以量取胜，希望在Windows Phone平台上站住脚跟，确保市场地位；好像没啥进步啊。",
+    "post_url": "https://xueqiu.com/1247347556/20506540",
+    "post_date": "2011-11-16",
+    "mentioned_stocks": [
+      "诺基亚"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "大概他太依赖投资顾问了吧？",
+    "post_url": "https://xueqiu.com/1247347556/20494461",
+    "post_date": "2011-11-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

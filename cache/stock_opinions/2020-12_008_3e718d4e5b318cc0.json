@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a00fbc9c-d658-4bff-ae59-cff9c4c48f2a",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-12-05",
+    "sentiment": "bullish",
+    "summary": "相信苹果产品是精品",
+    "quote": "我不知道苹果在搞什么，但确实相信苹果产品最终都会是精品。",
+    "source_file": "2020-12_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/165041274"
+  }
+]

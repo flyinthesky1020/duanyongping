@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这是个机会成本问题。你总是想着选个10年后你觉得最好的方案，毕竟你买哪个公司都是用你手里现有的公司去换的。",
+    "post_url": "https://xueqiu.com/1247347556/161180383",
+    "post_date": "2020-10-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "基本上就是听其言观其行。看这家公司过去都说过啥都怎么做的。比如，当年我对苹果开始有兴趣后，几乎看了苹果所有的发布会以及能找到的Tim Cook和乔布斯讲过的东西，也用了很多苹果的产品。",
+    "post_url": "https://xueqiu.com/1247347556/161169233",
+    "post_date": "2020-10-18",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "看了一眼，不觉得商业模式特别好的样子。",
+    "post_url": "https://xueqiu.com/1247347556/161168113",
+    "post_date": "2020-10-18",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  }
+]

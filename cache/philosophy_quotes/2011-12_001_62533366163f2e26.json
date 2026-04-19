@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实投机是博弈，非常需要水平，也很难学，反正我学不会，觉得太累。投资像打golf，只管自己打好就行了，其实和别人干什么没有直接关系，虽然结果看起来是有关的。",
+    "post_url": "https://xueqiu.com/1247347556/20637035",
+    "post_date": "2011-12-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "逻辑上讲，两个火鸡加起来也不会变成老鹰的。我这里讲的实际上和京东无关，只是就商业模式说点看法而已，5年以后大家就知道对错了。",
+    "post_url": "https://xueqiu.com/1247347556/20633038",
+    "post_date": "2011-12-29",
+    "mentioned_stocks": [
+      "京东"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "也许可以给个未必合适的比喻，商业模式像马，管理层加企业文化像骑师，经营结果就是比赛结果。不过企业经营不像赛马那么短时间而已。",
+    "post_url": "https://xueqiu.com/1247347556/20637024",
+    "post_date": "2011-12-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "也许可以给个未必合适的比喻，商业模式像马，管理层加企业文化像骑师，经营结果就是比赛结果。不过企业经营不像赛马那么短时间而已。",
+    "post_url": "https://xueqiu.com/1247347556/20637024",
+    "post_date": "2011-12-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "航空股很难不被清零。",
+    "post_url": "https://xueqiu.com/1247347556/20634173",
+    "post_date": "2011-12-29",
+    "mentioned_stocks": [
+      "AMR Corp"
+    ],
+    "quality_score": 4
+  }
+]

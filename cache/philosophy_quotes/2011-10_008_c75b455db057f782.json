@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "感觉在Jeff Immelt手里GE成功地实现了从卓越到优秀。",
+    "post_url": "https://xueqiu.com/1247347556/20426253",
+    "post_date": "2011-10-17",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "推迟发布的真实原因是耗电量太大，目前还没有解决。这么说非常不厚道。",
+    "post_url": "https://xueqiu.com/1247347556/20425473",
+    "post_date": "2011-10-16",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "把海陆空3军分拆上市会是啥子结果？",
+    "post_url": "https://xueqiu.com/1247347556/20425321",
+    "post_date": "2011-10-15",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 2
+  }
+]

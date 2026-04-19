@@ -1,0 +1,58 @@
+[
+  {
+    "id": "893a2037-69a9-4092-b78f-954ddb6c5175",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2019-06-20",
+    "sentiment": "bullish",
+    "summary": "拼多多用户角度补贴",
+    "quote": "$拼多多(PDD)$ 对促销的理解确实站在用户角度，反套路，真诚补贴",
+    "source_file": "2019-06_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/128468848"
+  },
+  {
+    "id": "d2765f4e-5088-4008-a4d3-4dd70240943a",
+    "stock": "京东",
+    "ticker": "JD",
+    "market": "US",
+    "date": "2019-06-20",
+    "sentiment": "bearish",
+    "summary": "京东618促销套路复杂",
+    "quote": "狗东这轮618促销真是彻彻底底的反面教材，套路复杂到懒得浪费时间，直接闪人$京东(JD)$",
+    "source_file": "2019-06_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/128468848"
+  },
+  {
+    "id": "06b5a0f6-d774-47cb-ba26-a6cf3ddf5265",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-06-20",
+    "sentiment": "bullish",
+    "summary": "苹果文化模式俱佳",
+    "quote": "产品文化和生意模式都很好。整个企业文化方面茅台由于某些原因要不如苹果",
+    "source_file": "2019-06_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/128387571"
+  },
+  {
+    "id": "83d8988f-615c-40c7-8ed7-c996e7466aa7",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-06-20",
+    "sentiment": "bullish",
+    "summary": "茅台生意模式强大",
+    "quote": "产品文化和生意模式都很好。整个企业文化方面茅台由于某些原因要不如苹果，但生意模式的强大能弥补一些",
+    "source_file": "2019-06_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/128387571"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "51cec792-1a96-4bce-a0b7-b4175e576363",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-01-25",
+    "sentiment": "bullish",
+    "summary": "苹果不贵可卖put持有",
+    "quote": "有钱就卖点put，到期就继续卖。想想10年后，苹果其实不贵，卖点put蛮好，put进来就拿着。",
+    "source_file": "2022-01_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/210066132"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你有一定机会破产，也有一定机会赚钱，你随意哈。",
+    "post_url": "https://xueqiu.com/1247347556/374316983",
+    "post_date": "2026-02-01",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "有钱的时候再说。",
+    "post_url": "https://xueqiu.com/1247347556/374318535",
+    "post_date": "2026-02-01",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你知道有下一波跌的话，你当然等下一波跌啊，不然你傻啊？！",
+    "post_url": "https://xueqiu.com/1247347556/374316795",
+    "post_date": "2026-02-01",
+    "mentioned_stocks": [
+      "茅台",
+      "伯克希尔"
+    ],
+    "quality_score": 3
+  }
+]

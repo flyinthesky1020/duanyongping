@@ -1,0 +1,57 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "英伟达非常厉害，产品其实有很大的差异化，堪称芯片界的苹果！nvda涨成这个样子是道理的，继续涨也非常有可能。",
+    "post_url": "https://xueqiu.com/1247347556/281428248",
+    "post_date": "2024-03-09",
+    "mentioned_stocks": [
+      "英伟达",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "英伟达非常厉害，产品其实有很大的差异化，堪称芯片界的苹果！nvda涨成这个样子是道理的，继续涨也非常有可能。这也是不能空一个好公司的一个例子。",
+    "post_url": "https://xueqiu.com/1247347556/281428248",
+    "post_date": "2024-03-09",
+    "mentioned_stocks": [
+      "英伟达",
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "其实我没那么了解nvda，最近看了一眼觉得nvda涨的有道理。我只是娱乐一下，没任何观点。这跟上次我卖AMC和GAME的call的态度完全不一样。",
+    "post_url": "https://xueqiu.com/1247347556/281375776",
+    "post_date": "2024-03-08",
+    "mentioned_stocks": [
+      "NVDA",
+      "AMC",
+      "GAME"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "去澳门赌场的思路很简单，就是大概率会输，所以玩几分钟就走，不管输赢。对nvda而言，我就赌了他今天不会涨过1000，没任何大道理，好玩而已。好玩和投资是两回事。",
+    "post_url": "https://xueqiu.com/1247347556/281378634",
+    "post_date": "2024-03-08",
+    "mentioned_stocks": [
+      "NVDA"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "茅台分红可不一样啊，现金淹到脖子了才搞个特别分红。",
+    "post_url": "https://xueqiu.com/1247347556/281379249",
+    "post_date": "2024-03-08",
+    "mentioned_stocks": [
+      "茅台",
+      "万科"
+    ],
+    "quality_score": 3
+  }
+]

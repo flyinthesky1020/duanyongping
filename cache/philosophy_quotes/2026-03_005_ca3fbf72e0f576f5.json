@@ -1,0 +1,69 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我其实完全没有对短期的预期，我只是关注这家公司长期是不是有这个价值。",
+    "post_url": "https://xueqiu.com/1247347556/380588002",
+    "post_date": "2026-03-22",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我几乎在任何情况下都不会买Option，包括roll，除非有税务考量。",
+    "post_url": "https://xueqiu.com/1247347556/380589970",
+    "post_date": "2026-03-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "苹果跌的多的时候我一定会买的，茅台经常会，腾讯有时候也会买一点。",
+    "post_url": "https://xueqiu.com/1247347556/380591243",
+    "post_date": "2026-03-22",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "对于大多数很难搞懂公司的人们而言，可能定投（能放10年或以上）sp500好点吧，不焦虑。",
+    "post_url": "https://xueqiu.com/1247347556/380787106",
+    "post_date": "2026-03-23",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我没有直接卖过一股nvda，也没直接卖过苹果。这些都是我的保险公司的筹码哈。",
+    "post_url": "https://xueqiu.com/1247347556/380589970",
+    "post_date": "2026-03-22",
+    "mentioned_stocks": [
+      "英伟达",
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "找个好公司不容易，可以一直卖Option可以增加很多乐趣的。",
+    "post_url": "https://xueqiu.com/1247347556/380589970",
+    "post_date": "2026-03-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "苹果毛利高，说不定会自己消化大部分，我猜其他人要消化不容易。",
+    "post_url": "https://xueqiu.com/1247347556/380818689",
+    "post_date": "2026-03-23",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "如果是我就根本不烦心做这些事，让业绩说话就是了。",
+    "post_url": "https://xueqiu.com/1247347556/20419768",
+    "post_date": "2011-10-11",
+    "mentioned_stocks": [
+      "巨人网络"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "退出好，不折腾。",
+    "post_url": "https://xueqiu.com/1247347556/20419237",
+    "post_date": "2011-10-10",
+    "mentioned_stocks": [
+      "HULU"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "呵呵，看来还是希望股价涨上去一点？不是在回购吗，为啥子着急嘛？",
+    "post_url": "https://xueqiu.com/1247347556/20419768",
+    "post_date": "2011-10-11",
+    "mentioned_stocks": [
+      "巨人网络"
+    ],
+    "quality_score": 3
+  }
+]

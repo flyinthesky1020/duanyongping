@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2f9b6f89-958f-4677-9df7-704accfd410a",
+    "stock": "迪士尼",
+    "ticker": "DIS",
+    "market": "US",
+    "date": "2023-05-28",
+    "sentiment": "bearish",
+    "summary": "质疑商业模式",
+    "quote": "一直很喜欢迪斯尼的产品，但一直没明白迪斯尼的商业模式。为什么迪斯尼看起来很强大但老是很难赚钱呢？看起来这个商业模式似乎不是那么美妙，是种很累的商业模式。不过，我还是会保留对迪斯尼的投资，毕竟属于小于1%的投资哈。",
+    "source_file": "2023-05_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/251624939"
+  }
+]

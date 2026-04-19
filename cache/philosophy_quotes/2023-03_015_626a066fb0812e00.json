@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "赌好公司下跌或做空好公司是非常艰难的事情。",
+    "post_url": "https://xueqiu.com/1247347556/244809663",
+    "post_date": "2023-03-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝不可能做空任何一只股票的，当然也绝不会做空茅台，看了这次检验结果后想多买点倒是真的。",
+    "post_url": "https://xueqiu.com/1247347556/244586503",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个价钱拿个5年或更长的时间的回报应该会不错。",
+    "post_url": "https://xueqiu.com/1247347556/244586503",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "“血本”是值得的。我们花了大概几千美金，理清了一些问题，最后下了重注，这些年至少赚了远超1万倍了吧。",
+    "post_url": "https://xueqiu.com/1247347556/244594665",
+    "post_date": "2023-03-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "27ea9144-7342-44c0-8787-f5e5980b0425",
+    "stock": "新浪",
+    "ticker": "SINA",
+    "market": "US",
+    "date": "2011-11-22",
+    "sentiment": "bearish",
+    "summary": "非理想投资标的",
+    "quote": "想靠新浪赚大钱的想法太投机的，至少我不认为这是个好的投资标的，除非哪天能看出来微博的生意模式是好的生意模式。",
+    "source_file": "2011-11_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/20522344"
+  },
+  {
+    "id": "a035a6a1-4d9d-4670-9bae-b62046bae9d3",
+    "stock": "畅游",
+    "ticker": "CYOU",
+    "market": "US",
+    "date": "2011-11-22",
+    "sentiment": "bearish",
+    "summary": "短期利空",
+    "quote": "这个对畅游短期不太好，长期不知道。",
+    "source_file": "2011-11_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/20513854"
+  },
+  {
+    "id": "d1135757-4aa7-49ec-bc3b-3904f94753b0",
+    "stock": "网易",
+    "ticker": "NTES",
+    "market": "US",
+    "date": "2011-11-22",
+    "sentiment": "bullish",
+    "summary": "业绩厉害",
+    "quote": "厉害！@网易(NTES)",
+    "source_file": "2011-11_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/20506868"
+  }
+]

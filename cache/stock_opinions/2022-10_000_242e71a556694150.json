@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7ef81752-001f-4bdc-ae36-5ed1368e54aa",
+    "stock": "腾讯控股",
+    "ticker": "TCEHY",
+    "market": "US",
+    "date": "2022-10-31",
+    "sentiment": "bullish",
+    "summary": "计划32美元继续买入",
+    "quote": "今天$32.05买到了10万股。计划明天$32左右再买点",
+    "source_file": "2022-10_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": ""
+  }
+]

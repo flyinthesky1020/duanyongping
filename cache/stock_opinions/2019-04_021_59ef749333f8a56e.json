@@ -1,0 +1,16 @@
+[
+  {
+    "id": "20ceb9f9-6975-4291-b857-3c9b1fd590ab",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-04-05",
+    "sentiment": "bullish",
+    "summary": "看好茅台产品文化",
+    "quote": "我对茅台的产品文化，尤其是53度飞天的产品文化蛮有信心的。",
+    "source_file": "2019-04_batch021",
+    "source_type": "xueqiu",
+    "chunk_index": 21,
+    "url": "https://xueqiu.com/1247347556/124560195"
+  }
+]

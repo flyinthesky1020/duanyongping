@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "资源的低成本当然是的，制造业的不是，因为维持不了。",
+    "post_url": "https://xueqiu.com/1247347556/330188313",
+    "post_date": "2025-04-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "谁当皇帝还不都得让老百姓过日子？！任何时候任何市场买好公司比什么都重要。",
+    "post_url": "https://xueqiu.com/1247347556/330192658",
+    "post_date": "2025-04-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "居然还有31倍pe！25倍以下会感觉好很多。",
+    "post_url": "https://xueqiu.com/1247347556/330192658",
+    "post_date": "2025-04-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "先学会说话，知之为知之。",
+    "post_url": "https://xueqiu.com/1247347556/330185914",
+    "post_date": "2025-04-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

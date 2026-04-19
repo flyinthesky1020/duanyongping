@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5d011840-82be-4fb5-9b2a-f7e384cd4884",
+    "stock": "奇虎三六零",
+    "ticker": "QIHU",
+    "market": "US",
+    "date": "2011-12-05",
+    "sentiment": "bearish",
+    "summary": "质疑游戏数据真实性",
+    "quote": "上个季度奇虎称其网页游戏收入为970万美元，付费游戏用户数为87,000。Citron称，无论是在中国还是美国，即使是像网易、畅游、盛大这样的游戏公司也不可能完成每个付费用户平均每月贡献收入53美元的指标。别的不知道，这一段有道理。",
+    "source_file": "2011-12_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/20556226"
+  },
+  {
+    "id": "ca50a2d3-71ab-42e4-8af9-55357b22b081",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2011-12-05",
+    "sentiment": "bullish",
+    "summary": "乔布斯离开有好处",
+    "quote": "其实我认为乔布斯的离开对苹果也有很大的好处，比如苹果也非常有可能推出更大屏幕的iphone了。",
+    "source_file": "2011-12_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/20556040"
+  }
+]

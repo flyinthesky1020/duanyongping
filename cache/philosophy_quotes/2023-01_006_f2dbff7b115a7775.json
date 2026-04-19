@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "持有S&P500其实就是投资在美国经济的长远发展上。我觉得S&P500未来的发展依然会不错，除非我能找到我确信能好好投资的人接替我，不然我就都买S&P500了。",
+    "post_url": "https://xueqiu.com/1247347556/240069268",
+    "post_date": "2023-01-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "除非我能找到我确信能好好投资的人接替我，不然我就都买S&P500了。",
+    "post_url": "https://xueqiu.com/1247347556/240069268",
+    "post_date": "2023-01-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "选错了也没关系，但要看能不能改过来。库克是选错过人的，原来那个卖奢侈品的女士管了苹果零售店，结果不到两年就换掉了。代价非常大但不换的代价更大。",
+    "post_url": "https://xueqiu.com/1247347556/240044370",
+    "post_date": "2023-01-14",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "后面就要看库克是不是选对人了。选错了也没关系，但要看能不能改过来。库克是选错过人的，原来那个卖奢侈品的女士管了苹果零售店，结果不到两年就换掉了。",
+    "post_url": "https://xueqiu.com/1247347556/240044370",
+    "post_date": "2023-01-14",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

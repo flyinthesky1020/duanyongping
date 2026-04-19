@@ -1,0 +1,16 @@
+[
+  {
+    "id": "29cc5c50-1254-4ea6-82eb-7962e5d19e74",
+    "stock": "纳指3X做空-ProShares",
+    "ticker": "SQQQ",
+    "market": "US",
+    "date": "2021-12-14",
+    "sentiment": "bearish",
+    "summary": "长期持有大概率输钱",
+    "quote": "这个指数我猜应该是买短期put的（具体是啥没研究过哈，有兴趣的可以看看？）每隔几年就会有次4合一啥的，是个典型的站在时间对立面的短期赌博工具。买这个长期来说大概率会输钱。",
+    "source_file": "2021-12_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/205966275"
+  }
+]

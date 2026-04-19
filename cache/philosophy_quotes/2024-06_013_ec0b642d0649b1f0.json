@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "茅台价再掉一段时间我也不意外的。还是那句老话，10年后回头看这个价钱，很可能像现在看10年前的价钱。",
+    "post_url": "https://xueqiu.com/1247347556/294050304",
+    "post_date": "2024-06-16",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "看看有多少人理解不了“充要条件”，就知道逻辑不容易。很多人甚至认为茅台的商业模式好就是白酒的商业模式好，甚至认为诺基亚倒了所以苹果早晚也会倒。",
+    "post_url": "https://xueqiu.com/1247347556/294048950",
+    "post_date": "2024-06-16",
+    "mentioned_stocks": [
+      "贵州茅台",
+      "苹果",
+      "诺基亚"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我这里说的是苹果对“白酒”而不是对“茅台”。",
+    "post_url": "https://xueqiu.com/1247347556/293953071",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "苹果",
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我不对抗市场，我尽量不理睬市场而已。",
+    "post_url": "https://xueqiu.com/1247347556/293952426",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "全球“高端白酒”数不胜数，好生意的有几个？全球所有酒的生意赚的钱加起来也可能没苹果多（我没算过），你咋会觉得白酒是比苹果好的生意呢？",
+    "post_url": "https://xueqiu.com/1247347556/293939028",
+    "post_date": "2024-06-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

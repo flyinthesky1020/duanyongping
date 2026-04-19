@@ -1,0 +1,59 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/209652003",
+    "post_date": "2022-01-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "从此不再用杠杆非常重要。你的运气很好，富两次太不容易了，要对得起自己的运气哈。",
+    "post_url": "https://xueqiu.com/1247347556/209647819",
+    "post_date": "2022-01-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "因为大道不做风投！大道只投上市公司，这10年基本上也就美股投了苹果（主），A股投了茅台（次），港股投了腾讯（轻）。风投是很累的，每天要看各种项目，见很多的人，连球都没法打哈。",
+    "post_url": "https://xueqiu.com/1247347556/209649734",
+    "post_date": "2022-01-20",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/209652003",
+    "post_date": "2022-01-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "拿着茅台和腾讯这种公司如果用10年计应该比拿着现金好，但不等于是赚大钱的东西，但肯定比赔钱强很多。",
+    "post_url": "https://xueqiu.com/1247347556/209650891",
+    "post_date": "2022-01-20",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "从11年前的这一天决定投苹果开始，这些年表现都还不错，过去的一年表现也很好，犒劳一下自己。",
+    "post_url": "https://xueqiu.com/1247347556/209726877",
+    "post_date": "2022-01-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "394155c1-9a1e-47a8-91f5-67c1493b21c6",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2024-08-28",
+    "sentiment": "bullish",
+    "summary": "肉眼可见便宜",
+    "quote": "当前拼多多股价88美元，市值8700亿人民币，账上现金及等价物2800亿，买入实际成本约为6000亿人民币。今年上半年拼多多600亿利润，全年净利润按照1200亿计算，PE只有5倍（6000/1200），属于肉眼可见便宜。",
+    "source_file": "2024-08_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/302818493"
+  },
+  {
+    "id": "7b559b5f-f9ce-428b-92c3-ebbc6ecaf464",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2024-08-28",
+    "sentiment": "bullish",
+    "summary": "计划长期卖put建仓",
+    "quote": "是计划卖三到五年的put，不是一次性把钱都放进去。前些天卖的put今天有5000个370的要到期了，还不知道能不能买到。",
+    "source_file": "2024-08_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/302812514"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "目前GE的价钱已经到了我当年买GE的价钱，但我没啥兴趣，因为满足不了“好的商业模式”，我当年卖掉GE其实也是这个原因。",
+    "post_url": "https://xueqiu.com/1247347556/152742398",
+    "post_date": "2020-06-30",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "当年我对GE的理解可能是错的。当年买的GE早就卖掉了，因为发现自己一直没能完全看懂。",
+    "post_url": "https://xueqiu.com/1247347556/152742398",
+    "post_date": "2020-06-30",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "当年我对GE的理解可能是错的。当年买的GE早就卖掉了……我当年卖掉GE其实也是这个原因。",
+    "post_url": "https://xueqiu.com/1247347556/152742398",
+    "post_date": "2020-06-30",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 4
+  }
+]

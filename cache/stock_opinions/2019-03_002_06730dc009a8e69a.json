@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9085316e-ccd1-4768-a0cc-39b6a51210dc",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2019-03-28",
+    "sentiment": "bullish",
+    "summary": "FB犯错是买入机会",
+    "quote": "FB原来的使命是“连接世界”但没有注意隐私，现在使命不变但注重隐私已经是前提了。好公司犯错误时往往是买入的机会。",
+    "source_file": "2019-03_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/123932735"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "58c949e6-1c9a-4b79-9a9f-c6682101fe60",
+    "stock": "巨人网络",
+    "ticker": "GA",
+    "market": "US",
+    "date": "2012-03-06",
+    "sentiment": "bullish",
+    "summary": "看涨至6块多",
+    "quote": "年化6毛多的利润，如果给8倍pe，加上现金也该有6块多了。也许ga会涨到6块多？",
+    "source_file": "2012-03_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/21540566"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不了解片仔癀，只是听人说过其药用效果。",
+    "post_url": "https://xueqiu.com/1247347556/133056893",
+    "post_date": "2019-09-19",
+    "mentioned_stocks": [
+      "片仔癀"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "买了一点点的意思是一直没增加。我有段时间老去喝咖啡，粗想想觉得还不错，就先顺手买了一万股星巴克，想着以后认真研究下再决定是否重仓，结果一直都没看得那么懂。",
+    "post_url": "https://xueqiu.com/1247347556/133026670",
+    "post_date": "2019-09-18",
+    "mentioned_stocks": [
+      "星巴克"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "目前还没想过卖的问题。卖出和赚了多少钱无关，买入和其曾经到过什么价无关。",
+    "post_url": "https://xueqiu.com/1247347556/133057060",
+    "post_date": "2019-09-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我的观点是8%就可以了，就是不要为了高回报去乱冒风险的意思。",
+    "post_url": "https://xueqiu.com/1247347556/133057197",
+    "post_date": "2019-09-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "没见过天生会做投资的人，但见过很多喜欢投机的人。",
+    "post_url": "https://xueqiu.com/1247347556/133029969",
+    "post_date": "2019-09-18",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "比如，酒可能确实无益于健康，但喝酒的过程很快乐，朋友们一起喝点酒非常开心等等，间接对健康也未必没好处。",
+    "post_url": "https://xueqiu.com/1247347556/133057921",
+    "post_date": "2019-09-19",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

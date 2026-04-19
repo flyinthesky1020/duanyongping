@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你认为你正在做的事情是错的，就应该尽快停止，和他对你有多重要以及你曾经花过多少心血无关，也和你能不能找到更好的事情无关。",
+    "post_url": "https://xueqiu.com/1247347556/127279314",
+    "post_date": "2019-05-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这其实是一个发现错了就马上停止的好例子，不然大家现在看到的可能就是OPPO豆浆机而不是OPPO手机了。我知道当时停小家电是有几个亿损失的，今天来看决策真是对啊！这也是我说的我们只所以是我们，很大程度上也取决于我们不做的那些...",
+    "post_url": "https://xueqiu.com/1247347556/127291075",
+    "post_date": "2019-05-26",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "好多年没看过GE了，感觉他们麻烦蛮多的，企业文化也好像变掉了。",
+    "post_url": "https://xueqiu.com/1247347556/127273566",
+    "post_date": "2019-05-25",
+    "mentioned_stocks": [
+      "GE"
+    ],
+    "quality_score": 3
+  }
+]

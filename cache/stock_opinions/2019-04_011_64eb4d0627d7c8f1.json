@@ -1,0 +1,30 @@
+[
+  {
+    "id": "dc98925e-c50b-4f2c-8d44-8be916682ac4",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-04-10",
+    "sentiment": "bullish",
+    "summary": "持有优于银行",
+    "quote": "这两家公司都很好, 我没算过他们的净利润的复合增长率。作为投资，拿着这两家公司大概率会比把钱放银行好，而且应该比通胀好。",
+    "source_file": "2019-04_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/124934112"
+  },
+  {
+    "id": "19f00771-2a9b-4e3e-9129-573259794a5e",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-04-10",
+    "sentiment": "bullish",
+    "summary": "持有优于银行",
+    "quote": "这两家公司都很好, 我没算过他们的净利润的复合增长率。作为投资，拿着这两家公司大概率会比把钱放银行好，而且应该比通胀好。",
+    "source_file": "2019-04_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/124934112"
+  }
+]

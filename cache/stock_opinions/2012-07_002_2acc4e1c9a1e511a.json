@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4275fa5d-98f6-4c32-bbc0-d2a56059425f",
+    "stock": "新东方",
+    "ticker": "EDU",
+    "market": "US",
+    "date": "2012-07-20",
+    "sentiment": "bearish",
+    "summary": "不愿长期持有",
+    "quote": "但看到他们这么在乎股价后，真的很难找到我会愿意持有这个公司到永远的感觉",
+    "source_file": "2012-07_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/22027487"
+  }
+]

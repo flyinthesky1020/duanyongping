@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "这是个思维模式，但真算是不靠谱的，因为变量太多，假设太多。",
+    "post_url": "https://xueqiu.com/1247347556/354332988",
+    "post_date": "2025-09-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这也是为什么商业模式和企业文化很重要的原因。",
+    "post_url": "https://xueqiu.com/1247347556/354332988",
+    "post_date": "2025-09-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "这也是为什么商业模式和企业文化很重要的原因。",
+    "post_url": "https://xueqiu.com/1247347556/354332988",
+    "post_date": "2025-09-24",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "不过，可以拿这个算算茅台。茅台变量相对少一些，应该好算很多。",
+    "post_url": "https://xueqiu.com/1247347556/354370292",
+    "post_date": "2025-09-24",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "茅台变量相对少一些，应该好算很多。",
+    "post_url": "https://xueqiu.com/1247347556/354370292",
+    "post_date": "2025-09-24",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

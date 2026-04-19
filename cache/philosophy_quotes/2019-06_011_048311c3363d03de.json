@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "我看企业一般先看企业文化和商业模式。当我看到“二选一”这种“让自己的天下没有难做的生意”的企业文化时，我决定卖出了自己的股票。",
+    "post_url": "https://xueqiu.com/1247347556/128002122",
+    "post_date": "2019-06-10",
+    "mentioned_stocks": [
+      "阿里"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我看企业一般先看企业文化和商业模式。当我看到“二选一”这种“让自己的天下没有难做的生意”的企业文化时，我决定卖出了自己的股票。",
+    "post_url": "https://xueqiu.com/1247347556/128002122",
+    "post_date": "2019-06-10",
+    "mentioned_stocks": [
+      "阿里"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "是的，我对amazon的认识有些改变，确实觉得这个公司企业文化和生意模式都很厉害。以前对amazon的生意模式不太有概念。",
+    "post_url": "https://xueqiu.com/1247347556/128000983",
+    "post_date": "2019-06-10",
+    "mentioned_stocks": [
+      "amazon"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "是的，我对amazon的认识有些改变，确实觉得这个公司企业文化和生意模式都很厉害。以前对amazon的生意模式不太有概念。",
+    "post_url": "https://xueqiu.com/1247347556/128000983",
+    "post_date": "2019-06-10",
+    "mentioned_stocks": [
+      "amazon"
+    ],
+    "quality_score": 4
+  }
+]

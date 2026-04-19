@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这是道逻辑题。我们说的一直是，不符合更健康更长久的事情就是错的。这个就是stop doing list。",
+    "post_url": "https://xueqiu.com/1247347556/367759858",
+    "post_date": "2025-12-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这个很像我以前说过的那个例子：我的一个朋友以前除了茅台什么酒都喝，后来搬到温哥华后突然变成除了茅台别的（白）酒都不喝了。我问他为什么，他说他在加拿大喝到真茅台了。",
+    "post_url": "https://xueqiu.com/1247347556/367789745",
+    "post_date": "2025-12-25",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

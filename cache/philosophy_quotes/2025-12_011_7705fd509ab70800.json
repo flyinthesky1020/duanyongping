@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "很多人对“懂”可能有个误会，以为你拿了个水晶球，看到了未来的一切及其他。其实，投资是个充满了变数的游戏，所有合理的行为都是基于概率的。",
+    "post_url": "https://xueqiu.com/1247347556/364482843",
+    "post_date": "2025-12-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "长债最好别买，亏起来连北都找不到。t-bill是不太会亏的，变现也很容易。",
+    "post_url": "https://xueqiu.com/1247347556/364482209",
+    "post_date": "2025-12-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你自己看不懂，我说你就懂了。那我早就说苹果好，你听了不？",
+    "post_url": "https://xueqiu.com/1247347556/364481225",
+    "post_date": "2025-12-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "那就是不懂的意思，妥妥的。",
+    "post_url": "https://xueqiu.com/1247347556/364481483",
+    "post_date": "2025-12-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

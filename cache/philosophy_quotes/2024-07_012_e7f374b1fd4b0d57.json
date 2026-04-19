@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没看过这两家公司啊。",
+    "post_url": "https://xueqiu.com/1247347556/296332093",
+    "post_date": "2024-07-04",
+    "mentioned_stocks": [
+      "中国海油",
+      "长江电力"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "从十年或更长的时间跨度而言，你觉得有什么比茅台更好的吗？",
+    "post_url": "https://xueqiu.com/1247347556/296240923",
+    "post_date": "2024-07-03",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "如果我处在你这种情况就会每个月把余钱拿去买茅台，然后好好工作，不要花太多的时间在股市上。你目前千万别想着要靠投资赚大钱，因为本钱太少了。好好工作，慢慢攒钱，慢慢攒茅台股，慢慢等机会。",
+    "post_url": "https://xueqiu.com/1247347556/296332554",
+    "post_date": "2024-07-04",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "有机会赚更多钱，显然是个大聪明。",
+    "post_url": "https://xueqiu.com/1247347556/296238798",
+    "post_date": "2024-07-03",
+    "mentioned_stocks": [
+      "茅台",
+      "五粮液"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7bac7ba3-9c9e-4c49-8b83-87221efc4127",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-04-06",
+    "sentiment": "bullish",
+    "summary": "未来利润大概率更高",
+    "quote": "茅台未来利润大概率上是会比现在高的，而且大概率是越来越高",
+    "source_file": "2019-04_batch019",
+    "source_type": "xueqiu",
+    "chunk_index": 19,
+    "url": "https://xueqiu.com/1247347556/124636511"
+  }
+]

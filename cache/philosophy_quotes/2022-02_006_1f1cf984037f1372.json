@@ -1,0 +1,75 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "BRK是正常投资，我能看懂。腾讯的投资我没那么懂，但觉得他们可能是因为赚钱多，所以想找投资？有些战略投资我是可以看懂的，有些投资不容易看懂。",
+    "post_url": "https://xueqiu.com/1247347556/211095089",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [
+      "BRK",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂医药。",
+    "post_url": "https://xueqiu.com/1247347556/211041218",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我看不懂长江电力是不是能够长期维持盈利和分红。",
+    "post_url": "https://xueqiu.com/1247347556/211027719",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [
+      "长江电力"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我很明确说的是通胀，这里非常不含糊！我根本就没看懂其他公司，如何知道能不能跑赢？看不懂不是谦虚，看懂一家公司10年后会怎么样不是件容易的事情。",
+    "post_url": "https://xueqiu.com/1247347556/211027612",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "是的，我有点不太喜欢他们的企业文化。我生活在硅谷，确实也听到和看到一些让我喜欢不起来的东西。",
+    "post_url": "https://xueqiu.com/1247347556/211094128",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [
+      "Meta"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "1.商业模式 2.企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/211093746",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不了解你问的公司，但你可以想想商业模式，想想产品的差异化时不时长期可以维持的，这么想可能会对理解公司有帮助。",
+    "post_url": "https://xueqiu.com/1247347556/211093414",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [
+      "宁德时代"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "1.商业模式 2.企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/211093746",
+    "post_date": "2022-02-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

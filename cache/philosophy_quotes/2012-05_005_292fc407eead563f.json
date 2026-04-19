@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不做不懂的东西。",
+    "post_url": "https://xueqiu.com/1247347556/21816631",
+    "post_date": "2012-05-17",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果不打算拿10年的企业为何要拿10天。",
+    "post_url": "https://xueqiu.com/1247347556/21818168",
+    "post_date": "2012-05-17",
+    "mentioned_stocks": [
+      "通用汽车"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "差异化小是个重要方面。还有就是工会也是个麻烦，成本下不来，可能10来年后又要破产一次。",
+    "post_url": "https://xueqiu.com/1247347556/21818168",
+    "post_date": "2012-05-17",
+    "mentioned_stocks": [
+      "通用汽车"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "当初决定卖GME时还有一个很重要的原因是GME还在不断地开新店，对已经来到的威胁视而不见；还有就是他们很注重和华尔街的交流。",
+    "post_url": "https://xueqiu.com/1247347556/21816503",
+    "post_date": "2012-05-17",
+    "mentioned_stocks": [
+      "GME"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "买通用汽车有点费解，生意模式可不太好啊，感觉像个雪茄烟蒂。",
+    "post_url": "https://xueqiu.com/1247347556/21808411",
+    "post_date": "2012-05-15",
+    "mentioned_stocks": [
+      "通用汽车"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "证明对大概经常是需要很长时间的，但证明错了往往需要的时间短很多。",
+    "post_url": "https://xueqiu.com/1247347556/21807444",
+    "post_date": "2012-05-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

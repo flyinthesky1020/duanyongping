@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "他们一直在各种投机，几十年下来结果什么都没成",
+    "post_url": "https://xueqiu.com/1247347556/236529482",
+    "post_date": "2022-11-28",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买option的结局大概率是会亏的，虽然记住教训不容易",
+    "post_url": "https://xueqiu.com/1247347556/236520826",
+    "post_date": "2022-11-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

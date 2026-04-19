@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "终于快到5000亿了[哈哈]。也许几年后很多人会觉得这个价钱好便宜啊。",
+    "post_url": "https://xueqiu.com/1247347556/21505405",
+    "post_date": "2012-02-27",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "相对于这几年老巴投资能赚的钱而言，这个实在是不算什么。有点像一场golf里打了个坏球，但总成绩还是很好。只要下场打球，错误是不可避免的，赢家都是那些错误率低的人。",
+    "post_url": "https://xueqiu.com/1247347556/21505397",
+    "post_date": "2012-02-27",
+    "mentioned_stocks": [
+      "伯克希尔-哈撒韦"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "回复@胡龙飞: 大概你没看懂马云的意思吧？//@胡龙飞:昨天看马云在斯坦福的演讲，把东西买过来，放到网上，再卖出去，这是多么愚蠢的一种商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/21495502",
+    "post_date": "2012-02-24",
+    "mentioned_stocks": [
+      "麦考林"
+    ],
+    "quality_score": 3
+  }
+]

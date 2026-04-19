@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "首先看生意模式！最亮的指路明灯。",
+    "post_url": "https://xueqiu.com/1247347556/21663561",
+    "post_date": "2012-04-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "总的未来现金流。未来阿里的现金流应该会越来越好。",
+    "post_url": "https://xueqiu.com/1247347556/21664192",
+    "post_date": "2012-04-06",
+    "mentioned_stocks": [
+      "阿里"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不要因为看到一两个概念就轻易跳进自己不熟悉的领域或地方，不然早晚会栽的。",
+    "post_url": "https://xueqiu.com/1247347556/21663552",
+    "post_date": "2012-04-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "逆向思维很重要，但逆向操作和随波逐流都是不可取的。",
+    "post_url": "https://xueqiu.com/1247347556/21663552",
+    "post_date": "2012-04-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不知知不易，恐将行更难。",
+    "post_url": "https://xueqiu.com/1247347556/21663673",
+    "post_date": "2012-04-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1110710b-d959-4174-92a9-e20e4f9c69c5",
+    "stock": "新东方",
+    "ticker": "EDU",
+    "market": "US",
+    "date": "2022-01-04",
+    "sentiment": "bullish",
+    "summary": "开仓做多期权",
+    "quote": "接着再来一个长的，1.4的投入有0.6的回报潜力，超过40%。",
+    "source_file": "2022-01_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/207769745"
+  }
+]

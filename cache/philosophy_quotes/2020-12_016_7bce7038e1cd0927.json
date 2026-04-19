@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你需要问，我就认为你还不到时候。",
+    "post_url": "https://xueqiu.com/1247347556/165026821",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "当年有点顾虑，因为我买了很多苹果，怕被误解成我有私心。另外，我觉得老巴早晚会来的，这么大的一头大象，我就不信他看不到！",
+    "post_url": "https://xueqiu.com/1247347556/165026891",
+    "post_date": "2020-12-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

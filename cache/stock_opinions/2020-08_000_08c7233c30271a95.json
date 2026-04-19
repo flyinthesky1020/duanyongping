@@ -1,0 +1,44 @@
+[
+  {
+    "id": "5ce7a510-36c3-4b75-89b0-b37c34f39fcb",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-08-31",
+    "sentiment": "bullish",
+    "summary": "不卖品",
+    "quote": "苹果，茅台和腾讯都是不卖品！",
+    "source_file": "2020-08_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/157606713"
+  },
+  {
+    "id": "2071112d-18ca-4b37-b84b-96cd6f46935f",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2020-08-31",
+    "sentiment": "bullish",
+    "summary": "不卖品",
+    "quote": "苹果，茅台和腾讯都是不卖品！",
+    "source_file": "2020-08_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/157606713"
+  },
+  {
+    "id": "5e0e87ff-1882-4610-bff3-f9789c2de30e",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2020-08-31",
+    "sentiment": "bullish",
+    "summary": "不卖品",
+    "quote": "苹果，茅台和腾讯都是不卖品！",
+    "source_file": "2020-08_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/157606713"
+  }
+]

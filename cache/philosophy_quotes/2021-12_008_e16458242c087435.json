@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "OPPO开发自己的芯片是个非常大的决定，投入非常大，周期也很长，但从10年的角度看，绝对值得一试。",
+    "post_url": "https://xueqiu.com/1247347556/205966942",
+    "post_date": "2021-12-14",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这个指数我猜应该是买短期put的（具体是啥没研究过哈，有兴趣的可以看看？）每隔几年就会有次4合一啥的，是个典型的站在时间对立面的短期赌博工具。买这个长期来说大概率会输钱。",
+    "post_url": "https://xueqiu.com/1247347556/205966275",
+    "post_date": "2021-12-14",
+    "mentioned_stocks": [
+      "SQQQ"
+    ],
+    "quality_score": 5
+  }
+]

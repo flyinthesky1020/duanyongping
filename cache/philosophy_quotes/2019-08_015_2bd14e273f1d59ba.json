@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "假以时日，本分的力量是厉害的。你自己去找例子吧，反过来找就好。",
+    "post_url": "https://xueqiu.com/1247347556/130617384",
+    "post_date": "2019-08-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "倒过来的意思就是，不本分的话，假以时日，大概率会如何。提示一下：比如，查查过去30年破产的公司都是什么原因吧。",
+    "post_url": "https://xueqiu.com/1247347556/130691852",
+    "post_date": "2019-08-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "乔布斯不光是报时人，他也是个造钟人。",
+    "post_url": "https://xueqiu.com/1247347556/130613188",
+    "post_date": "2019-08-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你一直关注的话，好公司出现时你就有可能会意识到了（需要真的看懂哈），价格其实没那么重要。",
+    "post_url": "https://xueqiu.com/1247347556/130692020",
+    "post_date": "2019-08-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不本分的话，假以时日，大概率会如何。提示一下：比如，查查过去30年破产的公司都是什么原因吧。",
+    "post_url": "https://xueqiu.com/1247347556/130691852",
+    "post_date": "2019-08-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

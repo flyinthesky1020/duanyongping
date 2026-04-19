@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "该花的钱当然要花，你问什么？怎么判断是否该花是能力圈问题。",
+    "post_url": "https://xueqiu.com/1247347556/20554968",
+    "post_date": "2011-12-05",
+    "mentioned_stocks": [
+      "格力电器"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "这话没什么分量。这家公司文化我看不懂，不赌其一城一池的得失。",
+    "post_url": "https://xueqiu.com/1247347556/20554942",
+    "post_date": "2011-12-05",
+    "mentioned_stocks": [
+      "第九城市"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "N年左右吧。",
+    "post_url": "https://xueqiu.com/1247347556/20556815",
+    "post_date": "2011-12-05",
+    "mentioned_stocks": [
+      "格力电器"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "马云绝对是当年的马云，或许你们当年就看错马云了？在淘宝的用户心中，淘宝是什么大家会用脚投票的。",
+    "post_url": "https://xueqiu.com/1247347556/20554959",
+    "post_date": "2011-12-05",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "从每卖一次享受一次乐趣的角度看，进进出出其实可以有更多的乐趣，但是个有点不同的游戏，本人不是很擅长。",
+    "post_url": "https://xueqiu.com/1247347556/20551214",
+    "post_date": "2011-12-02",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

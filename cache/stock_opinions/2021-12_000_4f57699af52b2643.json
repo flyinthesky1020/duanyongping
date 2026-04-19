@@ -1,0 +1,44 @@
+[
+  {
+    "id": "e03d096e-c0e5-4443-9d6b-71cf5cb00351",
+    "stock": "新东方",
+    "ticker": "EDU",
+    "market": "US",
+    "date": "2021-12-30",
+    "sentiment": "bullish",
+    "summary": "卖put支持新东方",
+    "quote": "我会继续风投一些表示一下支持（就是卖些put）。明天就有一些put到期了，表示支持一下获得了一点点回报。",
+    "source_file": "2021-12_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/207532425"
+  },
+  {
+    "id": "da2a8339-93ce-404c-82cb-9f7c988d5139",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2021-12-30",
+    "sentiment": "bullish",
+    "summary": "苹果是非卖品",
+    "quote": "我觉得苹果应该是非卖品，最好别卖，不然很难找到类似的好公司买。",
+    "source_file": "2021-12_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/207531139"
+  },
+  {
+    "id": "56ffbfbf-04a8-4579-b0cb-c123caea9952",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2021-12-30",
+    "sentiment": "bullish",
+    "summary": "茅台可抗通胀",
+    "quote": "茅台基本同理。这两家公司拿着长期而言大概率是可以抗通胀的。",
+    "source_file": "2021-12_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/207531139"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "看不懂银行，所以也看不懂老巴买卖的逻辑。",
+    "post_url": "https://xueqiu.com/1247347556/242187677",
+    "post_date": "2023-02-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "台积电换苹果是我比较能理解的，虽然我也觉得台积电是个非常好的公司，但毕竟太重了。",
+    "post_url": "https://xueqiu.com/1247347556/242090448",
+    "post_date": "2023-02-14",
+    "mentioned_stocks": [
+      "台积电",
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

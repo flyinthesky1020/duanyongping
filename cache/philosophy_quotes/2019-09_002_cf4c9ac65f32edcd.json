@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "现在依然如此啊，就是能看懂得公司里当然选回报高的意思嘛。",
+    "post_url": "https://xueqiu.com/1247347556/133502178",
+    "post_date": "2019-09-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "同类产品是什么？假茅台算茅台同类产品吗？",
+    "post_url": "https://xueqiu.com/1247347556/133497386",
+    "post_date": "2019-09-28",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你的钱没别的更好的地方去的话，大概就属于算的太多而想的不够了。",
+    "post_url": "https://xueqiu.com/1247347556/133522305",
+    "post_date": "2019-09-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我没算过（不知道算不算大秘密？），但一般最多只花到净现金流的一部分（不然不安全）。",
+    "post_url": "https://xueqiu.com/1247347556/133502130",
+    "post_date": "2019-09-28",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

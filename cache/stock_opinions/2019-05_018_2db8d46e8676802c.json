@@ -1,0 +1,44 @@
+[
+  {
+    "id": "f239baaa-ec42-402b-b69e-eb4a41de906d",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-05-19",
+    "sentiment": "bullish",
+    "summary": "腾讯有潜在价值",
+    "quote": "确实不便宜，所以我们投的不是很多。不过，腾讯有很多潜在的价值没能在目前的盈利中反映出来，比如微信。",
+    "source_file": "2019-05_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/126949812"
+  },
+  {
+    "id": "241959e8-eea7-464d-96c5-02fb4155febd",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-05-19",
+    "sentiment": "bullish",
+    "summary": "苹果可加仓",
+    "quote": "掉很多我会想着有没有机会加仓，涨很多我也可以开心一下嘛",
+    "source_file": "2019-05_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/126949170"
+  },
+  {
+    "id": "d195dca5-9a5a-4607-9a90-01e4824ac97a",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2019-05-19",
+    "sentiment": "bearish",
+    "summary": "特斯拉不碰",
+    "quote": "我如果认为一家公司不诚信的话，我就不碰了，比如特斯拉。",
+    "source_file": "2019-05_batch018",
+    "source_type": "xueqiu",
+    "chunk_index": 18,
+    "url": "https://xueqiu.com/1247347556/126936623"
+  }
+]

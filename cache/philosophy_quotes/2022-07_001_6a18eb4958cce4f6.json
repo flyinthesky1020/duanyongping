@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "只要坚持看图看线，大概率会有效地避开大牛的。",
+    "post_url": "https://xueqiu.com/1247347556/226027878",
+    "post_date": "2022-07-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "关注股价对你有帮助不？如果没帮助那为什么要关注？也没啥克服的需要吧？",
+    "post_url": "https://xueqiu.com/1247347556/225865842",
+    "post_date": "2022-07-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "用户体验改善很小，属于工程师思维的发明。苹果很少这类产品，确实消费者导向的水平要高一筹。",
+    "post_url": "https://xueqiu.com/1247347556/225794935",
+    "post_date": "2022-07-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你是说大股东能赚便宜为什么我不能赚？我说的是谁都不应该赚公司的便宜，包括股东，当然也包括大股东。",
+    "post_url": "https://xueqiu.com/1247347556/225349508",
+    "post_date": "2022-07-14",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  }
+]

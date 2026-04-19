@@ -1,0 +1,30 @@
+[
+  {
+    "id": "38603a9f-1927-425b-90ee-ad2f0739193c",
+    "stock": "诺基亚",
+    "ticker": "NOK",
+    "market": "US",
+    "date": "2011-12-08",
+    "sentiment": "bearish",
+    "summary": "不看好诺基亚",
+    "quote": "好像在香港机场有个卖点卖这个，曾经悄悄地在旁边看过一会儿，没见过成交。实在是搞不懂什么人会买。@诺基亚(NOK)",
+    "source_file": "2011-12_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/20569240"
+  },
+  {
+    "id": "82afd16a-b881-4074-ba50-3a9861c3202d",
+    "stock": "携程",
+    "ticker": "CTRP",
+    "market": "US",
+    "date": "2011-12-08",
+    "sentiment": "bearish",
+    "summary": "35元非价值投资",
+    "quote": "价值投资者不会35买，知道区别了？@携程(CTRP)",
+    "source_file": "2011-12_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/20560849"
+  }
+]

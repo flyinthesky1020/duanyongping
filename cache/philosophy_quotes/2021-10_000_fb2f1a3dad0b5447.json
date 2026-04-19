@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "紧张就是因为骨子里在投机。",
+    "post_url": "https://xueqiu.com/1247347556/201733725",
+    "post_date": "2021-10-31",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "用10年后看回来的角度，卖个短期的put真是个有点意思的做法。",
+    "post_url": "https://xueqiu.com/1247347556/201548498",
+    "post_date": "2021-10-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "前提是从10年的眼光看，这个价位你愿意买，所以put进来就收着，不put进来就继续。是个好玩的游戏，时间是站在我这边的。",
+    "post_url": "https://xueqiu.com/1247347556/201629184",
+    "post_date": "2021-10-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "时间是站在我这边的。",
+    "post_url": "https://xueqiu.com/1247347556/201629184",
+    "post_date": "2021-10-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "保险公司的生意还是蛮有意思的。",
+    "post_url": "https://xueqiu.com/1247347556/201548498",
+    "post_date": "2021-10-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "从10年20年的角度看，非常清楚！",
+    "post_url": "https://xueqiu.com/1247347556/125893135",
+    "post_date": "2019-04-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "药业我不熟，财务做假我不接受。",
+    "post_url": "https://xueqiu.com/1247347556/125930429",
+    "post_date": "2019-04-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "连锁药店没研究过，做为消费者，我倒是经常去Walgreens买东西，但没研究过他们怎么赚钱的，也不太了解互联网对这家公司的影响。",
+    "post_url": "https://xueqiu.com/1247347556/125901631",
+    "post_date": "2019-04-29",
+    "mentioned_stocks": [
+      "Walgreens"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "找小公司也是要找那些商业模式好，企业文化好，但规模和市值都比较小，大家还没发现的那种。",
+    "post_url": "https://xueqiu.com/1247347556/125931010",
+    "post_date": "2019-04-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "找小公司也是要找那些商业模式好，企业文化好，但规模和市值都比较小，大家还没发现的那种。",
+    "post_url": "https://xueqiu.com/1247347556/125931010",
+    "post_date": "2019-04-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "多数小额投资者投小公司有机会情况会更糟，因为小公司往往资料比较少，小额投资者更容易中招。",
+    "post_url": "https://xueqiu.com/1247347556/125931010",
+    "post_date": "2019-04-29",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "小额投资人或许更应该耐心地从生活中发现还很便宜的小的好公司。",
+    "post_url": "https://xueqiu.com/1247347556/125931010",
+    "post_date": "2019-04-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

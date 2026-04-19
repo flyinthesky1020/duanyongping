@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "仔细想来，做过企业家的人未必就更容易知道自己能力圈的大小，有可能会相反。",
+    "post_url": "https://xueqiu.com/1247347556/20434989",
+    "post_date": "2011-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "跟心理素质没关系，是因为你不明白所谓“价值”为何物。你根本就没明白上市公司和不上市公司的区别，所以你下次还会恐惧。",
+    "post_url": "https://xueqiu.com/1247347556/20434459",
+    "post_date": "2011-10-24",
+    "mentioned_stocks": [
+      "微软"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "就是因为本没有区别，哪来的市场恐惧呢？比如欧洲金融危机和我住的房子是没关系的，当然如果你是借钱买的可能就有关系了。",
+    "post_url": "https://xueqiu.com/1247347556/20434996",
+    "post_date": "2011-10-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "中国的息差可能是世界范围内最高的。我猜可能是因为中国的息差的调节里市场因素最小。也许中国的银行需要高息差带来的高利润去填补各种原因的坏账？",
+    "post_url": "https://xueqiu.com/1247347556/20434462",
+    "post_date": "2011-10-24",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

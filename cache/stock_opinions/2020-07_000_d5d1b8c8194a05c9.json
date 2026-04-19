@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ba14082b-1851-4f2a-acb1-ef4f0b50da40",
+    "stock": "Facebook",
+    "ticker": "FB",
+    "market": "US",
+    "date": "2020-07-31",
+    "sentiment": "bearish",
+    "summary": "准备卖出",
+    "quote": "$Facebook(FB)$ 准备卖掉了。",
+    "source_file": "2020-07_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/155397023"
+  }
+]

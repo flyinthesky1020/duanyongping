@@ -1,0 +1,72 @@
+[
+  {
+    "id": "d55ffefe-921c-4668-98c3-6f12efd96e40",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-04-07",
+    "sentiment": "bullish",
+    "summary": "开始买入苹果",
+    "quote": "今天开始买了一些（或者卖put）苹果，nvda，goog，tsm，一会儿再卖点腾讯的put。",
+    "source_file": "2025-04_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/330644045"
+  },
+  {
+    "id": "34917a3f-5712-49c0-be0a-c7b64fc27160",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2025-04-07",
+    "sentiment": "bullish",
+    "summary": "开始买入NVDA",
+    "quote": "今天开始买了一些（或者卖put）苹果，nvda，goog，tsm，一会儿再卖点腾讯的put。",
+    "source_file": "2025-04_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/330644045"
+  },
+  {
+    "id": "3ec10fb3-e381-459e-b205-4720c2f8da30",
+    "stock": "谷歌",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2025-04-07",
+    "sentiment": "bullish",
+    "summary": "开始买入GOOG",
+    "quote": "今天开始买了一些（或者卖put）苹果，nvda，goog，tsm，一会儿再卖点腾讯的put。",
+    "source_file": "2025-04_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/330644045"
+  },
+  {
+    "id": "8c91192c-8007-456a-8e65-3037714049de",
+    "stock": "台积电",
+    "ticker": "TSM",
+    "market": "US",
+    "date": "2025-04-07",
+    "sentiment": "bullish",
+    "summary": "开始买入TSM",
+    "quote": "今天开始买了一些（或者卖put）苹果，nvda，goog，tsm，一会儿再卖点腾讯的put。",
+    "source_file": "2025-04_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/330644045"
+  },
+  {
+    "id": "cdc732c7-86d4-44e1-8bc2-055f10f01260",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2025-04-07",
+    "sentiment": "bullish",
+    "summary": "卖出腾讯put",
+    "quote": "今天开始买了一些（或者卖put）苹果，nvda，goog，tsm，一会儿再卖点腾讯的put。",
+    "source_file": "2025-04_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/330644045"
+  }
+]

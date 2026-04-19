@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "其次我对俞敏洪老师的人品也没有怀疑，比如我不认为他会偷股东的钱，不认为他会做假账。对于中国企业家来说，这已经很不容易了，可以打70分了。",
+    "post_url": "https://xueqiu.com/1247347556/240012617",
+    "post_date": "2023-01-13",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "相对于茅台而言，他们真是难啊！",
+    "post_url": "https://xueqiu.com/1247347556/240012455",
+    "post_date": "2023-01-13",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果我是这家公司的“老板”，我觉得一年给10个亿也是便宜的不行了。公司一年赚1000个亿，10个亿才不过1%！大家可以统计一下所有的上市公司，看看赚到1000亿总和后CEO们的薪水和奖励的总额是多少。",
+    "post_url": "https://xueqiu.com/1247347556/240011322",
+    "post_date": "2023-01-13",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "他们都是很难的生意。商业模式不好的生意也是生意。在有个好领导的时期，有时候苦生意也能做得还不错，但对投资而言比较难。",
+    "post_url": "https://xueqiu.com/1247347556/240010825",
+    "post_date": "2023-01-13",
+    "mentioned_stocks": [
+      "Zoom"
+    ],
+    "quality_score": 5
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/210491358",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "伟大的公司要惜卖！伟大的公司卖掉后大概率很难买回来，而且因为手里拿着现金，很可能会投到没那么好的生意，损失会有可能是双重的。",
+    "post_url": "https://xueqiu.com/1247347556/210483442",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/210491358",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我觉得买option确实早晚会亏光，因为那是不正确的事情",
+    "post_url": "https://xueqiu.com/1247347556/210489177",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你从比如20年的角度看，有别的公司会比苹果好，那你为什么要买苹果？如果你没有，那买苹果有啥问题？",
+    "post_url": "https://xueqiu.com/1247347556/210488802",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不认为苹果只是一支股票而已，我认为，这是我们公司的第三项业务，甚至可以说是世界上最好的业务。",
+    "post_url": "https://xueqiu.com/1247347556/210482930",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "伟大公司最好别卖。",
+    "post_url": "https://xueqiu.com/1247347556/210491358",
+    "post_date": "2022-01-30",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

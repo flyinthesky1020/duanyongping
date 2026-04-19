@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3b5a91a6-4ae7-4952-ac37-6f20bb7c9dc0",
+    "stock": "Meta",
+    "ticker": "META",
+    "market": "US",
+    "date": "2022-02-02",
+    "sentiment": "bearish",
+    "summary": "已清仓并回避",
+    "quote": "还好我的FB都处理掉了，再碰的概率应该也极小",
+    "source_file": "2022-02_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/210609675"
+  }
+]

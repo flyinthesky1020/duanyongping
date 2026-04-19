@@ -1,0 +1,16 @@
+[
+  {
+    "id": "de4ec838-f2ff-41af-b6b3-35aa0ec6388c",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2023-11-15",
+    "sentiment": "bullish",
+    "summary": "持有苹果不卖",
+    "quote": "卖了后钱放哪里很重要。不卖至少应该可以赢通胀吧，还能睡好觉。",
+    "source_file": "2023-11_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/267167154"
+  }
+]

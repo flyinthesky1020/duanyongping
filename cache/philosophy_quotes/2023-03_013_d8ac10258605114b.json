@@ -1,0 +1,49 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这种飞刀最好别接，确实有危险的。",
+    "post_url": "https://xueqiu.com/1247347556/244886025",
+    "post_date": "2023-03-19",
+    "mentioned_stocks": [
+      "第一共和银行"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式差很远。",
+    "post_url": "https://xueqiu.com/1247347556/244911888",
+    "post_date": "2023-03-19",
+    "mentioned_stocks": [
+      "理想汽车",
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不懂区块链或加密技术，不知道其可靠性和单位成本如何。",
+    "post_url": "https://xueqiu.com/1247347556/244886025",
+    "post_date": "2023-03-19",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "前景怎么样不知道，但做这个的十来年后大部分都肯定会完蛋的。想知道谁是最后的剩者不容易。",
+    "post_url": "https://xueqiu.com/1247347556/244886328",
+    "post_date": "2023-03-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "做这个的十来年后大部分都肯定会完蛋的。想知道谁是最后的剩者不容易。",
+    "post_url": "https://xueqiu.com/1247347556/244886328",
+    "post_date": "2023-03-19",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

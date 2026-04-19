@@ -1,0 +1,16 @@
+[
+  {
+    "id": "be4da0c6-1428-4dbb-86da-62951172e235",
+    "stock": "伯克希尔哈撒韦",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2025-10-28",
+    "sentiment": "bullish",
+    "summary": "今日增持BRK",
+    "quote": "减持？我今天还买了一些呢。",
+    "source_file": "2025-10_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/358696134"
+  }
+]

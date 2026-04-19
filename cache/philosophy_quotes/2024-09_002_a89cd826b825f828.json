@@ -1,0 +1,78 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我们不是在讨论怎么炒股票。不知道茅台赚多少钱的人买了茅台也是拿不住的。",
+    "post_url": "https://xueqiu.com/1247347556/306229912",
+    "post_date": "2024-09-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得茅台的生意模式很难得，价钱合适就可以买，未必要等到很便宜。",
+    "post_url": "https://xueqiu.com/1247347556/306218869",
+    "post_date": "2024-09-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "从10年以上的角度看，130或160或200差别其实没那么大。",
+    "post_url": "https://xueqiu.com/1247347556/306218869",
+    "post_date": "2024-09-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "问就别买！去赌场会不会更快一点？",
+    "post_url": "https://xueqiu.com/1247347556/306164995",
+    "post_date": "2024-09-28",
+    "mentioned_stocks": [
+      "万科"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "有个盲盒，里面99%概率装着至少2000块带利息的国债，但可能需要10年后才可以兑现。现在市场上有人愿意200块卖给你，你愿意200块买呢还是160还是130买呢？没人知道更低的价钱会不会出现，但市场很恐慌，很多人在说很可能会掉到50块，等等…",
+    "post_url": "https://xueqiu.com/1247347556/306229890",
+    "post_date": "2024-09-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "这里其实说的是如果你觉得茅台将来会每股赚20块/年（假设），现在股价200块，你愿意买吗？还是等再掉多一点再买？那掉到160的时候你买了吗？掉到120的时候你买了吗？",
+    "post_url": "https://xueqiu.com/1247347556/306228105",
+    "post_date": "2024-09-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "找个好公司很难，赚点钱卖掉后很容易就买到没那么好的公司了。",
+    "post_url": "https://xueqiu.com/1247347556/306164271",
+    "post_date": "2024-09-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "没有卖茅台的想法，也没有心理价位，至少目前没有。",
+    "post_url": "https://xueqiu.com/1247347556/306177596",
+    "post_date": "2024-09-28",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

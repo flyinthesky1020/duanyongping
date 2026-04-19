@@ -1,0 +1,16 @@
+[
+  {
+    "id": "c1a99859-8b53-47bf-9e5f-5de2f5ecd831",
+    "stock": "谷歌C",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2023-02-19",
+    "sentiment": "bullish",
+    "summary": "质疑Google被颠覆可能性",
+    "quote": "真有人相信这种产品可以颠覆Google吗？",
+    "source_file": "2023-02_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/242460410"
+  }
+]

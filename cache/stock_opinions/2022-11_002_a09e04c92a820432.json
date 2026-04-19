@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cb4c5d32-cf56-4fb1-8ab6-955cf89287e0",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-11-28",
+    "sentiment": "bearish",
+    "summary": "买入看跌期权赌下跌",
+    "quote": "开始买入段永平爱股，四个月后100的长期价外看跌期权，突破170我认赔滚蛋，否则一直持有跟大师赌一把",
+    "source_file": "2022-11_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/236520808"
+  }
+]

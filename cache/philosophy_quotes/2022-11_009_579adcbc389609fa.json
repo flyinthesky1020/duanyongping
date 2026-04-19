@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "patience",
+    "quote": "苹果这么上下波动我是最开心滴。只要不涨上去，我就可以开心很久，涨上去我就只能久久开心了。",
+    "post_url": "https://xueqiu.com/1247347556/234636355",
+    "post_date": "2022-11-05",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "今天在还有余钱的账号里狂卖了不少苹果134-135的puts。到期日从这个礼拜五到两个月以后的每个礼拜五都有，希望多点被put进来。",
+    "post_url": "https://xueqiu.com/1247347556/234607412",
+    "post_date": "2022-11-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

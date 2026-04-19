@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "那苹果的moat可比可口可乐宽啊，android卖iPhone一半以下的价钱，但该买iPhone的人还是会照买的。",
+    "post_url": "https://xueqiu.com/1247347556/112100313",
+    "post_date": "2018-08-14",
+    "mentioned_stocks": [
+      "苹果",
+      "可口可乐"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "对的，知道能力圈有多大远比能力圈有多大重要得多。",
+    "post_url": "https://xueqiu.com/1247347556/111923622",
+    "post_date": "2018-08-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "其实，库克是个比乔布斯更好的CEO。库克更理性，同时骨子里对乔布斯的追求非常理解。",
+    "post_url": "https://xueqiu.com/1247347556/111733804",
+    "post_date": "2018-08-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

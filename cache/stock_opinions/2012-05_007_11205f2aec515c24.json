@@ -1,0 +1,16 @@
+[
+  {
+    "id": "52afdb43-2720-499b-abc4-278f0a74ddff",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-05-11",
+    "sentiment": "bullish",
+    "summary": "可能真的回来",
+    "quote": "越来越觉得出mini ipad有道理，可能真的回来。@苹果(AAPL)",
+    "source_file": "2012-05_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/21794469"
+  }
+]

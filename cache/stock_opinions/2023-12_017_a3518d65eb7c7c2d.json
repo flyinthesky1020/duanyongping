@@ -1,0 +1,16 @@
+[
+  {
+    "id": "01203278-dd22-412c-bd78-819b2696ae5b",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2023-12-09",
+    "sentiment": "bullish",
+    "summary": "计划卖put支持阿里",
+    "quote": "目前阿里的净现金流还是很强的，扣掉净现金后的PE好像已经是个位数了，所以可能是个卖put的好目标。我就打算卖点put赚个小钱支持一下哈。",
+    "source_file": "2023-12_batch017",
+    "source_type": "xueqiu",
+    "chunk_index": 17,
+    "url": "https://xueqiu.com/1247347556/270231156"
+  }
+]

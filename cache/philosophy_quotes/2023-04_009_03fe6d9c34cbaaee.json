@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "当然，不懂的话，“娱乐”部分很可能会变得一点都不好玩。",
+    "post_url": "https://xueqiu.com/1247347556/246717955",
+    "post_date": "2023-04-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我是一个满仓主义者，我管的投资里美股主要在苹果，A股主要在茅台，港股主要是腾讯。用来卖put的部分是很小的娱乐部分。",
+    "post_url": "https://xueqiu.com/1247347556/246717955",
+    "post_date": "2023-04-06",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "投资经常是件很无聊的事",
+    "post_url": "https://xueqiu.com/1247347556/246717955",
+    "post_date": "2023-04-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

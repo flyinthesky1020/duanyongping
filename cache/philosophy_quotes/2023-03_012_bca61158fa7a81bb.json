@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "好弱智的想法！这个问题相当于：不吃草且跑得快的马，你有兴趣吗？（就是贵点，因为那是宝马）。绝对不会碰，这些大概相当于买call。",
+    "post_url": "https://xueqiu.com/1247347556/245138084",
+    "post_date": "2023-03-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这种飞刀最好别接，确实有危险的。",
+    "post_url": "https://xueqiu.com/1247347556/245122720",
+    "post_date": "2023-03-21",
+    "mentioned_stocks": [
+      "第一共和银行"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "绝对不会碰，这些大概相当于买call。",
+    "post_url": "https://xueqiu.com/1247347556/245109055",
+    "post_date": "2023-03-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我们离开后企业文化立刻就变成纯生意导向的了，所以我们离开后的产品和我们绝对是没关系的。",
+    "post_url": "https://xueqiu.com/1247347556/245125054",
+    "post_date": "2023-03-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没关注过，没有发言权。",
+    "post_url": "https://xueqiu.com/1247347556/245108434",
+    "post_date": "2023-03-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不是说不要模仿吗？跟的意思应该是不跟才对吧？卖option让我赚了很多钱的同时也让我少赚了很多钱。当然，卖option好过很多人完全赚不到钱。有几个人能看懂这几句话？",
+    "post_url": "https://xueqiu.com/1247347556/205657982",
+    "post_date": "2021-12-10",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果真的特别看好一个公司的话，价格低的时候绝对应该买入的，不应该卖put，会错失机会。",
+    "post_url": "https://xueqiu.com/1247347556/205456341",
+    "post_date": "2021-12-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我没见过俞敏洪，但上次新东方被人做空的时候我曾经花过四个小时看过我能网上找到的俞敏洪接受过的采访，当时的结论是这人不会是空头说的那样，于是就进场卖了很多put, 赚了些钱。",
+    "post_url": "https://xueqiu.com/1247347556/205459463",
+    "post_date": "2021-12-08",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个明白非常重要！",
+    "post_url": "https://xueqiu.com/1247347556/205658003",
+    "post_date": "2021-12-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "We don't know what we don't know.",
+    "post_url": "https://xueqiu.com/1247347556/205478165",
+    "post_date": "2021-12-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我们不知道我们不知道什么就是这个意思。",
+    "post_url": "https://xueqiu.com/1247347556/205460180",
+    "post_date": "2021-12-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

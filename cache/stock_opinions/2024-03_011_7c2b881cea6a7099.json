@@ -1,0 +1,16 @@
+[
+  {
+    "id": "16446b39-c088-4e63-b506-72fd1ed90ebd",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-03-06",
+    "sentiment": "bullish",
+    "summary": "看好苹果",
+    "quote": "刚刚卖了5000个25/03/19的苹果的put压压惊",
+    "source_file": "2024-03_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/281087842"
+  }
+]

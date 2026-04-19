@@ -1,0 +1,39 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "好的生意模式：茅台。差的就不用举例了吧，那些很多年都很难赚钱的公司到处都是啊。",
+    "post_url": "https://xueqiu.com/1247347556/128504572",
+    "post_date": "2019-06-20",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "日本有很多企业文化很好但生意模式一般的公司，所以活得很久但活得很累。我没研究过7/11的生意模式，直觉上觉得像个辛苦的生意。",
+    "post_url": "https://xueqiu.com/1247347556/128500931",
+    "post_date": "2019-06-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "日本有很多企业文化很好但生意模式一般的公司，所以活得很久但活得很累。",
+    "post_url": "https://xueqiu.com/1247347556/128500931",
+    "post_date": "2019-06-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "他们都不错。如果你100%拥有其中一家，你愿意拥有哪家？10/20/30年前呢？往后呢？",
+    "post_url": "https://xueqiu.com/1247347556/128525093",
+    "post_date": "2019-06-20",
+    "mentioned_stocks": [
+      "贵州茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

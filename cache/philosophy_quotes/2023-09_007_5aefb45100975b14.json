@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "需要看书去学本分的人都是功利的，逻辑上我很难想出例外。学也好、教也罢，功利之心是分不清是非对错的。",
+    "post_url": "https://xueqiu.com/1247347556/260416796",
+    "post_date": "2023-05-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你显然是不喝茅台的人，你目前很难理解。",
+    "post_url": "https://xueqiu.com/1247347556/260416393",
+    "post_date": "2023-09-05",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我不觉得真爱喝茅台的人会因为有了酱香拿铁而开始不爱喝茅台了，所以我目前至少看不到对茅台有任何内在负面的东西。",
+    "post_url": "https://xueqiu.com/1247347556/260411687",
+    "post_date": "2023-09-05",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "作为股东，我愿意投票支持酱香拿铁这个产品。我没那么理解茅台冰激淋，但我愿意给酱香拿铁加分！",
+    "post_url": "https://xueqiu.com/1247347556/260422131",
+    "post_date": "2023-09-05",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

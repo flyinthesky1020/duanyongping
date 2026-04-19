@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我想说的实际上是生态系统，其实也是商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/209820129",
+    "post_date": "2022-01-23",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "看点是什么意思？苹果最厉害的就是苹果的生态环境，现在是，未来也应该是，当这点不再存在时，苹果就沦为普通手机公司了。",
+    "post_url": "https://xueqiu.com/1247347556/209816315",
+    "post_date": "2022-01-23",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

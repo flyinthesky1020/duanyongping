@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "不投不能评估其未来自由现金流的生意——比如比特币",
+    "post_url": "https://xueqiu.com/1247347556/280252411",
+    "post_date": "2024-02-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不投不能评估其未来自由现金流的生意——比如比特币",
+    "post_url": "https://xueqiu.com/1247347556/280252411",
+    "post_date": "2024-02-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不投不能评估其未来自由现金流的生意——比如比特币",
+    "post_url": "https://xueqiu.com/1247347556/280252411",
+    "post_date": "2024-02-28",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "Vision Pro 会好到你不敢相信，但可能需要5-10年。",
+    "post_url": "https://xueqiu.com/1247347556/280026568",
+    "post_date": "2024-02-27",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "学校确实很棒，估计30年后会成为一所远近闻名的好学校。",
+    "post_url": "https://xueqiu.com/1247347556/279868747",
+    "post_date": "2024-02-26",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

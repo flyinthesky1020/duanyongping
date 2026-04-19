@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9e40909a-09c6-448a-aa1d-7f1246967f8f",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-01-05",
+    "sentiment": "bullish",
+    "summary": "加仓苹果",
+    "quote": "我又买了一些//@mv678:回复@大道无形我有型:现在苹果更便宜了，回购的价值又大幅提升了@大道无形我有型：苹果似乎又到了不贵的价钱了。",
+    "source_file": "2019-01_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/119376825"
+  }
+]

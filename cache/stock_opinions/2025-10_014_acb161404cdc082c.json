@@ -1,0 +1,30 @@
+[
+  {
+    "id": "94c1a621-37cb-40e0-b71a-fb1da20ef49e",
+    "stock": "日本五大商社",
+    "ticker": "Japan_Trading_Houses",
+    "market": "UNKNOWN",
+    "date": "2025-10-04",
+    "sentiment": "bearish",
+    "summary": "绝对不会购买",
+    "quote": "绝对不会。",
+    "source_file": "2025-10_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/355429296"
+  },
+  {
+    "id": "563a5146-d2da-42f5-bdf8-49b08a3c48a3",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2025-10-04",
+    "sentiment": "bullish",
+    "summary": "长期持有十年",
+    "quote": "原计划就是买个“油田”等个10年20年看看会发生什么。",
+    "source_file": "2025-10_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/355358651"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "56307dc4-48d4-45a7-9746-c6b8ddab3e62",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-01-04",
+    "sentiment": "bullish",
+    "summary": "卖出put期权看涨",
+    "quote": "手痒，还是卖了一单put。1/19有很多put到期，到时就可以继续卖put了。",
+    "source_file": "2024-01_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": ""
+  }
+]

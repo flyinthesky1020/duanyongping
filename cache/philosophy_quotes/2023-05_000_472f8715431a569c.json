@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "一直很喜欢迪斯尼的产品，但一直没明白迪斯尼的商业模式。为什么迪斯尼看起来很强大但老是很难赚钱呢？看起来这个商业模式似乎不是那么美妙，是种很累的商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/251837886",
+    "post_date": "2023-05-27",
+    "mentioned_stocks": [
+      "迪士尼"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "一直很喜欢迪斯尼的产品，但一直没明白迪斯尼的商业模式。不过，我还是会保留对迪斯尼的投资，毕竟属于小于1%的投资哈。",
+    "post_url": "https://xueqiu.com/1247347556/251837886",
+    "post_date": "2023-05-27",
+    "mentioned_stocks": [
+      "迪士尼"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "一般都会留够现金，目前阶段这部分现金买成短期Tbill还可以增加5%+的年华利息收入。",
+    "post_url": "https://xueqiu.com/1247347556/251823426",
+    "post_date": "2023-05-30",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

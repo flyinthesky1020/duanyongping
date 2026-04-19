@@ -1,0 +1,16 @@
+[
+  {
+    "id": "8c1f645e-de22-45c4-b132-0b8dad78ed1c",
+    "stock": "谷歌",
+    "ticker": "GOOG",
+    "market": "US",
+    "date": "2023-02-20",
+    "sentiment": "bullish",
+    "summary": "质疑ChatGPT颠覆谷歌",
+    "quote": "真有人相信这种产品可以颠覆Google吗？",
+    "source_file": "2023-02_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/242547301"
+  }
+]

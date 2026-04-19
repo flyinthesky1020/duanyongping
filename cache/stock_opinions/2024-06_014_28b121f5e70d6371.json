@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1b9bbf11-bf7f-47b3-9baf-f125223ce14d",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-06-11",
+    "sentiment": "bearish",
+    "summary": "目前价位考虑卖短call",
+    "quote": "目前这个价位可以考虑短期一些的了。其实我长短都会卖一些的。",
+    "source_file": "2024-06_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/293456883"
+  }
+]

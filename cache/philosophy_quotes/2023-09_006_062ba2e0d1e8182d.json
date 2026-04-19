@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "需要看书去学本分的人都是功利的，逻辑上我很难想出例外。学也好、教也罢，功利之心是分不清是非对错的。",
+    "post_url": "https://xueqiu.com/1247347556/260767601",
+    "post_date": "2023-09-10",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "喜欢喝茅台的人根本就不会在乎这件事情！",
+    "post_url": "https://xueqiu.com/1247347556/260767475",
+    "post_date": "2023-09-10",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你显然是不喝茅台的人",
+    "post_url": "https://xueqiu.com/1247347556/260767601",
+    "post_date": "2023-09-10",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "那天价格最低到过一块多，我起床晚，只买到了一些3.5左右的，后来就直接跑到7-8块了，没几天就过了20. 市场有时候也是很聪明的。",
+    "post_url": "https://xueqiu.com/1247347556/260902028",
+    "post_date": "2023-09-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

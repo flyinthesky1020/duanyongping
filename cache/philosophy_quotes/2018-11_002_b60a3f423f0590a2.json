@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "他们有明确的不做的事情，这样的公司只要产品对路了，时间长了大概率是会厉害的。",
+    "post_url": "https://xueqiu.com/1247347556/116742383",
+    "post_date": "2018-11-13",
+    "mentioned_stocks": [
+      "老干妈"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "后来不喜欢了是因为买了特斯拉车后，发现有不少小毛病以及一些不太小的毛病，而且了解到他们居然明确表示目前不想改进因为车反正也不够卖。我对这家公司不再信任，也看不出他们怎么能够赚钱。",
+    "post_url": "https://xueqiu.com/1247347556/116806521",
+    "post_date": "2018-11-14",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "其实大概没多少人比我更高兴看到苹果股价掉下来了，因为这样苹果的回购价就会更低，回购的数量就会更多，未来我们持有的比例就会自然上升。最关键的是，苹果未来的净现金流是不是还会这么厉害？",
+    "post_url": "https://xueqiu.com/1247347556/116806825",
+    "post_date": "2018-11-14",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我个人理解苹果的好日子还远远没有到头呢，现在一年净利润已经接近$600亿了。",
+    "post_url": "https://xueqiu.com/1247347556/116806825",
+    "post_date": "2018-11-14",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "比如建立信誉很难，破坏很容易。",
+    "post_url": "https://xueqiu.com/1247347556/116462313",
+    "post_date": "2018-11-07",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

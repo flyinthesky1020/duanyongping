@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "不喜欢的地方是这书也是用市值来衡量一个公司的价值的。用市值衡量的缺陷是具有时点性，在某些时点对某些时点不对。如果用未来现金流折现的概念来衡量就好了，但从来没见过谁这么做，毕竟教授们都不是真做投资的。",
+    "post_url": "https://xueqiu.com/1247347556/22035778",
+    "post_date": "2012-07-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "投资需要“理性”而不是“信心”。不管谁说好的公司也需要自己理性看懂后才能投，顺便为盲目跟巴菲特投byd的朋友们难受一下[难过]，觉得自己看懂了继续坚持的例外。",
+    "post_url": "https://xueqiu.com/1247347556/22035633",
+    "post_date": "2012-07-23",
+    "mentioned_stocks": [
+      "比亚迪"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "“利润之上的追求”来源于《基业长青》(built to last)，想找好企业的人最好能看懂这本书以及同一作者的《追求卓越》（good to great)。",
+    "post_url": "https://xueqiu.com/1247347556/22035720",
+    "post_date": "2012-07-23",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1af2f316-d4a9-4f34-b6e8-8e62ffe8eb9e",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-10-27",
+    "sentiment": "bullish",
+    "summary": "强大商业模式",
+    "quote": "强大的商业模式！",
+    "source_file": "2022-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/233860535"
+  },
+  {
+    "id": "305653f4-29ab-4ae0-b1db-29c4ba04725b",
+    "stock": "Meta Platforms",
+    "ticker": "META",
+    "market": "US",
+    "date": "2022-10-27",
+    "sentiment": "bearish",
+    "summary": "看不懂元宇宙",
+    "quote": "元宇宙是真看不懂，小扎到底想干啥？",
+    "source_file": "2022-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/233824204"
+  }
+]

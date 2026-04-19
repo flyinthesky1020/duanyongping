@@ -1,0 +1,53 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不意外巴菲特会卖掉台积电。虽然台积电非常了不起，但商业模式有点累，实在是太重了。大概30年前我就跟UMC的人说，将来TSMC会很厉害，因为他们很专注。台积电一直非常专注在他们做的事情上，结果也确实非常了不起。但投资是全方位比较的，我会更倾向于商业模式更好一点的公司。",
+    "post_url": "https://xueqiu.com/1247347556/250482172",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [
+      "台积电",
+      "UMC"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "居然有惠普？增持苹果好理解，毕竟商业模式比可口可乐还要强大嘛。",
+    "post_url": "https://xueqiu.com/1247347556/250450967",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [
+      "惠普",
+      "苹果",
+      "可口可乐"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "确实回去过几天，但和这件事情无关。",
+    "post_url": "https://xueqiu.com/1247347556/250484196",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "都不是必须的，除非是非业务相关的事情，比如“步步高商业地产”啥的（我们没有这个业务）",
+    "post_url": "https://xueqiu.com/1247347556/250483945",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [
+      "步步高商业地产"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "大道退休20多年了，不知道目前具体...",
+    "post_url": "https://xueqiu.com/1247347556/250474644",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [
+      "哲库"
+    ],
+    "quality_score": 3
+  }
+]

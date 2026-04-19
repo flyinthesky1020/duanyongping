@@ -1,0 +1,45 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "太难了你可以去投机啊。大道投机水平很差，所以只会这个。",
+    "post_url": "https://xueqiu.com/1247347556/300900148",
+    "post_date": "2024-08-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "当你需要去问任何人你自己懂不懂的时候那就是还没懂。",
+    "post_url": "https://xueqiu.com/1247347556/300899978",
+    "post_date": "2024-08-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "三年的估计并没有太大的意义，但如果用这个办法去保守估计一下10年20年的净利润，再和自己的机会成本对比一下，其实就很容易判断这笔投资是不是合适于自己了。假设一家公司未来20年的平均加权成长是1%，目前利润是100亿，市值1000亿，你愿意投吗（可能也比存银行好，但你的钱可能会有更好的去处）...",
+    "post_url": "https://xueqiu.com/1247347556/300897933",
+    "post_date": "2024-08-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "看上去不像是个很能赚钱的生意，产品很难有差异化，也很难取得用户的信任度。",
+    "post_url": "https://xueqiu.com/1247347556/300807817",
+    "post_date": "2024-08-12",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "价格合理就好。所谓价格合理的意思就是，从未来10年或更长的时间看，这个投资对投资人的机会成本而言是合算的。",
+    "post_url": "https://xueqiu.com/1247347556/300792075",
+    "post_date": "2024-08-12",
+    "mentioned_stocks": [
+      "谷歌",
+      "Google"
+    ],
+    "quality_score": 4
+  }
+]

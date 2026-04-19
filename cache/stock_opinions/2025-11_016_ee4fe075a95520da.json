@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e5ff1f53-1802-4cea-8771-af45cbce947a",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-11-02",
+    "sentiment": "bullish",
+    "summary": "看好苹果长期价值",
+    "quote": "如果这个事情真的发生了，你很可能会发现你手里拿的还是苹果的东西",
+    "source_file": "2025-11_batch016",
+    "source_type": "xueqiu",
+    "chunk_index": 16,
+    "url": "https://xueqiu.com/1247347556/359485413"
+  }
+]

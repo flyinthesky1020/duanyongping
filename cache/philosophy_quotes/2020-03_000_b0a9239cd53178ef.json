@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "在这到处都处于各种恐慌气氛的日子里，想着10年后那些好公司的样子……",
+    "post_url": "https://xueqiu.com/1247347556/143944298",
+    "post_date": "2020-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "那说说你那些买不回来得惨痛经历吧？那些应该都不是偶然的。",
+    "post_url": "https://xueqiu.com/1247347556/145731589",
+    "post_date": "2020-03-31",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "这些我也看到了，我不了解的是，如果航空公司很赚钱的话，为什么就不能有新的竞争对手加入了？这点和铁路非常不一样，铁路线是没办法增加的。",
+    "post_url": "https://xueqiu.com/1247347556/144462545",
+    "post_date": "2020-03-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "正在想老巴为什么买了那么多航空公司。可能是因为现在航空公司格局已定，鲜有新的竞争者加入？没完全看懂。油更看不懂，不知道在发生什么。",
+    "post_url": "https://xueqiu.com/1247347556/144449909",
+    "post_date": "2020-03-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

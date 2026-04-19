@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3503bdf1-7e3a-40c0-b24c-693d07bba0cd",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-10-18",
+    "sentiment": "bullish",
+    "summary": "看好腾讯长期持有",
+    "quote": "会有影响，但不重要。如果腾讯不行了，和抖音无关。",
+    "source_file": "2019-10_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/134101244"
+  }
+]

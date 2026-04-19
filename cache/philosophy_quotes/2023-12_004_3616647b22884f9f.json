@@ -1,0 +1,39 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "慢慢（腾讯）买指的是还没完全搞懂，但又觉得还行的那种。（对）茅台就没必要那么腻腻歪歪的了。",
+    "post_url": "https://xueqiu.com/1247347556/272491254",
+    "post_date": "2023-12-26",
+    "mentioned_stocks": [
+      "腾讯控股",
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我接受我投资的公司的战略投资，但不容易接受其财务投资。",
+    "post_url": "https://xueqiu.com/1247347556/272381407",
+    "post_date": "2023-12-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这个说法没问题，如果你有更好的投资标的的话。按10年算。",
+    "post_url": "https://xueqiu.com/1247347556/272641744",
+    "post_date": "2023-12-27",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "最好看10年。",
+    "post_url": "https://xueqiu.com/1247347556/272379975",
+    "post_date": "2023-12-25",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

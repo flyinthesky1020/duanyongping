@@ -1,0 +1,44 @@
+[
+  {
+    "id": "44ef1ef4-6ad1-4f67-8abc-629eaf98b286",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2020-10-17",
+    "sentiment": "bullish",
+    "summary": "长期持有苹果",
+    "quote": "从2011年开始买苹果后，我基本上只在雪球上看点信息啥的，实际上也没看到啥，所以才一直拿着苹果的。",
+    "source_file": "2020-10_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/161147198"
+  },
+  {
+    "id": "083f550d-22f5-4c5b-98bb-65aacf7d1334",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2020-10-17",
+    "sentiment": "bearish",
+    "summary": "特斯拉赚钱不易",
+    "quote": "我没太多看法，只是觉得他们最后想赚钱都不容易。看10年再说吧。",
+    "source_file": "2020-10_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/161145463"
+  },
+  {
+    "id": "8fa2a830-3c5d-4bff-af2e-eb358a5b01ae",
+    "stock": "理想汽车",
+    "ticker": "LI",
+    "market": "US",
+    "date": "2020-10-17",
+    "sentiment": "bearish",
+    "summary": "理想赚钱不易",
+    "quote": "我没太多看法，只是觉得他们最后想赚钱都不容易。看10年再说吧。",
+    "source_file": "2020-10_batch014",
+    "source_type": "xueqiu",
+    "chunk_index": 14,
+    "url": "https://xueqiu.com/1247347556/161145463"
+  }
+]

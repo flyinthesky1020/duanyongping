@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没看过这家公司，但知道他们是做羽绒服的，似乎牌子蛮响的？",
+    "post_url": "https://xueqiu.com/1247347556/164982900",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [
+      "加拿大鹅"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "应该说好的企业文化和价值观更有可能转化成持续竞争力，但也不是充分条件。",
+    "post_url": "https://xueqiu.com/1247347556/164983502",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "Google是好公司，我也有一些Google，但比重小。一直很想多买些Google，但一直没等到好价钱，贪心出的错。",
+    "post_url": "https://xueqiu.com/1247347556/164983548",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [
+      "Google"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "创业公司里如果亲戚朋友一堆，可能短期对凑齐人有好处，长期坏处比较多，会形成裙带关系，而且不容易留住别的人才。",
+    "post_url": "https://xueqiu.com/1247347556/164982894",
+    "post_date": "2020-12-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

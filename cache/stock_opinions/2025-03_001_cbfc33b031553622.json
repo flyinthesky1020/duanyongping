@@ -1,0 +1,30 @@
+[
+  {
+    "id": "3e2c383b-f604-44db-aff9-b20bf67964d5",
+    "stock": "Google",
+    "ticker": "GOOGL",
+    "market": "US",
+    "date": "2025-03-30",
+    "sentiment": "bullish",
+    "summary": "考虑加仓Google",
+    "quote": "我会考虑增加一点Google。Google底蕴深厚，不可小看。",
+    "source_file": "2025-03_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/329536047"
+  },
+  {
+    "id": "b44e12a1-7a47-4cd3-88a4-e00acad20bd5",
+    "stock": "Nvidia",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2025-03-30",
+    "sentiment": "bullish",
+    "summary": "决定加仓英伟达",
+    "quote": "我看了后决定再多下一点单。",
+    "source_file": "2025-03_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/329460737"
+  }
+]

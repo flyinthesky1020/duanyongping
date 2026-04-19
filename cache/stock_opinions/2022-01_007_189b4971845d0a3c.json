@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2bd77b78-44b9-4059-8333-b25a21cb44d2",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-01-22",
+    "sentiment": "bullish",
+    "summary": "不买苹果是犯傻",
+    "quote": "基本上别人为什么犯傻的问题我都搞不太明白，为什么他们不买苹果呢？",
+    "source_file": "2022-01_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/209786071"
+  }
+]

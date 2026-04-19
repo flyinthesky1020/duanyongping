@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "心中有市场就很难战胜市场。",
+    "post_url": "https://xueqiu.com/1247347556/363245633",
+    "post_date": "2025-11-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "公司其实只有一个买家，投资只需要关注生意本身。",
+    "post_url": "https://xueqiu.com/1247347556/363245633",
+    "post_date": "2025-11-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "基本上大多数人吃几次亏就应该明白了，不明白的就再多吃几次呗，早晚你会明白的。",
+    "post_url": "https://xueqiu.com/1247347556/363245384",
+    "post_date": "2025-11-25",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "说他\"不是人\"是跟在\"报时人\"和\"造钟人\"后面的，有点调侃但也是想说他确实很不一样。",
+    "post_url": "https://xueqiu.com/1247347556/363269314",
+    "post_date": "2025-11-25",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "是的，可以不做错的事情，但很难避免在做对的事情的过程中犯错误。",
+    "post_url": "https://xueqiu.com/1247347556/208653688",
+    "post_date": "2022-01-11",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我确实不买option，包括buy to close。一切在卖的那个时刻就决定了。平仓是trade option的行为，和我的逻辑不太一样。",
+    "post_url": "https://xueqiu.com/1247347556/208693763",
+    "post_date": "2022-01-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我不想把大家引入歧途。我不靠卖option赚钱，确实只是好玩（是个能赚钱但会少赚钱的办法）。我这十年赚钱的办法非常简单，就是买了苹果，然后拿着。",
+    "post_url": "https://xueqiu.com/1247347556/208708796",
+    "post_date": "2022-01-11",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "卖put有时候就是想买又觉得不够便宜时的心理疗法。比如现在的苹果，最近涨得太多了，目前空出来的钱去买有点下不了手，但从未来10年以上的角度看又觉得其实也不贵（从持有=买入的角度看其实也是这个意思），这个时候卖个put比较容易下手。",
+    "post_url": "https://xueqiu.com/1247347556/208783010",
+    "post_date": "2022-01-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "卖put有时候就是想买又觉得不够便宜时的心理疗法。比如现在的苹果，最近涨得太多了，目前空出来的钱去买有点下不了手，但从未来10年以上的角度看又觉得其实也不贵（从持有=买入的角度看其实也是这个意思），这个时候卖个put比较容易下手。",
+    "post_url": "https://xueqiu.com/1247347556/208783010",
+    "post_date": "2022-01-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我卖点新东方的put其实很像风投，就是赌虚岁已经60的俞敏洪不会就此倒下，至于他最后能干成什么我是不知道的。总觉得俞敏洪是条汉子，象征性支持一下。",
+    "post_url": "https://xueqiu.com/1247347556/208549049",
+    "post_date": "2022-01-10",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 4
+  }
+]

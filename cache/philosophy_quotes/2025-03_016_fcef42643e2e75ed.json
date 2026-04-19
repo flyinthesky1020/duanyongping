@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你还是别碰的好，你大概率搞不懂的。",
+    "post_url": "https://xueqiu.com/1247347556/326769977",
+    "post_date": "2025-03-10",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你的意思是只要有人不讲道理你就有理由不叫道理了么？坏人一直都有的，这不意味着你就需要变成坏人。",
+    "post_url": "https://xueqiu.com/1247347556/326609589",
+    "post_date": "2025-03-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。",
+    "post_url": "https://xueqiu.com/1247347556/326769840",
+    "post_date": "2025-03-10",
+    "mentioned_stocks": [
+      "TSM"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "能够满仓是件很愉快的事情，空仓多少有点难受。哈，终于来了！很少享受到空仓的快感，投资以来第一次。",
+    "post_url": "https://xueqiu.com/1247347556/326769840",
+    "post_date": "2025-03-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

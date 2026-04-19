@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "丁老板冰雪聪明，非常快就明白了这个行当不像看上去那么容易，所以他就没碰哈。",
+    "post_url": "https://xueqiu.com/1247347556/239539822",
+    "post_date": "2023-01-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "方丈没（敢）去做手机。那时候好多人都说要去做手机，包括方丈的前老板，甚至那些不管3721都要上的人……。",
+    "post_url": "https://xueqiu.com/1247347556/239514641",
+    "post_date": "2023-01-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我只投资！投机只是小游戏，而且我这种'投机'赢得概率是远大于赌场的。",
+    "post_url": "https://xueqiu.com/1247347556/239511658",
+    "post_date": "2023-01-07",
+    "mentioned_stocks": [
+      "美国天然气价ETF-Concierge Technologies"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "老罗在手机行业里绝对不是什么神人，他对这个行业的了解程度其实方丈差不太多。",
+    "post_url": "https://xueqiu.com/1247347556/239514641",
+    "post_date": "2023-01-07",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我确实认识一些很好的企业家，但不方便穷举哈。很好的企业家未必就是完美的企业家，每个很好的企业家之间也是可以有很大区别的。",
+    "post_url": "https://xueqiu.com/1247347556/239514797",
+    "post_date": "2023-01-07",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

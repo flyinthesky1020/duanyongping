@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "好公司拿着总是比买来卖去要好的。",
+    "post_url": "https://xueqiu.com/1247347556/123016974",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我理解golf就是一杆一杆打的游戏，每一杆的处理和上一杆都没关系，最重要是避免犯大错，和投资有点像。",
+    "post_url": "https://xueqiu.com/1247347556/123009734",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不好意思，还没时间看这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/123010423",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "哔哩哔哩"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解拼多多，也没花时间看过。",
+    "post_url": "https://xueqiu.com/1247347556/123009585",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我只是相信黄峥说的东西。",
+    "post_url": "https://xueqiu.com/1247347556/123009585",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  }
+]

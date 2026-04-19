@@ -1,0 +1,70 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "确实不应该随便卖call，因为确实会有机会卖飞了。所以，远低于价值时千万别去卖call！对苹果而言，目前这个价位卖点短期的call是很有诱惑的，好玩刺激且不无道理，但未必就是对的事情。简单讲，目前卖call就是用长远的眼光看，用投机的手段去赚投机者的钱，代价就是有可能少赚了。",
+    "post_url": "https://xueqiu.com/1247347556/254373287",
+    "post_date": "2023-06-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "网上查了一下什么叫做T，看着像本能但不理性的做法。",
+    "post_url": "https://xueqiu.com/1247347556/254486182",
+    "post_date": "2023-06-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "对苹果而言，目前这个价位卖点短期的call是很有诱惑的，好玩刺激且不无道理，但未必就是对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/254373287",
+    "post_date": "2023-06-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "10年前就断定视频是差异化很小的产品，一堆有钱的公司拼在一起，结局恐怕不太好。",
+    "post_url": "https://xueqiu.com/1247347556/254530156",
+    "post_date": "2023-06-30",
+    "mentioned_stocks": [
+      "搜狐"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得茅台早晚会到五万亿的，但确实没想过要多久，大概率不会是五万年的。",
+    "post_url": "https://xueqiu.com/1247347556/254402051",
+    "post_date": "2023-06-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得大概率最近会破3万亿了，下一站是4万亿，不知道多久。",
+    "post_url": "https://xueqiu.com/1247347556/254396348",
+    "post_date": "2023-06-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不知道什么是做t。我说的也不是什么叫”卖call“！我说的是在某个时段卖某个价位以上的苹果的短期covered call，以及某些时段某个价位以下的苹果的covered put。我理解成我是开了一家保险公司，只对我理解和可承受的东西承保。",
+    "post_url": "https://xueqiu.com/1247347556/254386334",
+    "post_date": "2023-06-29",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

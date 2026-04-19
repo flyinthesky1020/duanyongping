@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资一定要用闲钱，不然大概率是难受的。",
+    "post_url": "https://xueqiu.com/1247347556/302246021",
+    "post_date": "2024-08-24",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "虽然对PDD的商业模式还不是完全懂，但这些年看来看去还是觉得蛮有意思的。",
+    "post_url": "https://xueqiu.com/1247347556/302441823",
+    "post_date": "2024-08-26",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不知道你的长期是几天？好公司跟是不是回购并不是每时每刻都线性相关的。你可以看看巴菲特的BRK从开始到开始回购用了多少年你就明白了，除非你拒绝明白。",
+    "post_url": "https://xueqiu.com/1247347556/302443818",
+    "post_date": "2024-08-26",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "好企业最后都会因为现金淹到脖子而开始分红或回购或者又分红又回购的（BRK依然没有分红）。",
+    "post_url": "https://xueqiu.com/1247347556/302443818",
+    "post_date": "2024-08-26",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "争取每天卖1000个puts，put进来就计划卖个call啥的。终极目标是put到1%的腾讯！争取三到五年折腾到这个目标，但不强求。",
+    "post_url": "https://xueqiu.com/1247347556/302261549",
+    "post_date": "2024-08-24",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  }
+]

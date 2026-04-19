@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cf3ff2de-54fd-468e-8aba-37e2d95c2ddd",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-05-19",
+    "sentiment": "bullish",
+    "summary": "长期看好苹果",
+    "quote": "我认为长期来讲，苹果未来赚的钱只会比现在多。不需要算的公司我才投的。",
+    "source_file": "2019-05_batch019",
+    "source_type": "xueqiu",
+    "chunk_index": 19,
+    "url": "https://xueqiu.com/1247347556/126927123"
+  }
+]

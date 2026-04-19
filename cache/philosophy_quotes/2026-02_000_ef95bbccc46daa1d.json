@@ -1,0 +1,67 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "看着账户准备随时赶紧逃的这种，就是在投机。",
+    "post_url": "https://xueqiu.com/1247347556/376662252",
+    "post_date": "2026-02-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "问的都是投机，投资的人自己就默默地投了。",
+    "post_url": "https://xueqiu.com/1247347556/376662274",
+    "post_date": "2026-02-23",
+    "mentioned_stocks": [
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "问就是投机。",
+    "post_url": "https://xueqiu.com/1247347556/376662274",
+    "post_date": "2026-02-23",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这其实是最容易，而且也不慢的一条路，至少可以轻松打败90%以上在股市中的人吧。有趣的是大多数人都是喜欢\"没有困难创造困难也要上\"的类型。这个就是巴菲特说的：极少人愿意慢慢地变富。。。。。。他们宁愿选择快快地亏钱。",
+    "post_url": "https://xueqiu.com/1247347556/376662252",
+    "post_date": "2026-02-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你就当存了个10年的定期存款吧，然后比较一下真的10年的定期存款，你也许就不迷惘了。",
+    "post_url": "https://xueqiu.com/1247347556/376662035",
+    "post_date": "2026-02-23",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "投资：你买的是公司未来现金流的折现。",
+    "post_url": "https://xueqiu.com/1247347556/376662252",
+    "post_date": "2026-02-23",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "Costco只有大概4000个SKU，茅台要是能长驻Costco就是国际化成功了。",
+    "post_url": "https://xueqiu.com/1247347556/376661744",
+    "post_date": "2026-02-23",
+    "mentioned_stocks": [
+      "Costco",
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

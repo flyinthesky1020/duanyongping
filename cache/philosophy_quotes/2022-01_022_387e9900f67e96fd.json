@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "当然，这里的关键是往后算。如果现在开始往后算比如20年苹果的现金流折现比其他那些公司的现金流折现总和要高的话，那苹果的股价就比那些公司加总的股价要合算。",
+    "post_url": "https://xueqiu.com/1247347556/207997739",
+    "post_date": "2022-01-04",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "可以这么说，如果大家躺赢的定义是一样的话。躺赢的典型其实是茅台和sees candy。不过好的商业模式不限于此，比如苹果，GOOG……",
+    "post_url": "https://xueqiu.com/1247347556/207817179",
+    "post_date": "2022-01-03",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果",
+      "GOOG"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "先假设你看到的数据都是真的（小公司，尤其是家族公司，这点其实非常不容易确认）。你先问你自己几个问题吧：你喜欢他们的商业模式吗？你喜欢他们的企业文化吗？如果你有钱，愿意把这家公司按这个市值买下来并继续交给他们经营吗？（不要想着去改变任何东西，那是不一样的事情）",
+    "post_url": "https://xueqiu.com/1247347556/207932254",
+    "post_date": "2022-01-04",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

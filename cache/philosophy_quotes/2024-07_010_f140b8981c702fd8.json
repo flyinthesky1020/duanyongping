@@ -1,0 +1,62 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果不是被call走，目前我不会愿意在这个价位买入或者卖put，但因为股票被call走了就愿意了，逻辑上似乎是有点问题的。照说每个交易都应该是独立的，不然不够理性。",
+    "post_url": "https://xueqiu.com/1247347556/296534640",
+    "post_date": "2024-07-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "上礼拜五被225call走了一些苹果，今天用这个办法买回来了一部分，有机会会都买回来。保持现金流为正就好，赚多赚少关系不大。",
+    "post_url": "https://xueqiu.com/1247347556/296739961",
+    "post_date": "2024-07-08",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "一直在买啊。有闲钱就买。",
+    "post_url": "https://xueqiu.com/1247347556/296752999",
+    "post_date": "2024-07-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我们可能不在一个频道上。我并不知道市场会在什么时候出现什么价钱。",
+    "post_url": "https://xueqiu.com/1247347556/296572207",
+    "post_date": "2024-07-07",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "在找到下一个苹果之前，年回报能做到12-15%就很满意了。",
+    "post_url": "https://xueqiu.com/1247347556/296570690",
+    "post_date": "2024-07-07",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我目前看到的能做到价位是明年六月中202买入价，机会成本上看可能稍微贵了点，但过几年看这个价位可能就不贵了。",
+    "post_url": "https://xueqiu.com/1247347556/296572207",
+    "post_date": "2024-07-07",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  }
+]

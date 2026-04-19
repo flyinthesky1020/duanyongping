@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我从来没有过任何投资在房子上，我买房子只有一个目的，就是打算自己住（不一定只有一个房子）。房产不是我熟悉的东西。",
+    "post_url": "https://xueqiu.com/1247347556/123023702",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "目前还想不出什么情况我会把投资的钱给别人管，当然巴菲特除外，如果他比我年轻的话。",
+    "post_url": "https://xueqiu.com/1247347556/123023231",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我还没认真看过拼多多，但过年回国时体验了一下，感觉蛮好的。这么多人用可能是有道理的。",
+    "post_url": "https://xueqiu.com/1247347556/123017203",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  }
+]

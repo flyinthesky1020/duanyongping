@@ -1,0 +1,16 @@
+[
+  {
+    "id": "012b7bdb-e2f1-4b26-8975-99e66667ac9b",
+    "stock": "腾讯控股",
+    "ticker": "00700.HK",
+    "market": "HK",
+    "date": "2024-11-13",
+    "sentiment": "bullish",
+    "summary": "继续卖put",
+    "quote": "不意外的财报，继续卖put！",
+    "source_file": "2024-11_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/312694243"
+  }
+]

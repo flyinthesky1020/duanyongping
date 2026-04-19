@@ -1,0 +1,66 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我也不知道，所以我不借钱买股票。",
+    "post_url": "https://xueqiu.com/1247347556/129252601",
+    "post_date": "2019-07-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "最好不要借钱！茅台估计未来20年复合年回报应该还是会有8%或以上（这里没有扣除通胀），如果你能借到利息远低于这个数，而且20年内借给你钱的银行绝对不会让你提前还款，那也许用房子借点钱还是可以考虑的事情，毕竟那以后你只需要每天好好拜拜各种菩萨保佑茅台不出大问题就好了。",
+    "post_url": "https://xueqiu.com/1247347556/129147426",
+    "post_date": "2019-07-03",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "在要做对的事情上，我不觉得我们会更好。在把事情做对的能力上，我个人认为整体上我们还是有些差距的。",
+    "post_url": "https://xueqiu.com/1247347556/129177064",
+    "post_date": "2019-07-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "很久没关注过创维了，不知道他们除了电视以外目前还在做什么。现在人们花在电视机上的时间在逐渐减少，10年20年后应该会更少的。",
+    "post_url": "https://xueqiu.com/1247347556/129255695",
+    "post_date": "2019-07-06",
+    "mentioned_stocks": [
+      "创维"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "在要做对的事情上，我不觉得我们会更好。在把事情做对的能力上，我个人认为整体上我们还是有些差距的。",
+    "post_url": "https://xueqiu.com/1247347556/129177064",
+    "post_date": "2019-07-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "茅台估计未来20年复合年回报应该还是会有8%或以上（这里没有扣除通胀），如果你能借到利息远低于这个数，而且20年内借给你钱的银行绝对不会让你提前还款，那也许用房子借点钱还是可以考虑的事情，毕竟那以后你只需要每天好好拜拜各种菩萨保佑茅台不出大问题就好了。",
+    "post_url": "https://xueqiu.com/1247347556/129147426",
+    "post_date": "2019-07-03",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没吃过，不知道好不好吃。",
+    "post_url": "https://xueqiu.com/1247347556/129147543",
+    "post_date": "2019-07-03",
+    "mentioned_stocks": [
+      "片仔癀"
+    ],
+    "quality_score": 5
+  }
+]

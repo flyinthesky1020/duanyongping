@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "谁当政都有可能产生长期影响。",
+    "post_url": "https://xueqiu.com/1247347556/297453282",
+    "post_date": "2024-07-14",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "好公司不要轻易卖掉，除非你的钱有更好的去处。",
+    "post_url": "https://xueqiu.com/1247347556/297367804",
+    "post_date": "2024-07-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "好公司我不想卖，但也不想完全闲着，实在是太无聊了，于是卖点call。这样比单纯拿着股票似乎要好玩很多，虽然未必会多赚多少钱。这算是典型的时间换空间的游戏？",
+    "post_url": "https://xueqiu.com/1247347556/297368415",
+    "post_date": "2024-07-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

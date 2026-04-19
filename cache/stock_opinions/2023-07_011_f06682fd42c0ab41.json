@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0e217f77-25e2-4b37-9511-16a541e146f9",
+    "stock": "可口可乐",
+    "ticker": "KO",
+    "market": "US",
+    "date": "2023-07-01",
+    "sentiment": "bullish",
+    "summary": "阿斯巴甜影响甚微",
+    "quote": "我查资料看到阿巴斯甜致癌的危险性小过牛肉和猪肉。如果以上属实的话，对可口可乐的影响可以忽略不计。",
+    "source_file": "2023-07_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/254561893"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "5f49c5e0-4125-4e6c-a881-dbbba26934ce",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-08-15",
+    "sentiment": "bullish",
+    "summary": "长期持有苹果",
+    "quote": "我们拿着苹果拿着茅台这么多年，老是有人在旁边一直说：你好难啊！我难吗？！难在哪里了？什么事情比这个更容易呢？",
+    "source_file": "2024-08_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/301189112"
+  },
+  {
+    "id": "2160f09a-adc2-4661-a150-96ad8aa8df1b",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-08-15",
+    "sentiment": "bullish",
+    "summary": "长期持有茅台",
+    "quote": "我们拿着苹果拿着茅台这么多年，老是有人在旁边一直说：你好难啊！我难吗？！难在哪里了？什么事情比这个更容易呢？",
+    "source_file": "2024-08_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/301189112"
+  }
+]

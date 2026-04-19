@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你不知道你不知道什么，假装自己懂投资是很危险的。",
+    "post_url": "https://xueqiu.com/1247347556/260971526",
+    "post_date": "2023-09-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "尽量不要用这种语言吧。",
+    "post_url": "https://xueqiu.com/1247347556/260968495",
+    "post_date": "2023-09-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

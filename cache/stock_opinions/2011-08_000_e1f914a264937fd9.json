@@ -1,0 +1,58 @@
+[
+  {
+    "id": "f8c89211-ea38-44ce-8f85-44c6ec9e0ab9",
+    "stock": "盛大",
+    "ticker": "SNDA",
+    "market": "US",
+    "date": "2011-08-31",
+    "sentiment": "bearish",
+    "summary": "没有焦点早晚有麻烦",
+    "quote": "没有焦点的公司早晚会有麻烦。@盛大(SNDA)",
+    "source_file": "2011-08_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20380594"
+  },
+  {
+    "id": "93eee2f0-b52d-4a63-b4ec-ba6b68528427",
+    "stock": "TRE.TO",
+    "ticker": "TRE.TO",
+    "market": "UNKNOWN",
+    "date": "2011-08-31",
+    "sentiment": "bearish",
+    "summary": "不信任该类型CEO",
+    "quote": "基本上，我对喜欢谈传统文化，佛，养生，的ceo，都不太信任。@TRE.TO",
+    "source_file": "2011-08_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20376807"
+  },
+  {
+    "id": "5fad22d0-70bc-4fea-b8f1-730613821eb9",
+    "stock": "完美世界",
+    "ticker": "PWRD",
+    "market": "US",
+    "date": "2011-08-31",
+    "sentiment": "bearish",
+    "summary": "质疑盈利可持续性",
+    "quote": "搞个电影公司实在是个低级错误，知错能改就是好事。盈利看起来不错，烟酒一下可持续性有多高。@TCW转型系统ETF(PWRD)",
+    "source_file": "2011-08_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20368448"
+  },
+  {
+    "id": "2f489c28-a3bf-4721-8970-82d1c1556490",
+    "stock": "UT斯达康",
+    "ticker": "UTSI",
+    "market": "US",
+    "date": "2011-08-31",
+    "sentiment": "bearish",
+    "summary": "看空公司生存能力",
+    "quote": "很难想象这家公司最后能活下来[挣扎]。收起@老农鲁庶：我对UTSI的分析",
+    "source_file": "2011-08_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20368400"
+  }
+]

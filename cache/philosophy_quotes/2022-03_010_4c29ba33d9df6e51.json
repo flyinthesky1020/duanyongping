@@ -1,0 +1,71 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "能力圈以外的东西最明显的标志就是，狂跌的时候也不敢加仓，解套就卖了。当我跑到能力圈以外的时候，和散户并没有区别。",
+    "post_url": "https://xueqiu.com/1247347556/213440779",
+    "post_date": "2022-03-08",
+    "mentioned_stocks": [
+      "XOM",
+      "UNG"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不觉得我有特别擅长的东西，文不如张三，武不如张四。",
+    "post_url": "https://xueqiu.com/1247347556/213440923",
+    "post_date": "2022-03-08",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对两家公司的了解其实都不够，尤其是其他电商依然能够起来这点让我满困惑的，似乎电商的护城河不是很宽的样子，很难下大决心投大比重。",
+    "post_url": "https://xueqiu.com/1247347556/213440821",
+    "post_date": "2022-03-08",
+    "mentioned_stocks": [
+      "阿里",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我觉得阿里的护城河没有腾讯的宽，但今日的出现让人觉得腾讯的护城河也没那么宽了。投资确实很难哈。",
+    "post_url": "https://xueqiu.com/1247347556/213440898",
+    "post_date": "2022-03-08",
+    "mentioned_stocks": [
+      "阿里",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "尤其是其他电商依然能够起来这点让我满困惑的，似乎电商的护城河不是很宽的样子。",
+    "post_url": "https://xueqiu.com/1247347556/213440821",
+    "post_date": "2022-03-08",
+    "mentioned_stocks": [
+      "阿里"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不会！第一不会融资买股票，第二我宁愿买茅台。",
+    "post_url": "https://xueqiu.com/1247347556/213440891",
+    "post_date": "2022-03-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "喜欢做空的多数都早晚会陷入麻烦的。",
+    "post_url": "https://xueqiu.com/1247347556/213440833",
+    "post_date": "2022-03-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

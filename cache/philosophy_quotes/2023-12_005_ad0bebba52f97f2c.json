@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "慢慢买指的是还没完全搞懂，但又觉得还行的那种。茅台没必要那么腻腻歪歪的吧？",
+    "post_url": "https://xueqiu.com/1247347556/272333500",
+    "post_date": "2023-12-25",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "原因之一吧。我们买的到底是什么很重要。",
+    "post_url": "https://xueqiu.com/1247347556/272333829",
+    "post_date": "2023-12-25",
+    "mentioned_stocks": [
+      "腾讯控股"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "长期来讲，你觉得苹果这种产品真的需要很会卖的的人才会卖得多一点点吗？",
+    "post_url": "https://xueqiu.com/1247347556/272232445",
+    "post_date": "2023-12-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

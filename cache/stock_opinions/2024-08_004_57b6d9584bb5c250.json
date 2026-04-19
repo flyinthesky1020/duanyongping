@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2dc3baa3-a30f-412d-99e3-5fd3316498c7",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2024-08-26",
+    "sentiment": "bullish",
+    "summary": "开始卖点put",
+    "quote": "开始卖点put。虽然对PDD的商业模式还不是完全懂，但这些年看来看去还是觉得蛮有意思的。",
+    "source_file": "2024-08_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/302443893"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "ung就是个投机的工具，早晚是会变成0的，根据不打算拿10年的股票就不应该拿10天的原理，一定不能买",
+    "post_url": "https://xueqiu.com/1247347556/20663346",
+    "post_date": "2012-01-09",
+    "mentioned_stocks": [
+      "UNG"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果你今天买ung，我保证10年后剩下不到1%",
+    "post_url": "https://xueqiu.com/1247347556/20663592",
+    "post_date": "2012-01-09",
+    "mentioned_stocks": [
+      "UNG"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "etf要特别小心，不要想当然",
+    "post_url": "https://xueqiu.com/1247347556/20663538",
+    "post_date": "2012-01-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "很好奇人们为什么会有2012年的投资策略和选股思路，难道年年不一样吗？",
+    "post_url": "https://xueqiu.com/1247347556/20663958",
+    "post_date": "2012-01-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "关联交易是没问题的，不披露才有问题",
+    "post_url": "https://xueqiu.com/1247347556/20663402",
+    "post_date": "2012-01-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太清楚这个",
+    "post_url": "https://xueqiu.com/1247347556/20663531",
+    "post_date": "2012-01-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

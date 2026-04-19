@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我觉得从10年后往回看的眼光，以自己的机会成本来衡量，每个人都会做出自己的决定的。",
+    "post_url": "https://xueqiu.com/1247347556/123613932",
+    "post_date": "2019-03-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不能推荐股票！",
+    "post_url": "https://xueqiu.com/1247347556/123613932",
+    "post_date": "2019-03-22",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "大概就是觉得生意模式很好，企业文化也很好，扎克伯克还那么年轻，所以这个公司还会有不错的成长空间。",
+    "post_url": "https://xueqiu.com/1247347556/123613805",
+    "post_date": "2019-03-22",
+    "mentioned_stocks": [
+      "Facebook"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "大概就是觉得生意模式很好，企业文化也很好，扎克伯克还那么年轻，所以这个公司还会有不错的成长空间。",
+    "post_url": "https://xueqiu.com/1247347556/123613805",
+    "post_date": "2019-03-22",
+    "mentioned_stocks": [
+      "Facebook"
+    ],
+    "quality_score": 4
+  }
+]

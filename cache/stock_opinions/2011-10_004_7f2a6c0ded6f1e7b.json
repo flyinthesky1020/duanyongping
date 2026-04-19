@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cdda478e-ff89-4ad5-a406-c4fb58a33732",
+    "stock": "General Electric",
+    "ticker": "GE",
+    "market": "US",
+    "date": "2011-10-21",
+    "sentiment": "bearish",
+    "summary": "业绩不佳",
+    "quote": "才赚22cents，不算好。@GE航空航天(GE)：原帖已删除",
+    "source_file": "2011-10_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/20431655"
+  }
+]

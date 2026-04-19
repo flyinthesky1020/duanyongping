@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "很多年前，我跟华以刚下过一盘围棋（让子）。复盘时，我觉得有个地方怎么下都很难受，就问他，这里该怎么下呢？他说，其实怎么下都一样，因为你前面下错了。负债投资很难有平常心，希望你好运吧。以后小心了。",
+    "post_url": "https://xueqiu.com/1247347556/160764315",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "没想过经营的本质这个问题。感觉就是满足消费者，长期的那种，赚钱是果不是因。",
+    "post_url": "https://xueqiu.com/1247347556/160690494",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你可能是对的，我只是没兴趣而已。",
+    "post_url": "https://xueqiu.com/1247347556/160763966",
+    "post_date": "2020-10-12",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "理论上（忽略所有交易成本的前提下），持有=买入 或者 买入=持有 其实不是一种观点，而是一个事实。我以前也为这个“观点”困惑过很长时间，直到有次跟老巴聊天时我问他，持有=买入吗？他说当然啊，这是一个fact啊！",
+    "post_url": "https://xueqiu.com/1247347556/160687306",
+    "post_date": "2020-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

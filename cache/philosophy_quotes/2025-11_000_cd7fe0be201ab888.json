@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "止盈止亏都是投机的概念。",
+    "post_url": "https://xueqiu.com/1247347556/363881302",
+    "post_date": "2025-11-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "要搞清楚那些卖的理由是否成立，最终还是要落实到是否“搞懂”。",
+    "post_url": "https://xueqiu.com/1247347556/363826087",
+    "post_date": "2025-11-29",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "没有理想走不远，不现实很难活下去，所以需要理想主义和现实主义的结合。我觉得几乎所有好的企业都是理想主义和现实主义的结合，大概就是既要想的很长远，又要能够脚踏实地地做好每件小事的意思。",
+    "post_url": "https://xueqiu.com/1247347556/363810208",
+    "post_date": "2025-11-29",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "没有理想走不远，不现实很难活下去，所以需要理想主义和现实主义的结合。我觉得几乎所有好的企业都是理想主义和现实主义的结合，大概就是既要想的很长远，又要能够脚踏实地地做好每件小事的意思。",
+    "post_url": "https://xueqiu.com/1247347556/363810208",
+    "post_date": "2025-11-29",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "277.5今天居然被call走了，该买啥呢？！",
+    "post_url": "https://xueqiu.com/1247347556/363771764",
+    "post_date": "2025-11-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

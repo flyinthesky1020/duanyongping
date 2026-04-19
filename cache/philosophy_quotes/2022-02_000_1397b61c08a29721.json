@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "了解不充分就不应该卖put，所以被动和卖了put无关。",
+    "post_url": "https://xueqiu.com/1247347556/212610206",
+    "post_date": "2022-02-27",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "感觉像买不到茅台就随便买瓶白酒代替一下的意思？",
+    "post_url": "https://xueqiu.com/1247347556/212548315",
+    "post_date": "2022-02-26",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

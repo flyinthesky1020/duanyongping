@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "一万年的意思你肯定误解了。如果未来是一万年的话，这么理解也没问题。",
+    "post_url": "https://xueqiu.com/1247347556/246766803",
+    "post_date": "2023-04-06",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这个有可能，而且可能性比我在golf上打败老虎要大。",
+    "post_url": "https://xueqiu.com/1247347556/246765560",
+    "post_date": "2023-04-06",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 3
+  }
+]

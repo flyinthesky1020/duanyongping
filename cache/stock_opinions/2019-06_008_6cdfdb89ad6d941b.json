@@ -1,0 +1,16 @@
+[
+  {
+    "id": "68cc7493-645a-4fd9-97a4-2ee3d8c6724c",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2019-06-12",
+    "sentiment": "bullish",
+    "summary": "倾向阿里发展更好",
+    "quote": "阿里和腾讯，我个人更倾向阿里发展的更好。阿里对国家的价值，对社会的责任，这些年有目共睹。阿里提高了整个社会的效率，金融的效率，物流的效率，等等。",
+    "source_file": "2019-06_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/128021082"
+  }
+]

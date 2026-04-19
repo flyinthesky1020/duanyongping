@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "当时不知道那根神经起了主导作用，属于失去平常心的愚蠢行为。",
+    "post_url": "https://xueqiu.com/1247347556/21571077",
+    "post_date": "2012-03-14",
+    "mentioned_stocks": [
+      "百度"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我想说的是分红和增长其实没有必然联系。分红和增长其实是没有关系的，把这两种联系在一起的逻辑不通。现在的苹果更理性，现金太多没用很可能会用于派息，但回购要麻烦些，因为需要判断股价高低。",
+    "post_url": "https://xueqiu.com/1247347556/21586152",
+    "post_date": "2012-03-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "如果按这篇文章的说法，ipad的单台成本同比提高了大约60多块，但有些可能因为量上来后的成本减低不含在内。ipad的平均售价大概在550到600的样子，新ipad出来后ipad的销量提升可以很轻易消化单台成本的提高。不过，别的pad确实就不好搞了。",
+    "post_url": "https://xueqiu.com/1247347556/21586051",
+    "post_date": "2012-03-19",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "感觉这个ceo确实更靠谱些。",
+    "post_url": "https://xueqiu.com/1247347556/21579801",
+    "post_date": "2012-03-15",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  }
+]

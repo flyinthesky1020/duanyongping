@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "利润之上的追求的意思不是利润至上，意思正好相反。",
+    "post_url": "https://xueqiu.com/1247347556/22035300",
+    "post_date": "2012-07-23",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "虽然我觉得新东方能做到今天很了不起，但看到他们这么在乎股价后，真的很难找到我会愿意持有这个公司到永远的感觉。当然，这不是批评的意思，因为对别的绝大多数公司我也找不到这种感觉。",
+    "post_url": "https://xueqiu.com/1247347556/22027487",
+    "post_date": "2012-07-20",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我们投资不是来比烂的。我说的是新东方的瑕疵，其实他们可以更好的。",
+    "post_url": "https://xueqiu.com/1247347556/22027498",
+    "post_date": "2012-07-20",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "\"不包括养老金开支及已终止业务亏损在内，该公司当季调整后每股盈利38美分\". 为啥老有这种“不包括”的东西？那不是股东的钱么？想起某些公司经常有的“一次性”亏损来。",
+    "post_url": "https://xueqiu.com/1247347556/22027456",
+    "post_date": "2012-07-20",
+    "mentioned_stocks": [
+      "GE航空航天"
+    ],
+    "quality_score": 4
+  }
+]

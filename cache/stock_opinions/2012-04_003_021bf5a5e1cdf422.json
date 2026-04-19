@@ -1,0 +1,16 @@
+[
+  {
+    "id": "09212e80-699a-4678-ba47-713ac89e85d4",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-04-26",
+    "sentiment": "bullish",
+    "summary": "逢低买入苹果",
+    "quote": "最近随着跌买了不少苹果股票（还不算多，比当年我持有最多时候少很多）。现在重新想明白了。",
+    "source_file": "2012-04_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/21751100"
+  }
+]

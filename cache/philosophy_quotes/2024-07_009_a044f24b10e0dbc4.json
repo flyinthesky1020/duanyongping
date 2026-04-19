@@ -1,0 +1,64 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "还是那句话，great company 最好别卖",
+    "post_url": "https://xueqiu.com/1247347556/297058146",
+    "post_date": "2024-07-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "其实愿意化繁为简的人很少，大家往往觉得那样显得没水平，就像买茅台一样，没啥意思。",
+    "post_url": "https://xueqiu.com/1247347556/297124010",
+    "post_date": "2024-07-10",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我其实不知道我们未来会怎么样，我未来无非就是两条路，一条是活下去，一条就是死掉。所以对我们来讲，我们一直追求的最重要的目标就是生存，那么发展只是在生存基础上的发展，而不是说为了发展而发展，所以我们对于发展来讲的前提永远是在安全的前提下发展。",
+    "post_url": "https://xueqiu.com/1247347556/296963622",
+    "post_date": "2024-07-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "正是基于这样的想法，我们不靠有息债务去加快发展，现在回想起来是非常明智的。",
+    "post_url": "https://xueqiu.com/1247347556/296963622",
+    "post_date": "2024-07-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我相信苹果会一如既往地聚焦在做最好的产品上，其他的早晚会随之而来的。",
+    "post_url": "https://xueqiu.com/1247347556/297124010",
+    "post_date": "2024-07-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "找到好医生的概率有多少？怎么鉴定好医生？治好某个人的统计数据是什么？调理身体是什么意思？赛先生是个好东西！",
+    "post_url": "https://xueqiu.com/1247347556/297121056",
+    "post_date": "2024-07-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我一般会屏蔽给我提各种建议的号。",
+    "post_url": "https://xueqiu.com/1247347556/296892546",
+    "post_date": "2024-07-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

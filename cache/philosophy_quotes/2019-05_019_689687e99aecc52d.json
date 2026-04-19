@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "坚持做对的事情，不对的事情不要做",
+    "post_url": "https://xueqiu.com/1247347556/127020467",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "买股票就是买公司的一部分",
+    "post_url": "https://xueqiu.com/1247347556/127020467",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "用户导向放之四海而皆准",
+    "post_url": "https://xueqiu.com/1247347556/127020467",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "把公司叫票的人大概内心深处都是炒家，你不会真的在乎10年20年的，说了也没啥用哈。",
+    "post_url": "https://xueqiu.com/1247347556/127011905",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我有想事物本质的习惯，碰到啥都会想这到底是什么，久而久之会有些好处。",
+    "post_url": "https://xueqiu.com/1247347556/127014343",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我说的合适的价钱的意思就是相对于你自己的机会成本而言合算的价格。比如当年我觉得若干年后苹果应该能赚500亿以上，那当时3000亿市值就是个合适的价钱，我就不再等更便宜的价钱了。",
+    "post_url": "https://xueqiu.com/1247347556/127020421",
+    "post_date": "2019-05-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

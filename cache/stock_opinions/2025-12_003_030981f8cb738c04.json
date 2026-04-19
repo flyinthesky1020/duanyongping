@@ -1,0 +1,16 @@
+[
+  {
+    "id": "01fb98ca-9bfa-4645-8980-3c94dccc4a94",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2025-12-16",
+    "sentiment": "bearish",
+    "summary": "苹果价位不便宜不愿买入",
+    "quote": "就拿苹果为例：这个价位不便宜，我确实不想买，但卖了又不知道买啥更好，这也是我在不停卖call的原因。",
+    "source_file": "2025-12_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/366196550"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2f963920-d10d-4751-9d99-e0572f150318",
+    "stock": "微软",
+    "ticker": "MSFT",
+    "market": "US",
+    "date": "2020-12-03",
+    "sentiment": "bullish",
+    "summary": "看好微软",
+    "quote": "我最近发现一家to B的公司很厉害，但理解的有点晚了，虽然差不多30年前就见过这家公司的老板，好像叫比尔盖茨。",
+    "source_file": "2020-12_batch024",
+    "source_type": "xueqiu",
+    "chunk_index": 24,
+    "url": "https://xueqiu.com/1247347556/164902577"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "38ed4988-b117-4e0a-9832-24fb70554d84",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2019-02-23",
+    "sentiment": "bullish",
+    "summary": "看好拼多多发展",
+    "quote": "该有的都会有的！",
+    "source_file": "2019-02_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/121621737"
+  }
+]

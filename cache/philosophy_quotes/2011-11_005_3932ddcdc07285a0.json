@@ -1,0 +1,42 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "从投资的角度看，目前微博的生意模式不知道什么价有投资价值。",
+    "post_url": "https://xueqiu.com/1247347556/20522690",
+    "post_date": "2011-11-22",
+    "mentioned_stocks": [
+      "微博"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不会，除非哪天微博的生意模式变得清晰又可爱了。",
+    "post_url": "https://xueqiu.com/1247347556/20522818",
+    "post_date": "2011-11-22",
+    "mentioned_stocks": [
+      "微博"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "把这个标题放在我的这个说法下面有点不厚道吧？我这里强调的是支持围脖而不是讨论股票啊。我确实就是觉得新浪围脖有点功德无量的意思。有时候真觉得我们老中的文化有点悲哀，说实话总是没人信，什么都跟钱或利益挂上钩。",
+    "post_url": "https://xueqiu.com/1247347556/20524268",
+    "post_date": "2011-11-22",
+    "mentioned_stocks": [
+      "新浪"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "2.5亿现金并不能成为买的理由。如果按完美的现状，如果净现金大于市值的话，值得一赌，毕竟这个行业不错，对已经开始赚钱的游戏公司而言，要亏钱不容易（不等于不可能哈）。",
+    "post_url": "https://xueqiu.com/1247347556/20522471",
+    "post_date": "2011-11-22",
+    "mentioned_stocks": [
+      "完美世界"
+    ],
+    "quality_score": 3
+  }
+]

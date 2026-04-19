@@ -1,0 +1,16 @@
+[
+  {
+    "id": "82777c2e-96b7-49e7-b017-6e0bcfccec8d",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2020-11-07",
+    "sentiment": "bullish",
+    "summary": "看好腾讯三年后价值",
+    "quote": "简单讲，你的问题是三年后卖出腾讯还是现在卖出会更合算？我其实不知道答案，但概率上我觉得三年后卖出可能会划算一些。",
+    "source_file": "2020-11_batch025",
+    "source_type": "xueqiu",
+    "chunk_index": 25,
+    "url": "https://xueqiu.com/1247347556/162749649"
+  }
+]

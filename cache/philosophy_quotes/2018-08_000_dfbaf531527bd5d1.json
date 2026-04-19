@@ -1,0 +1,43 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "网易不同，我非常懂游戏，当时非常确定他们将来会赚很多钱，不知道的只是到底能赚多少。对拼多多来说我目前的水平依然不知道他们未来能不能赚到符合目前市值的利润。",
+    "post_url": "https://xueqiu.com/1247347556/113136496",
+    "post_date": "2018-08-31",
+    "mentioned_stocks": [
+      "网易",
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "唯一我觉得可以做风投的理由就是，在目前这种成长情况下，我相信他们的好文化最终会有不错的概率会带来好结果。",
+    "post_url": "https://xueqiu.com/1247347556/113126606",
+    "post_date": "2018-08-31",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不是这么算的，这种情况我根本就不会算！目前这种情况，根本还无从算起。",
+    "post_url": "https://xueqiu.com/1247347556/113126606",
+    "post_date": "2018-08-31",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "从投资的角度讲，目前还无法判断他们未来的盈利能力，所以也很难给出定价。如果非要投的话，那也只能算是个风投吧，所以大比例投拼多多似乎还不太合适。",
+    "post_url": "https://xueqiu.com/1247347556/113136496",
+    "post_date": "2018-08-31",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  }
+]

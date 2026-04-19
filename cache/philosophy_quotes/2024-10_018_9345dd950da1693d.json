@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没投资过百度，你没看懂。",
+    "post_url": "https://xueqiu.com/1247347556/307758253",
+    "post_date": "2024-10-11",
+    "mentioned_stocks": [
+      "百度"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "投标普确实是个好的选项，长时间里极少人能比标普500表现好的。",
+    "post_url": "https://xueqiu.com/1247347556/307665625",
+    "post_date": "2024-10-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

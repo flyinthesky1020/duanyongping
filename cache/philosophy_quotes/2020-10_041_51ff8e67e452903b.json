@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "车行业是个苦生意，不容易。",
+    "post_url": "https://xueqiu.com/1247347556/160617400",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不了解pdd的商业模式。",
+    "post_url": "https://xueqiu.com/1247347556/160617382",
+    "post_date": "2020-10-09",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  }
+]

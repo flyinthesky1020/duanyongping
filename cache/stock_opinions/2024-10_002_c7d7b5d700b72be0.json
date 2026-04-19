@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6e9ed050-0fca-454e-9be0-084aa5d516bd",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-10-25",
+    "sentiment": "bullish",
+    "summary": "重仓持有苹果",
+    "quote": "我拿苹果比老巴时间长，比重比老巴要高。需要时我是可以拿得住的。",
+    "source_file": "2024-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/309662222"
+  },
+  {
+    "id": "abff14d5-f377-4543-9ca3-bb6b5297a04f",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2024-10-25",
+    "sentiment": "bullish",
+    "summary": "继续卖put腾讯",
+    "quote": "反正我每天卖1000个腾讯put会继续，比直接买股票要容易下手很多。",
+    "source_file": "2024-10_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/309662171"
+  }
+]

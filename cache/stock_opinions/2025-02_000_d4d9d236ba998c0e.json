@@ -1,0 +1,30 @@
+[
+  {
+    "id": "93ddf02e-e2fc-4283-a1bb-f455621da7f0",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-02-27",
+    "sentiment": "bullish",
+    "summary": "建议买入茅台",
+    "quote": "意味着你应该买茅台。",
+    "source_file": "2025-02_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/325450863"
+  },
+  {
+    "id": "1d550cce-8cbe-4645-8b3c-9dba7c919edb",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2025-02-27",
+    "sentiment": "bullish",
+    "summary": "开始卖出put期权",
+    "quote": "尽管没完全看懂NVDA，但我还是准备开始卖点NVDA的put了。ai值得关注，NVDA其实是个很不错的公司。",
+    "source_file": "2025-02_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/325196615"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "dc2085f9-075b-4ee2-8665-006f4ea3d972",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-09-11",
+    "sentiment": "bullish",
+    "summary": "长期看好茅台",
+    "quote": "用10年看就明白了。今天你看茅台，你觉得120买的和180买的有多大区别？",
+    "source_file": "2019-09_batch017",
+    "source_type": "xueqiu",
+    "chunk_index": 17,
+    "url": "https://xueqiu.com/1247347556/132727343"
+  }
+]

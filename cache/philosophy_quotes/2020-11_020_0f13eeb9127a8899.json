@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "当时其实就是觉得这个公司不值那么多钱，事实证明我其实也没啥大错，但因此去做空就大错特错了。",
+    "post_url": "https://xueqiu.com/1247347556/163765379",
+    "post_date": "2020-11-19",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "投资非常像种田，是个结硬寨，打呆仗的过程，所以投资者就像农夫。投机则像狩猎，是个零和游戏，投机者之间互为猎物，非常刺激。",
+    "post_url": "https://xueqiu.com/1247347556/163838545",
+    "post_date": "2020-11-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "投资非常像种田，是个结硬寨，打呆仗的过程，所以投资者就像农夫。",
+    "post_url": "https://xueqiu.com/1247347556/163838545",
+    "post_date": "2020-11-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我说顺丰是家好公司的意思是这家公司企业文化蛮好的，很专注在他们想做好的事情上。",
+    "post_url": "https://xueqiu.com/1247347556/163756714",
+    "post_date": "2020-11-19",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "但这个生意能不能有很好的利润我还搞不太懂。",
+    "post_url": "https://xueqiu.com/1247347556/163756714",
+    "post_date": "2020-11-19",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 4
+  }
+]

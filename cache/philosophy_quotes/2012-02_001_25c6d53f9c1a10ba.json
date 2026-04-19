@@ -1,0 +1,43 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "支付宝有上限一定是因为有下限造成的，不然不公平。你想想谁会要求有下限？如果没有上下限也是公平的。",
+    "post_url": "https://xueqiu.com/1247347556/21514797",
+    "post_date": "2012-02-28",
+    "mentioned_stocks": [
+      "支付宝"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我只是支持新浪围脖[哈哈]，但没法下重注在股票上。",
+    "post_url": "https://xueqiu.com/1247347556/21512342",
+    "post_date": "2012-02-28",
+    "mentioned_stocks": [
+      "新浪"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "作为整体很有价值，分开不好说。我猜大概这也是他们要把1688私有化的原因之一吧。",
+    "post_url": "https://xueqiu.com/1247347556/21514837",
+    "post_date": "2012-02-28",
+    "mentioned_stocks": [
+      "阿里巴巴"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "也许理论上新浪微博最有价值的地方是和腾讯合并起来，但现实中似乎难以实施。",
+    "post_url": "https://xueqiu.com/1247347556/21512535",
+    "post_date": "2012-02-28",
+    "mentioned_stocks": [
+      "新浪",
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

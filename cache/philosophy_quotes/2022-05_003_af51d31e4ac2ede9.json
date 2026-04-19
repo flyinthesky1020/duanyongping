@@ -1,0 +1,60 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "其实你要找出10个以上比目前活下来的智能手机的商业模式好的公司可能是非常困难的",
+    "post_url": "https://xueqiu.com/1247347556/219842077",
+    "post_date": "2022-05-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "松下和GE的商业模式都不太好，企业文化也没我想象的好",
+    "post_url": "https://xueqiu.com/1247347556/219957686",
+    "post_date": "2022-05-14",
+    "mentioned_stocks": [
+      "松下",
+      "GE"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "你喜欢搞懂细节但并不相信文化的力量",
+    "post_url": "https://xueqiu.com/1247347556/219923227",
+    "post_date": "2022-05-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "松下和GE的商业模式都不太好，企业文化也没我想象的好",
+    "post_url": "https://xueqiu.com/1247347556/219957686",
+    "post_date": "2022-05-14",
+    "mentioned_stocks": [
+      "松下",
+      "GE"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "似乎到目前为止你对苹果还是不太明白",
+    "post_url": "https://xueqiu.com/1247347556/219841663",
+    "post_date": "2022-05-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。好像这三个一点的意思是不一样的",
+    "post_url": "https://xueqiu.com/1247347556/219957686",
+    "post_date": "2022-05-14",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

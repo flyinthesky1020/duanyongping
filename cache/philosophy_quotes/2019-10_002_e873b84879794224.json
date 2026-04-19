@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "名词有点多，我看不懂。",
+    "post_url": "https://xueqiu.com/1247347556/134172842",
+    "post_date": "2019-10-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "会有影响，但不重要。如果腾讯不行了，和抖音无关。",
+    "post_url": "https://xueqiu.com/1247347556/134101244",
+    "post_date": "2019-10-15",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "想长远。",
+    "post_url": "https://xueqiu.com/1247347556/134096555",
+    "post_date": "2019-10-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "现金中性的意思我认为应该是苹果留够运营所需资金后，就将多余现金以回购和派现的方法还给股东。这也说明苹果对自己的未来的现金流能力很有信心。",
+    "post_url": "https://xueqiu.com/1247347556/134091744",
+    "post_date": "2019-10-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "112d1c28-3318-4eb0-961d-ae84e26ff7eb",
+    "stock": "亚马逊",
+    "ticker": "AMZN",
+    "market": "US",
+    "date": "2012-01-31",
+    "sentiment": "bearish",
+    "summary": "质疑AMZN高估值",
+    "quote": "一直搞不懂为什么AMZN利润这么点股价却那么高。",
+    "source_file": "2012-01_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/21385778"
+  }
+]

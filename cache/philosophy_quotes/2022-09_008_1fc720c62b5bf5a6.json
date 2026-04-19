@@ -1,0 +1,43 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "是的，我蛮喜欢腾讯，但仓位不大，原因就只有一个：就是不觉得应该用苹果去换腾讯，因为我更了解苹果。",
+    "post_url": "https://xueqiu.com/1247347556/229808637",
+    "post_date": "2022-09-01",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "就是不觉得应该用苹果去换腾讯，因为我更了解苹果。",
+    "post_url": "https://xueqiu.com/1247347556/229808637",
+    "post_date": "2022-09-01",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "不过，我一直很遗憾当年错过了腾讯，所以一直在等机会多买一点。也许很难等到用苹果换腾讯的机会，但谁知道呢？！",
+    "post_url": "https://xueqiu.com/1247347556/229808637",
+    "post_date": "2022-09-01",
+    "mentioned_stocks": [
+      "腾讯",
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "现金和股票换并没有区别。",
+    "post_url": "https://xueqiu.com/1247347556/229838068",
+    "post_date": "2022-09-01",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

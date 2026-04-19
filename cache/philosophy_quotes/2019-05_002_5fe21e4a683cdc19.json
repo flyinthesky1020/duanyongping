@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "换来换去这种事情难度比较高，少做为佳。",
+    "post_url": "https://xueqiu.com/1247347556/127592066",
+    "post_date": "2019-05-31",
+    "mentioned_stocks": [
+      "amazon"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你可能问错人了，我不熟悉你说的这些牌子。",
+    "post_url": "https://xueqiu.com/1247347556/127592168",
+    "post_date": "2019-05-31",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我知道amazon是家伟大的公司，但也不知道应该值多少钱，不过未来他们一年赚500亿或更多似乎不是件太困难的事情。",
+    "post_url": "https://xueqiu.com/1247347556/127592066",
+    "post_date": "2019-05-31",
+    "mentioned_stocks": [
+      "amazon"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "一般不会。",
+    "post_url": "https://xueqiu.com/1247347556/127590540",
+    "post_date": "2019-05-31",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  }
+]

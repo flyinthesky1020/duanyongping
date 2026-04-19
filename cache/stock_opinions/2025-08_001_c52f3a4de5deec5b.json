@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b78a5e81-5fdb-4378-9978-b4f29d498112",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2025-08-22",
+    "sentiment": "bullish",
+    "summary": "茅台相对红酒便宜",
+    "quote": "相对于好红酒而言，茅台真是超便宜的。",
+    "source_file": "2025-08_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/348178136"
+  }
+]

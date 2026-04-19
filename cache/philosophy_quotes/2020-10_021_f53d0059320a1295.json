@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我们的核心竞争力是我们的企业文化",
+    "post_url": "https://xueqiu.com/1247347556/161100960",
+    "post_date": "2020-10-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对苹果还是更了解一些，也正好碰上苹果大掉了一下。我就都又买成苹果了。",
+    "post_url": "https://xueqiu.com/1247347556/161100922",
+    "post_date": "2020-10-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "碰上苹果大掉了一下。我就都又买成苹果了。",
+    "post_url": "https://xueqiu.com/1247347556/161100922",
+    "post_date": "2020-10-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你想一下苹果的对手是谁？苹果的对手就是苹果，对吧？！",
+    "post_url": "https://xueqiu.com/1247347556/161114587",
+    "post_date": "2020-10-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我能相对比较理性和平常心很可能跟我爸妈从小就不打骂我有很大关系，心里没有很多人有的那种恐惧感。",
+    "post_url": "https://xueqiu.com/1247347556/161100650",
+    "post_date": "2020-10-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

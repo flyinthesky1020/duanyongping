@@ -1,0 +1,30 @@
+[
+  {
+    "id": "4fb91ba4-6a09-4ab5-ac72-3b6f3639fce7",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2022-05-12",
+    "sentiment": "bullish",
+    "summary": "希望低价买入苹果",
+    "quote": "希望苹果再多掉一点，时间再长一点，我猜老巴还会再出手买一点。",
+    "source_file": "2022-05_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/219841663"
+  },
+  {
+    "id": "982a6309-d0bd-4507-be1f-a8790bfed7aa",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-05-12",
+    "sentiment": "bullish",
+    "summary": "想买入腾讯",
+    "quote": "另外，我就是想买点腾讯。",
+    "source_file": "2022-05_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/219697521"
+  }
+]

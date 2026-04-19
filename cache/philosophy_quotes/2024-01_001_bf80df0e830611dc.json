@@ -1,0 +1,47 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你认为10年后还在的公司都有谁？定义是10年后营业额和利润都不低于今天的才可以认为还在哈。我觉得苹果，茅台，腾讯应该都还在；谷歌，微软，BRK应该也还在。我希望OV还在，但不是100%确定。20年呢：我觉得苹果，茅台应该还在，谷歌，微软，BRK也应该还在，腾讯90%还在，OV应该75%还在。30年呢？…确属脑力游戏，没事想想这个也许能对投资有点帮助。",
+    "post_url": "https://xueqiu.com/1247347556/276649527",
+    "post_date": "2024-01-27",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台",
+      "腾讯",
+      "谷歌",
+      "微软",
+      "BRK",
+      "OV"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "在年利润10亿美金以上或年利润50亿人民币以上的公司里，有谁未来10年的总利润会比过去10年高？在这些企业中，有谁的未来10-20年的获利总和会比未来10年的总和高？",
+    "post_url": "https://xueqiu.com/1247347556/276688791",
+    "post_date": "2024-01-28",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "奢侈品公司我还没看过，感觉不太容易理解。买过爱马仕的产品，东西确实很好，驴牌的还没买过。",
+    "post_url": "https://xueqiu.com/1247347556/276690167",
+    "post_date": "2024-01-28",
+    "mentioned_stocks": [
+      "爱马仕"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我想你对本分和商业这两个概念都有误解，请你先了解一下定义。",
+    "post_url": "https://xueqiu.com/1247347556/276635996",
+    "post_date": "2024-01-27",
+    "mentioned_stocks": [
+      "茅台",
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

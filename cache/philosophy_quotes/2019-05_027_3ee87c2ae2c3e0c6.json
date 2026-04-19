@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "简单指的是大原则，是“是非”，不容易指的是技巧，其实就是要“做对的事情，把事情做对”的意思。",
+    "post_url": "https://xueqiu.com/1247347556/126899130",
+    "post_date": "2019-05-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "隔行如隔山啊，我确实不了解，虽然我其实是知道鲁冠球的。",
+    "post_url": "https://xueqiu.com/1247347556/126898471",
+    "post_date": "2019-05-18",
+    "mentioned_stocks": [
+      "万向集团"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我搞懂一家公司一般都是要花很长时间的，至少都是若干年吧。",
+    "post_url": "https://xueqiu.com/1247347556/126897387",
+    "post_date": "2019-05-18",
+    "mentioned_stocks": [
+      "涪陵榨菜"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我不太喜欢把公司看成军队的想法。顾名思义，“爱兵如子”就是要时刻想着他们的需求，“慈不带兵”指的是该严格要求时要严格要求。没觉得这两点之间有矛盾，所以不该搞平衡吧？",
+    "post_url": "https://xueqiu.com/1247347556/126899061",
+    "post_date": "2019-05-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "假设你自己拥有这家非上市公司，体会一下你还愿不愿意持有。",
+    "post_url": "https://xueqiu.com/1247347556/126897387",
+    "post_date": "2019-05-18",
+    "mentioned_stocks": [
+      "涪陵榨菜"
+    ],
+    "quality_score": 3
+  }
+]

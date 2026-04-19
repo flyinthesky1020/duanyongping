@@ -1,0 +1,30 @@
+[
+  {
+    "id": "29b605ef-8d5e-43a7-8d96-feea4c9df463",
+    "stock": "西方石油",
+    "ticker": "OXY",
+    "market": "US",
+    "date": "2023-03-17",
+    "sentiment": "bullish",
+    "summary": "类似巴菲特买铁路",
+    "quote": "$西方石油(OXY)$ 感觉到Warren买铁路公司的味道了。",
+    "source_file": "2023-03_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": ""
+  },
+  {
+    "id": "6cc37fa1-e70a-4234-a86d-e793236893d3",
+    "stock": "第一共和银行",
+    "ticker": "FRC",
+    "market": "US",
+    "date": "2023-03-17",
+    "sentiment": "bearish",
+    "summary": "飞刀危险别接",
+    "quote": "$第一共和银行(FRC)$ 这种飞刀最好别接，确实有危险的。",
+    "source_file": "2023-03_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": ""
+  }
+]

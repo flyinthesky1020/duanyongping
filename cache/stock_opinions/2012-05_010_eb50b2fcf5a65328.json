@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cd1e2f76-b0c5-4a1b-a05b-708114f9e9ae",
+    "stock": "Apple",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-05-01",
+    "sentiment": "bullish",
+    "summary": "加仓并持有苹果",
+    "quote": "我原来就有好些苹果。你为什么选择买股卖call，不选择卖put？",
+    "source_file": "2012-05_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/21762711"
+  }
+]

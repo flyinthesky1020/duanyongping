@@ -1,0 +1,51 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "很久以前确实买过1万股nvda，但因为看不懂就又卖掉了，持有的时间不是很长，印象中赚的钱也不多。要是留到现在我就发达了，哎…",
+    "post_url": "https://xueqiu.com/1247347556/281638891",
+    "post_date": "2024-03-11",
+    "mentioned_stocks": [
+      "NVDA",
+      "英伟达"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我看不懂，也没时间看，就只能错过了。",
+    "post_url": "https://xueqiu.com/1247347556/281487015",
+    "post_date": "2024-03-10",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "科技公司非常难看懂。",
+    "post_url": "https://xueqiu.com/1247347556/281486458",
+    "post_date": "2024-03-10",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "商业模式和企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/281487323",
+    "post_date": "2024-03-10",
+    "mentioned_stocks": [
+      "苹果",
+      "AAPL"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "商业模式和企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/281487323",
+    "post_date": "2024-03-10",
+    "mentioned_stocks": [
+      "苹果",
+      "AAPL"
+    ],
+    "quality_score": 4
+  }
+]

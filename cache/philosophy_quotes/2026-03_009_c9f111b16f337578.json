@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "我说的现金流指的是\"未来的现金流\"，是\"未来的\"！你那个是过去式。",
+    "post_url": "https://xueqiu.com/1247347556/378725107",
+    "post_date": "2026-03-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "哈，搞不懂企业的人们才老提赛道的吧？",
+    "post_url": "https://xueqiu.com/1247347556/378724686",
+    "post_date": "2026-03-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "ETF只是一个生意，我觉得他们会投你所好地去成立各种产品。只要你喜欢，他们就可以收手续费了。",
+    "post_url": "https://xueqiu.com/1247347556/378735686",
+    "post_date": "2026-03-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "几个月前，炒短线吗？",
+    "post_url": "https://xueqiu.com/1247347556/378712984",
+    "post_date": "2026-03-09",
+    "mentioned_stocks": [
+      "伯克希尔"
+    ],
+    "quality_score": 3
+  }
+]

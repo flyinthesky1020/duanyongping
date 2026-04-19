@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解汽车行业。",
+    "post_url": "https://xueqiu.com/1247347556/359279531",
+    "post_date": "2025-10-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你对本分误解太大了吧？！做Ai才是该做的事情啊。再不做好Ai，就会被Ai淘汰的。每个人都可能需要认真了解和学习Ai的。",
+    "post_url": "https://xueqiu.com/1247347556/359274892",
+    "post_date": "2025-10-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "关键是你卖了后买什么。好公司要惜卖。",
+    "post_url": "https://xueqiu.com/1247347556/359196653",
+    "post_date": "2025-10-30",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "哈，这是要变Ai股了吗？$4万亿市值，40倍的pe，有点看不懂了。",
+    "post_url": "https://xueqiu.com/1247347556/359196330",
+    "post_date": "2025-10-30",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

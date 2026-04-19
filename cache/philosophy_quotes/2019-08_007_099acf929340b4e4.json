@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不推荐股票！你如果明白持有=买入的话，你就能省200块了。",
+    "post_url": "https://xueqiu.com/1247347556/131561919",
+    "post_date": "2019-08-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "大道的基金会不接受公众捐款。",
+    "post_url": "https://xueqiu.com/1247347556/131562445",
+    "post_date": "2019-08-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "黄峥确实是大道的好学生。本分，简单，却直达问题本质。",
+    "post_url": "https://xueqiu.com/1247347556/131550561",
+    "post_date": "2019-08-21",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "“持有=买入”不是一个观点，是个事实（忽略和交易相关的费用）。",
+    "post_url": "https://xueqiu.com/1247347556/131580318",
+    "post_date": "2019-08-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "fbe27d15-0c92-4036-8afc-79ce5ad68fbf",
+    "stock": "伯克希尔哈撒韦",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2019-09-29",
+    "sentiment": "bullish",
+    "summary": "长期表现将超越标普",
+    "quote": "老巴的文化还在，会持续很多年的，肯定比基金的平均回报好，应该能比S&P好一点点，以每十年记哈。",
+    "source_file": "2019-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": ""
+  },
+  {
+    "id": "fa9c6b92-38fd-484f-b8fe-8a4b3ee2347a",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-09-29",
+    "sentiment": "bullish",
+    "summary": "不必算顶继续看好",
+    "quote": "如果你的钱没别的更好的地方去的话，大概就属于算的太多而想的不够了。",
+    "source_file": "2019-09_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/133522305"
+  }
+]

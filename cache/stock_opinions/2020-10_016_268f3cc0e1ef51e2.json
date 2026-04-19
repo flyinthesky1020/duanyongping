@@ -1,0 +1,16 @@
+[
+  {
+    "id": "58363cfc-4c93-4fc6-b0dc-2fd4612535dd",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2020-10-17",
+    "sentiment": "bearish",
+    "summary": "不盈利则价值为零",
+    "quote": "比如，如果pdd最后无法盈利，那这个公司的价值最后就会是零。",
+    "source_file": "2020-10_batch016",
+    "source_type": "xueqiu",
+    "chunk_index": 16,
+    "url": "https://xueqiu.com/1247347556/161119669"
+  }
+]

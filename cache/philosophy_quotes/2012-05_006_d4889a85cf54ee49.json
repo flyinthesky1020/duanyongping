@@ -1,0 +1,44 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买期权是赌，赌是错的。",
+    "post_url": "https://xueqiu.com/1247347556/21805267",
+    "post_date": "2012-05-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买期权是错的事情，句号。",
+    "post_url": "https://xueqiu.com/1247347556/21805029",
+    "post_date": "2012-05-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "Peter绝对是个精于投资的人，但可以同时买1500只股票确实是凡人做不到的。我不喜欢Peter是因为我看不懂他为什么要买那么多股票，确实没时间去看人家同时持有1500只股票理由。",
+    "post_url": "https://xueqiu.com/1247347556/21805137",
+    "post_date": "2012-05-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不过我相信他们投的时候的思路绝对是价值投资的思路。再说价值投资也不一定就赚钱（价值投资也会犯错），只是长期而言赚钱的概率高而已。",
+    "post_url": "https://xueqiu.com/1247347556/21805102",
+    "post_date": "2012-05-14",
+    "mentioned_stocks": [
+      "比亚迪股份"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "和今天比，我赌30年后会更好些。",
+    "post_url": "https://xueqiu.com/1247347556/21799690",
+    "post_date": "2012-05-13",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

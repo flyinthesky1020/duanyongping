@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "经济学的“速度”实际上是物理里面的“加速度”。投资买的是未来的总量，是物理里面的“速度”x“时间”得到的“总长度”，当然有点“加速度”会在单位时间里跑得更远。",
+    "post_url": "https://xueqiu.com/1247347556/381736236",
+    "post_date": "2026-03-29",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你干嘛要瞎操心，或者说人家干嘛要为你这种炒短线的瞎操心？conference call上已经说得不能再清楚了，你仔细看看就反正还是爱明白不明白。",
+    "post_url": "https://xueqiu.com/1247347556/381630381",
+    "post_date": "2026-03-28",
+    "mentioned_stocks": [
+      "PDD"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "Martin投资肯定比你好很多吧，你为什么会头疼？",
+    "post_url": "https://xueqiu.com/1247347556/381626798",
+    "post_date": "2026-03-28",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这两天花时间再看了看泡泡玛特，决定收回对方丈说的我不投资泡泡玛特的说法。",
+    "post_url": "https://xueqiu.com/1247347556/381736236",
+    "post_date": "2026-03-29",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "如果他们违法了，你应该起诉他们而不是找我。",
+    "post_url": "https://xueqiu.com/1247347556/381689957",
+    "post_date": "2026-03-29",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

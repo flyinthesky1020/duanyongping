@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你要想不通10年后是怎么回事，最好还是把钱存在银行里比较安全。",
+    "post_url": "https://xueqiu.com/1247347556/308992399",
+    "post_date": "2024-10-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "一般而言，产品差异化比较小的生意都有可能是苦生意。苦生意也是生意，做好了小日子也能过得去的，就像小区的那些小杂货店一样。",
+    "post_url": "https://xueqiu.com/1247347556/308956526",
+    "post_date": "2024-10-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "确实买过一点顺丰，但很快就离场了，因为觉得商业模式比较辛苦，虽然企业文化还不错。",
+    "post_url": "https://xueqiu.com/1247347556/308956526",
+    "post_date": "2024-10-21",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "一般是逐步积累的，所以除了好的商业模式外，好的企业文化也很重要。",
+    "post_url": "https://xueqiu.com/1247347556/308887579",
+    "post_date": "2024-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "确实买过一点顺丰，但很快就离场了，因为觉得商业模式比较辛苦，虽然企业文化还不错。",
+    "post_url": "https://xueqiu.com/1247347556/308956526",
+    "post_date": "2024-10-21",
+    "mentioned_stocks": [
+      "顺丰"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不了解你说的这个生意。我其实蛮好奇的是为什么那么多人会问其实自己也不了解的生意的呢？如果你不了解，别人说啥又有啥意义？我说过那么久的苹果和茅台，很小比例的人信过吧？！",
+    "post_url": "https://xueqiu.com/1247347556/160546727",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我目前还是不熟不做，对别的方法不太了解。",
+    "post_url": "https://xueqiu.com/1247347556/160550736",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "这个我完全不懂。",
+    "post_url": "https://xueqiu.com/1247347556/160551135",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "没有太大改变，我依然觉得他们很难赚钱，虽然很多人喜欢这个公司的股票。",
+    "post_url": "https://xueqiu.com/1247347556/160550897",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 3
+  }
+]

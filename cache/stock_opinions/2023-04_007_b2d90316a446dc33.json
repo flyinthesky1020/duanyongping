@@ -1,0 +1,16 @@
+[
+  {
+    "id": "17664af6-2cf8-4cd6-93ba-71ffc69359f1",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2023-04-06",
+    "sentiment": "bullish",
+    "summary": "长看短做卖put",
+    "quote": "开始思考阿里，先卖点put再说。长看短做的卖put策略其实蛮好玩的，但很难赚到大钱。",
+    "source_file": "2023-04_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": ""
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1bf04c78-977c-4837-8837-ee319f92620b",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-05-16",
+    "sentiment": "bullish",
+    "summary": "目前无换股打算",
+    "quote": "目前我并没有想用苹果换的公司。万一被call走，我会买个t-bill，然后找机会卖个相应价位的put。",
+    "source_file": "2024-05_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/290322308"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你比80%的人更懂了。",
+    "post_url": "https://xueqiu.com/1247347556/361851237",
+    "post_date": "2025-11-16",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "他们的商业模式看上去很难匹敌苹果的。",
+    "post_url": "https://xueqiu.com/1247347556/361850895",
+    "post_date": "2025-11-16",
+    "mentioned_stocks": [
+      "影石创新",
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

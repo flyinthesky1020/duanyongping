@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9aac71f9-54c4-4d46-afa3-8d75f8012c72",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2023-03-15",
+    "sentiment": "bullish",
+    "summary": "想多买点，长期回报不错",
+    "quote": "看了这次检验结果后想多买点倒是真的。这个价钱拿个5年或更长的时间的回报应该会不错。",
+    "source_file": "2023-03_batch013",
+    "source_type": "xueqiu",
+    "chunk_index": 13,
+    "url": "https://xueqiu.com/1247347556/244581126"
+  },
+  {
+    "id": "5300207f-05af-413a-aab6-e71d1625b821",
+    "stock": "第一共和银行",
+    "ticker": "FRC",
+    "market": "US",
+    "date": "2023-03-15",
+    "sentiment": "bearish",
+    "summary": "飞刀最好别接，危险",
+    "quote": "这种飞刀最好别接，确实有危险的。",
+    "source_file": "2023-03_batch013",
+    "source_type": "xueqiu",
+    "chunk_index": 13,
+    "url": "https://xueqiu.com/1247347556/244567787"
+  },
+  {
+    "id": "9ddd499c-c3b8-4695-bef9-4a209b7cb8e1",
+    "stock": "亚马逊",
+    "ticker": "AMZN",
+    "market": "US",
+    "date": "2023-03-15",
+    "sentiment": "bearish",
+    "summary": "零售难赚钱，云业务受压",
+    "quote": "我对amazon的看法一直是：零售很难赚钱，cloud会受到其他大公司的影响，微软Google苹果这些公司的云服务未来会占到一定市场份儿的",
+    "source_file": "2023-03_batch013",
+    "source_type": "xueqiu",
+    "chunk_index": 13,
+    "url": "https://xueqiu.com/1247347556/244573685"
+  }
+]

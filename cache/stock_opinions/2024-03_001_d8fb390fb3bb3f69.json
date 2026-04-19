@@ -1,0 +1,16 @@
+[
+  {
+    "id": "fe25117f-10b9-47c2-b820-288dbc416f10",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-03-28",
+    "sentiment": "bullish",
+    "summary": "卖出看跌期权",
+    "quote": "卖了一些put.",
+    "source_file": "2024-03_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/283543718"
+  }
+]

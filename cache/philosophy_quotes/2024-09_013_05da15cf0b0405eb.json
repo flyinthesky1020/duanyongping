@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太了解银行。",
+    "post_url": "https://xueqiu.com/1247347556/304693766",
+    "post_date": "2024-09-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "买着底未必就是好事。",
+    "post_url": "https://xueqiu.com/1247347556/304633732",
+    "post_date": "2024-09-13",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "对没地方去的闲钱而言，这依然是最好的去处之一，你就当买了个长期债券，每年还给你付利息。",
+    "post_url": "https://xueqiu.com/1247347556/304631986",
+    "post_date": "2024-09-13",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "这是个非常好的问题，我觉得我会用金条换茅台，至少20年后回头来看，茅台应该比黄金好不少！",
+    "post_url": "https://xueqiu.com/1247347556/304571325",
+    "post_date": "2024-09-12",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "下次说102年。",
+    "post_url": "https://xueqiu.com/1247347556/304622334",
+    "post_date": "2024-09-12",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

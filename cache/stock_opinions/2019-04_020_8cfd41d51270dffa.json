@@ -1,0 +1,30 @@
+[
+  {
+    "id": "72f7ba52-e972-44fe-8904-660231f5453d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-04-06",
+    "sentiment": "bullish",
+    "summary": "茅台增长无瓶颈",
+    "quote": "我觉得在相对于通胀而言，茅台增长没有瓶颈，应该可以轻松打败通胀。",
+    "source_file": "2019-04_batch020",
+    "source_type": "xueqiu",
+    "chunk_index": 20,
+    "url": "https://xueqiu.com/1247347556/124620931"
+  },
+  {
+    "id": "90268d6a-2693-4650-b211-f19533364861",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-04-06",
+    "sentiment": "bullish",
+    "summary": "苹果是好的投资标的",
+    "quote": "两个都是好的投资标的，一个可以用人民币买一个可以用美金买。他们的伟大和产能有没有上限没有太多关系。",
+    "source_file": "2019-04_batch020",
+    "source_type": "xueqiu",
+    "chunk_index": 20,
+    "url": "https://xueqiu.com/1247347556/124624950"
+  }
+]

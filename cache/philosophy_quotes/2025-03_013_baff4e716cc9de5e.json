@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "是啊，这是非常短视的做法，所以懂王自己生意一直做得不好，现在终于找到赚大钱的办法了。",
+    "post_url": "https://xueqiu.com/1247347556/326939909",
+    "post_date": "2025-03-11",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "叫7NT时bluffing是非常危险的。希望懂王只是bluffing，不然1929年的大萧条结局可不是闹着玩的。",
+    "post_url": "https://xueqiu.com/1247347556/326938834",
+    "post_date": "2025-03-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "今天卖了点点明年一月到期的put。",
+    "post_url": "https://xueqiu.com/1247347556/326939072",
+    "post_date": "2025-03-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "用户不误解就没问题，其他都是浮云。",
+    "post_url": "https://xueqiu.com/1247347556/326939183",
+    "post_date": "2025-03-11",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "对在中国生活的中国人而言，当然是A股要容易明白。所谓A股更适合做价值投资的意思实际上是 其能力圈覆盖范围内A股比较好懂。对老美而言，当然是美股容易懂。",
+    "post_url": "https://xueqiu.com/1247347556/21398188",
+    "post_date": "2012-02-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "汗了，怪不得cyou股价上不去，原来他们还搞副业啊。电影广告公司居然也买？看不懂。",
+    "post_url": "https://xueqiu.com/1247347556/21405832",
+    "post_date": "2012-02-06",
+    "mentioned_stocks": [
+      "CYOU",
+      "畅游"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "看谁的都不如看老巴的。看不懂老巴的看别人的会更糟，如果真能看懂老巴讲什么，别的其实没太大必要看。东看西看其实可能还是信心不够的表现。",
+    "post_url": "https://xueqiu.com/1247347556/21398872",
+    "post_date": "2012-02-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "推那么多机种，早晚是要出问题的。",
+    "post_url": "https://xueqiu.com/1247347556/21405584",
+    "post_date": "2012-02-06",
+    "mentioned_stocks": [
+      "苹果",
+      "AAPL"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "不研究产品难道还有别的办法?",
+    "post_url": "https://xueqiu.com/1247347556/21398189",
+    "post_date": "2012-02-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

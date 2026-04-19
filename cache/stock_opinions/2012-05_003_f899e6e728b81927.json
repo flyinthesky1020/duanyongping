@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2f85fed8-b3b1-4aab-806a-aada67aef0f7",
+    "stock": "诺基亚",
+    "ticker": "NOK",
+    "market": "US",
+    "date": "2012-05-19",
+    "sentiment": "bearish",
+    "summary": "诺基亚管理失误多",
+    "quote": "居然认为管理层没有重大决策失误[汗]。诺基亚是典型的成功是失败之母的典范，失误绝对一箩筐。",
+    "source_file": "2012-05_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/21823145"
+  }
+]

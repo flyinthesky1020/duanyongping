@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7e310489-9602-4561-a5ed-7d7738ff2e38",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2025-11-19",
+    "sentiment": "bullish",
+    "summary": "卖出看跌期权，愿长期持有",
+    "quote": "我卖put了，我很可能会一直卖，除非我又又又改变想法了。目前以卖短期的put为主，因为年化比较高（我觉得也许不至于就一飞冲天了吧）。我卖put的时候最重要的就是想一点：这个价钱卖给我10年后回头看是个便宜的价钱吗？如果答案是不便宜，那这个put就不可以卖。",
+    "source_file": "2025-11_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/362431918"
+  }
+]

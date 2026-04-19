@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1f646f4d-5236-4963-a4bc-2777618aef2e",
+    "stock": "泡泡玛特",
+    "ticker": "9992.HK",
+    "market": "HK",
+    "date": "2026-04-12",
+    "sentiment": "bullish",
+    "summary": "认为泡泡玛特已过关",
+    "quote": "我觉得泡泡玛特已经过了这一关了。",
+    "source_file": "2026-04_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/383540688"
+  }
+]

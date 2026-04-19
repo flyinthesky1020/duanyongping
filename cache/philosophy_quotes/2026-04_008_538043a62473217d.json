@@ -1,0 +1,54 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不做风投的，找到这样的投资犹如大海捞针，太难了，时间花不起。",
+    "post_url": "https://xueqiu.com/1247347556/383191908",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我们这派的人是不会问别人这个问题的，问的就肯定不是的。",
+    "post_url": "https://xueqiu.com/1247347556/383200496",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "其实是因为大多数人根本就不愿意去想或者去学习。比如说，有几个在这里对泡泡马特发表各种观点的人们是看过所有能找到的泡泡玛特的资料的？我发现如果看完所有你能找到的王宁的采访（包括视频），你对泡泡玛特的了解会比你以前知道的多得多。",
+    "post_url": "https://xueqiu.com/1247347556/383219118",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "会比现在被更多人认识和喜欢。",
+    "post_url": "https://xueqiu.com/1247347556/383202280",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "懂的意思是你大致能知道10年后是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/383193257",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "比特币更难理解。",
+    "post_url": "https://xueqiu.com/1247347556/383193408",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

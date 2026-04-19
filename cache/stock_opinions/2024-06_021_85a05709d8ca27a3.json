@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d640f927-bec5-4209-9969-af55732c819d",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-06-02",
+    "sentiment": "bullish",
+    "summary": "有闲钱建议买入",
+    "quote": "有闲钱当然买啊！难道每块钱的变动都要问一次么？10年后大概率是比银行利息好的。",
+    "source_file": "2024-06_batch021",
+    "source_type": "xueqiu",
+    "chunk_index": 21,
+    "url": "https://xueqiu.com/1247347556/292274386"
+  }
+]

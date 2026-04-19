@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我想10年。",
+    "post_url": "https://xueqiu.com/1247347556/163887017",
+    "post_date": "2020-11-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "不产生现金流的东西我不太容易看懂。",
+    "post_url": "https://xueqiu.com/1247347556/163886989",
+    "post_date": "2020-11-21",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你确定你看过我的东西？",
+    "post_url": "https://xueqiu.com/1247347556/163886941",
+    "post_date": "2020-11-21",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 3
+  }
+]

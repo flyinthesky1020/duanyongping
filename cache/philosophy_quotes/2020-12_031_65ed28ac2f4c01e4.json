@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "就是现在买，10年后回头看，我不容易找到总回报更多的地方。",
+    "post_url": "https://xueqiu.com/1247347556/164897320",
+    "post_date": "2020-12-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "企业文化其实非常实在，建议你看看苹果的发布会，体会一下不是虚无缥缈的企业文化。建议你从现在往前看10年的发布会，看完你会有体会的。",
+    "post_url": "https://xueqiu.com/1247347556/164894920",
+    "post_date": "2020-12-03",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

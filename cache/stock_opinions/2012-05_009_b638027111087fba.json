@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2c582035-f8e3-48aa-8bdf-9126ba3f71d2",
+    "stock": "完美世界",
+    "ticker": "PWRD",
+    "market": "US",
+    "date": "2012-05-03",
+    "sentiment": "bearish",
+    "summary": "国际化将压垮完美",
+    "quote": "如果将来有一天完美倒了，“国际化”会是最后压倒其的那根稻草（可能是很重的稻草）。",
+    "source_file": "2012-05_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/21770414"
+  }
+]

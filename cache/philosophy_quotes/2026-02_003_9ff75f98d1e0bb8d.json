@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "确实太集中了！你不妨分一半去买那些你搞不懂的东西，反正你至少有一半的钱长期看来回报应该还可以",
+    "post_url": "https://xueqiu.com/1247347556/375816770",
+    "post_date": "2026-02-10",
+    "mentioned_stocks": [
+      "茅台",
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "其实你就是很无聊吧？",
+    "post_url": "https://xueqiu.com/1247347556/375896339",
+    "post_date": "2026-02-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "是啊，最近那个小岛事件也是个旁证，可以看到马斯克可能不靠谱的地方。",
+    "post_url": "https://xueqiu.com/1247347556/375000928",
+    "post_date": "2026-02-04",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 2
+  }
+]

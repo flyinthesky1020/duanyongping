@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我投资的标准非常简单，就是在我自己能理解的范围内找长期回报较高的公司去持有。",
+    "post_url": "https://xueqiu.com/1247347556/123024697",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "网易",
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我从来没认为我投网易是逆向投资，我投苹果或茅台也不是为求稳。我投资的标准非常简单，就是在我自己能理解的范围内找长期回报较高的公司去持有。",
+    "post_url": "https://xueqiu.com/1247347556/123024697",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "网易",
+      "苹果",
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "个人觉得茅台的产品文化已经定型了，那么多人盯着，不会有人敢改变的。国营企业的优势在茅台上发挥的淋漓尽致，民营企业可能反而会因为个人的因素而有所变化。",
+    "post_url": "https://xueqiu.com/1247347556/123026684",
+    "post_date": "2019-03-14",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

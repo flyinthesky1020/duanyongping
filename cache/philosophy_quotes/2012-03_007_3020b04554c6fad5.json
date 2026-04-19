@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "老调重弹：不做空、不margin，不做不懂的东西。什么时候明白都不晚，不过真的明白恐怕都是在付出大代价之后。",
+    "post_url": "https://xueqiu.com/1247347556/21568758",
+    "post_date": "2012-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "对冲的好处是该赚时不多赚，该赔时不少赔",
+    "post_url": "https://xueqiu.com/1247347556/21568768",
+    "post_date": "2012-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "这种功夫花得越多赚得越少。",
+    "post_url": "https://xueqiu.com/1247347556/21559446",
+    "post_date": "2012-03-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "大概很少有人在涨了100倍依然不动心的，所以最关键的还是平常心去看基本面，忘记成本，忽略市场。",
+    "post_url": "https://xueqiu.com/1247347556/21568762",
+    "post_date": "2012-03-13",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "只想说一点：＂长期投资＂并不自动等于价值投资，但价值投资一般都是长期投资。",
+    "post_url": "https://xueqiu.com/1247347556/21568406",
+    "post_date": "2012-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不做不懂的东西。什么时候明白都不晚，不过真的明白恐怕都是在付出大代价之后。",
+    "post_url": "https://xueqiu.com/1247347556/21568758",
+    "post_date": "2012-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

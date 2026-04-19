@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "企业文化也非常重要，不然很难维持好的商业模式。我们公司的商业模式过去确实没那么好，直到做了智能手机。",
+    "post_url": "https://xueqiu.com/1247347556/126088091",
+    "post_date": "2019-05-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "首先是看懂了，觉得确实长期好，然后才是回报率的问题。我一般觉得8%就可以了，但这些年下来的结果总是和我想像的不太一样。",
+    "post_url": "https://xueqiu.com/1247347556/126081136",
+    "post_date": "2019-05-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "首先是看懂了，觉得确实长期好，然后才是回报率的问题。",
+    "post_url": "https://xueqiu.com/1247347556/126081136",
+    "post_date": "2019-05-04",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "抚平利润是个很荒唐的事情，会抚平利润的公司未来就可能做假利润哈，你决定吧，要么换茅台？",
+    "post_url": "https://xueqiu.com/1247347556/126081089",
+    "post_date": "2019-05-04",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

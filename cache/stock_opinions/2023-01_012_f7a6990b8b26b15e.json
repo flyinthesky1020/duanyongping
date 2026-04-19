@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9639551a-d20e-447a-b47c-8f6c97a8cc12",
+    "stock": "伯克希尔哈撒韦",
+    "ticker": "BRK",
+    "market": "US",
+    "date": "2023-01-06",
+    "sentiment": "bullish",
+    "summary": "看好BRK打败通胀",
+    "quote": "我个人认为BRK大概率可以打败通胀，大于51%的",
+    "source_file": "2023-01_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/239366785"
+  }
+]

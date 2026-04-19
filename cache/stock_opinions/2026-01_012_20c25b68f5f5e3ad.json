@@ -1,0 +1,16 @@
+[
+  {
+    "id": "bdae710c-ba18-4a36-af46-0f455cf9a75a",
+    "stock": "洪恩",
+    "ticker": "IH",
+    "market": "US",
+    "date": "2026-01-05",
+    "sentiment": "bearish",
+    "summary": "商业模式不吸引",
+    "quote": "用Ai看了一下，商业模式对我没吸引力。",
+    "source_file": "2026-01_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/368887734"
+  }
+]

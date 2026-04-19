@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你考虑了一些和公司价值无关的东西，比如股息。这类公司规模太小且难以做大，一般不是我会关注的对象",
+    "post_url": "https://xueqiu.com/1247347556/124834247",
+    "post_date": "2019-04-09",
+    "mentioned_stocks": [
+      "谭木匠"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "A股除了茅台外，还有没有类似的商业模式特别好，拿个十年都不用睡不好觉的公司？请列举理由哈。",
+    "post_url": "https://xueqiu.com/1247347556/124791870",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "商业模式特别好，拿个十年都不用睡不好觉的公司",
+    "post_url": "https://xueqiu.com/1247347556/124791870",
+    "post_date": "2019-04-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  }
+]

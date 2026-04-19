@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "本分就是要做对的事情和要把事情做对。平常心就是回到事物本源的心态，也就是要努力认清什么是对的事情，认清事物的本质。",
+    "post_url": "https://xueqiu.com/1247347556/133182073",
+    "post_date": "2019-09-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我从来就不认同返利的逻辑。",
+    "post_url": "https://xueqiu.com/1247347556/133164040",
+    "post_date": "2019-09-22",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "塑化剂只是一个机会，和我买不买并没有必然关系。",
+    "post_url": "https://xueqiu.com/1247347556/133163625",
+    "post_date": "2019-09-22",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "Geico 和Costco都是靠的商业模式，但我们这里说的是制造业哈。",
+    "post_url": "https://xueqiu.com/1247347556/164014152",
+    "post_date": "2020-11-23",
+    "mentioned_stocks": [
+      "Geico",
+      "Costco"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我的理解中，创业一般是有个想法才去创业的。为创业而创业能成功的概率更低。",
+    "post_url": "https://xueqiu.com/1247347556/164022529",
+    "post_date": "2020-11-23",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你知道什么公司是优质公司，或者你知道有些优秀管理人比如巴菲特，如果你真的能分辨的话，你自然有结论的。",
+    "post_url": "https://xueqiu.com/1247347556/164049456",
+    "post_date": "2020-11-23",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "好吧，据说我们的教育电子也有计划进入线上教育了。过几年我也许能比较好地回答这个问题。",
+    "post_url": "https://xueqiu.com/1247347556/164050796",
+    "post_date": "2020-11-23",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

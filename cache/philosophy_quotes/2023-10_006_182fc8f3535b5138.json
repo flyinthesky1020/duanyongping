@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "产品角度，是慢慢摸索出来的，发现不对，赶紧停。比如苹果的充电器，说了一年了，今年没推出来。没推出来，肯定是有问题没解决。没解决就不推。",
+    "post_url": "https://xueqiu.com/1247347556/262416921",
+    "post_date": "2023-10-02",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我一直认为我们最大的竞争对手就是我们自己。实际上，排名不是我们要追求的东西。能做出用户喜欢的产品才是我们的追求。",
+    "post_url": "https://xueqiu.com/1247347556/262416921",
+    "post_date": "2023-10-02",
+    "mentioned_stocks": [
+      "OPPO",
+      "vivo"
+    ],
+    "quality_score": 4
+  }
+]

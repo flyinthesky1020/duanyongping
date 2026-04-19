@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "恶人自有恶人磨！我要是你就不跟这种人较劲了，远离的成本最低。",
+    "post_url": "https://xueqiu.com/1247347556/315967071",
+    "post_date": "2024-12-08",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你确定你在做对的事情？那时，我喜欢玩游戏机，知道我的产品只要质量好了就一定会有人要的，所以我努力做好质量和售后就好。",
+    "post_url": "https://xueqiu.com/1247347556/316080458",
+    "post_date": "2024-12-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "回购不会改变任何东西，能够回购的背后的原因才会。",
+    "post_url": "https://xueqiu.com/1247347556/316488416",
+    "post_date": "2024-12-11",
+    "mentioned_stocks": [
+      "苹果公司"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "每个公司都可以回购的，如果他们能赚到钱的话。苹果股价现在相对于过去确实不便宜的，相对于未来我不知道。",
+    "post_url": "https://xueqiu.com/1247347556/316418832",
+    "post_date": "2024-12-11",
+    "mentioned_stocks": [
+      "苹果公司"
+    ],
+    "quality_score": 4
+  }
+]

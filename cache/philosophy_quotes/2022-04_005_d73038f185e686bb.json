@@ -1,0 +1,43 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "道理上来说，供求平衡的价格是比较接近合理的，目前这种中签率说明茅台零售价不是很合理。希望i茅台的量会慢慢占到主流，这样能够平滑地解决很多矛盾。",
+    "post_url": "https://xueqiu.com/1247347556/216313081",
+    "post_date": "2022-04-06",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "也许以后就可以叫电商茅台了，感觉茅台是有资格这么做的！西南航空公司的机票好像就是只在自己的网站卖的，省下很多中间的费用，和用户的沟通也更直接。茅台要完全过渡到电商不知道行不行，毕竟有很多历史的因素在里面，但慢慢过渡到大比例在网上卖想不出有什么不可以的吧？",
+    "post_url": "https://xueqiu.com/1247347556/216015162",
+    "post_date": "2022-04-01",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "i茅台真的是个蛮好的主意，假以时日应该可以解决目前茅台面临的一些棘手的问题。不知道需要多久，但似乎已经有办法了。我猜五年内应该就可以了吧？而且，这么多人每天刷，广告费可以省大了去了哈。",
+    "post_url": "https://xueqiu.com/1247347556/216013945",
+    "post_date": "2022-04-01",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "不过，Apple Pay在很多国家里已经慢慢普及开了，国内慢慢也会越来越多人用的，但因为有微信等支付的原因，估计要慢很多，但10年后也许也会很普及的。",
+    "post_url": "https://xueqiu.com/1247347556/216010265",
+    "post_date": "2022-04-01",
+    "mentioned_stocks": [
+      "苹果",
+      "腾讯"
+    ],
+    "quality_score": 2
+  }
+]

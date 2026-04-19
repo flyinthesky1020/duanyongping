@@ -1,0 +1,16 @@
+[
+  {
+    "id": "285f66df-d2fb-4d2e-9525-80a5eca8cb43",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-07-18",
+    "sentiment": "bullish",
+    "summary": "更偏好苹果",
+    "quote": "好公司，但也只是一个零售商而已（芒格的意思）。我更喜欢苹果。",
+    "source_file": "2024-07_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/298036525"
+  }
+]

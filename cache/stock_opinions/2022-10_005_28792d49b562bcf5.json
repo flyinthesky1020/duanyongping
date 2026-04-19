@@ -1,0 +1,16 @@
+[
+  {
+    "id": "0c20c4e4-a527-42ec-aef1-cba058fe1ec8",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2022-10-13",
+    "sentiment": "bearish",
+    "summary": "看不懂PDD商业模式",
+    "quote": "挑战amazon可能性不大，但在某些细分市场占有一席之地是有可能的。我依然看不懂这个商业模式，没办法想象五年十年以后会是什么样子。",
+    "source_file": "2022-10_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/232662736"
+  }
+]

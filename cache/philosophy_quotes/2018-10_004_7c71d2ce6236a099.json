@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不了解。",
+    "post_url": "https://xueqiu.com/1247347556/114689146",
+    "post_date": "2018-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我不操心这种事情，这应该是公司管理层操心的事情。",
+    "post_url": "https://xueqiu.com/1247347556/114693135",
+    "post_date": "2018-10-08",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "是，那时万科确实便宜，不过我还是买了茅台",
+    "post_url": "https://xueqiu.com/1247347556/114686180",
+    "post_date": "2018-10-08",
+    "mentioned_stocks": [
+      "万科",
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  }
+]

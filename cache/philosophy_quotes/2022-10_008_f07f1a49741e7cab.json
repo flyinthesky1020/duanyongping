@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不敢说腾讯是乱投资，但腾讯确实有很多财务投资是我很难理解的。我能接受战略投资，但财务投资为什么不能让股东们自己去决定呢？（就是把钱还给股东或回购股票的意思）",
+    "post_url": "https://xueqiu.com/1247347556/232419364",
+    "post_date": "2022-10-10",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "FB真的是我糊里糊涂买糊里糊涂赚但很清楚卖掉的公司之一吧。我还记得当时看到小扎在国会质询回答问题时，我突然感觉到...",
+    "post_url": "https://xueqiu.com/1247347556/232286700",
+    "post_date": "2022-10-09",
+    "mentioned_stocks": [
+      "Meta Platforms"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "那要看怎么看了。作为一个满仓主义者，账面最近也是掉了不少。不过想起苹果的回购价因此便宜了那么多，如果这样多持续一段时间，不知道算不算是运气女神的眷顾？",
+    "post_url": "https://xueqiu.com/1247347556/232375952",
+    "post_date": "2022-10-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "公司的价值和其到过什么价格并不一定有任何关系。",
+    "post_url": "https://xueqiu.com/1247347556/232288762",
+    "post_date": "2022-10-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

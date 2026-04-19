@@ -1,0 +1,44 @@
+[
+  {
+    "id": "76977137-8ba8-4fbf-b647-487ebcd7df4c",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-07-09",
+    "sentiment": "bullish",
+    "summary": "有闲钱就买茅台",
+    "quote": "一直在买啊。有闲钱就买。",
+    "source_file": "2024-07_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/296752999"
+  },
+  {
+    "id": "d0386e69-8019-4852-a5df-3735357f6b98",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-07-09",
+    "sentiment": "bullish",
+    "summary": "卖put买回苹果股份",
+    "quote": "上礼拜五被225call走了一些苹果，今天用这个办法买回来了一部分，有机会会都买回来。",
+    "source_file": "2024-07_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/296739961"
+  },
+  {
+    "id": "0e0532d9-2d38-41f4-ab1a-db7ac6d7bc47",
+    "stock": "阿里巴巴",
+    "ticker": "BABA",
+    "market": "US",
+    "date": "2024-07-09",
+    "sentiment": "bullish",
+    "summary": "180-202价位考虑买入",
+    "quote": "去年前年说的好像是170算好价钱，现在也许可以180出头？我大概就是按照这个想法决定卖put的价位。",
+    "source_file": "2024-07_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/296570690"
+  }
+]

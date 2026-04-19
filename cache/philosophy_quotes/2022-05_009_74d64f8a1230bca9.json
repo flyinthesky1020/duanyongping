@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "呵呵，你要是想忙一天的话，就请朋友来家里吃饭。你要是想忙一年的话，就装修你的房子。你要是想忙一辈子的话，就多买几个这样的企业。",
+    "post_url": "https://xueqiu.com/1247347556/219012857",
+    "post_date": "2022-05-03",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "比特币不产生现金流，无法评估，属于不懂不碰的范畴。同理，我也不会投资名画，邮票，古董，郁金香……，自己用的不算投资，虽然也可能会赚钱。",
+    "post_url": "https://xueqiu.com/1247347556/218937459",
+    "post_date": "2022-05-01",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "比特币不产生现金流，无法评估，属于不懂不碰的范畴。",
+    "post_url": "https://xueqiu.com/1247347556/218937459",
+    "post_date": "2022-05-01",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "对有稳定成长的公司而言，这几乎就是道简单的算术题。10%的年增长率，假设投之前的盈利是1的话，30pe就意味着投入30，第10年的回报总和就是17.5，第20年是63（如果我没算错的话）。而且，茅台10%的平均成长很可能低估了。假如你有一笔现金，长期没有使用计划，你觉得投在哪里最舒服（合算）？",
+    "post_url": "https://xueqiu.com/1247347556/218940879",
+    "post_date": "2022-05-01",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "对有稳定成长的公司而言，这几乎就是道简单的算术题。10%的年增长率，假设投之前的盈利是1的话，30pe就意味着投入30，第10年的回报总和就是17.5，第20年是63（如果我没算错的话）。而且，茅台10%的平均成长很可能低估了。",
+    "post_url": "https://xueqiu.com/1247347556/218940879",
+    "post_date": "2022-05-01",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  }
+]

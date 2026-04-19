@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "因为喝茅台酒的人喜欢喝茅台酒。",
+    "post_url": "https://xueqiu.com/1247347556/162157501",
+    "post_date": "2020-10-30",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不懂不碰。",
+    "post_url": "https://xueqiu.com/1247347556/162157480",
+    "post_date": "2020-10-30",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对两个行业都不太了解，我只是觉得茅台还蛮好的。",
+    "post_url": "https://xueqiu.com/1247347556/162072521",
+    "post_date": "2020-10-29",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不太想人类未来这么大的问题的，所以也无法描述，唯一知道的是太阳系大概还有大概50亿年左右的寿命，留给人类的时间不多了。",
+    "post_url": "https://xueqiu.com/1247347556/162065966",
+    "post_date": "2020-10-29",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "该放弃的就应该放弃,舍得就是这个意思。",
+    "post_url": "https://xueqiu.com/1247347556/162157426",
+    "post_date": "2020-10-30",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

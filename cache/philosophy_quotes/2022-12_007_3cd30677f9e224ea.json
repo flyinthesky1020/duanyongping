@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "市值管理的说法好像有点不太好，但目前做的事情倒是没啥问题。希望以后不会为了\"市值管理\"做不对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/237969101",
+    "post_date": "2022-12-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我不喜欢无缘无故被人代表，所以也不敢不经同意代表别人。",
+    "post_url": "https://xueqiu.com/1247347556/237969177",
+    "post_date": "2022-12-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我觉得\"市值管理\"的说法有点问题，感觉茅台做了一件对的事情，但用了不太对的说法，文化上会让人觉得市值是可以管理的。",
+    "post_url": "https://xueqiu.com/1247347556/237969509",
+    "post_date": "2022-12-15",
+    "mentioned_stocks": [
+      "贵州茅台"
+    ],
+    "quality_score": 3
+  }
+]

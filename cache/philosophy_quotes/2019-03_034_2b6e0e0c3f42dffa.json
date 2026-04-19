@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不在位很多年，不知道现在的stop doing list，但每个人最好去积累自己的stop doing list会比较有效果。",
+    "post_url": "https://xueqiu.com/1247347556/122956409",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "平常心也许能帮上忙?无论你想买的时候还是想卖的时候，先回到原点，想下这是不是件正确的事情。买和其曾经到过的价钱无关，卖和你的成本无关。这样想，犯错的概率大概就低了？",
+    "post_url": "https://xueqiu.com/1247347556/122956070",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "如果你认为你看到了这两点才投的，那和本分没有任何冲突啊。",
+    "post_url": "https://xueqiu.com/1247347556/122956187",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [
+      "拼多多"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我对不看好苹果的言论基本都看过，觉得他们对苹果太不了解或者看得太短了。",
+    "post_url": "https://xueqiu.com/1247347556/122956486",
+    "post_date": "2019-03-13",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "631956ac-9154-4fe0-99d2-4a6e6205e942",
+    "stock": "Yahoo",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2012-05-21",
+    "sentiment": "bullish",
+    "summary": "雅虎中期看好",
+    "quote": "毛估估一下，5年大概能有50-100%的回报，确实不是很好，但会好过市场平均值。",
+    "source_file": "2012-05_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/21827892"
+  }
+]

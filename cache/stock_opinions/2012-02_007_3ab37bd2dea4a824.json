@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9da2538a-58ee-4481-ba3e-270e7c48cc6f",
+    "stock": "畅游",
+    "ticker": "CYOU",
+    "market": "US",
+    "date": "2012-02-06",
+    "sentiment": "bearish",
+    "summary": "不看好乱收购",
+    "quote": "汗了，怪不得cyou股价上不去，原来他们还搞副业啊。电影广告公司居然也买？看不懂。",
+    "source_file": "2012-02_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/21405832"
+  },
+  {
+    "id": "003ac64a-f598-4d36-be2a-c00ffa142f5f",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2012-02-06",
+    "sentiment": "bearish",
+    "summary": "机种多要出问题",
+    "quote": "推那么多机种，早晚是要出问题的。",
+    "source_file": "2012-02_batch007",
+    "source_type": "xueqiu",
+    "chunk_index": 7,
+    "url": "https://xueqiu.com/1247347556/21405584"
+  }
+]

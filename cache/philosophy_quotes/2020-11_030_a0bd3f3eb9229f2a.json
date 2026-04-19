@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "都可以买到，不过好公司价钱一般不便宜。如果买不到，那我们岂不是没事干了？",
+    "post_url": "https://xueqiu.com/1247347556/162777531",
+    "post_date": "2020-11-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我对港股不了解，只是买了些腾讯。",
+    "post_url": "https://xueqiu.com/1247347556/162777520",
+    "post_date": "2020-11-08",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "留了点钱等大选，结果大选结果猜对了，市场\"预测\"错了。还是那句话，啥时候想市场都可能是错的。",
+    "post_url": "https://xueqiu.com/1247347556/162878741",
+    "post_date": "2020-11-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

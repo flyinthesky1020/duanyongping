@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "想清楚不对就马上决定改变了，不过改变是需要时间的。比如考研需要备考，换工作需要找工作等等。",
+    "post_url": "https://xueqiu.com/1247347556/164888547",
+    "post_date": "2020-12-03",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我个人对小家电没看法，但觉得小家电不是我们擅长的领域。后来未了聚焦在手机上，OPPO把小家电停了是非常对的决策。",
+    "post_url": "https://xueqiu.com/1247347556/164888337",
+    "post_date": "2020-12-03",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我个人对小家电没看法，但觉得小家电不是我们擅长的领域。后来未了聚焦在手机上，OPPO把小家电停了是非常对的决策。",
+    "post_url": "https://xueqiu.com/1247347556/164888337",
+    "post_date": "2020-12-03",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "已经说得很清楚了，不是我喜欢的商业模式，拿不住。",
+    "post_url": "https://xueqiu.com/1247347556/164888306",
+    "post_date": "2020-12-03",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "如果你有现金，想想放在银行20年还是现在买成茅台的区别吧。如果你想不明白，那你还要继续想哈。",
+    "post_url": "https://xueqiu.com/1247347556/160570284",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "如果你真觉得你持有的股票价格低于其内在价值，同时还有现金在手，你愿意拿着现金的理由是什么？还是说你其实是在怕什么？",
+    "post_url": "https://xueqiu.com/1247347556/160569117",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "黄铮是个非常有悟性的人，但我对拼多多不是太了解，虽然我是早期投资者。我对李想汽车了解度是0，毕竟我早就是有车族了，了解其他车不容易哈。",
+    "post_url": "https://xueqiu.com/1247347556/160568966",
+    "post_date": "2020-10-08",
+    "mentioned_stocks": [
+      "拼多多",
+      "李想汽车"
+    ],
+    "quality_score": 5
+  }
+]

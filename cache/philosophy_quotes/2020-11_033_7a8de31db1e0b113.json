@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "从一个弹坑跳到另外一个弹坑，重蹈覆辙是正常的。",
+    "post_url": "https://xueqiu.com/1247347556/162710216",
+    "post_date": "2020-11-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "苹果最厉害的就是在苹果的企业文化下建立的生态系统，这是个非常强大得商业模式，非常难以撼动。",
+    "post_url": "https://xueqiu.com/1247347556/162696353",
+    "post_date": "2020-11-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "苹果最厉害的就是在苹果的企业文化下建立的生态系统，这是个非常强大得商业模式，非常难以撼动。",
+    "post_url": "https://xueqiu.com/1247347556/162696353",
+    "post_date": "2020-11-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "是啊，苹果每次大跌的时候我都会加码，每一次！想到10年后的时候，自己喜欢的股票大跌怎么会心情不好呢？不过确实绝大部分早年跟我买苹果的都早卖掉了。",
+    "post_url": "https://xueqiu.com/1247347556/162696134",
+    "post_date": "2020-11-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "既然你觉得茅台可以永续经营，你就用一万年折算呗，如果你真的知道现金流折现的意思的话。",
+    "post_url": "https://xueqiu.com/1247347556/162662073",
+    "post_date": "2020-11-05",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  }
+]

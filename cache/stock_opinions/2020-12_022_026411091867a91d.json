@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2aa0e163-7158-4331-a2b5-d9e0468b4a9d",
+    "stock": "Amazon",
+    "ticker": "AMZN",
+    "market": "US",
+    "date": "2020-12-03",
+    "sentiment": "bullish",
+    "summary": "买入少量Amazon",
+    "quote": "我觉得amazon是个好公司，但似乎太过了点，所以只是买了一点点。",
+    "source_file": "2020-12_batch022",
+    "source_type": "xueqiu",
+    "chunk_index": 22,
+    "url": "https://xueqiu.com/1247347556/164924665"
+  }
+]

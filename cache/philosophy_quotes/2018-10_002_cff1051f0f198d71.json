@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "专注在公司生意上，忽略短期的波动很重要。眼前这些事10年后都不是事。",
+    "post_url": "https://xueqiu.com/1247347556/115181231",
+    "post_date": "2018-10-16",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "另外，看三年五年是比看十年难的，基本上可以说，看得越短越难。",
+    "post_url": "https://xueqiu.com/1247347556/115217903",
+    "post_date": "2018-10-17",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "最近确实已经投了一些了，但比例还很小。用苹果换似乎有点不舍得，我似乎更懂苹果些。要再仔细想想。",
+    "post_url": "https://xueqiu.com/1247347556/115078120",
+    "post_date": "2018-10-15",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我认为游戏公司给消费者提供好游戏和别的公司提供好产品没有任何差别，不存在良知的问题。我们不认为有人沉醉于麻将是麻将的错吧？我们也不会认为有人喝醉酒是酒的错吧？我们也不认为有人在赌场倾家荡产是赌场的错吧？那为什么我们会认为有人沉迷游戏是游戏的错呢？",
+    "post_url": "https://xueqiu.com/1247347556/115218029",
+    "post_date": "2018-10-17",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 3
+  }
+]

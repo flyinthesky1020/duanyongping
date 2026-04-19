@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6d272f83-7ec6-4930-8d38-fa55808c5998",
+    "stock": "腾讯",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2019-05-16",
+    "sentiment": "bullish",
+    "summary": "腾讯投资有益主业",
+    "quote": "腾讯投资虽然确实有很多是财务投资，但多数还是蛮相关的，他们大概也不是为了多元化去投资的。而且他们这种投资行为并没有影响到他们的主业，但他们的主业确对他们的投资经常是有帮助的。",
+    "source_file": "2019-05_batch024",
+    "source_type": "xueqiu",
+    "chunk_index": 24,
+    "url": "https://xueqiu.com/1247347556/126824378"
+  },
+  {
+    "id": "c743882e-171e-429b-b635-840f1af1abf2",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2019-05-16",
+    "sentiment": "bullish",
+    "summary": "看好拼多多长期发展",
+    "quote": "如果他们能活下来的话，他们肯定会比现在厉害很多。我认为他们能活下来的机会很大。",
+    "source_file": "2019-05_batch024",
+    "source_type": "xueqiu",
+    "chunk_index": 24,
+    "url": "https://xueqiu.com/1247347556/126798582"
+  }
+]

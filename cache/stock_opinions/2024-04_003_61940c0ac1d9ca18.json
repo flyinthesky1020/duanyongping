@@ -1,0 +1,16 @@
+[
+  {
+    "id": "209e7ae1-c64f-448c-8dfd-919ea131eff5",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-04-19",
+    "sentiment": "bullish",
+    "summary": "肯定苹果十年前景",
+    "quote": "苹果我可以肯定10年后大概率还是这么厉害。",
+    "source_file": "2024-04_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/286929132"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "倒过来看会容易很多，比如十多年前，你可能不知道谁会很厉害，但有些公司一看就觉得长不了或未来很难有好日子过的，避开这些就会少犯很多错误哈。举个例子吧，记得做太阳能硅片的公司曾经很热，甚至还有人成过中国首富。当时有朋友问我怎么看，我说我的观点很简单，他们的产品几乎没...",
+    "post_url": "https://xueqiu.com/1247347556/210088972",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "尽量不要做不健康的事情，比如不用margin，不做空，不投不懂的公司，不投不靠谱的人（哈哈），不抽烟，少喝酒，要喝就喝好酒，比如茅台（这个是玩笑）……。至于该干嘛就很难穷举了，而且争议很多。",
+    "post_url": "https://xueqiu.com/1247347556/210087107",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不投不懂的公司",
+    "post_url": "https://xueqiu.com/1247347556/210087107",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/210083993",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/210083993",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "当你迷惘的时候，试试往远处看？看10年往往比看1-2年要容易很多，看一两年会比看一两天容易很多。比如投资上，很多公司其实是很容易知道他们10年后很可能会不行的，那为什么现在要买呢？避开这些公司你会发现其实你的选择会特别少，但心里会踏实很多。",
+    "post_url": "https://xueqiu.com/1247347556/210066862",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "有钱就卖点put，到期就继续卖。想想10年后，苹果其实不贵，卖点put蛮好，put进来就拿着。",
+    "post_url": "https://xueqiu.com/1247347556/210066132",
+    "post_date": "2022-01-25",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  }
+]

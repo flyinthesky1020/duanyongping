@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d4c43560-def4-4be8-9fd4-c9f0a83361eb",
+    "stock": "腾讯控股",
+    "ticker": "0700.HK",
+    "market": "HK",
+    "date": "2022-01-29",
+    "sentiment": "bullish",
+    "summary": "持有腾讯优于现金",
+    "quote": "我觉得从未来10年或更长的时间看，现在拿着腾讯应该比把钱存在银行合算",
+    "source_file": "2022-01_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/210453239"
+  }
+]

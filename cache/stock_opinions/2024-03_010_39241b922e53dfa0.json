@@ -1,0 +1,44 @@
+[
+  {
+    "id": "559c22b9-7948-489d-adae-7d9cc9b1028f",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2024-03-08",
+    "sentiment": "bearish",
+    "summary": "卖出看涨期权看空",
+    "quote": "突发奇想，来体会一下nvda空头们的感受，起个大早，卖个小call，今天到期的。",
+    "source_file": "2024-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/281363463"
+  },
+  {
+    "id": "ac30f01c-8e88-4642-bfcd-6526c2c2eb79",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2024-03-08",
+    "sentiment": "bullish",
+    "summary": "A股分红最多",
+    "quote": "不分给股东这个说法哪来的？A股有谁分红比茅台多的吗？",
+    "source_file": "2024-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/281266709"
+  },
+  {
+    "id": "fac23810-9e8a-486c-8138-0daba066504e",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2024-03-08",
+    "sentiment": "bullish",
+    "summary": "长期持有十年以上",
+    "quote": "作为苹果的股东，你是希望苹果股价涨呢还是跌呢？如果你真打算拿10年以上的话。",
+    "source_file": "2024-03_batch010",
+    "source_type": "xueqiu",
+    "chunk_index": 10,
+    "url": "https://xueqiu.com/1247347556/281253491"
+  }
+]

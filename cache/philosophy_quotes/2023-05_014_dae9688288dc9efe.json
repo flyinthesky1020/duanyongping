@@ -1,0 +1,37 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我们能成为我们，不光是因为我们做过的那些事情，很重要的一部分是我们不做或者停止做的那些事情。",
+    "post_url": "https://xueqiu.com/1247347556/250449612",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我知道停止库泽业务比我在网上看到早了10分钟而已。不过，我们这些年用类似的办法关停掉很多业务了，我能记得就有不少。从最早的电子宠物到跳舞毯，后来的还有小家电，家庭音响，彩电（居然关了两次，其中一次就在前不久），DVD（蓝光DVD）...",
+    "post_url": "https://xueqiu.com/1247347556/250448171",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "增持苹果好理解，毕竟商业模式比可口可乐还要强大嘛。",
+    "post_url": "https://xueqiu.com/1247347556/250446107",
+    "post_date": "2023-05-15",
+    "mentioned_stocks": [
+      "苹果",
+      "可口可乐"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你管不了别人的，但你可以选择。",
+    "post_url": "https://xueqiu.com/1247347556/250322891",
+    "post_date": "2023-05-14",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

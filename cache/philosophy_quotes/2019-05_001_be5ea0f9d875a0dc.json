@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "人际关系不重要但知道尊重人是重要的。",
+    "post_url": "https://xueqiu.com/1247347556/127602792",
+    "post_date": "2019-05-31",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我觉得看书可能不如看企业来的明白。书可以看《基业长青》，企业可以看苹果这些年的产品发布会（每年九月份的那个就好），或者多看几遍老巴在大学的问答交流。",
+    "post_url": "https://xueqiu.com/1247347556/127595278",
+    "post_date": "2019-05-31",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

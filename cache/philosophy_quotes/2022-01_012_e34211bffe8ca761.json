@@ -1,0 +1,54 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "是的，所谓信仰就是要做对的事情。",
+    "post_url": "https://xueqiu.com/1247347556/209775255",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我绝对不会去做固定收益的东西。固定收益的东西长期肯定是输给通胀的，所以长期来说是件错的事情。",
+    "post_url": "https://xueqiu.com/1247347556/209775255",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我们是明文规定不贷款的公司。我看到很多公司都是倒在了借贷上，尤其是在犯错误的时候，很多人一时意识不到，于是会借很多钱来放大自己的错误，最后连回来的机会都没有。难道大家最近没看到那些个活生生的例子吗？房地产行业...",
+    "post_url": "https://xueqiu.com/1247347556/209774514",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我一般不投资任何非上市公司，除非是我认识很久的（至少10年以上吧），并且非常了解或信任的人做的公司。",
+    "post_url": "https://xueqiu.com/1247347556/209775255",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不会，我已经支持过了。我并不了解他们公司最后会怎么样，也没有买下这家公司的打算。权利金高低不是卖put的理由，绝对不是！",
+    "post_url": "https://xueqiu.com/1247347556/209774730",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [
+      "新东方"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "账面看确实比网易多不少，不管是相对值还是绝对值。但Colin说三年不卖，那我也三年不卖，所以什么结局还不知道。",
+    "post_url": "https://xueqiu.com/1247347556/209774218",
+    "post_date": "2022-01-22",
+    "mentioned_stocks": [
+      "网易"
+    ],
+    "quality_score": 3
+  }
+]

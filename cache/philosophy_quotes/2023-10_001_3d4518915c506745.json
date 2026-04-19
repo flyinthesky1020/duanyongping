@@ -1,0 +1,61 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "最不好的广告就是夸大其词的广告，靠这种广告的公司最后都不会有好下场，因为消费者长期来讲是个极聪明的群体。",
+    "post_url": "https://xueqiu.com/1247347556/263447446",
+    "post_date": "2023-10-16",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不管什么生意，欠债多总是不舒服的，而且很可能早晚会出问题",
+    "post_url": "https://xueqiu.com/1247347556/263118361",
+    "post_date": "2023-10-12",
+    "mentioned_stocks": [
+      "茅台",
+      "万科"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "广告不会赋予产品任何东西。广告只是表达产品而已，好的广告表达的效率高。广告只是把产品的功能发掘或展示出来，而不是赋予产品功能。没有这个理解，一个企业的广告早晚会出问题的。",
+    "post_url": "https://xueqiu.com/1247347556/263448458",
+    "post_date": "2023-10-16",
+    "mentioned_stocks": [
+      "诺基亚",
+      "OPPO",
+      "步步高"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "产品的设计当然是消费者导向，技术是隐藏在产品里的，是为产品服务的。没有很强的技术是无法实现消费者导向的。",
+    "post_url": "https://xueqiu.com/1247347556/263447446",
+    "post_date": "2023-10-16",
+    "mentioned_stocks": [
+      "步步高"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "消费者长期来讲是个极聪明的群体。广告能影响的消费者大概只有20%左右，其余全靠产品本身。",
+    "post_url": "https://xueqiu.com/1247347556/263447446",
+    "post_date": "2023-10-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "先看个半年，如果觉得确实比较可靠后，茅台也许会大规模投广告好好宣传一下的。",
+    "post_url": "https://xueqiu.com/1247347556/263415933",
+    "post_date": "2023-10-16",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 3
+  }
+]

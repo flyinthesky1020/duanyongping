@@ -1,0 +1,58 @@
+[
+  {
+    "id": "d6c481e7-8ad9-41a7-a92c-5ab250d4b4da",
+    "stock": "完美世界",
+    "ticker": "PWRD",
+    "market": "US",
+    "date": "2012-02-10",
+    "sentiment": "bearish",
+    "summary": "不要碰PWRD",
+    "quote": "这个点评很好，至少说明不要碰pwrd和game了。玩家的眼睛是雪亮雪亮滴。",
+    "source_file": "2012-02_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/21420684"
+  },
+  {
+    "id": "93ebef48-bd59-444f-a122-910249b01c91",
+    "stock": "盛大游戏",
+    "ticker": "GAME",
+    "market": "US",
+    "date": "2012-02-10",
+    "sentiment": "bearish",
+    "summary": "不要碰GAME",
+    "quote": "这个点评很好，至少说明不要碰pwrd和game了。玩家的眼睛是雪亮雪亮滴。",
+    "source_file": "2012-02_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/21420684"
+  },
+  {
+    "id": "629fe8e7-e509-4ab4-a9a3-ad2ebe8c6fa1",
+    "stock": "Groupon",
+    "ticker": "GRPN",
+    "market": "US",
+    "date": "2012-02-10",
+    "sentiment": "bearish",
+    "summary": "看空Groupon",
+    "quote": "我认为，groupon也算是难得一见的很容易看出来未来不会太好的公司，只要想象一下什么人可能持续用就可以明白了。反正我实在是想不出来什么样的生意可以持续作为groupon的客户。",
+    "source_file": "2012-02_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/21416567"
+  },
+  {
+    "id": "da0069c2-2a8f-4c76-80c8-eecbf62a46f1",
+    "stock": "雅虎",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2012-02-10",
+    "sentiment": "bearish",
+    "summary": "YHOO不是好投资",
+    "quote": "从未来现金流折现的角度看，这公司的未来有点不太靠谱，最值钱的未来都会被不懂事会卖掉，所以最后不会成为特别好的投资。",
+    "source_file": "2012-02_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/21412265"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "885fca68-b5dc-4963-b460-3b9da393894f",
+    "stock": "Yahoo",
+    "ticker": "YHOO",
+    "market": "US",
+    "date": "2011-12-17",
+    "sentiment": "bullish",
+    "summary": "现不愿卖call，15块愿接货",
+    "quote": "现在这个价就不太想卖call了，但有时候被put进来的也会卖。比如今天15块put进来就可以卖一个月15块的call，上下各收接近一块钱，总共两个月时间应该算不错的回报了。",
+    "source_file": "2011-12_batch005",
+    "source_type": "xueqiu",
+    "chunk_index": 5,
+    "url": "https://xueqiu.com/1247347556/20593889"
+  }
+]

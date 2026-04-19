@@ -1,0 +1,30 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你看不懂是正常的，你就没认真看过。",
+    "post_url": "https://xueqiu.com/1247347556/274410392",
+    "post_date": "2024-01-10",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我试过这家产品，好像没啥特别的。",
+    "post_url": "https://xueqiu.com/1247347556/274746218",
+    "post_date": "2024-01-14",
+    "mentioned_stocks": [
+      "Peloton Interactive"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "以客户为中心就是生意导向的意思，和以用户（消费者）导向的意思很不一样。",
+    "post_url": "https://xueqiu.com/1247347556/274712380",
+    "post_date": "2024-01-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

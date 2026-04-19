@@ -1,0 +1,28 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "277.5今天居然被call走了，该买啥呢？！",
+    "post_url": "https://xueqiu.com/1247347556/363770103",
+    "post_date": "2025-11-28",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "是的，犯错概率会大幅度降低，命中率会大幅度提高，虽然还是可能会犯错。",
+    "post_url": "https://xueqiu.com/1247347556/363627007",
+    "post_date": "2025-11-27",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "ai的历史车轮滚滚向前，会碾碎所有ai的泡沫的。",
+    "post_url": "https://xueqiu.com/1247347556/363431998",
+    "post_date": "2025-11-26",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

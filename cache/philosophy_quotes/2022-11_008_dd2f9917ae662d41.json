@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "看上去很简单的一件事情，做到却非常难。销售一线总是会要求品种多一点再多一点，决策者需要清醒面对这种要求。我当CEO的时候几乎每天都会有人说希望品种多一点。对我们这种产品而言，品种多一点大概是个非常愚蠢的想法。诡异的事是，大家看看有多少人在乐此不疲，包括我们自己在内。",
+    "post_url": "https://xueqiu.com/1247347556/234669980",
+    "post_date": "2022-11-06",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "真是一个蛮有意思的东西。从90年代初我就开始强调要聚焦，30年了，我们依然会走着走着就又偏了。从这里能看到苹果企业文化的强大, 也能看到我们的不足。亡羊补牢未为晚也！",
+    "post_url": "https://xueqiu.com/1247347556/234667241",
+    "post_date": "2022-11-06",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "如果一直如此，将来也肯定会很难受的。",
+    "post_url": "https://xueqiu.com/1247347556/234661699",
+    "post_date": "2022-11-06",
+    "mentioned_stocks": [
+      "OPPO"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "那是内在的东西，估计教不了学不会。",
+    "post_url": "https://xueqiu.com/1247347556/234644409",
+    "post_date": "2022-11-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

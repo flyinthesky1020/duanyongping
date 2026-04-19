@@ -1,0 +1,30 @@
+[
+  {
+    "id": "4bfe72f9-0137-4f69-b30e-901c3170150d",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2019-09-03",
+    "sentiment": "bullish",
+    "summary": "买苹果",
+    "quote": "其实我的办法很简单，每次朋友提着好酒来找我，我就说：买苹果，买茅台，这些年已经混了不少好酒喝了。",
+    "source_file": "2019-09_batch025",
+    "source_type": "xueqiu",
+    "chunk_index": 25,
+    "url": "https://xueqiu.com/1247347556/132237679"
+  },
+  {
+    "id": "a5b0ab93-887d-4b98-b1b9-a5668af8cccb",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2019-09-03",
+    "sentiment": "bullish",
+    "summary": "买茅台",
+    "quote": "其实我的办法很简单，每次朋友提着好酒来找我，我就说：买苹果，买茅台，这些年已经混了不少好酒喝了。",
+    "source_file": "2019-09_batch025",
+    "source_type": "xueqiu",
+    "chunk_index": 25,
+    "url": "https://xueqiu.com/1247347556/132237679"
+  }
+]

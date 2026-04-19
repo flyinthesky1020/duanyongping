@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我不看我看不懂的东西。",
+    "post_url": "https://xueqiu.com/1247347556/131444406",
+    "post_date": "2019-08-19",
+    "mentioned_stocks": [
+      "老白干"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我从来没做过定量的分析，你记错人了？我的所谓量的说法都是建立在定性分析上了。从十年或以上的角度看，定量分析很荒唐。",
+    "post_url": "https://xueqiu.com/1247347556/131492155",
+    "post_date": "2019-08-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "本分和平常心。",
+    "post_url": "https://xueqiu.com/1247347556/131471415",
+    "post_date": "2019-08-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不知道。我尽量不和这些人打交道。",
+    "post_url": "https://xueqiu.com/1247347556/131489120",
+    "post_date": "2019-08-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "需求。",
+    "post_url": "https://xueqiu.com/1247347556/131475255",
+    "post_date": "2019-08-20",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 2
+  }
+]

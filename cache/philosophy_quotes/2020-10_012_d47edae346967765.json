@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我没了解过这家公司。",
+    "post_url": "https://xueqiu.com/1247347556/161335284",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [
+      "信立泰"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我的意思是谷歌40年的债券都已经只有2.25%了， 4%三年的定期说明通胀率未来可能会更高一些，所以商品很可能会涨价哈。",
+    "post_url": "https://xueqiu.com/1247347556/161366231",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [
+      "谷歌"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "人才不是一天聚集的，我们花了很久的时间哈。",
+    "post_url": "https://xueqiu.com/1247347556/161366342",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "也许餐饮里面火锅是最有机会做大的中餐，因为你只需要配好料就比大部分餐厅好了。",
+    "post_url": "https://xueqiu.com/1247347556/161367825",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我觉得你一个一个餐厅来吧？如果第一个餐厅确实火爆了，再小心翼翼开第二个，依此类推，不要求快求大。",
+    "post_url": "https://xueqiu.com/1247347556/161367825",
+    "post_date": "2020-10-20",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

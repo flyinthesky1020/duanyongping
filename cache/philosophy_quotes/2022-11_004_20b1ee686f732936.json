@@ -1,0 +1,20 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我就只看过一点点名言。关键还在于自己是否能理解。投资的道理其实就只有一句话，买股票就是买公司，谁说都没区别。",
+    "post_url": "https://xueqiu.com/1247347556/235878541",
+    "post_date": "2022-11-20",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "错买也是会死得很难看的，比如乐视？",
+    "post_url": "https://xueqiu.com/1247347556/235854946",
+    "post_date": "2022-11-19",
+    "mentioned_stocks": [
+      "乐视"
+    ],
+    "quality_score": 4
+  }
+]

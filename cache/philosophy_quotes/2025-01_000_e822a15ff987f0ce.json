@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "梁文峰以及他的团队显然是一群有“利润之上”的追求的人们。",
+    "post_url": "https://xueqiu.com/1247347556/321893819",
+    "post_date": "2025-01-27",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "至少iPhone出来后苹果的商业模式变得更好了，生态圈建成了。",
+    "post_url": "https://xueqiu.com/1247347556/321693031",
+    "post_date": "2025-01-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "你要是真喜欢Google，你为什么会问别人要不要all in呢？找人壮胆吗？我all in的时候是问镜子的，你回去问下你的镜子可能会比较好一些。",
+    "post_url": "https://xueqiu.com/1247347556/321322042",
+    "post_date": "2025-01-21",
+    "mentioned_stocks": [
+      "Google"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "没看懂别人底牌之前的all in是赌。想赌就赌呗，反正你这种认知也不会有几个钱的。",
+    "post_url": "https://xueqiu.com/1247347556/321318532",
+    "post_date": "2025-01-21",
+    "mentioned_stocks": [
+      "Google"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "你要是真喜欢Google，你为什么会问别人要不要all in呢？找人壮胆吗？",
+    "post_url": "https://xueqiu.com/1247347556/321322042",
+    "post_date": "2025-01-21",
+    "mentioned_stocks": [
+      "Google"
+    ],
+    "quality_score": 4
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "终于在上个礼拜清空了达美。确实像老巴说的那样，这个生意可能已经变了。买股票就是买公司，航空公司的生意可能会在相当长的时间里很挣扎，不是我能搞明白的。",
+    "post_url": "https://xueqiu.com/1247347556/156774243",
+    "post_date": "2020-08-16",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我觉得老巴是对的，该出手时就要坚决出售。",
+    "post_url": "https://xueqiu.com/1247347556/156914864",
+    "post_date": "2020-08-17",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "航空公司的生意可能会在相当长的时间里很挣扎，不是我能搞明白的。",
+    "post_url": "https://xueqiu.com/1247347556/156774243",
+    "post_date": "2020-08-16",
+    "mentioned_stocks": [
+      "达美航空"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "brk可以认为是收藏好公司的商业模式，买brk相当于买了巴菲特买的那些好公司，相当于信任巴菲特的投资能力。买GE则是相信ge的商业模式或者是ge的投资能力，区别还是非常大的。",
+    "post_url": "https://xueqiu.com/1247347556/156772628",
+    "post_date": "2020-08-16",
+    "mentioned_stocks": [
+      "伯克希尔",
+      "GE"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我做公益但不喜欢做慈善这个说法，甚至不觉得自己是慈善的。个人觉得公益和慈善是有区别的。公益感觉自己身在其中，慈善则有点居高临下的感觉。",
+    "post_url": "https://xueqiu.com/1247347556/156409335",
+    "post_date": "2020-08-11",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]

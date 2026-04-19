@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4e5f700e-13b8-47e9-8bb7-00aaca58c64c",
+    "stock": "京东",
+    "ticker": "JD",
+    "market": "UNKNOWN",
+    "date": "2011-12-30",
+    "sentiment": "bearish",
+    "summary": "京东快速扩员隐患大",
+    "quote": "我觉得如果他们真的需要增加那么多员工，为什么不分3年而非要在一年里完成呢？除非他们真是超人，不然这种做法后患比较大。",
+    "source_file": "2011-12_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/20637666"
+  }
+]

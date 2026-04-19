@@ -1,0 +1,38 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "举个所谓懂的例子，比如苹果，我在2011年买苹果的时候，苹果大概3,000亿市值，当时股价（310÷7=44），手里有1,000亿净现金，那时候利润大概不到200亿，以我对苹果的理解，我认为苹果未来5年左右盈利大概率会涨很多，所以我就猜个500亿（去年595亿）。但得到这个结论非常不容易，对我来说至少20年功夫吧。能得到这个结论，就叫懂了。不懂则千万千万别碰，我有个球友320/7=46买了一些，结果一个回调，310/7就卖了，还跟我讲为什么要卖的道理，从此我不再跟他说投资了。",
+    "post_url": "https://xueqiu.com/1247347556/298036525",
+    "post_date": "2024-07-18",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我认为老巴的安全边际实际上指的是理解度而不是价格，从10年的角度看，买的时候比最低价贵30%其实没多少。",
+    "post_url": "https://xueqiu.com/1247347556/298036525",
+    "post_date": "2024-07-18",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "好公司，但也只是一个零售商而已（芒格的意思）。我更喜欢苹果。",
+    "post_url": "https://xueqiu.com/1247347556/298036525",
+    "post_date": "2024-07-18",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我自己对安全边际的理解，实际上是自己对要投资的生意的了解度，自己觉得风险小的投入的比例就可以越大些。",
+    "post_url": "https://xueqiu.com/1247347556/298036525",
+    "post_date": "2024-07-18",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

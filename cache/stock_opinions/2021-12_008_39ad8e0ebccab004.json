@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9f5e142f-0bf6-40fe-94bf-bbfef2c43f8f",
+    "stock": "新东方",
+    "ticker": "EDU",
+    "market": "US",
+    "date": "2021-12-10",
+    "sentiment": "bullish",
+    "summary": "卖put看多",
+    "quote": "我怎么想，都觉得他们公司不会完全没价值吧，所以再卖个put，如果put进来就拿着了。",
+    "source_file": "2021-12_batch008",
+    "source_type": "xueqiu",
+    "chunk_index": 8,
+    "url": "https://xueqiu.com/1247347556/205459463"
+  }
+]

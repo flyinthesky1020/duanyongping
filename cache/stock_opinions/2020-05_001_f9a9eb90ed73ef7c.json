@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e30d6d09-f9f6-4fcf-996f-652b7e2f1056",
+    "stock": "达美航空",
+    "ticker": "DAL",
+    "market": "US",
+    "date": "2020-05-13",
+    "sentiment": "bearish",
+    "summary": "退出航空股",
+    "quote": "难得因为投资睡不好觉，拿着航空公司确实不踏实，总有想不透的东西。好吧，尊重老巴得想法，我也找机会撤了。",
+    "source_file": "2020-05_batch001",
+    "source_type": "xueqiu",
+    "chunk_index": 1,
+    "url": "https://xueqiu.com/1247347556/148726279"
+  }
+]

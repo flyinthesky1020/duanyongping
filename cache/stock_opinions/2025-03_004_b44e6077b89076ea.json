@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9e5ac378-aea1-4eee-a741-cd6f6f2a1756",
+    "stock": "英伟达",
+    "ticker": "NVDA",
+    "market": "US",
+    "date": "2025-03-21",
+    "sentiment": "bullish",
+    "summary": "92.5美元买入NVDA",
+    "quote": "$英伟达(NVDA)$ 92.5买入NVDA了，不过要延迟一年交货。",
+    "source_file": "2025-03_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": ""
+  }
+]

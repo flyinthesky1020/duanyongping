@@ -1,0 +1,16 @@
+[
+  {
+    "id": "11dd8816-c8a9-4b6c-af5c-33e5d66eebb3",
+    "stock": "新东方",
+    "ticker": "EDU",
+    "market": "US",
+    "date": "2022-01-22",
+    "sentiment": "bearish",
+    "summary": "不看好新东方",
+    "quote": "不会，我已经支持过了。我并不了解他们公司最后会怎么样，也没有买下这家公司的打算。",
+    "source_file": "2022-01_batch009",
+    "source_type": "xueqiu",
+    "chunk_index": 9,
+    "url": "https://xueqiu.com/1247347556/209774730"
+  }
+]

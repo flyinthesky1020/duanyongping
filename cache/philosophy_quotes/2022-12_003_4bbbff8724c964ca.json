@@ -1,0 +1,22 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "只能说比较起我对别的公司而言，我更懂苹果。",
+    "post_url": "https://xueqiu.com/1247347556/238540434",
+    "post_date": "2022-12-24",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "要做就做最好！敢为天下后的苹果做到了！",
+    "post_url": "https://xueqiu.com/1247347556/238628780",
+    "post_date": "2022-12-26",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

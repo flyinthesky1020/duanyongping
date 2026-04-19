@@ -1,0 +1,16 @@
+[
+  {
+    "id": "749406a6-c011-4098-a22b-bd93ff10d95a",
+    "stock": "拼多多",
+    "ticker": "PDD",
+    "market": "US",
+    "date": "2024-08-28",
+    "sentiment": "bullish",
+    "summary": "计划卖put",
+    "quote": "这个价位计划卖点put，找时间争取搞懂商业模式。",
+    "source_file": "2024-08_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/302599807"
+  }
+]

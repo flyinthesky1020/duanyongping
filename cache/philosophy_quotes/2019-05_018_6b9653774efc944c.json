@@ -1,0 +1,34 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "赌是一翻两瞪眼的事情，当然可以啊，但没人保证你能赢（不然不叫赌啊）",
+    "post_url": "https://xueqiu.com/1247347556/127082982",
+    "post_date": "2019-05-21",
+    "mentioned_stocks": [
+      "百度"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "OPPO厉害是因为OPPO有厉害的文化和厉害的团队同时还赶上了好产品和好模式",
+    "post_url": "https://xueqiu.com/1247347556/127082266",
+    "post_date": "2019-05-21",
+    "mentioned_stocks": [
+      "OPPO",
+      "vivo"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "OPPO厉害是因为OPPO有厉害的文化和厉害的团队同时还赶上了好产品和好模式",
+    "post_url": "https://xueqiu.com/1247347556/127082266",
+    "post_date": "2019-05-21",
+    "mentioned_stocks": [
+      "OPPO",
+      "vivo"
+    ],
+    "quality_score": 4
+  }
+]
