@@ -38,19 +38,58 @@ def _stocks_summary(stocks_data: dict) -> dict:
     """Return stocks index without full opinions lists (for /api/stocks)."""
     if not stocks_data:
         return {"stocks": []}
-    summary_stocks = []
+    merged = {}
     for s in stocks_data.get("stocks", []):
-        summary_stocks.append({
+        ticker = _canonical_ticker(s["ticker"])
+        opinions = s.get("opinions", [])
+        latest = max(
+            opinions,
+            key=lambda op: (
+                op.get("date", ""),
+                op.get("id", ""),
+                op.get("url", ""),
+            ),
+            default={},
+        )
+        bucket = merged.setdefault(ticker, {
             "name": s["name"],
-            "ticker": s["ticker"],
+            "ticker": ticker,
             "market": s["market"],
-            "philosophies": s.get("philosophies", []),
-            "opinion_count": s["opinion_count"],
-            "bullish_count": s["bullish_count"],
-            "bearish_count": s["bearish_count"],
-            # Include first 3 opinions as preview
-            "preview_opinions": s.get("opinions", [])[:3],
+            "philosophies": set(),
+            "opinion_count": 0,
+            "bullish_count": 0,
+            "bearish_count": 0,
+            "latest_sentiment": "",
+            "latest_opinion_date": "",
+            "latest_opinion_summary": "",
+            "preview_opinions": [],
         })
+        bucket["philosophies"].update(s.get("philosophies", []))
+        bucket["opinion_count"] += s.get("opinion_count", 0)
+        bucket["bullish_count"] += s.get("bullish_count", 0)
+        bucket["bearish_count"] += s.get("bearish_count", 0)
+        bucket["preview_opinions"].extend(opinions[:3])
+        latest_date = s.get("latest_opinion_date", "") or latest.get("date", "")
+        if latest_date >= bucket["latest_opinion_date"]:
+            bucket["latest_sentiment"] = s.get("latest_sentiment", "") or latest.get("sentiment", "")
+            bucket["latest_opinion_date"] = latest_date
+            bucket["latest_opinion_summary"] = s.get("latest_opinion_summary", "") or latest.get("summary", "")
+
+    summary_stocks = []
+    for bucket in merged.values():
+        bucket["philosophies"] = sorted(bucket["philosophies"])
+        bucket["preview_opinions"] = sorted(
+            bucket["preview_opinions"],
+            key=lambda op: (
+                op.get("date", ""),
+                op.get("id", ""),
+                op.get("url", ""),
+            ),
+            reverse=True,
+        )[:3]
+        summary_stocks.append(bucket)
+
+    summary_stocks.sort(key=lambda item: (-item["opinion_count"], item["ticker"]))
     return {"stocks": summary_stocks}
 
 

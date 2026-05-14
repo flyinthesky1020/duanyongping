@@ -79,6 +79,12 @@
       "target": "stock:TSLA"
     },
     {
+      "text": "泡泡玛特",
+      "weight": 26,
+      "type": "stock",
+      "target": "stock:09992.HK"
+    },
+    {
       "text": "谷歌C",
       "weight": 26,
       "type": "stock",
@@ -101,12 +107,6 @@
       "weight": 24,
       "type": "stock",
       "target": "stock:BABA"
-    },
-    {
-      "text": "泡泡玛特",
-      "weight": 24,
-      "type": "stock",
-      "target": "stock:09992.HK"
     },
     {
       "text": "Yahoo",
@@ -167,12 +167,6 @@
       "weight": 22,
       "type": "stock",
       "target": "stock:NTES"
-    },
-    {
-      "text": "泡泡玛特",
-      "weight": 22,
-      "type": "stock",
-      "target": "stock:9992.HK"
     },
     {
       "text": "UNG",
@@ -407,6 +401,12 @@
       "weight": 20,
       "type": "stock",
       "target": "stock:688169.SH"
+    },
+    {
+      "text": "传音控股",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:688036.SH"
     },
     {
       "text": "本分",

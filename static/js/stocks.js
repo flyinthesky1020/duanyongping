@@ -14,6 +14,7 @@ function renderStocksList(stocks) {
 
   listEl.innerHTML = filtered.map(stock => {
     const marketBadgeHtml = marketBadge(stock.market);
+    const latestTag = renderLatestSentimentTag(stock);
     return `
       <div class="stock-item" data-ticker="${escapeHtml(stock.ticker)}" data-market="${escapeHtml(stock.market)}">
         <div class="stock-item-header" onclick="toggleStockItem(this.parentElement, '${escapeHtml(stock.ticker)}', '${escapeHtml(stock.market)}')">
@@ -23,6 +24,7 @@ function renderStocksList(stocks) {
             ${marketBadgeHtml}
           </div>
           <div class="si-sentiment">
+            ${latestTag}
             ${stock.bullish_count > 0 ? `<span class="si-bull">▲ ${stock.bullish_count}</span>` : ""}
             ${stock.bearish_count > 0 ? `<span class="si-bear">▼ ${stock.bearish_count}</span>` : ""}
             <span style="color:var(--text-muted);font-size:11px">${stock.opinion_count}条</span>
@@ -36,6 +38,14 @@ function renderStocksList(stocks) {
       </div>
     `;
   }).join("");
+}
+
+function renderLatestSentimentTag(stock) {
+  if (!stock.latest_sentiment) return "";
+  const cls = stock.latest_sentiment === "bullish" ? "badge-bull" : "badge-bear";
+  const text = stock.latest_sentiment === "bullish" ? "最新看多" : "最新看空";
+  const date = stock.latest_opinion_date ? ` · ${escapeHtml(stock.latest_opinion_date)}` : "";
+  return `<span class="badge ${cls}">${text}${date}</span>`;
 }
 
 function filterStocks(stocks) {

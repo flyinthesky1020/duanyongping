@@ -24,6 +24,10 @@ STOCK_OPINIONS_DIR = BASE / "cache" / "stock_opinions"
 INDEX_DIR = BASE / "cache" / "index"
 INDEX_DIR.mkdir(parents=True, exist_ok=True)
 
+STOCK_ALIASES = {
+    "9992.HK": "09992.HK",
+}
+
 
 # ── Philosophy descriptions ───────────────────────────────────────────────────
 
@@ -92,7 +96,23 @@ def load_all_stock_opinions() -> list[dict]:
         if not r.get("id"):
             r["id"] = str(uuid.uuid4())
         r.setdefault("url", "")
+        ticker = r.get("ticker", "")
+        if ticker:
+            r["ticker"] = STOCK_ALIASES.get(ticker, ticker)
     return records
+
+
+def _latest_opinion(opinions: list[dict]) -> dict:
+    if not opinions:
+        return {}
+    return max(
+        opinions,
+        key=lambda op: (
+            op.get("date", ""),
+            op.get("id", ""),
+            op.get("url", ""),
+        ),
+    )
 
 
 def build_philosophies_index(quotes: list[dict], stock_opinions: list[dict]) -> dict:
@@ -197,6 +217,7 @@ def build_stocks_index(opinions: list[dict], phil_index: dict) -> dict:
         ticker = op.get("ticker", "UNKNOWN")
         if not ticker or ticker == "UNKNOWN":
             continue
+        ticker = STOCK_ALIASES.get(ticker, ticker)
         by_ticker[ticker].append(op)
 
     stocks = []
@@ -208,6 +229,7 @@ def build_stocks_index(opinions: list[dict], phil_index: dict) -> dict:
         ops.sort(key=lambda x: x.get("date", ""))
         bullish = sum(1 for o in ops if o.get("sentiment") == "bullish")
         bearish = sum(1 for o in ops if o.get("sentiment") == "bearish")
+        latest = _latest_opinion(ops)
 
         opinion_records = []
         for op in ops:
@@ -229,6 +251,9 @@ def build_stocks_index(opinions: list[dict], phil_index: dict) -> dict:
             "opinion_count": len(ops),
             "bullish_count": bullish,
             "bearish_count": bearish,
+            "latest_sentiment": latest.get("sentiment", ""),
+            "latest_opinion_date": latest.get("date", ""),
+            "latest_opinion_summary": latest.get("summary", ""),
         })
 
     # Sort by opinion_count descending
@@ -268,7 +293,7 @@ def build_wordcloud_index(phil_index: dict, stocks_index: dict) -> dict:
             "text": stock["name"],
             "weight": weight,
             "type": "stock",
-            "target": f"stock:{stock['ticker']}",
+            "target": f"stock:{STOCK_ALIASES.get(stock['ticker'], stock['ticker'])}",
         })
 
     # Additional concept words

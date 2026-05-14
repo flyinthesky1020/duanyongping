@@ -1450,7 +1450,10 @@
       ],
       "opinion_count": 179,
       "bullish_count": 160,
-      "bearish_count": 19
+      "bearish_count": 19,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-04-08",
+      "latest_opinion_summary": "投资前几名，核心持仓"
     },
     {
       "name": "贵州茅台",
@@ -2806,7 +2809,10 @@
       ],
       "opinion_count": 167,
       "bullish_count": 163,
-      "bearish_count": 4
+      "bearish_count": 4,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-05-06",
+      "latest_opinion_summary": "今日买入茅台"
     },
     {
       "name": "腾讯",
@@ -3418,7 +3424,10 @@
       ],
       "opinion_count": 74,
       "bullish_count": 73,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-04-16",
+      "latest_opinion_summary": "腾讯很好要惜卖"
     },
     {
       "name": "拼多多",
@@ -3638,7 +3647,10 @@
       ],
       "opinion_count": 25,
       "bullish_count": 20,
-      "bearish_count": 5
+      "bearish_count": 5,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-04-02",
+      "latest_opinion_summary": "认为蛮有吸引力"
     },
     {
       "name": "特斯拉",
@@ -3816,7 +3828,176 @@
       ],
       "opinion_count": 20,
       "bullish_count": 7,
-      "bearish_count": 13
+      "bearish_count": 13,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-05-02",
+      "latest_opinion_summary": "看好特斯拉FSD"
+    },
+    {
+      "name": "泡泡玛特",
+      "ticker": "09992.HK",
+      "market": "HK",
+      "philosophies": [
+        "business_model",
+        "circle_of_competence",
+        "corporate_culture",
+        "integrity",
+        "long_termism",
+        "patience",
+        "stop_doing"
+      ],
+      "opinions": [
+        {
+          "id": "9b34c636-bd69-4dcd-9e9f-2180513a00e4",
+          "date": "2026-01-11",
+          "sentiment": "bearish",
+          "summary": "担忧需求不可持续",
+          "quote": "我大致看过泡泡玛特，觉得他们确实蛮厉害的。不过，我依然无法理解人们为什么会需要这个东西，万一过两年大家都不要了呢？",
+          "url": "https://xueqiu.com/1247347556/370197456"
+        },
+        {
+          "id": "99636422-665f-4504-bf4a-2fa89357ac5d",
+          "date": "2026-03-31",
+          "sentiment": "bullish",
+          "summary": "收回不投资说法",
+          "quote": "决定收回对方丈说的我不投资泡泡玛特的说法",
+          "url": "https://xueqiu.com/1247347556/381736236"
+        },
+        {
+          "id": "b43c45bd-0924-4251-9f3f-ea850c860ad6",
+          "date": "2026-04-05",
+          "sentiment": "bullish",
+          "summary": "收回不投资说法，看好长期模式",
+          "quote": "我只是说我收回不投资泡泡玛特的说法，没说我已经买了呀，当然这也不意味着我没买。我说的是王宁对商业的理解是顶级的，从没说过他们的商业模式是顶级的，虽然我认为他们已经跑通了他们的商业模式，长期看他们的商业模式也还不错。",
+          "url": "https://xueqiu.com/1247347556/382724257"
+        },
+        {
+          "id": "ce2131a4-cd79-44a0-b1ad-5e85155ccfea",
+          "date": "2026-04-08",
+          "sentiment": "bullish",
+          "summary": "打算买够，已开始买入",
+          "quote": "打算买够不等于已经买了，但也不意味着没开始买。",
+          "url": "https://xueqiu.com/1247347556/382850478"
+        },
+        {
+          "id": "fa7b4c43-6d2f-47a9-b2da-8c2861471c1f",
+          "date": "2026-04-09",
+          "sentiment": "bullish",
+          "summary": "看好泡泡玛特未来",
+          "quote": "会比现在被更多人认识和喜欢。",
+          "url": "https://xueqiu.com/1247347556/383202280"
+        },
+        {
+          "id": "f33f27db-6c73-4e9d-9808-fbe6af3a20cb",
+          "date": "2026-04-11",
+          "sentiment": "bullish",
+          "summary": "财报后看懂泡泡玛特",
+          "quote": "这个时间线是对的。这期财报的盈利激发了我的好奇心，连续花了好几天去理解这家公司，很久没有过这种兴奋感了。",
+          "url": "https://xueqiu.com/1247347556/383487382"
+        },
+        {
+          "id": "42947a82-331d-4f80-b183-7ef2542b295d",
+          "date": "2026-04-11",
+          "sentiment": "bullish",
+          "summary": "看好泡泡玛特业务",
+          "quote": "最近这次财报有点厉害，居然真的可以有这么好的盈利。我现在已经不需要想这个商业模式是不是可以行得通的问题了，也已经想通了可持续性的问题。",
+          "url": "https://xueqiu.com/1247347556/383462143"
+        },
+        {
+          "id": "73a1564f-8315-4915-8cac-0d357eedd839",
+          "date": "2026-04-12",
+          "sentiment": "bullish",
+          "summary": "已过国际化风险关",
+          "quote": "我觉得泡泡玛特已经过了这一关了。",
+          "url": "https://xueqiu.com/1247347556/383540688"
+        },
+        {
+          "id": "e1cf8c58-bca2-425c-b0e8-3fb2a00d11a9",
+          "date": "2026-04-13",
+          "sentiment": "bullish",
+          "summary": "建议继续持有",
+          "quote": "好吧，好好拿着！",
+          "url": "https://xueqiu.com/1247347556/383783876"
+        },
+        {
+          "id": "9aa48ec5-3b87-475a-a331-30145a632555",
+          "date": "2026-04-13",
+          "sentiment": "bullish",
+          "summary": "愿意卖put建仓",
+          "quote": "真实的原因是：我是个满仓主义者，绝大部分钱都已经在其他的投资上了。尽管如此，我可以先卖些put，同时考虑用哪些投资去换（机会成本）。我不在乎股价因此就涨上去了，我少赚点就当做公益哈，反正我赚到钱也是拿来做公益的。如果put不进来，我还是能赚到premium的，如果put进来，我觉得我会赚到更",
+          "url": "https://xueqiu.com/1247347556/383774318"
+        },
+        {
+          "id": "4ea9cb13-831d-4e57-8aa9-d79460b62761",
+          "date": "2026-04-13",
+          "sentiment": "bullish",
+          "summary": "看好并愿意买入",
+          "quote": "跌 → 按折后价买入（他本来就看好，愿意买）",
+          "url": "https://xueqiu.com/1247347556/383793105"
+        },
+        {
+          "id": "674d7263-2d52-4484-8330-0c813a343fff",
+          "date": "2026-04-14",
+          "sentiment": "bullish",
+          "summary": "拟继续买入股份",
+          "quote": "我卖的put是4/29到期的，过期了就可以继续买股或者卖put。",
+          "url": "https://xueqiu.com/1247347556/383966529"
+        },
+        {
+          "id": "a7bba0b2-50b0-4ca2-910b-32ba011a8683",
+          "date": "2026-04-26",
+          "sentiment": "bullish",
+          "summary": "看好五年后更高",
+          "quote": "大概率比现在高，5年也许50%？这个没人知道的，但我直觉一定会比现在更厉害。",
+          "url": "https://xueqiu.com/1247347556/385115032"
+        },
+        {
+          "id": "b53fef7e-356a-4108-861e-a819e6952351",
+          "date": "2026-04-28",
+          "sentiment": "bullish",
+          "summary": "卖put准备买入",
+          "quote": "卖put的前提就是要打算买的。always ready。",
+          "url": ""
+        },
+        {
+          "id": "ed4febf6-2488-4e0f-972a-e79cd0d496a8",
+          "date": "2026-04-29",
+          "sentiment": "bullish",
+          "summary": "当前价位皆为好价",
+          "quote": "any price at this level will be a good price!",
+          "url": "https://xueqiu.com/1247347556/386512617"
+        },
+        {
+          "id": "c88d8576-142b-48ef-9987-2098a9568312",
+          "date": "2026-05-06",
+          "sentiment": "bullish",
+          "summary": "清仓神华换入",
+          "quote": "我把我的神华都换了泡泡玛特了。我觉得神华是家很好的公司，我们的投资也获得了很好的回报，在此谢过了! 将来有机会我还会再回来的。",
+          "url": "https://xueqiu.com/1247347556/387543201"
+        },
+        {
+          "id": "9f3e0f6e-7351-4af4-aaff-5d2e70f6fcaf",
+          "date": "2026-05-13",
+          "sentiment": "bullish",
+          "summary": "看好泡泡玛特",
+          "quote": "近期段永平先生非常高调地表达了对公司的看好",
+          "url": "https://xueqiu.com/1247347556/388824114"
+        },
+        {
+          "id": "d39c06d4-0cd8-41e3-8fd3-e93c73d92f9f",
+          "date": "2026-05-13",
+          "sentiment": "bullish",
+          "summary": "长期看好王宁",
+          "quote": "王宁从大学开始创业，带领一批人，持续10多年的坚持并创造了一个行业品类上市，做到全球这么多国家和地区。这个人是真的厉害！而且他符合“五级经理人”的全部特征，商业模式也非常牛。没有任何道理，不长期看好他。",
+          "url": "https://xueqiu.com/1247347556/388742226"
+        }
+      ],
+      "opinion_count": 18,
+      "bullish_count": 17,
+      "bearish_count": 1,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-05-13",
+      "latest_opinion_summary": "长期看好王宁"
     },
     {
       "name": "谷歌C",
@@ -3972,7 +4153,10 @@
       ],
       "opinion_count": 17,
       "bullish_count": 15,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-04-07",
+      "latest_opinion_summary": "开始买入GOOG"
     },
     {
       "name": "英伟达",
@@ -4110,7 +4294,10 @@
       ],
       "opinion_count": 15,
       "bullish_count": 14,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-03-23",
+      "latest_opinion_summary": "长期150块不贵"
     },
     {
       "name": "西方石油",
@@ -4231,7 +4418,10 @@
       ],
       "opinion_count": 13,
       "bullish_count": 12,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-10-04",
+      "latest_opinion_summary": "长期持有十年"
     },
     {
       "name": "阿里巴巴",
@@ -4355,114 +4545,10 @@
       ],
       "opinion_count": 13,
       "bullish_count": 11,
-      "bearish_count": 2
-    },
-    {
-      "name": "泡泡玛特",
-      "ticker": "09992.HK",
-      "market": "HK",
-      "philosophies": [],
-      "opinions": [
-        {
-          "id": "99636422-665f-4504-bf4a-2fa89357ac5d",
-          "date": "2026-03-31",
-          "sentiment": "bullish",
-          "summary": "收回不投资说法",
-          "quote": "决定收回对方丈说的我不投资泡泡玛特的说法",
-          "url": "https://xueqiu.com/1247347556/381736236"
-        },
-        {
-          "id": "b43c45bd-0924-4251-9f3f-ea850c860ad6",
-          "date": "2026-04-05",
-          "sentiment": "bullish",
-          "summary": "收回不投资说法，看好长期模式",
-          "quote": "我只是说我收回不投资泡泡玛特的说法，没说我已经买了呀，当然这也不意味着我没买。我说的是王宁对商业的理解是顶级的，从没说过他们的商业模式是顶级的，虽然我认为他们已经跑通了他们的商业模式，长期看他们的商业模式也还不错。",
-          "url": "https://xueqiu.com/1247347556/382724257"
-        },
-        {
-          "id": "ce2131a4-cd79-44a0-b1ad-5e85155ccfea",
-          "date": "2026-04-08",
-          "sentiment": "bullish",
-          "summary": "打算买够，已开始买入",
-          "quote": "打算买够不等于已经买了，但也不意味着没开始买。",
-          "url": "https://xueqiu.com/1247347556/382850478"
-        },
-        {
-          "id": "f33f27db-6c73-4e9d-9808-fbe6af3a20cb",
-          "date": "2026-04-11",
-          "sentiment": "bullish",
-          "summary": "财报后看懂泡泡玛特",
-          "quote": "这个时间线是对的。这期财报的盈利激发了我的好奇心，连续花了好几天去理解这家公司，很久没有过这种兴奋感了。",
-          "url": "https://xueqiu.com/1247347556/383487382"
-        },
-        {
-          "id": "73a1564f-8315-4915-8cac-0d357eedd839",
-          "date": "2026-04-12",
-          "sentiment": "bullish",
-          "summary": "已过国际化风险关",
-          "quote": "我觉得泡泡玛特已经过了这一关了。",
-          "url": "https://xueqiu.com/1247347556/383540688"
-        },
-        {
-          "id": "e1cf8c58-bca2-425c-b0e8-3fb2a00d11a9",
-          "date": "2026-04-13",
-          "sentiment": "bullish",
-          "summary": "建议继续持有",
-          "quote": "好吧，好好拿着！",
-          "url": "https://xueqiu.com/1247347556/383783876"
-        },
-        {
-          "id": "9aa48ec5-3b87-475a-a331-30145a632555",
-          "date": "2026-04-13",
-          "sentiment": "bullish",
-          "summary": "愿意卖put建仓",
-          "quote": "真实的原因是：我是个满仓主义者，绝大部分钱都已经在其他的投资上了。尽管如此，我可以先卖些put，同时考虑用哪些投资去换（机会成本）。我不在乎股价因此就涨上去了，我少赚点就当做公益哈，反正我赚到钱也是拿来做公益的。如果put不进来，我还是能赚到premium的，如果put进来，我觉得我会赚到更",
-          "url": "https://xueqiu.com/1247347556/383774318"
-        },
-        {
-          "id": "4ea9cb13-831d-4e57-8aa9-d79460b62761",
-          "date": "2026-04-13",
-          "sentiment": "bullish",
-          "summary": "看好并愿意买入",
-          "quote": "跌 → 按折后价买入（他本来就看好，愿意买）",
-          "url": "https://xueqiu.com/1247347556/383793105"
-        },
-        {
-          "id": "674d7263-2d52-4484-8330-0c813a343fff",
-          "date": "2026-04-14",
-          "sentiment": "bullish",
-          "summary": "拟继续买入股份",
-          "quote": "我卖的put是4/29到期的，过期了就可以继续买股或者卖put。",
-          "url": "https://xueqiu.com/1247347556/383966529"
-        },
-        {
-          "id": "b53fef7e-356a-4108-861e-a819e6952351",
-          "date": "2026-04-28",
-          "sentiment": "bullish",
-          "summary": "卖put准备买入",
-          "quote": "卖put的前提就是要打算买的。always ready。",
-          "url": ""
-        },
-        {
-          "id": "ed4febf6-2488-4e0f-972a-e79cd0d496a8",
-          "date": "2026-04-29",
-          "sentiment": "bullish",
-          "summary": "当前价位皆为好价",
-          "quote": "any price at this level will be a good price!",
-          "url": "https://xueqiu.com/1247347556/386512617"
-        },
-        {
-          "id": "c88d8576-142b-48ef-9987-2098a9568312",
-          "date": "2026-05-06",
-          "sentiment": "bullish",
-          "summary": "清仓神华换入",
-          "quote": "我把我的神华都换了泡泡玛特了。我觉得神华是家很好的公司，我们的投资也获得了很好的回报，在此谢过了! 将来有机会我还会再回来的。",
-          "url": "https://xueqiu.com/1247347556/387543201"
-        }
-      ],
-      "opinion_count": 12,
-      "bullish_count": 12,
-      "bearish_count": 0
+      "bearish_count": 2,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-04-04",
+      "latest_opinion_summary": "阿里70多元便宜"
     },
     {
       "name": "Yahoo",
@@ -4567,7 +4653,10 @@
       ],
       "opinion_count": 11,
       "bullish_count": 6,
-      "bearish_count": 5
+      "bearish_count": 5,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2012-05-21",
+      "latest_opinion_summary": "雅虎中期看好"
     },
     {
       "name": "GE",
@@ -4675,7 +4764,10 @@
       ],
       "opinion_count": 11,
       "bullish_count": 0,
-      "bearish_count": 11
+      "bearish_count": 11,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-10-18",
+      "latest_opinion_summary": "不买GE商业模式差"
     },
     {
       "name": "Facebook",
@@ -4772,7 +4864,10 @@
       ],
       "opinion_count": 10,
       "bullish_count": 7,
-      "bearish_count": 3
+      "bearish_count": 3,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2022-01-12",
+      "latest_opinion_summary": "清仓FB"
     },
     {
       "name": "伯克希尔",
@@ -4872,7 +4967,10 @@
       ],
       "opinion_count": 10,
       "bullish_count": 10,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-05-06",
+      "latest_opinion_summary": "建议买入巴菲特股票"
     },
     {
       "name": "亚马逊",
@@ -4962,7 +5060,10 @@
       ],
       "opinion_count": 9,
       "bullish_count": 5,
-      "bearish_count": 4
+      "bearish_count": 4,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2023-03-15",
+      "latest_opinion_summary": "零售难赚钱，云业务受压"
     },
     {
       "name": "达美航空",
@@ -5045,7 +5146,10 @@
       ],
       "opinion_count": 8,
       "bullish_count": 1,
-      "bearish_count": 7
+      "bearish_count": 7,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2022-03-07",
+      "latest_opinion_summary": "商业模式有缺陷"
     },
     {
       "name": "TSMC",
@@ -5118,7 +5222,10 @@
       ],
       "opinion_count": 7,
       "bullish_count": 6,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-04-07",
+      "latest_opinion_summary": "开始买入TSM"
     },
     {
       "name": "新东方",
@@ -5191,7 +5298,10 @@
       ],
       "opinion_count": 7,
       "bullish_count": 4,
-      "bearish_count": 3
+      "bearish_count": 3,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2022-01-22",
+      "latest_opinion_summary": "不看好新东方"
     },
     {
       "name": "万科A",
@@ -5264,7 +5374,10 @@
       ],
       "opinion_count": 7,
       "bullish_count": 2,
-      "bearish_count": 5
+      "bearish_count": 5,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2025-12-03",
+      "latest_opinion_summary": "高杠杆房企投资风险"
     },
     {
       "name": "网易",
@@ -5331,74 +5444,10 @@
       ],
       "opinion_count": 6,
       "bullish_count": 3,
-      "bearish_count": 3
-    },
-    {
-      "name": "泡泡玛特",
-      "ticker": "9992.HK",
-      "market": "HK",
-      "philosophies": [
-        "business_model",
-        "circle_of_competence",
-        "corporate_culture",
-        "integrity",
-        "long_termism",
-        "patience",
-        "stop_doing"
-      ],
-      "opinions": [
-        {
-          "id": "9b34c636-bd69-4dcd-9e9f-2180513a00e4",
-          "date": "2026-01-11",
-          "sentiment": "bearish",
-          "summary": "担忧需求不可持续",
-          "quote": "我大致看过泡泡玛特，觉得他们确实蛮厉害的。不过，我依然无法理解人们为什么会需要这个东西，万一过两年大家都不要了呢？",
-          "url": "https://xueqiu.com/1247347556/370197456"
-        },
-        {
-          "id": "fa7b4c43-6d2f-47a9-b2da-8c2861471c1f",
-          "date": "2026-04-09",
-          "sentiment": "bullish",
-          "summary": "看好泡泡玛特未来",
-          "quote": "会比现在被更多人认识和喜欢。",
-          "url": "https://xueqiu.com/1247347556/383202280"
-        },
-        {
-          "id": "42947a82-331d-4f80-b183-7ef2542b295d",
-          "date": "2026-04-11",
-          "sentiment": "bullish",
-          "summary": "看好泡泡玛特业务",
-          "quote": "最近这次财报有点厉害，居然真的可以有这么好的盈利。我现在已经不需要想这个商业模式是不是可以行得通的问题了，也已经想通了可持续性的问题。",
-          "url": "https://xueqiu.com/1247347556/383462143"
-        },
-        {
-          "id": "a7bba0b2-50b0-4ca2-910b-32ba011a8683",
-          "date": "2026-04-26",
-          "sentiment": "bullish",
-          "summary": "看好五年后更高",
-          "quote": "大概率比现在高，5年也许50%？这个没人知道的，但我直觉一定会比现在更厉害。",
-          "url": "https://xueqiu.com/1247347556/385115032"
-        },
-        {
-          "id": "afe03d1e-46f3-49fb-b82a-d646a69816d1",
-          "date": "2026-05-09",
-          "sentiment": "bullish",
-          "summary": "换入泡泡玛特",
-          "quote": "我把我的神华都换了泡泡玛特了",
-          "url": "https://xueqiu.com/1247347556/387736001"
-        },
-        {
-          "id": "9f3e0f6e-7351-4af4-aaff-5d2e70f6fcaf",
-          "date": "2026-05-13",
-          "sentiment": "bullish",
-          "summary": "看好泡泡玛特",
-          "quote": "近期段永平先生非常高调地表达了对公司的看好",
-          "url": "https://xueqiu.com/1247347556/388824114"
-        }
-      ],
-      "opinion_count": 6,
-      "bullish_count": 5,
-      "bearish_count": 1
+      "bearish_count": 3,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2023-05-11",
+      "latest_opinion_summary": "网易商业模式好"
     },
     {
       "name": "UNG",
@@ -5461,7 +5510,10 @@
       ],
       "opinion_count": 6,
       "bullish_count": 3,
-      "bearish_count": 3
+      "bearish_count": 3,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2023-01-09",
+      "latest_opinion_summary": "看多天然气ETF"
     },
     {
       "name": "谷歌",
@@ -5523,7 +5575,10 @@
       ],
       "opinion_count": 6,
       "bullish_count": 6,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-08-03",
+      "latest_opinion_summary": "优先于标普500"
     },
     {
       "name": "腾讯控股",
@@ -5582,7 +5637,10 @@
       ],
       "opinion_count": 6,
       "bullish_count": 6,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-03-21",
+      "latest_opinion_summary": "便宜时加仓"
     },
     {
       "name": "完美世界",
@@ -5647,7 +5705,10 @@
       ],
       "opinion_count": 6,
       "bullish_count": 0,
-      "bearish_count": 6
+      "bearish_count": 6,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-05-03",
+      "latest_opinion_summary": "国际化将压垮完美"
     },
     {
       "name": "京东",
@@ -5704,7 +5765,10 @@
       ],
       "opinion_count": 5,
       "bullish_count": 0,
-      "bearish_count": 5
+      "bearish_count": 5,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-06-20",
+      "latest_opinion_summary": "京东618促销套路复杂"
     },
     {
       "name": "腾讯控股",
@@ -5755,7 +5819,10 @@
       ],
       "opinion_count": 5,
       "bullish_count": 4,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2024-04-30",
+      "latest_opinion_summary": "继续买入腾讯"
     },
     {
       "name": "游戏驿站",
@@ -5811,7 +5878,10 @@
       ],
       "opinion_count": 5,
       "bullish_count": 3,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2024-06-08",
+      "latest_opinion_summary": "看涨GME，上涨将获利"
     },
     {
       "name": "第一共和银行",
@@ -5856,7 +5926,10 @@
       ],
       "opinion_count": 4,
       "bullish_count": 0,
-      "bearish_count": 4
+      "bearish_count": 4,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2023-05-03",
+      "latest_opinion_summary": "飞刀绝对不要接"
     },
     {
       "name": "创维",
@@ -5902,7 +5975,10 @@
       ],
       "opinion_count": 4,
       "bullish_count": 0,
-      "bearish_count": 4
+      "bearish_count": 4,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2022-06-09",
+      "latest_opinion_summary": "不会买/商业模式差"
     },
     {
       "name": "微软",
@@ -5950,7 +6026,10 @@
       ],
       "opinion_count": 4,
       "bullish_count": 3,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2026-03-24",
+      "latest_opinion_summary": "AI冲击软件业务"
     },
     {
       "name": "Moderna",
@@ -5992,7 +6071,10 @@
       ],
       "opinion_count": 3,
       "bullish_count": 3,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2022-01-19",
+      "latest_opinion_summary": "对MRNA有兴趣小赌怡情"
     },
     {
       "name": "迪士尼",
@@ -6031,7 +6113,10 @@
       ],
       "opinion_count": 3,
       "bullish_count": 2,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2023-05-28",
+      "latest_opinion_summary": "质疑商业模式"
     },
     {
       "name": "Meta",
@@ -6071,7 +6156,10 @@
       ],
       "opinion_count": 3,
       "bullish_count": 0,
-      "bearish_count": 3
+      "bearish_count": 3,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2022-10-27",
+      "latest_opinion_summary": "看不懂元宇宙"
     },
     {
       "name": "可口可乐",
@@ -6109,7 +6197,10 @@
       ],
       "opinion_count": 3,
       "bullish_count": 3,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2024-01-30",
+      "latest_opinion_summary": "看好可口可乐抗通胀"
     },
     {
       "name": "标普500",
@@ -6146,7 +6237,10 @@
       ],
       "opinion_count": 3,
       "bullish_count": 3,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2024-10-11",
+      "latest_opinion_summary": "看好标普500"
     },
     {
       "name": "新浪",
@@ -6188,7 +6282,10 @@
       ],
       "opinion_count": 3,
       "bullish_count": 1,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2012-04-05",
+      "latest_opinion_summary": "卖出put支持新浪"
     },
     {
       "name": "美团",
@@ -6226,7 +6323,10 @@
       ],
       "opinion_count": 3,
       "bullish_count": 2,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2020-10-09",
+      "latest_opinion_summary": "打算投资美团"
     },
     {
       "name": "诺基亚",
@@ -6266,7 +6366,10 @@
       ],
       "opinion_count": 3,
       "bullish_count": 0,
-      "bearish_count": 3
+      "bearish_count": 3,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-05-19",
+      "latest_opinion_summary": "诺基亚管理失误多"
     },
     {
       "name": "UTSI",
@@ -6295,7 +6398,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2025-02-11",
+      "latest_opinion_summary": "商业模式烂应过滤"
     },
     {
       "name": "畅游",
@@ -6327,7 +6433,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-02-06",
+      "latest_opinion_summary": "不看好乱收购"
     },
     {
       "name": "伯克希尔哈撒韦",
@@ -6358,7 +6467,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 2,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2024-01-30",
+      "latest_opinion_summary": "看好BRK未来利润"
     },
     {
       "name": "老虎证券",
@@ -6387,7 +6499,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2022-03-20",
+      "latest_opinion_summary": "提示业务风险"
     },
     {
       "name": "美国银行",
@@ -6417,7 +6532,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 2,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2011-12-27",
+      "latest_opinion_summary": "老巴deal非常好"
     },
     {
       "name": "神华",
@@ -6447,7 +6565,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 2,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-07-19",
+      "latest_opinion_summary": "比存银行合算"
     },
     {
       "name": "西南航空",
@@ -6479,7 +6600,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-08-17",
+      "latest_opinion_summary": "西南航空未来艰难"
     },
     {
       "name": "顺丰控股",
@@ -6510,7 +6634,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 2,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2021-04-28",
+      "latest_opinion_summary": "依然是很好的公司"
     },
     {
       "name": "任天堂",
@@ -6540,7 +6667,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-01-27",
+      "latest_opinion_summary": "目前地位远不如前"
     },
     {
       "name": "极兔速递",
@@ -6569,7 +6699,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-10-20",
+      "latest_opinion_summary": "苦生意"
     },
     {
       "name": "理想汽车",
@@ -6599,7 +6732,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-10-17",
+      "latest_opinion_summary": "理想赚钱不易"
     },
     {
       "name": "阿里巴巴",
@@ -6626,7 +6762,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 1,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2024-09-15",
+      "latest_opinion_summary": "淘宝底部扎实"
     },
     {
       "name": "Groupon",
@@ -6657,7 +6796,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-07-13",
+      "latest_opinion_summary": "不会买Groupon"
     },
     {
       "name": "巨人网络",
@@ -6691,7 +6833,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 2,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2012-03-06",
+      "latest_opinion_summary": "看涨至6块多"
     },
     {
       "name": "Peloton Interactive",
@@ -6720,7 +6865,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-01-15",
+      "latest_opinion_summary": "不看好Peloton"
     },
     {
       "name": "Walmart",
@@ -6749,7 +6897,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-12-29",
+      "latest_opinion_summary": "沃尔玛难有作为"
     },
     {
       "name": "奇虎三六零",
@@ -6780,7 +6931,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 0,
-      "bearish_count": 2
+      "bearish_count": 2,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-06-13",
+      "latest_opinion_summary": "绝对不敢碰360"
     },
     {
       "name": "Zoom",
@@ -6814,7 +6968,10 @@
       ],
       "opinion_count": 2,
       "bullish_count": 1,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2023-01-13",
+      "latest_opinion_summary": "Zoom商业模式差/难投资"
     },
     {
       "name": "波音",
@@ -6835,7 +6992,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2025-03-13",
+      "latest_opinion_summary": "看空波音未来"
     },
     {
       "name": "比亚迪",
@@ -6859,7 +7019,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-08-28",
+      "latest_opinion_summary": "看空比亚迪"
     },
     {
       "name": "石头科技",
@@ -6880,7 +7043,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-11-21",
+      "latest_opinion_summary": "商业模式差太远"
     },
     {
       "name": "传音控股",
@@ -6901,7 +7067,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-11-21",
+      "latest_opinion_summary": "商业模式差太远"
     },
     {
       "name": "Zynga",
@@ -6920,7 +7089,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-09-26",
+      "latest_opinion_summary": "估值过高"
     },
     {
       "name": "通用汽车",
@@ -6942,7 +7114,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-05-17",
+      "latest_opinion_summary": "生意模式不好"
     },
     {
       "name": "Palantir",
@@ -6964,7 +7139,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2025-08-31",
+      "latest_opinion_summary": "不建议碰,太贵"
     },
     {
       "name": "澳门博彩业",
@@ -6983,7 +7161,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-10-10",
+      "latest_opinion_summary": "不看好博彩业"
     },
     {
       "name": "谭木匠",
@@ -7004,7 +7185,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-04-09",
+      "latest_opinion_summary": "规模太小不予关注"
     },
     {
       "name": "康美药业",
@@ -7023,7 +7207,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-04-29",
+      "latest_opinion_summary": "财务做假不接受"
     },
     {
       "name": "宁德时代",
@@ -7044,7 +7231,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-04-29",
+      "latest_opinion_summary": "护城河建立有难度"
     },
     {
       "name": "美国航空",
@@ -7063,7 +7253,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-06-11",
+      "latest_opinion_summary": "看空航空股模式"
     },
     {
       "name": "Costco",
@@ -7085,7 +7278,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-10-16",
+      "latest_opinion_summary": "Costco有宽护城河"
     },
     {
       "name": "IMAX CHINA",
@@ -7106,7 +7302,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-07-19",
+      "latest_opinion_summary": "看空IMAX未来十年"
     },
     {
       "name": "格力电器",
@@ -7131,7 +7330,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2021-12-29",
+      "latest_opinion_summary": "困难时对优秀企业有信心"
     },
     {
       "name": "中国平安",
@@ -7152,7 +7354,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2021-12-29",
+      "latest_opinion_summary": "困难时对优秀企业有信心"
     },
     {
       "name": "搜狐",
@@ -7173,7 +7378,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-05-09",
+      "latest_opinion_summary": "看空搜狐视频业务"
     },
     {
       "name": "Opendoor",
@@ -7194,7 +7402,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-07-13",
+      "latest_opinion_summary": "商业模式不好"
     },
     {
       "name": "海信视像",
@@ -7216,7 +7427,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-10-09",
+      "latest_opinion_summary": "电视行业苦生意"
     },
     {
       "name": "洪恩",
@@ -7237,7 +7451,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2026-01-05",
+      "latest_opinion_summary": "商业模式不吸引"
     },
     {
       "name": "SPXL",
@@ -7256,7 +7473,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2023-03-21",
+      "latest_opinion_summary": "绝不碰杠杆ETF"
     },
     {
       "name": "UPRO",
@@ -7275,7 +7495,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2023-03-21",
+      "latest_opinion_summary": "绝不碰杠杆ETF"
     },
     {
       "name": "影石创新",
@@ -7296,7 +7519,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2025-11-16",
+      "latest_opinion_summary": "商业模式难匹敌苹果"
     },
     {
       "name": "亚盛医药-B",
@@ -7318,7 +7544,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2025-09-29",
+      "latest_opinion_summary": "难投资不宜重仓"
     },
     {
       "name": "百度",
@@ -7341,7 +7570,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-05-23",
+      "latest_opinion_summary": "不值得长期投资"
     },
     {
       "name": "瑞贝卡",
@@ -7362,7 +7594,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-04-09",
+      "latest_opinion_summary": "不值得花时间"
     },
     {
       "name": "麦当劳",
@@ -7384,7 +7619,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2024-01-30",
+      "latest_opinion_summary": "看好麦当劳抗通胀能力"
     },
     {
       "name": "环球天下",
@@ -7405,7 +7643,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-12-12",
+      "latest_opinion_summary": "建议别碰环球天下"
     },
     {
       "name": "晶科能源",
@@ -7426,7 +7667,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-12-12",
+      "latest_opinion_summary": "产品无差异化看空"
     },
     {
       "name": "FSLR",
@@ -7445,7 +7689,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-04-06",
+      "latest_opinion_summary": "看空FSLR，选择远离"
     },
     {
       "name": "盛大",
@@ -7467,7 +7714,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-08-31",
+      "latest_opinion_summary": "没有焦点早晚有麻烦"
     },
     {
       "name": "TRE.TO",
@@ -7486,7 +7736,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-08-31",
+      "latest_opinion_summary": "不信任该类型CEO"
     },
     {
       "name": "海底捞",
@@ -7507,7 +7760,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-09-02",
+      "latest_opinion_summary": "餐饮苦生意"
     },
     {
       "name": "雪佛龙",
@@ -7528,7 +7784,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2024-02-24",
+      "latest_opinion_summary": "石油公司有价值"
     },
     {
       "name": "嘉信理财",
@@ -7550,7 +7809,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2023-03-14",
+      "latest_opinion_summary": "难是好的投资标的"
     },
     {
       "name": "盛大游戏",
@@ -7569,7 +7831,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-02-10",
+      "latest_opinion_summary": "不要碰GAME"
     },
     {
       "name": "绿城中国",
@@ -7590,7 +7855,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-05-20",
+      "latest_opinion_summary": "不买高负债公司"
     },
     {
       "name": "迈瑞医疗",
@@ -7609,7 +7877,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2023-03-04",
+      "latest_opinion_summary": "完全没兴趣"
     },
     {
       "name": "伯克希尔B",
@@ -7634,7 +7905,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-10-31",
+      "latest_opinion_summary": "大概率买入BRK-B"
     },
     {
       "name": "网易",
@@ -7653,7 +7927,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-04-08",
+      "latest_opinion_summary": "投资前几名，核心持仓"
     },
     {
       "name": "券商",
@@ -7674,7 +7951,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-12-02",
+      "latest_opinion_summary": "不看好券商股"
     },
     {
       "name": "美的电器",
@@ -7696,7 +7976,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-02-18",
+      "latest_opinion_summary": "建议避开美的电器"
     },
     {
       "name": "尚德电力",
@@ -7717,7 +8000,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-10-07",
+      "latest_opinion_summary": "避开太阳能硅片企业"
     },
     {
       "name": "CDC软件",
@@ -7736,7 +8022,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-10-07",
+      "latest_opinion_summary": "CDC为烂公司"
     },
     {
       "name": "联合健康",
@@ -7759,7 +8048,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2025-08-14",
+      "latest_opinion_summary": "恐慌卖出是捡便宜机会"
     },
     {
       "name": "纳指3X做空-ProShares",
@@ -7780,7 +8072,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2021-12-14",
+      "latest_opinion_summary": "长期持有大概率输钱"
     },
     {
       "name": "晨光文具",
@@ -7799,7 +8094,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-05-29",
+      "latest_opinion_summary": "生意模式较差"
     },
     {
       "name": "能源行业/石油公司",
@@ -7818,26 +8116,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
-    },
-    {
-      "name": "中国神华",
-      "ticker": "1088.HK",
-      "market": "HK",
-      "philosophies": [],
-      "opinions": [
-        {
-          "id": "1033c19d-09bd-4740-b558-0f0122522ed7",
-          "date": "2026-05-09",
-          "sentiment": "bearish",
-          "summary": "卖出神华",
-          "quote": "我把我的神华都换了泡泡玛特了",
-          "url": "https://xueqiu.com/1247347556/387736001"
-        }
-      ],
-      "opinion_count": 1,
-      "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-05-18",
+      "latest_opinion_summary": "能源行业难懂不敢重注"
     },
     {
       "name": "松下",
@@ -7861,7 +8143,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2022-05-16",
+      "latest_opinion_summary": "看空松下"
     },
     {
       "name": "三星",
@@ -7882,7 +8167,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-08-30",
+      "latest_opinion_summary": "三星未来经营困难"
     },
     {
       "name": "Apollo集团",
@@ -7903,7 +8191,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2012-08-30",
+      "latest_opinion_summary": "不喜欢双CEO治理"
     },
     {
       "name": "UHAL",
@@ -7927,7 +8218,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-10-25",
+      "latest_opinion_summary": "UHAL属烟蒂股不再买入"
     },
     {
       "name": "维信诺",
@@ -7949,7 +8243,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-11-26",
+      "latest_opinion_summary": "重资产差异化小"
     },
     {
       "name": "日本五大商社",
@@ -7968,7 +8265,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2025-10-04",
+      "latest_opinion_summary": "绝对不会购买"
     },
     {
       "name": "菲亚特克莱斯勒",
@@ -7989,7 +8289,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2019-04-09",
+      "latest_opinion_summary": "不看好FCAU商业模式"
     },
     {
       "name": "第九城市",
@@ -8010,7 +8313,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-12-02",
+      "latest_opinion_summary": "完全没兴趣看"
     },
     {
       "name": "EA",
@@ -8029,7 +8335,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2012-03-31",
+      "latest_opinion_summary": "计划买入EA股份"
     },
     {
       "name": "国电科环",
@@ -8048,7 +8357,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-10-23",
+      "latest_opinion_summary": "不再买烟蒂资产"
     },
     {
       "name": "携程",
@@ -8070,7 +8382,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-12-08",
+      "latest_opinion_summary": "35元非价值投资"
     },
     {
       "name": "7-11",
@@ -8091,7 +8406,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2020-12-04",
+      "latest_opinion_summary": "7-11未来难过"
     },
     {
       "name": "吉利德科学",
@@ -8116,7 +8434,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2020-02-05",
+      "latest_opinion_summary": "准备买入"
     },
     {
       "name": "AMR Corp",
@@ -8137,7 +8458,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2011-12-29",
+      "latest_opinion_summary": "航空股将清零"
     },
     {
       "name": "标普500",
@@ -8156,7 +8480,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2026-03-23",
+      "latest_opinion_summary": "推荐定投标普"
     },
     {
       "name": "欢聚",
@@ -8177,7 +8504,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 1,
-      "bearish_count": 0
+      "bearish_count": 0,
+      "latest_sentiment": "bullish",
+      "latest_opinion_date": "2021-02-25",
+      "latest_opinion_summary": "建议不要做空"
     },
     {
       "name": "富途证券",
@@ -8196,7 +8526,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-01-21",
+      "latest_opinion_summary": "不买券商股"
     },
     {
       "name": "东方财富",
@@ -8215,7 +8548,10 @@
       ],
       "opinion_count": 1,
       "bullish_count": 0,
-      "bearish_count": 1
+      "bearish_count": 1,
+      "latest_sentiment": "bearish",
+      "latest_opinion_date": "2024-01-21",
+      "latest_opinion_summary": "不买东方财富"
     }
   ]
 }
