@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我从2011年就在雪球说苹果，说了十几年才涨上来的",
+    "post_url": "https://xueqiu.com/1247347556/383629866",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "我从2011年就在雪球说苹果，说了十几年才涨上来的",
+    "post_url": "https://xueqiu.com/1247347556/383629866",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "大道公开支持茅台是塑化剂期间，大道在美国送检茅台然后在雪球上公布了化验结果，大道就是那个时候开始买茅台的。",
+    "post_url": "https://xueqiu.com/1247347556/383724869",
+    "post_date": "2026-04-13",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "这个和公司好坏没关系。坏公司最后的买家也是只有自己，但没钱买就倒了呗。理解不了这句话，做投资是有危险的。",
+    "post_url": "https://xueqiu.com/1247347556/383723435",
+    "post_date": "2026-04-13",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  }
+]

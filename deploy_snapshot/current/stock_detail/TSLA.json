@@ -6,6 +6,7 @@
     "business_model",
     "circle_of_competence",
     "corporate_culture",
+    "integrity",
     "long_termism",
     "stop_doing"
   ],
@@ -324,18 +325,18 @@
       "url": ""
     },
     {
-      "id": "44dc2b0e-d795-41bc-b1c6-f214821bf3a1",
+      "id": "3c08edba-c7f3-44f1-a37b-7b69926c1f6c",
       "stock": "特斯拉",
       "ticker": "TSLA",
       "market": "US",
-      "date": "2026-04-06",
+      "date": "2026-05-02",
       "sentiment": "bullish",
-      "summary": "FSD很好",
-      "quote": "fsd确实很好，就相当于$99块/月钱请了个顶级司机",
-      "source_file": "2026-04_batch008",
+      "summary": "看好特斯拉FSD",
+      "quote": "除非真不舍得花那点钱，不然真想不出不用FSD的道理。安全很多的，而且是全天候的，至少比我自己开车要好很多。一旦开始用了后就再也放不下来了。",
+      "source_file": "2026-05_batch006",
       "source_type": "xueqiu",
-      "chunk_index": 8,
-      "url": "https://xueqiu.com/1247347556/382833719"
+      "chunk_index": 6,
+      "url": "https://xueqiu.com/1247347556/387076800"
     }
   ]
 }

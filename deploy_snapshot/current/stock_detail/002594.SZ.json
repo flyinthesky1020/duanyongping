@@ -3,6 +3,7 @@
   "ticker": "002594.SZ",
   "market": "CN_A",
   "philosophies": [
+    "cash_flow",
     "circle_of_competence",
     "long_termism",
     "stop_doing"

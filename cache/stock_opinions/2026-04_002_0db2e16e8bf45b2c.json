@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ed4febf6-2488-4e0f-972a-e79cd0d496a8",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-29",
+    "sentiment": "bullish",
+    "summary": "当前价位皆为好价",
+    "quote": "any price at this level will be a good price!",
+    "source_file": "2026-04_batch002",
+    "source_type": "xueqiu",
+    "chunk_index": 2,
+    "url": "https://xueqiu.com/1247347556/386512617"
+  }
+]

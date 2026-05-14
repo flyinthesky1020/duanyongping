@@ -1,0 +1,52 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "除了Gemini，别的大模型有谁上市了吗？ 除了Gemini，有哪个大模型能活到10年后的？我看不懂大模型的盈利模式。",
+    "post_url": "https://xueqiu.com/1247347556/383901965",
+    "post_date": "2026-04-14",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "不懂能源",
+    "post_url": "https://xueqiu.com/1247347556/383900445",
+    "post_date": "2026-04-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我看不懂大模型的盈利模式。",
+    "post_url": "https://xueqiu.com/1247347556/383901965",
+    "post_date": "2026-04-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "除了Gemini，有哪个大模型能活到10年后的？",
+    "post_url": "https://xueqiu.com/1247347556/383901965",
+    "post_date": "2026-04-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "是因为我需要一点时间去考虑用什么股来换，所以先卖个put再说。",
+    "post_url": "https://xueqiu.com/1247347556/383972960",
+    "post_date": "2026-04-14",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "哈，故事会开始了。苹果他们也是这么送钱的。这个世界很有意思，历史总是惊人的相似。",
+    "post_url": "https://xueqiu.com/1247347556/383798362",
+    "post_date": "2026-04-13",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

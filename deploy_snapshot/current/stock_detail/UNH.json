@@ -3,7 +3,9 @@
   "ticker": "UNH",
   "market": "US",
   "philosophies": [
-    "circle_of_competence"
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture"
   ],
   "opinion_count": 1,
   "bullish_count": 1,

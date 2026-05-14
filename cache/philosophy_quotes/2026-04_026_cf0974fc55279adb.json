@@ -1,0 +1,60 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "我不做风投的，找到这样的投资犹如大海捞针，太难了，时间花不起。",
+    "post_url": "https://xueqiu.com/1247347556/383191908",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我属于“胸无大志”的那种，会努力垒好砖头但也会想搞明白我们到底在造什么。",
+    "post_url": "https://xueqiu.com/1247347556/383200878",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "会比现在被更多人认识和喜欢。",
+    "post_url": "https://xueqiu.com/1247347556/383202280",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "懂的意思是你大致能知道10年后是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/383193257",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我们这派的人是不会问别人这个问题的，问的就肯定不是的。",
+    "post_url": "https://xueqiu.com/1247347556/383200496",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "比特币更难理解。",
+    "post_url": "https://xueqiu.com/1247347556/383193408",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "懂的意思是你大致能知道10年后是什么样子。",
+    "post_url": "https://xueqiu.com/1247347556/383193257",
+    "post_date": "2026-04-09",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  }
+]

@@ -3,6 +3,7 @@
   "ticker": "UNG",
   "market": "US",
   "philosophies": [
+    "cash_flow",
     "circle_of_competence",
     "stop_doing"
   ],

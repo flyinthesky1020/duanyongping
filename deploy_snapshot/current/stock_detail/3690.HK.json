@@ -3,7 +3,8 @@
   "ticker": "3690.HK",
   "market": "HK",
   "philosophies": [
-    "circle_of_competence"
+    "circle_of_competence",
+    "stop_doing"
   ],
   "opinion_count": 3,
   "bullish_count": 2,

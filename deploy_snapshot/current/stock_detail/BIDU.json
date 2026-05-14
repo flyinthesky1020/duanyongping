@@ -3,6 +3,8 @@
   "ticker": "BIDU",
   "market": "US",
   "philosophies": [
+    "cash_flow",
+    "circle_of_competence",
     "stop_doing"
   ],
   "opinion_count": 1,

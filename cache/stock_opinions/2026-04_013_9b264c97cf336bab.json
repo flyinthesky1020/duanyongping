@@ -1,0 +1,16 @@
+[
+  {
+    "id": "e1cf8c58-bca2-425c-b0e8-3fb2a00d11a9",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-13",
+    "sentiment": "bullish",
+    "summary": "建议继续持有",
+    "quote": "好吧，好好拿着！",
+    "source_file": "2026-04_batch013",
+    "source_type": "xueqiu",
+    "chunk_index": 13,
+    "url": "https://xueqiu.com/1247347556/383783876"
+  }
+]

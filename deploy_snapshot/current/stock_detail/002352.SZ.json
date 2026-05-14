@@ -1,9 +1,11 @@
 {
-  "name": "顺丰",
+  "name": "顺丰控股",
   "ticker": "002352.SZ",
   "market": "CN_A",
   "philosophies": [
-    "business_model"
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture"
   ],
   "opinion_count": 2,
   "bullish_count": 2,

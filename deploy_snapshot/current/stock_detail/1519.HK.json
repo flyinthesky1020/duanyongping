@@ -2,7 +2,9 @@
   "name": "极兔速递",
   "ticker": "1519.HK",
   "market": "HK",
-  "philosophies": [],
+  "philosophies": [
+    "business_model"
+  ],
   "opinion_count": 2,
   "bullish_count": 0,
   "bearish_count": 2,

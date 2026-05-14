@@ -2,7 +2,9 @@
   "name": "中国平安",
   "ticker": "601318.SH",
   "market": "CN_A",
-  "philosophies": [],
+  "philosophies": [
+    "long_termism"
+  ],
   "opinion_count": 1,
   "bullish_count": 1,
   "bearish_count": 0,

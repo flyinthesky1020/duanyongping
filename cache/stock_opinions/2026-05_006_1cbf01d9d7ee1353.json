@@ -1,0 +1,16 @@
+[
+  {
+    "id": "3c08edba-c7f3-44f1-a37b-7b69926c1f6c",
+    "stock": "特斯拉",
+    "ticker": "TSLA",
+    "market": "US",
+    "date": "2026-05-02",
+    "sentiment": "bullish",
+    "summary": "看好特斯拉FSD",
+    "quote": "除非真不舍得花那点钱，不然真想不出不用FSD的道理。安全很多的，而且是全天候的，至少比我自己开车要好很多。一旦开始用了后就再也放不下来了。",
+    "source_file": "2026-05_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/387076800"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "674d7263-2d52-4484-8330-0c813a343fff",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-14",
+    "sentiment": "bullish",
+    "summary": "拟继续买入股份",
+    "quote": "我卖的put是4/29到期的，过期了就可以继续买股或者卖put。",
+    "source_file": "2026-04_batch011",
+    "source_type": "xueqiu",
+    "chunk_index": 11,
+    "url": "https://xueqiu.com/1247347556/383966529"
+  }
+]

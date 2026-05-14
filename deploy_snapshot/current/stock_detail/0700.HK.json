@@ -12,8 +12,8 @@
     "patience",
     "stop_doing"
   ],
-  "opinion_count": 73,
-  "bullish_count": 72,
+  "opinion_count": 74,
+  "bullish_count": 73,
   "bearish_count": 1,
   "preview_opinions": [
     {
@@ -1081,6 +1081,20 @@
       "source_type": "xueqiu",
       "chunk_index": 4,
       "url": "https://xueqiu.com/1247347556/374768304"
+    },
+    {
+      "id": "35d4a0c7-66b5-447d-b0fa-678e71bff26c",
+      "stock": "腾讯",
+      "ticker": "0700.HK",
+      "market": "HK",
+      "date": "2026-04-16",
+      "sentiment": "bullish",
+      "summary": "腾讯很好要惜卖",
+      "quote": "腾讯是很好的公司，要惜卖。",
+      "source_file": "2026-04_batch010",
+      "source_type": "xueqiu",
+      "chunk_index": 10,
+      "url": "https://xueqiu.com/1247347556/383978082"
     }
   ]
 }

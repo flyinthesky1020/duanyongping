@@ -1,673 +1,733 @@
 {
-  "generated_at": "2026-04-19T07:45:45.910684+00:00",
-  "stock_count": 113,
-  "success_count": 98,
+  "generated_at": "2026-05-14T06:24:15.395143+00:00",
+  "stock_count": 123,
+  "success_count": 108,
   "failure_count": 15,
   "success": [
     {
       "ticker": "AAPL",
       "market": "US",
-      "bar_count": 3649,
-      "progress": "1/113"
+      "bar_count": 3668,
+      "progress": "1/123"
     },
     {
       "ticker": "600519.SH",
       "market": "CN_A",
-      "bar_count": 1841,
-      "progress": "2/113"
+      "bar_count": 1856,
+      "progress": "2/123"
     },
     {
       "ticker": "0700.HK",
       "market": "HK",
-      "bar_count": 1788,
-      "progress": "3/113"
+      "bar_count": 1805,
+      "progress": "3/123"
     },
     {
       "ticker": "PDD",
       "market": "US",
-      "bar_count": 1942,
-      "progress": "4/113"
+      "bar_count": 1959,
+      "progress": "4/123"
     },
     {
       "ticker": "TSLA",
       "market": "US",
-      "bar_count": 3444,
-      "progress": "5/113"
+      "bar_count": 3462,
+      "progress": "5/123"
     },
     {
       "ticker": "GOOG",
       "market": "US",
-      "bar_count": 3027,
-      "progress": "6/113"
+      "bar_count": 3668,
+      "progress": "6/123"
     },
     {
       "ticker": "NVDA",
       "market": "US",
-      "bar_count": 537,
-      "progress": "7/113"
-    },
-    {
-      "ticker": "BABA",
-      "market": "US",
-      "bar_count": 1730,
-      "progress": "8/113"
-    },
-    {
-      "ticker": "GE",
-      "market": "US",
-      "bar_count": 3649,
-      "progress": "10/113"
-    },
-    {
-      "ticker": "FB",
-      "market": "US",
-      "bar_count": 1010,
-      "progress": "11/113"
-    },
-    {
-      "ticker": "AMZN",
-      "market": "US",
-      "bar_count": 3578,
-      "progress": "12/113"
-    },
-    {
-      "ticker": "BRK.B",
-      "market": "US",
-      "bar_count": 1791,
-      "progress": "13/113"
+      "bar_count": 554,
+      "progress": "7/123"
     },
     {
       "ticker": "OXY",
       "market": "US",
-      "bar_count": 796,
-      "progress": "14/113"
+      "bar_count": 813,
+      "progress": "8/123"
+    },
+    {
+      "ticker": "BABA",
+      "market": "US",
+      "bar_count": 1747,
+      "progress": "9/123"
+    },
+    {
+      "ticker": "09992.HK",
+      "market": "HK",
+      "bar_count": 87,
+      "progress": "10/123"
+    },
+    {
+      "ticker": "GE",
+      "market": "US",
+      "bar_count": 3668,
+      "progress": "12/123"
+    },
+    {
+      "ticker": "FB",
+      "market": "US",
+      "bar_count": 221,
+      "progress": "13/123"
+    },
+    {
+      "ticker": "BRK.B",
+      "market": "US",
+      "bar_count": 1809,
+      "progress": "14/123"
+    },
+    {
+      "ticker": "AMZN",
+      "market": "US",
+      "bar_count": 3597,
+      "progress": "15/123"
     },
     {
       "ticker": "DAL",
       "market": "US",
-      "bar_count": 1512,
-      "progress": "15/113"
+      "bar_count": 1529,
+      "progress": "16/123"
     },
     {
-      "ticker": "NTES",
+      "ticker": "TSM",
       "market": "US",
-      "bar_count": 3648,
-      "progress": "16/113"
+      "bar_count": 756,
+      "progress": "17/123"
     },
     {
       "ticker": "EDU",
       "market": "US",
-      "bar_count": 3583,
-      "progress": "17/113"
-    },
-    {
-      "ticker": "UNG",
-      "market": "US",
-      "bar_count": 3593,
-      "progress": "18/113"
-    },
-    {
-      "ticker": "GOOGL",
-      "market": "US",
-      "bar_count": 1738,
-      "progress": "19/113"
-    },
-    {
-      "ticker": "00700.HK",
-      "market": "HK",
-      "bar_count": 1850,
-      "progress": "20/113"
+      "bar_count": 3602,
+      "progress": "18/123"
     },
     {
       "ticker": "000002.SZ",
       "market": "CN_A",
-      "bar_count": 3348,
-      "progress": "22/113"
+      "bar_count": 3363,
+      "progress": "19/123"
+    },
+    {
+      "ticker": "NTES",
+      "market": "US",
+      "bar_count": 3668,
+      "progress": "20/123"
+    },
+    {
+      "ticker": "UNG",
+      "market": "US",
+      "bar_count": 3611,
+      "progress": "21/123"
+    },
+    {
+      "ticker": "GOOGL",
+      "market": "US",
+      "bar_count": 1755,
+      "progress": "22/123"
+    },
+    {
+      "ticker": "00700.HK",
+      "market": "HK",
+      "bar_count": 1867,
+      "progress": "23/123"
+    },
+    {
+      "ticker": "PWRD",
+      "market": "US",
+      "bar_count": 1071,
+      "progress": "24/123"
     },
     {
       "ticker": "JD",
       "market": "UNKNOWN",
-      "bar_count": 2993,
-      "progress": "23/113"
+      "bar_count": 3011,
+      "progress": "25/123"
     },
     {
       "ticker": "TCEHY",
       "market": "US",
-      "bar_count": 938,
-      "progress": "24/113"
+      "bar_count": 955,
+      "progress": "26/123"
+    },
+    {
+      "ticker": "GME",
+      "market": "US",
+      "bar_count": 1333,
+      "progress": "27/123"
     },
     {
       "ticker": "FRC",
       "market": "US",
       "bar_count": 39,
-      "progress": "25/113"
+      "progress": "28/123"
     },
     {
       "ticker": "0751.HK",
       "market": "HK",
-      "bar_count": 1830,
-      "progress": "26/113"
+      "bar_count": 1847,
+      "progress": "29/123"
     },
     {
       "ticker": "MSFT",
       "market": "US",
-      "bar_count": 1355,
-      "progress": "27/113"
+      "bar_count": 1372,
+      "progress": "30/123"
     },
     {
       "ticker": "MRNA",
       "market": "US",
-      "bar_count": 1126,
-      "progress": "28/113"
+      "bar_count": 1143,
+      "progress": "31/123"
     },
     {
       "ticker": "DIS",
       "market": "US",
-      "bar_count": 1486,
-      "progress": "29/113"
+      "bar_count": 1503,
+      "progress": "32/123"
     },
     {
       "ticker": "META",
       "market": "US",
-      "bar_count": 967,
-      "progress": "30/113"
+      "bar_count": 1079,
+      "progress": "33/123"
     },
     {
       "ticker": "KO",
       "market": "US",
-      "bar_count": 1738,
-      "progress": "31/113"
+      "bar_count": 1755,
+      "progress": "34/123"
     },
     {
-      "ticker": "09992.HK",
-      "market": "HK",
-      "bar_count": 70,
-      "progress": "32/113"
+      "ticker": "SPY",
+      "market": "US",
+      "bar_count": 1669,
+      "progress": "35/123"
     },
     {
       "ticker": "SINA",
       "market": "US",
       "bar_count": 2352,
-      "progress": "33/113"
+      "progress": "36/123"
+    },
+    {
+      "ticker": "3690.HK",
+      "market": "HK",
+      "bar_count": 1399,
+      "progress": "37/123"
     },
     {
       "ticker": "NOK",
       "market": "US",
-      "bar_count": 3643,
-      "progress": "34/113"
+      "bar_count": 3662,
+      "progress": "38/123"
     },
     {
       "ticker": "UTSI",
       "market": "US",
-      "bar_count": 3669,
-      "progress": "35/113"
+      "bar_count": 3702,
+      "progress": "39/123"
     },
     {
       "ticker": "CYOU",
       "market": "US",
       "bar_count": 2179,
-      "progress": "36/113"
+      "progress": "40/123"
     },
     {
       "ticker": "TIGR",
       "market": "US",
-      "bar_count": 1032,
-      "progress": "38/113"
+      "bar_count": 1049,
+      "progress": "42/123"
     },
     {
       "ticker": "BAC",
       "market": "US",
-      "bar_count": 3678,
-      "progress": "39/113"
+      "bar_count": 3697,
+      "progress": "43/123"
     },
     {
       "ticker": "601088.SH",
       "market": "CN_A",
-      "bar_count": 3424,
-      "progress": "40/113"
+      "bar_count": 3439,
+      "progress": "44/123"
     },
     {
       "ticker": "LUV",
       "market": "US",
-      "bar_count": 1478,
-      "progress": "41/113"
+      "bar_count": 1495,
+      "progress": "45/123"
     },
     {
-      "ticker": "TSM",
-      "market": "US",
-      "bar_count": 739,
-      "progress": "42/113"
-    },
-    {
-      "ticker": "SPY",
-      "market": "US",
-      "bar_count": 1652,
-      "progress": "43/113"
+      "ticker": "002352.SZ",
+      "market": "CN_A",
+      "bar_count": 1321,
+      "progress": "46/123"
     },
     {
       "ticker": "NTDOY",
       "market": "US",
-      "bar_count": 3559,
-      "progress": "44/113"
+      "bar_count": 3556,
+      "progress": "47/123"
+    },
+    {
+      "ticker": "1519.HK",
+      "market": "HK",
+      "bar_count": 392,
+      "progress": "48/123"
+    },
+    {
+      "ticker": "LI",
+      "market": "US",
+      "bar_count": 1411,
+      "progress": "49/123"
     },
     {
       "ticker": "9988.HK",
       "market": "HK",
-      "bar_count": 452,
-      "progress": "45/113"
-    },
-    {
-      "ticker": "GME",
-      "market": "US",
-      "bar_count": 1316,
-      "progress": "46/113"
+      "bar_count": 469,
+      "progress": "50/123"
     },
     {
       "ticker": "GRPN",
       "market": "US",
-      "bar_count": 3572,
-      "progress": "47/113"
+      "bar_count": 3591,
+      "progress": "51/123"
     },
     {
       "ticker": "PTON",
       "market": "US",
-      "bar_count": 579,
-      "progress": "49/113"
+      "bar_count": 596,
+      "progress": "53/123"
     },
     {
       "ticker": "WMT",
       "market": "US",
-      "bar_count": 3649,
-      "progress": "50/113"
+      "bar_count": 3668,
+      "progress": "54/123"
     },
     {
       "ticker": "ZM",
       "market": "US",
-      "bar_count": 1256,
-      "progress": "52/113"
+      "bar_count": 1273,
+      "progress": "56/123"
     },
     {
       "ticker": "BA",
       "market": "US",
-      "bar_count": 284,
-      "progress": "53/113"
+      "bar_count": 301,
+      "progress": "57/123"
     },
     {
       "ticker": "002594.SZ",
       "market": "CN_A",
-      "bar_count": 3306,
-      "progress": "54/113"
+      "bar_count": 3321,
+      "progress": "58/123"
     },
     {
       "ticker": "688169.SH",
       "market": "CN_A",
-      "bar_count": 348,
-      "progress": "55/113"
+      "bar_count": 363,
+      "progress": "59/123"
     },
     {
       "ticker": "688036.SH",
       "market": "CN_A",
-      "bar_count": 348,
-      "progress": "56/113"
+      "bar_count": 363,
+      "progress": "60/123"
     },
     {
       "ticker": "ZNGA",
       "market": "US",
       "bar_count": 2624,
-      "progress": "57/113"
+      "progress": "61/123"
     },
     {
       "ticker": "GM",
       "market": "US",
-      "bar_count": 3505,
-      "progress": "58/113"
+      "bar_count": 3524,
+      "progress": "62/123"
     },
     {
       "ticker": "PLTR",
       "market": "US",
-      "bar_count": 165,
-      "progress": "59/113"
+      "bar_count": 182,
+      "progress": "63/123"
     },
     {
       "ticker": "0837.HK",
       "market": "HK",
-      "bar_count": 1648,
-      "progress": "60/113"
+      "bar_count": 1665,
+      "progress": "65/123"
     },
     {
       "ticker": "600518.SH",
       "market": "CN_A",
-      "bar_count": 1661,
-      "progress": "61/113"
+      "bar_count": 1676,
+      "progress": "66/123"
     },
     {
       "ticker": "300750.SZ",
       "market": "CN_A",
-      "bar_count": 1696,
-      "progress": "62/113"
+      "bar_count": 1711,
+      "progress": "67/123"
     },
     {
       "ticker": "AAL",
       "market": "US",
-      "bar_count": 1478,
-      "progress": "63/113"
+      "bar_count": 1495,
+      "progress": "68/123"
+    },
+    {
+      "ticker": "COST",
+      "market": "US",
+      "bar_count": 151,
+      "progress": "69/123"
     },
     {
       "ticker": "1970.HK",
       "market": "HK",
-      "bar_count": 1647,
-      "progress": "64/113"
+      "bar_count": 1663,
+      "progress": "70/123"
     },
     {
       "ticker": "000651.SZ",
       "market": "CN_A",
-      "bar_count": 1047,
-      "progress": "65/113"
+      "bar_count": 1062,
+      "progress": "71/123"
     },
     {
       "ticker": "601318.SH",
       "market": "CN_A",
-      "bar_count": 1047,
-      "progress": "66/113"
+      "bar_count": 1062,
+      "progress": "72/123"
     },
     {
       "ticker": "SOHU",
       "market": "US",
-      "bar_count": 3510,
-      "progress": "67/113"
+      "bar_count": 3529,
+      "progress": "73/123"
     },
     {
       "ticker": "OPEN",
       "market": "US",
-      "bar_count": 449,
-      "progress": "68/113"
+      "bar_count": 466,
+      "progress": "74/123"
+    },
+    {
+      "ticker": "600060.SH",
+      "market": "CN_A",
+      "bar_count": 1357,
+      "progress": "75/123"
+    },
+    {
+      "ticker": "IH",
+      "market": "US",
+      "bar_count": 94,
+      "progress": "76/123"
     },
     {
       "ticker": "SPXL",
       "market": "US",
-      "bar_count": 778,
-      "progress": "69/113"
+      "bar_count": 795,
+      "progress": "77/123"
     },
     {
       "ticker": "UPRO",
       "market": "US",
-      "bar_count": 778,
-      "progress": "70/113"
+      "bar_count": 795,
+      "progress": "78/123"
     },
     {
       "ticker": "688775.SH",
       "market": "CN_A",
-      "bar_count": 108,
-      "progress": "71/113"
+      "bar_count": 123,
+      "progress": "79/123"
     },
     {
       "ticker": "06855.HK",
       "market": "HK",
-      "bar_count": 139,
-      "progress": "72/113"
+      "bar_count": 156,
+      "progress": "80/123"
     },
     {
       "ticker": "BIDU",
       "market": "US",
-      "bar_count": 1743,
-      "progress": "73/113"
+      "bar_count": 1760,
+      "progress": "81/123"
     },
     {
       "ticker": "600439.SH",
       "market": "CN_A",
-      "bar_count": 3396,
-      "progress": "74/113"
+      "bar_count": 3411,
+      "progress": "82/123"
     },
     {
       "ticker": "MCD",
       "market": "US",
-      "bar_count": 562,
-      "progress": "75/113"
+      "bar_count": 579,
+      "progress": "83/123"
     },
     {
       "ticker": "JKS",
       "market": "US",
-      "bar_count": 3611,
-      "progress": "77/113"
+      "bar_count": 3630,
+      "progress": "85/123"
     },
     {
       "ticker": "FSLR",
       "market": "US",
-      "bar_count": 3533,
-      "progress": "78/113"
+      "bar_count": 3552,
+      "progress": "86/123"
     },
     {
       "ticker": "SNDA",
       "market": "US",
-      "bar_count": 1100,
-      "progress": "79/113"
+      "bar_count": 3702,
+      "progress": "87/123"
+    },
+    {
+      "ticker": "6862.HK",
+      "market": "HK",
+      "bar_count": 420,
+      "progress": "89/123"
     },
     {
       "ticker": "CVX",
       "market": "US",
-      "bar_count": 545,
-      "progress": "81/113"
-    },
-    {
-      "ticker": "1519.HK",
-      "market": "HK",
-      "bar_count": 375,
-      "progress": "82/113"
+      "bar_count": 562,
+      "progress": "90/123"
     },
     {
       "ticker": "SCHW",
       "market": "US",
-      "bar_count": 783,
-      "progress": "83/113"
+      "bar_count": 800,
+      "progress": "91/123"
     },
     {
       "ticker": "GAME",
       "market": "US",
-      "bar_count": 1214,
-      "progress": "84/113"
+      "bar_count": 2084,
+      "progress": "92/123"
     },
     {
       "ticker": "3900.HK",
       "market": "HK",
-      "bar_count": 1704,
-      "progress": "85/113"
+      "bar_count": 1721,
+      "progress": "93/123"
+    },
+    {
+      "ticker": "300760.SZ",
+      "market": "CN_A",
+      "bar_count": 779,
+      "progress": "94/123"
+    },
+    {
+      "ticker": "BRK-B",
+      "market": "US",
+      "bar_count": 140,
+      "progress": "95/123"
+    },
+    {
+      "ticker": "09999.HK",
+      "market": "HK",
+      "bar_count": 29,
+      "progress": "96/123"
     },
     {
       "ticker": "000527.SZ",
       "market": "CN_A",
       "bar_count": 220,
-      "progress": "87/113"
+      "progress": "98/123"
+    },
+    {
+      "ticker": "STP",
+      "market": "US",
+      "bar_count": 1601,
+      "progress": "99/123"
     },
     {
       "ticker": "UNH",
       "market": "US",
-      "bar_count": 178,
-      "progress": "90/113"
-    },
-    {
-      "ticker": "LI",
-      "market": "US",
-      "bar_count": 1394,
-      "progress": "91/113"
+      "bar_count": 195,
+      "progress": "101/123"
     },
     {
       "ticker": "SQQQ",
       "market": "US",
-      "bar_count": 1095,
-      "progress": "92/113"
+      "bar_count": 1112,
+      "progress": "102/123"
     },
     {
       "ticker": "603899.SH",
       "market": "CN_A",
-      "bar_count": 1678,
-      "progress": "93/113"
+      "bar_count": 1693,
+      "progress": "103/123"
+    },
+    {
+      "ticker": "1088.HK",
+      "market": "HK",
+      "bar_count": 10,
+      "progress": "105/123"
     },
     {
       "ticker": "APOL",
       "market": "US",
       "bar_count": 1120,
-      "progress": "97/113"
+      "progress": "108/123"
     },
     {
       "ticker": "UHAL",
       "market": "US",
-      "bar_count": 834,
-      "progress": "98/113"
+      "bar_count": 1399,
+      "progress": "109/123"
     },
     {
       "ticker": "002387.SZ",
       "market": "CN_A",
-      "bar_count": 1294,
-      "progress": "99/113"
+      "bar_count": 1309,
+      "progress": "110/123"
     },
     {
       "ticker": "FCAU",
       "market": "US",
       "bar_count": 454,
-      "progress": "100/113"
+      "progress": "112/123"
     },
     {
       "ticker": "NCTY",
       "market": "US",
-      "bar_count": 3611,
-      "progress": "101/113"
+      "bar_count": 3637,
+      "progress": "113/123"
     },
     {
       "ticker": "EA",
       "market": "US",
-      "bar_count": 3451,
-      "progress": "102/113"
-    },
-    {
-      "ticker": "002352.SZ",
-      "market": "CN_A",
-      "bar_count": 1306,
-      "progress": "103/113"
+      "bar_count": 3556,
+      "progress": "114/123"
     },
     {
       "ticker": "1296.HK",
       "market": "HK",
       "bar_count": 390,
-      "progress": "104/113"
+      "progress": "115/123"
     },
     {
       "ticker": "CTRP",
       "market": "US",
       "bar_count": 2037,
-      "progress": "105/113"
+      "progress": "116/123"
     },
     {
       "ticker": "GILD",
       "market": "US",
-      "bar_count": 1565,
-      "progress": "107/113"
+      "bar_count": 1582,
+      "progress": "118/123"
     },
     {
       "ticker": "AMR",
       "market": "US",
-      "bar_count": 1306,
-      "progress": "108/113"
-    },
-    {
-      "ticker": "3690.HK",
-      "market": "HK",
-      "bar_count": 1382,
-      "progress": "109/113"
+      "bar_count": 1321,
+      "progress": "119/123"
     },
     {
       "ticker": "YY",
       "market": "US",
       "bar_count": 1035,
-      "progress": "111/113"
+      "progress": "121/123"
     },
     {
       "ticker": "FUTU",
       "market": "US",
-      "bar_count": 568,
-      "progress": "112/113"
+      "bar_count": 585,
+      "progress": "122/123"
     },
     {
       "ticker": "300059.SZ",
       "market": "CN_A",
-      "bar_count": 546,
-      "progress": "113/113"
+      "bar_count": 561,
+      "progress": "123/123"
     }
   ],
   "failed": [
     {
       "ticker": "YHOO",
       "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
-    },
-    {
-      "ticker": "PWRD",
-      "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
+      "error": "yfinance: empty result; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
     },
     {
       "ticker": "BRK",
       "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
     },
     {
       "ticker": "GA",
       "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
+      "error": "yfinance: empty result; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
     },
     {
       "ticker": "QIHU",
       "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
+      "error": "yfinance: empty result; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
+    },
+    {
+      "ticker": "MACAU_GAMING",
+      "market": "UNKNOWN",
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
     },
     {
       "ticker": "GEDU",
       "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
+      "error": "yfinance: empty result; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
     },
     {
       "ticker": "TRE.TO",
       "market": "UNKNOWN",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
     },
     {
-      "ticker": "BRK-B",
-      "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
-    },
-    {
-      "ticker": "STP",
-      "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
+      "ticker": "券商",
+      "market": "UNKNOWN",
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
     },
     {
       "ticker": "CDCS",
       "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
+      "error": "yfinance: empty result; akshare_us_daily: unexpected EOF while parsing (<string>, line 1)"
     },
     {
       "ticker": "OIL",
       "market": "UNKNOWN",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: empty result"
+      "error": "yfinance: empty result; akshare_us_daily: empty result"
     },
     {
       "ticker": "Panasonic",
       "market": "UNKNOWN",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
     },
     {
       "ticker": "Samsung",
       "market": "UNKNOWN",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
+    },
+    {
+      "ticker": "Japan_Trading_Houses",
+      "market": "UNKNOWN",
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
     },
     {
       "ticker": "3382",
       "market": "UNKNOWN",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
     },
     {
       "ticker": "SPX",
       "market": "US",
-      "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+      "error": "yfinance: empty result; akshare_us_daily: list index out of range"
     }
   ],
   "aliases": {

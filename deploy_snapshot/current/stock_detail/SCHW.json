@@ -2,7 +2,10 @@
   "name": "嘉信理财",
   "ticker": "SCHW",
   "market": "US",
-  "philosophies": [],
+  "philosophies": [
+    "business_model",
+    "stop_doing"
+  ],
   "opinion_count": 1,
   "bullish_count": 0,
   "bearish_count": 1,

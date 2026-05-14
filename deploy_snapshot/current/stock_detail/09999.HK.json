@@ -1,0 +1,41 @@
+{
+  "name": "网易",
+  "ticker": "09999.HK",
+  "market": "HK",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 1,
+  "bearish_count": 0,
+  "preview_opinions": [
+    {
+      "id": "6bb982b2-a1a5-4fd6-ab47-a8b9d30fd7df",
+      "stock": "网易",
+      "ticker": "09999.HK",
+      "market": "HK",
+      "date": "2026-04-08",
+      "sentiment": "bullish",
+      "summary": "投资前几名，核心持仓",
+      "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
+      "source_file": "2026-04_batch022",
+      "source_type": "xueqiu",
+      "chunk_index": 22,
+      "url": "https://xueqiu.com/1247347556/382778933"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "6bb982b2-a1a5-4fd6-ab47-a8b9d30fd7df",
+      "stock": "网易",
+      "ticker": "09999.HK",
+      "market": "HK",
+      "date": "2026-04-08",
+      "sentiment": "bullish",
+      "summary": "投资前几名，核心持仓",
+      "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
+      "source_file": "2026-04_batch022",
+      "source_type": "xueqiu",
+      "chunk_index": 22,
+      "url": "https://xueqiu.com/1247347556/382778933"
+    }
+  ]
+}

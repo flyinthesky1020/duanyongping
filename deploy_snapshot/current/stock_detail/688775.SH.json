@@ -2,7 +2,9 @@
   "name": "影石创新",
   "ticker": "688775.SH",
   "market": "CN_A",
-  "philosophies": [],
+  "philosophies": [
+    "business_model"
+  ],
   "opinion_count": 1,
   "bullish_count": 0,
   "bearish_count": 1,

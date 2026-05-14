@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a7bba0b2-50b0-4ca2-910b-32ba011a8683",
+    "stock": "泡泡玛特",
+    "ticker": "9992.HK",
+    "market": "HK",
+    "date": "2026-04-26",
+    "sentiment": "bullish",
+    "summary": "看好五年后更高",
+    "quote": "大概率比现在高，5年也许50%？这个没人知道的，但我直觉一定会比现在更厉害。",
+    "source_file": "2026-04_batch006",
+    "source_type": "xueqiu",
+    "chunk_index": 6,
+    "url": "https://xueqiu.com/1247347556/385115032"
+  }
+]

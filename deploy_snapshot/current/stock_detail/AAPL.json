@@ -2553,17 +2553,17 @@
       "url": "https://xueqiu.com/1247347556/368680308"
     },
     {
-      "id": "8ec328fb-cad6-4f3b-bbb1-96f4f7c49070",
+      "id": "5636a77c-4978-4e68-977e-bf7b2651f290",
       "stock": "苹果",
       "ticker": "AAPL",
       "market": "US",
-      "date": "2026-04-06",
+      "date": "2026-04-08",
       "sentiment": "bullish",
-      "summary": "持有苹果",
+      "summary": "投资前几名，核心持仓",
       "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
-      "source_file": "2026-04_batch008",
+      "source_file": "2026-04_batch022",
       "source_type": "xueqiu",
-      "chunk_index": 8,
+      "chunk_index": 22,
       "url": "https://xueqiu.com/1247347556/382778933"
     }
   ]

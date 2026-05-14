@@ -3,8 +3,11 @@
   "ticker": "MRNA",
   "market": "US",
   "philosophies": [
+    "business_model",
     "circle_of_competence",
+    "corporate_culture",
     "integrity",
+    "long_termism",
     "stop_doing"
   ],
   "opinion_count": 3,

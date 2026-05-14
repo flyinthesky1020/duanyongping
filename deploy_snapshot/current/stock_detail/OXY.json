@@ -3,7 +3,11 @@
   "ticker": "OXY",
   "market": "US",
   "philosophies": [
-    "circle_of_competence"
+    "business_model",
+    "circle_of_competence",
+    "long_termism",
+    "patience",
+    "stop_doing"
   ],
   "opinion_count": 13,
   "bullish_count": 12,

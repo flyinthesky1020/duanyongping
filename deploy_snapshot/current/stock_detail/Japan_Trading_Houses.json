@@ -1,0 +1,41 @@
+{
+  "name": "日本五大商社",
+  "ticker": "Japan_Trading_Houses",
+  "market": "UNKNOWN",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "94c1a621-37cb-40e0-b71a-fb1da20ef49e",
+      "stock": "日本五大商社",
+      "ticker": "Japan_Trading_Houses",
+      "market": "UNKNOWN",
+      "date": "2025-10-04",
+      "sentiment": "bearish",
+      "summary": "绝对不会购买",
+      "quote": "绝对不会。",
+      "source_file": "2025-10_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/355429296"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "94c1a621-37cb-40e0-b71a-fb1da20ef49e",
+      "stock": "日本五大商社",
+      "ticker": "Japan_Trading_Houses",
+      "market": "UNKNOWN",
+      "date": "2025-10-04",
+      "sentiment": "bearish",
+      "summary": "绝对不会购买",
+      "quote": "绝对不会。",
+      "source_file": "2025-10_batch014",
+      "source_type": "xueqiu",
+      "chunk_index": 14,
+      "url": "https://xueqiu.com/1247347556/355429296"
+    }
+  ]
+}

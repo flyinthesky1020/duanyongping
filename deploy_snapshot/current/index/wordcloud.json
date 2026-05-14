@@ -2,49 +2,49 @@
   "words": [
     {
       "text": "停止做错误的事",
-      "weight": 191,
+      "weight": 257,
       "type": "concept",
       "target": "philosophy:stop_doing"
     },
     {
       "text": "本分",
-      "weight": 133,
+      "weight": 160,
       "type": "concept",
       "target": "philosophy:integrity"
     },
     {
       "text": "好的商业模式",
-      "weight": 173,
+      "weight": 227,
       "type": "concept",
       "target": "philosophy:business_model"
     },
     {
       "text": "企业文化",
-      "weight": 127,
+      "weight": 157,
       "type": "concept",
       "target": "philosophy:corporate_culture"
     },
     {
       "text": "长期主义",
-      "weight": 172,
+      "weight": 227,
       "type": "concept",
       "target": "philosophy:long_termism"
     },
     {
       "text": "不懂不投",
-      "weight": 184,
+      "weight": 258,
       "type": "concept",
       "target": "philosophy:circle_of_competence"
     },
     {
       "text": "等待与耐心",
-      "weight": 98,
+      "weight": 117,
       "type": "concept",
       "target": "philosophy:patience"
     },
     {
       "text": "现金流思维",
-      "weight": 97,
+      "weight": 109,
       "type": "concept",
       "target": "philosophy:cash_flow"
     },
@@ -56,7 +56,7 @@
     },
     {
       "text": "贵州茅台",
-      "weight": 74,
+      "weight": 80,
       "type": "stock",
       "target": "stock:600519.SH"
     },
@@ -68,13 +68,13 @@
     },
     {
       "text": "拼多多",
-      "weight": 28,
+      "weight": 29,
       "type": "stock",
       "target": "stock:PDD"
     },
     {
       "text": "特斯拉",
-      "weight": 26,
+      "weight": 27,
       "type": "stock",
       "target": "stock:TSLA"
     },
@@ -91,20 +91,32 @@
       "target": "stock:NVDA"
     },
     {
+      "text": "西方石油",
+      "weight": 24,
+      "type": "stock",
+      "target": "stock:OXY"
+    },
+    {
       "text": "阿里巴巴",
       "weight": 24,
       "type": "stock",
       "target": "stock:BABA"
     },
     {
-      "text": "Yahoo",
+      "text": "泡泡玛特",
       "weight": 24,
+      "type": "stock",
+      "target": "stock:09992.HK"
+    },
+    {
+      "text": "Yahoo",
+      "weight": 23,
       "type": "stock",
       "target": "stock:YHOO"
     },
     {
       "text": "GE",
-      "weight": 24,
+      "weight": 23,
       "type": "stock",
       "target": "stock:GE"
     },
@@ -115,22 +127,16 @@
       "target": "stock:FB"
     },
     {
-      "text": "亚马逊",
-      "weight": 23,
-      "type": "stock",
-      "target": "stock:AMZN"
-    },
-    {
       "text": "伯克希尔",
       "weight": 23,
       "type": "stock",
       "target": "stock:BRK.B"
     },
     {
-      "text": "西方石油",
+      "text": "亚马逊",
       "weight": 23,
       "type": "stock",
-      "target": "stock:OXY"
+      "target": "stock:AMZN"
     },
     {
       "text": "达美航空",
@@ -139,16 +145,34 @@
       "target": "stock:DAL"
     },
     {
-      "text": "网易",
+      "text": "TSMC",
       "weight": 22,
       "type": "stock",
-      "target": "stock:NTES"
+      "target": "stock:TSM"
     },
     {
       "text": "新东方",
       "weight": 22,
       "type": "stock",
       "target": "stock:EDU"
+    },
+    {
+      "text": "万科A",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:000002.SZ"
+    },
+    {
+      "text": "网易",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:NTES"
+    },
+    {
+      "text": "泡泡玛特",
+      "weight": 22,
+      "type": "stock",
+      "target": "stock:9992.HK"
     },
     {
       "text": "UNG",
@@ -175,12 +199,6 @@
       "target": "stock:PWRD"
     },
     {
-      "text": "万科A",
-      "weight": 22,
-      "type": "stock",
-      "target": "stock:000002.SZ"
-    },
-    {
       "text": "京东",
       "weight": 21,
       "type": "stock",
@@ -191,6 +209,12 @@
       "weight": 21,
       "type": "stock",
       "target": "stock:TCEHY"
+    },
+    {
+      "text": "游戏驿站",
+      "weight": 21,
+      "type": "stock",
+      "target": "stock:GME"
     },
     {
       "text": "第一共和银行",
@@ -235,10 +259,10 @@
       "target": "stock:KO"
     },
     {
-      "text": "泡泡玛特",
+      "text": "标普500",
       "weight": 21,
       "type": "stock",
-      "target": "stock:9992.HK"
+      "target": "stock:SPY"
     },
     {
       "text": "新浪",
@@ -247,10 +271,10 @@
       "target": "stock:SINA"
     },
     {
-      "text": "泡泡玛特",
+      "text": "美团",
       "weight": 21,
       "type": "stock",
-      "target": "stock:09992.HK"
+      "target": "stock:3690.HK"
     },
     {
       "text": "诺基亚",
@@ -301,16 +325,10 @@
       "target": "stock:LUV"
     },
     {
-      "text": "台积电",
+      "text": "顺丰控股",
       "weight": 20,
       "type": "stock",
-      "target": "stock:TSM"
-    },
-    {
-      "text": "标普500",
-      "weight": 20,
-      "type": "stock",
-      "target": "stock:SPY"
+      "target": "stock:002352.SZ"
     },
     {
       "text": "任天堂",
@@ -319,16 +337,22 @@
       "target": "stock:NTDOY"
     },
     {
+      "text": "极兔速递",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:1519.HK"
+    },
+    {
+      "text": "理想汽车",
+      "weight": 20,
+      "type": "stock",
+      "target": "stock:LI"
+    },
+    {
       "text": "阿里巴巴",
       "weight": 20,
       "type": "stock",
       "target": "stock:9988.HK"
-    },
-    {
-      "text": "游戏驿站",
-      "weight": 20,
-      "type": "stock",
-      "target": "stock:GME"
     },
     {
       "text": "Groupon",
@@ -383,30 +407,6 @@
       "weight": 20,
       "type": "stock",
       "target": "stock:688169.SH"
-    },
-    {
-      "text": "传音控股",
-      "weight": 20,
-      "type": "stock",
-      "target": "stock:688036.SH"
-    },
-    {
-      "text": "Zynga",
-      "weight": 20,
-      "type": "stock",
-      "target": "stock:ZNGA"
-    },
-    {
-      "text": "通用汽车",
-      "weight": 20,
-      "type": "stock",
-      "target": "stock:GM"
-    },
-    {
-      "text": "Palantir",
-      "weight": 20,
-      "type": "stock",
-      "target": "stock:PLTR"
     },
     {
       "text": "本分",

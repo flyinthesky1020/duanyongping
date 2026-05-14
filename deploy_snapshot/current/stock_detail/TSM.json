@@ -1,9 +1,13 @@
 {
-  "name": "台积电",
+  "name": "TSMC",
   "ticker": "TSM",
   "market": "US",
   "philosophies": [
-    "business_model"
+    "business_model",
+    "circle_of_competence",
+    "corporate_culture",
+    "long_termism",
+    "patience"
   ],
   "opinion_count": 7,
   "bullish_count": 6,

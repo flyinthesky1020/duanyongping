@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "投资投的是未来现金流，你要觉得有影响就是有影响，问别人没用的。",
+    "post_url": "https://xueqiu.com/1247347556/383619822",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "我从2011年就在雪球说苹果了，说了十几年才涨上来的吧？至少前三年好像都还经常是掉的。我说网易的时候还没雪球呢，那时候是在Yahoo聊，不过可能没人注意到。茅台我好像从2013年左右就开始聊了？",
+    "post_url": "https://xueqiu.com/1247347556/383545563",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [
+      "苹果",
+      "网易",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "不是说了去看“因为独特”么？",
+    "post_url": "https://xueqiu.com/1247347556/383619944",
+    "post_date": "2026-04-12",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  }
+]

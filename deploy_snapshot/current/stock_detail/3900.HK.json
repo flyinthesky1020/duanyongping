@@ -2,7 +2,9 @@
   "name": "绿城中国",
   "ticker": "3900.HK",
   "market": "HK",
-  "philosophies": [],
+  "philosophies": [
+    "stop_doing"
+  ],
   "opinion_count": 1,
   "bullish_count": 0,
   "bearish_count": 1,

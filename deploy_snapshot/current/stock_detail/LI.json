@@ -3,7 +3,8 @@
   "ticker": "LI",
   "market": "US",
   "philosophies": [
-    "business_model"
+    "business_model",
+    "circle_of_competence"
   ],
   "opinion_count": 2,
   "bullish_count": 0,

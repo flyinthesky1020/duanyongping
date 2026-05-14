@@ -2,7 +2,9 @@
   "name": "Opendoor",
   "ticker": "OPEN",
   "market": "US",
-  "philosophies": [],
+  "philosophies": [
+    "business_model"
+  ],
   "opinion_count": 1,
   "bullish_count": 0,
   "bearish_count": 1,

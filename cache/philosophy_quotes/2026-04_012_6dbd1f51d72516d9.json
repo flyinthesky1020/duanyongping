@@ -1,0 +1,46 @@
+[
+  {
+    "philosophy_key": "business_model",
+    "quote": "中国有至少四亿多家庭，茅台一年卖不到一亿瓶飞天。1/4家庭一年一瓶茅台都不够卖啊，这还不算正常喝茅台的人们。i茅台最大的威力就是可以让以前不知道在哪里才能买到真茅台的人们很容易就买到真茅台了。大家看几年吧，我觉得茅台公司最近做的事情还蛮对路的。",
+    "post_url": "https://xueqiu.com/1247347556/384540022",
+    "post_date": "2026-04-17",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "出预测是件很奇怪的事情，更奇怪的是居然有这么多人在做。苹果居然也是给指引的，很奇怪。",
+    "post_url": "https://xueqiu.com/1247347556/384333007",
+    "post_date": "2026-04-16",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "电器是有功能的，你想买手机结果开了个剃须刀你还不得疯掉？",
+    "post_url": "https://xueqiu.com/1247347556/384183398",
+    "post_date": "2026-04-15",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "投资的原则一直是一样的，没必要记在本子上的。",
+    "post_url": "https://xueqiu.com/1247347556/384295481",
+    "post_date": "2026-04-16",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我哪懂这么高深的东西啊。",
+    "post_url": "https://xueqiu.com/1247347556/384334412",
+    "post_date": "2026-04-16",
+    "mentioned_stocks": [],
+    "quality_score": 2
+  }
+]

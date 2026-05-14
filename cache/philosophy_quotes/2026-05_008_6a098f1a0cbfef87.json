@@ -1,0 +1,23 @@
+[
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "我喜欢特斯拉的fsd，别的没关注过。",
+    "post_url": "https://xueqiu.com/1247347556/387046330",
+    "post_date": "2026-05-01",
+    "mentioned_stocks": [
+      "特斯拉"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "当然等啊，反正你也不知道等什么。",
+    "post_url": "https://xueqiu.com/1247347556/387031788",
+    "post_date": "2026-05-01",
+    "mentioned_stocks": [
+      "贵州茅台",
+      "苹果"
+    ],
+    "quality_score": 5
+  }
+]

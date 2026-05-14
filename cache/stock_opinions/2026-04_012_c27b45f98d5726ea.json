@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4ea9cb13-831d-4e57-8aa9-d79460b62761",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-13",
+    "sentiment": "bullish",
+    "summary": "看好并愿意买入",
+    "quote": "跌 → 按折后价买入（他本来就看好，愿意买）",
+    "source_file": "2026-04_batch012",
+    "source_type": "xueqiu",
+    "chunk_index": 12,
+    "url": "https://xueqiu.com/1247347556/383793105"
+  }
+]

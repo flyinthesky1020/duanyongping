@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b53fef7e-356a-4108-861e-a819e6952351",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-28",
+    "sentiment": "bullish",
+    "summary": "卖put准备买入",
+    "quote": "卖put的前提就是要打算买的。always ready。",
+    "source_file": "2026-04_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": ""
+  }
+]

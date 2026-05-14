@@ -1,0 +1,16 @@
+[
+  {
+    "id": "5c2b84cc-d28e-45be-ad3e-ea68e2bc5b2d",
+    "stock": "伯克希尔哈撒韦",
+    "ticker": "BRK.B",
+    "market": "US",
+    "date": "2026-05-06",
+    "sentiment": "bullish",
+    "summary": "建议买入巴菲特股票",
+    "quote": "如果你能理解老巴的话，在没有能力管理自己的钱的前提下，现金就买老巴的股票就好。",
+    "source_file": "2026-05_batch004",
+    "source_type": "xueqiu",
+    "chunk_index": 4,
+    "url": "https://xueqiu.com/1247347556/387369343"
+  }
+]

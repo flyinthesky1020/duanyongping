@@ -1,0 +1,9 @@
+{
+  "ticker": "券商",
+  "market": "UNKNOWN",
+  "start": "2020-11-22",
+  "end": "2026-05-13",
+  "bars": [],
+  "generated_at": "2026-05-14T06:22:00.900297+00:00",
+  "error": "yfinance: empty result; akshare_us_daily: list index out of range"
+}

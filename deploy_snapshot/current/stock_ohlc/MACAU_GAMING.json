@@ -1,0 +1,9 @@
+{
+  "ticker": "MACAU_GAMING",
+  "market": "UNKNOWN",
+  "start": "2020-09-30",
+  "end": "2026-05-13",
+  "bars": [],
+  "generated_at": "2026-05-14T06:20:01.994785+00:00",
+  "error": "yfinance: empty result; akshare_us_daily: list index out of range"
+}

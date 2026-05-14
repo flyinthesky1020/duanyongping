@@ -1,0 +1,58 @@
+[
+  {
+    "id": "ce2131a4-cd79-44a0-b1ad-5e85155ccfea",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-04-08",
+    "sentiment": "bullish",
+    "summary": "打算买够，已开始买入",
+    "quote": "打算买够不等于已经买了，但也不意味着没开始买。",
+    "source_file": "2026-04_batch022",
+    "source_type": "xueqiu",
+    "chunk_index": 22,
+    "url": "https://xueqiu.com/1247347556/382850478"
+  },
+  {
+    "id": "94230d35-9ad1-41fd-8896-4822165a0655",
+    "stock": "茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-04-08",
+    "sentiment": "bullish",
+    "summary": "投资前几名，核心持仓",
+    "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
+    "source_file": "2026-04_batch022",
+    "source_type": "xueqiu",
+    "chunk_index": 22,
+    "url": "https://xueqiu.com/1247347556/382778933"
+  },
+  {
+    "id": "6bb982b2-a1a5-4fd6-ab47-a8b9d30fd7df",
+    "stock": "网易",
+    "ticker": "09999.HK",
+    "market": "HK",
+    "date": "2026-04-08",
+    "sentiment": "bullish",
+    "summary": "投资前几名，核心持仓",
+    "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
+    "source_file": "2026-04_batch022",
+    "source_type": "xueqiu",
+    "chunk_index": 22,
+    "url": "https://xueqiu.com/1247347556/382778933"
+  },
+  {
+    "id": "5636a77c-4978-4e68-977e-bf7b2651f290",
+    "stock": "苹果",
+    "ticker": "AAPL",
+    "market": "US",
+    "date": "2026-04-08",
+    "sentiment": "bullish",
+    "summary": "投资前几名，核心持仓",
+    "quote": "如果把我投资的前几名去掉（没有网易，苹果，茅台），那我就是个笑话",
+    "source_file": "2026-04_batch022",
+    "source_type": "xueqiu",
+    "chunk_index": 22,
+    "url": "https://xueqiu.com/1247347556/382778933"
+  }
+]

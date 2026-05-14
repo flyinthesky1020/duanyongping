@@ -1,0 +1,36 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "赌博的人们才会焦虑吧。",
+    "post_url": "https://xueqiu.com/1247347556/387313397",
+    "post_date": "2026-05-05",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "亏钱怪罪龙虾就好。",
+    "post_url": "https://xueqiu.com/1247347556/387463361",
+    "post_date": "2026-05-06",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "如果你能理解老巴的话，在没有能力管理自己的钱的前提下，现金就买老巴的股票就好。",
+    "post_url": "https://xueqiu.com/1247347556/387369343",
+    "post_date": "2026-05-05",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "没必要比王宁对泡泡玛特理解的更深刻，但比别人更理解王宁和泡泡玛特很可能是很重要的。",
+    "post_url": "https://xueqiu.com/1247347556/387375395",
+    "post_date": "2026-05-05",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  }
+]

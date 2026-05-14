@@ -1,0 +1,16 @@
+[
+  {
+    "id": "9f3e0f6e-7351-4af4-aaff-5d2e70f6fcaf",
+    "stock": "泡泡玛特",
+    "ticker": "9992.HK",
+    "market": "HK",
+    "date": "2026-05-13",
+    "sentiment": "bullish",
+    "summary": "看好泡泡玛特",
+    "quote": "近期段永平先生非常高调地表达了对公司的看好",
+    "source_file": "2026-05_batch000",
+    "source_type": "xueqiu",
+    "chunk_index": 0,
+    "url": "https://xueqiu.com/1247347556/388824114"
+  }
+]

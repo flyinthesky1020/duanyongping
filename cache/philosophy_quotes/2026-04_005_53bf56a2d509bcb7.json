@@ -1,0 +1,32 @@
+[
+  {
+    "philosophy_key": "long_termism",
+    "quote": "抄茅台在200还是120？ 其实10年后1400也大概率是个好价钱。",
+    "post_url": "https://xueqiu.com/1247347556/386205454",
+    "post_date": "2026-04-27",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "卖put的前提就是要打算买的。",
+    "post_url": "https://xueqiu.com/1247347556/386212488",
+    "post_date": "2026-04-27",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "always ready。",
+    "post_url": "https://xueqiu.com/1247347556/386210349",
+    "post_date": "2026-04-27",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 3
+  }
+]

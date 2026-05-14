@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你觉得哪个做一级市场的人比我做的好的？如果算上花的时间的话？做一级市场是很忙的，没球打的。",
+    "post_url": "https://xueqiu.com/1247347556/384182044",
+    "post_date": "2026-04-15",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "我不太关心他们具体做什么，这是王宁要考虑的事情。我在意的是商业模式和企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/384181545",
+    "post_date": "2026-04-15",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我不太关心他们具体做什么，这是王宁要考虑的事情。我在意的是商业模式和企业文化。",
+    "post_url": "https://xueqiu.com/1247347556/384181545",
+    "post_date": "2026-04-15",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "你要再瞎解释我就拉黑了！我什么时候说过我减持腾讯了？ 我卖腾讯的put都被限制过了哈。腾讯是很好的公司，要惜卖。",
+    "post_url": "https://xueqiu.com/1247347556/383978082",
+    "post_date": "2026-04-14",
+    "mentioned_stocks": [
+      "腾讯"
+    ],
+    "quality_score": 4
+  }
+]

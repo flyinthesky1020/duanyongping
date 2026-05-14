@@ -1,0 +1,29 @@
+{
+  "name": "中国神华",
+  "ticker": "1088.HK",
+  "market": "HK",
+  "philosophies": [],
+  "opinion_count": 1,
+  "bullish_count": 0,
+  "bearish_count": 1,
+  "preview_opinions": [
+    {
+      "id": "1033c19d-09bd-4740-b558-0f0122522ed7",
+      "date": "2026-05-09",
+      "sentiment": "bearish",
+      "summary": "卖出神华",
+      "quote": "我把我的神华都换了泡泡玛特了",
+      "url": "https://xueqiu.com/1247347556/387736001"
+    }
+  ],
+  "opinions": [
+    {
+      "id": "1033c19d-09bd-4740-b558-0f0122522ed7",
+      "date": "2026-05-09",
+      "sentiment": "bearish",
+      "summary": "卖出神华",
+      "quote": "我把我的神华都换了泡泡玛特了",
+      "url": "https://xueqiu.com/1247347556/387736001"
+    }
+  ]
+}

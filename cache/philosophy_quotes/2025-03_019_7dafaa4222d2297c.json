@@ -1,0 +1,50 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "你这么理解的话就一定要留条后路，最好是好几条。",
+    "post_url": "https://xueqiu.com/1247347556/326500959",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "先需要确定是好公司，而不是低pe，你本末倒置了（其实是个逻辑错误）。巴菲特不是买的低pe的公司，巴菲特只是当好公司足够便宜的时候出手而已。大把pe很低的公司都是非常烂的公司。通用汽车倒闭的时候pe只有5倍。A股里也一堆低pe的烂公司。",
+    "post_url": "https://xueqiu.com/1247347556/326500772",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [
+      "通用汽车"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "TSMC的商业模式和企业文化都很强。it's not for fun.",
+    "post_url": "https://xueqiu.com/1247347556/326500082",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [
+      "TSMC"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。现在开始关注。",
+    "post_url": "https://xueqiu.com/1247347556/326501869",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [
+      "TSM"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "patience",
+    "quote": "一月很多put过期后，空出了很多cash。美股如此贵，还有人这么在折腾，t-bill利息也降了下来，有点不好办哈。开始想想TSM。35年前我就知道TSM是家非常厉害的公司。但开始投资后一直没下过手，就是觉得他是非常重资产的公司。现在开始关注。能够满仓是件很愉快的事情，空仓多少有点难受。",
+    "post_url": "https://xueqiu.com/1247347556/326501869",
+    "post_date": "2025-03-07",
+    "mentioned_stocks": [
+      "TSM"
+    ],
+    "quality_score": 4
+  }
+]

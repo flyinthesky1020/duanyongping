@@ -2,7 +2,9 @@
   "name": "7-11",
   "ticker": "3382",
   "market": "UNKNOWN",
-  "philosophies": [],
+  "philosophies": [
+    "circle_of_competence"
+  ],
   "opinion_count": 1,
   "bullish_count": 0,
   "bearish_count": 1,

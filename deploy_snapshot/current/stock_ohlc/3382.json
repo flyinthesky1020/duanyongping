@@ -2,8 +2,8 @@
   "ticker": "3382",
   "market": "UNKNOWN",
   "start": "2020-11-24",
-  "end": "2026-04-19",
+  "end": "2026-05-13",
   "bars": [],
-  "generated_at": "2026-04-19T07:44:57.490014+00:00",
-  "error": "yfinance: Too Many Requests. Rate limited. Try after a while.; akshare_us_daily: list index out of range"
+  "generated_at": "2026-05-14T06:23:50.137414+00:00",
+  "error": "yfinance: empty result; akshare_us_daily: list index out of range"
 }

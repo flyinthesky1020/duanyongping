@@ -1,0 +1,30 @@
+[
+  {
+    "id": "81d470cb-52ee-4fe7-ba7e-9172df4510e8",
+    "stock": "贵州茅台",
+    "ticker": "600519.SH",
+    "market": "CN_A",
+    "date": "2026-05-06",
+    "sentiment": "bullish",
+    "summary": "今日买入茅台",
+    "quote": "我今天还买了茅台啊，你会凌乱吗？",
+    "source_file": "2026-05_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/387553159"
+  },
+  {
+    "id": "c88d8576-142b-48ef-9987-2098a9568312",
+    "stock": "泡泡玛特",
+    "ticker": "09992.HK",
+    "market": "HK",
+    "date": "2026-05-06",
+    "sentiment": "bullish",
+    "summary": "清仓神华换入",
+    "quote": "我把我的神华都换了泡泡玛特了。我觉得神华是家很好的公司，我们的投资也获得了很好的回报，在此谢过了! 将来有机会我还会再回来的。",
+    "source_file": "2026-05_batch003",
+    "source_type": "xueqiu",
+    "chunk_index": 3,
+    "url": "https://xueqiu.com/1247347556/387543201"
+  }
+]

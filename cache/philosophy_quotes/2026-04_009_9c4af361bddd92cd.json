@@ -1,0 +1,83 @@
+[
+  {
+    "philosophy_key": "stop_doing",
+    "quote": "不好意思，我确实会屏蔽掉我不想回答的问题的。很多东西我都说过了，重复说会有点烦。另外，有很多问题是应该问ai的。",
+    "post_url": "https://xueqiu.com/1247347556/385027901",
+    "post_date": "2026-04-21",
+    "mentioned_stocks": [],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "机会成本指的是你自己的机会成本。",
+    "post_url": "https://xueqiu.com/1247347556/385027901",
+    "post_date": "2026-04-21",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "我也觉得不太合适。",
+    "post_url": "https://xueqiu.com/1247347556/385017459",
+    "post_date": "2026-04-21",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 2
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "好商业模式，好企业文化，好价格。商业模式用逻辑和常识判断",
+    "post_url": "https://xueqiu.com/1247347556/384885212",
+    "post_date": "2026-04-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "好商业模式，好企业文化，好价格。",
+    "post_url": "https://xueqiu.com/1247347556/384885212",
+    "post_date": "2026-04-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "cash_flow",
+    "quote": "价格用毛估/未来自由现金流折现判断",
+    "post_url": "https://xueqiu.com/1247347556/384885212",
+    "post_date": "2026-04-20",
+    "mentioned_stocks": [],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "long_termism",
+    "quote": "没有大不了多少的意思。其实就是想表达大于50%的意思，我总不能说95%吧？话说回来，我觉得10年后95%的概率也可能是一个合理的猜测。",
+    "post_url": "https://xueqiu.com/1247347556/384874797",
+    "post_date": "2026-04-20",
+    "mentioned_stocks": [
+      "泡泡玛特",
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "库克很享受他的工作，但65岁已经不那么年轻了，早点退休并扶上马送一程是最好的办法。",
+    "post_url": "https://xueqiu.com/1247347556/384894574",
+    "post_date": "2026-04-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  },
+  {
+    "philosophy_key": "corporate_culture",
+    "quote": "我相信库克和苹果的选择不会有啥错的，而且库克还会继续担任董事长，相当于扶上马送一程吧。",
+    "post_url": "https://xueqiu.com/1247347556/384867138",
+    "post_date": "2026-04-20",
+    "mentioned_stocks": [
+      "苹果"
+    ],
+    "quality_score": 3
+  }
+]

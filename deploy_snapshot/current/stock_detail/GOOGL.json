@@ -3,6 +3,7 @@
   "ticker": "GOOGL",
   "market": "US",
   "philosophies": [
+    "business_model",
     "long_termism"
   ],
   "opinion_count": 6,

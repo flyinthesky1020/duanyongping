@@ -1,0 +1,40 @@
+[
+  {
+    "philosophy_key": "integrity",
+    "quote": "对企业而言，“对的事情”就是满足用户需求。如果泡泡玛特发现了这个需求，推出相应产品就算是做对的事情。至于这件事情到底是不是用户的需求，不试试是不知道的。如果以后一直好卖的话，就是“把事情做对了”。",
+    "post_url": "https://xueqiu.com/1247347556/385757031",
+    "post_date": "2026-04-24",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 5
+  },
+  {
+    "philosophy_key": "business_model",
+    "quote": "对可以大规模生产的产品而言，天下没有一家公司会让自己的产品长期极度缺货的。",
+    "post_url": "https://xueqiu.com/1247347556/385827101",
+    "post_date": "2026-04-25",
+    "mentioned_stocks": [
+      "泡泡玛特"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "circle_of_competence",
+    "quote": "还没看呢，我本来就不太看茅台的财报的。茅台都是明牌了，没啥好看的。",
+    "post_url": "https://xueqiu.com/1247347556/385827239",
+    "post_date": "2026-04-25",
+    "mentioned_stocks": [
+      "茅台"
+    ],
+    "quality_score": 4
+  },
+  {
+    "philosophy_key": "integrity",
+    "quote": "这才更多大的事？ 以后让你难过的的多的事情有的是，但这不是你不知道正确的事情的借口。",
+    "post_url": "https://xueqiu.com/1247347556/386143755",
+    "post_date": "2026-04-27",
+    "mentioned_stocks": [],
+    "quality_score": 3
+  }
+]
